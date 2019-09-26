@@ -1,11 +1,11 @@
 # TEST FILE
 
-### Sample Link to Video 1 (faked with screenshot)
+### Sample iFrame video (Vimeo)
 
-[![Little red ridning hood](http://i.imgur.com/7YTMFQp.png)](https://vimeo.com/3514904 "Little red riding hood - Click to Watch!")
+<iframe src="https://player.vimeo.com/video/358815174" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/358815174">Intro to Plazi</a> from <a href="https://vimeo.com/plazi">Plazi</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-
-### Sample iFrame video
+### Sample iFrame video (YouTube)
 
 
 <iframe width="560" height="315"
