@@ -1,0 +1,96 @@
+[
+    {
+        "label": "How to use",
+        "route": "/content/how-to-use"
+    },
+    {
+        "label": "The text",
+        "menuItems": [
+            {
+                "label": "Overview and about",
+                "route": "/content/text/overview+about" 
+            },
+            {
+                "label": "Folios",
+                "route": "/folios" 
+            },
+            {
+                "label": "List of entries",
+                "route": "/entries" 
+            },
+            {
+                "label": "Index of keywords (term indices)",
+                "placeholder": true,
+                "route": "/content/text/index-of-terms" 
+            }
+        ]
+    },
+    {
+        "label": "Research and Resources",
+        "menuItems": [
+            {
+                "label": "Overview",
+                "route": "/content/research+resources/overview" 
+            },
+            {
+                "label": "Principles of transcription, translation, and encoding",
+                "route": "/content/research+resources/principles" 
+            },
+            {
+                "label": "Research essays",
+                "route": "/essays" 
+            },
+            {
+                "label": "Bibliography",
+                "route": "/content/research+resources/bibliography" 
+            },
+            {
+                "label": "Glossary",
+                "route": "/content/research+resources/glossary" 
+            },
+            {
+                "label": "Field notes",
+                "route": "/content/research+resources/field-notes" 
+            },
+            {
+                "label": "Resources",
+                "route": "/content/research+resources/resources" 
+            }
+
+        ]
+    },
+    {
+        "label": "About",
+        "menuItems": [
+            {
+                "label": "Creation of the edition",
+                "route": "/content/about/creation" 
+            },
+            {
+                "label": "About the M&K Project",
+                "route": "/content/about/m-k-project" 
+            },
+            {
+                "label": "Peer review",
+                "route": "/content/about/peer-review" 
+            },
+            {
+                "label": "Credits",
+                "route": "/content/about/credits" 
+            },
+            {
+                "label": "Contact",
+                "route": "/content/about/contact" 
+            },
+            {
+                "label": "Sponsors",
+                "route": "/content/about/sponsors" 
+            },
+            {
+                "label": "How to cite",
+                "placeholder": true,
+                "route": "/content/about/how-to-cite" 
+            }
+        ]
+    }
+]
