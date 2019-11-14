@@ -5,8 +5,7 @@
       - > Principles of the glossary (criteria for including words,
         > etc.)
     
-      - > What from [PW18 Translation Protocol AND VOCABULARY
-        > LIST](https://drive.google.com/open?id=1lZc4PtzU5krMmdYC_Mg0eMpvPjtXqwNHEmZubGXze8o)
+      - > What from **PW18 Translation Protocol AND VOCABULARY LIST**
         > to include?
     
       - > Link out to Principles of translation etc. (make sure to
