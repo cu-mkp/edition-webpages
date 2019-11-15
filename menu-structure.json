@@ -20,6 +20,7 @@
             },
             {
                 "label": "Index of keywords (term indices)",
+                "placeholder": true;
                 "route": "/content/text/index-of-terms" 
             }
         ]
