@@ -20,7 +20,6 @@
             },
             {
                 "label": "Index of keywords (term indices)",
-                "placeholder": true,
                 "route": "/content/text/index-of-terms" 
             }
         ]
@@ -88,7 +87,6 @@
             },
             {
                 "label": "How to cite",
-                "placeholder": true,
                 "route": "/content/about/how-to-cite" 
             }
         ]
