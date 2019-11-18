@@ -49,6 +49,10 @@
                 "route": "/content/research+resources/glossary" 
             },
             {
+                "label": "Editorial Comments",
+                "route": "/content/research+resources/editorial-comments" 
+            },
+            {
                 "label": "Field notes",
                 "route": "/content/research+resources/field-notes" 
             },
@@ -89,6 +93,10 @@
             {
                 "label": "How to cite",
                 "route": "/content/about/how-to-cite" 
+            },
+            {
+                "label": "How to use",
+                "route": "/content/about/how-to-use" 
             }
         ]
     }
