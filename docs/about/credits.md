@@ -1,8 +1,8 @@
-**People and** **Credits**
+## People and Credits
 
 The Making and Knowing Project strives to adhere to the guidelines for crediting formulated by the Off the Tracks Project: http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%e2%80%99-bill-of-rights
 
-Restate the official bibliographic credit line
+[Restate the official bibliographic credit line]
 
 Project team and staff (present and past)
     
