@@ -212,7 +212,7 @@ categories:
 | manuscript structure       | refer to the structure of the manuscript (added by the Project)                                                           |  These categories provide a quick overview of processes and materials  in the manuscript. It is important to keep in mind that these  categories have been imposed by the Project on a very diverse set of  entries and should not be taken as definitive or entirely  comprehensive.
 
 
-| **Category name** | **Percent of total**           | **Number of entries, category** | **Number of entries, additional category** | **Number of entries, additional category 2** | **Number of entries, TOTAL** |
+| **Category name** | **Percent of total**           | **Number of entries, category** | **Number of entries, additional category** | **Number of entries, additional category 2** | **Number of entries**        |**TOTAL**|
 | ----------------- | ------------------------------ | ------------------------------- | ------------------------------------------ | -------------------------------------------- | ---------------------------- | ------- |
 | **1**             | **casting**                    | 34.13%                          | 351                                        | 7                                            | 1                            | **359** |
 | **2**             | **painting**                   | 14.26%                          | 146                                        | 4                                            | 0                            | **150** |
@@ -240,7 +240,7 @@ categories:
 | **24**            | **La boutique**                | 0.19%                           | 2                                          | 0                                            | 0                            | **2**   |
 | **25**            | **alchemy**                    | 0.10%                           | 0                                          | 1                                            | 0                            | **1**   |
 | **26**            | **manuscript structure**       | 0.10%                           | 1                                          | 0                                            | 0                            | **1**   |
-| **total =**       | **100.00%**                    | **922**                         | **121**                                    | **9**                                        | **1052**                     |
+| **total =**       |                                |  **100.00%**                    | **922**                                    | **121**                                      | **9**                        | **1052**|
 
 **Resources (GIS map, ngrams, etc)**
 
