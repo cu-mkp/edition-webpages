@@ -1,4 +1,4 @@
-**About the Making and Knowing Project**
+## About the Making and Knowing Project
 
 This critical edition of a manuscript held by the Bibliothèque nationale
 de France (BnF), catalogued as Ms. Fr. 640, was created through the work
@@ -20,4 +20,4 @@ on the Edition has been to show the ways in which *making is an
 epistemic activity*, or, in other words, a form of knowing, rather than
 simply an applied form of a higher type of knowledge.
 
-  - > For more information, see <https://www.makingandknowing.org/>.
+For more information, see https://www.makingandknowing.org.
