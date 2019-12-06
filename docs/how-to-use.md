@@ -117,7 +117,7 @@ For further help in using and navigating within the List of Entries, please see 
 Entries have been further divided into one or more categories. This enables filtering by processes and/or materials that typify the
 entry.
 
-| **category**               | **definition and use**                                                                                                    
+| **category**               | **definition and use**   |                                                                                                 
 | ---------------------------|----------------------------------------------------------------------------------- |
 | casting                    | involves making of molds for casting, and/or casting into molds|
 | painting                   | involves painting, paintings, or painters |                                                                      
