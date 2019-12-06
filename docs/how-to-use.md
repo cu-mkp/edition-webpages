@@ -119,7 +119,7 @@ entry.
 
 | **category**               | **definition and use**   |                                                                                                 
 | -------------------------- | ------------------------ |
-| casting                    | involves making of molds for casting, and/or casting into molds|
+| casting                    | involves making of molds for casting, and/or casting into molds |
 | painting                   | involves painting, paintings, or painters |                                                                      
 | metal process              | a process involving metals not being cast |                                                                                
 | varnish                    | involves varnish making or application    |                                                                                   
@@ -137,7 +137,7 @@ entry.
 | corrosives                 | involves the making or use of corrosive substances |                                                                      
 | dyeing                     | involves the preparation of dye, or the dyeing of other substances |                                                      
 | preserving                 | involves the preservation of flowers, candles, foods, and animals for future use or ornamentation |                        
-| wax process                | process involving wax as a main ingredient, and/or the manipulation of the properties of wax                              
+| wax process                | process involving wax as a main ingredient, and/or the manipulation of the properties of wax |                             
 | practical optics           | involves objects or processes that cause optical effects, such as perspective construction, reflection, and magnification |
 | lists                      | text that is arrayed as a list |                                                                                          
 | merchants                  | refers to merchants or merchant procedures  |                                                                              
