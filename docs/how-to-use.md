@@ -117,34 +117,34 @@ For further help in using and navigating within the List of Entries, please see 
 Entries have been further divided into one or more categories. This enables filtering by processes and/or materials that typify the
 entry.
 
-| **category**               | **definition and use**                                                                                                    |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| casting                    | involves making of molds for casting, and/or casting into molds                                                           |
-| painting                   | involves painting, paintings, or painters                                                                                 |
-| metal process              | a process involving metals not being cast                                                                                 |
-| varnish                    | involves varnish making or application                                                                                    |
-| arms and armor             | arms and armor                                                                                                            |
-| medicine                   | medical, health, and healing recipes                                                                                      |
-| household and daily life   | to do with household management or ornamentation, daily life, and quotidian subjects                                      |
-| cultivation                | to do with cultivating plants                                                                                             |
-| stones                     | references precious and semi-precious stones, and their imitations                                                        |
-| wood and its coloring      | references wood and/or the coloring of wood                                                                               |
-| tool                       | involves use of a named tool, or the making of an instrument or object used in a process                                  |
-| tricks and sleight of hand | sleight of hand tricks and practical jokes                                                                                |
-| decorative                 | involves the making of a material or object that is used to decorate                                                      |
-| animal husbandry           | involves the raising, care, and feeding of animals of any sort                                                            |
-| glass process              | involves the making or use of glass                                                                                       |
-| corrosives                 | involves the making or use of corrosive substances                                                                        |
-| dyeing                     | involves the preparation of dye, or the dyeing of other substances                                                        |
-| preserving                 | involves the preservation of flowers, candles, foods, and animals for future use or ornamentation                         |
-| wax process                | process involving wax as a main ingredient, and/or the manipulation of the properties of wax                              |
+| **category**               | **definition and use**                                                                                                    
+| ---------------------------|----------------------------------------------------------------------------------- |
+| casting                    | involves making of molds for casting, and/or casting into molds|
+| painting                   | involves painting, paintings, or painters |                                                                      
+| metal process              | a process involving metals not being cast |                                                                                
+| varnish                    | involves varnish making or application    |                                                                                   
+| arms and armor             | arms and armor                            |                                                                                
+| medicine                   | medical, health, and healing recipes      |                                                                                
+| household and daily life   | to do with household management or ornamentation, daily life, and quotidian subjects  |                                    
+| cultivation                | to do with cultivating plants |                                                                                             
+| stones                     | references precious and semi-precious stones, and their imitations |                                                       
+| wood and its coloring      | references wood and/or the coloring of wood |                                                                            
+| tool                       | involves use of a named tool, or the making of an instrument or object used in a process |                                 |
+| tricks and sleight of hand | sleight of hand tricks and practical jokes |                                                                               
+| decorative                 | involves the making of a material or object that is used to decorate  |                                                    
+| animal husbandry           | involves the raising, care, and feeding of animals of any sort |                                                          
+| glass process              | involves the making or use of glass |                                                                                    
+| corrosives                 | involves the making or use of corrosive substances |                                                                      
+| dyeing                     | involves the preparation of dye, or the dyeing of other substances |                                                      
+| preserving                 | involves the preservation of flowers, candles, foods, and animals for future use or ornamentation |                        |
+| wax process                | process involving wax as a main ingredient, and/or the manipulation of the properties of wax                              
 | practical optics           | involves objects or processes that cause optical effects, such as perspective construction, reflection, and magnification |
-| lists                      | text that is arrayed as a list                                                                                            |
-| merchants                  | refers to merchants or merchant procedures                                                                                |
-| printing                   | references printing processes or printing tools                                                                           |
-| La boutique                | refers to entries titled "La Boutique"                                                                                    |
-| alchemy                    | processes that pursue the making of gold                                                                                  |
-| manuscript structure       |                                                                                                                           
+| lists                      | text that is arrayed as a list |                                                                                          
+| merchants                  | refers to merchants or merchant procedures  |                                                                              
+| printing                   | references printing processes or printing tools |                                                                   
+| La boutique                | refers to entries titled "La Boutique" |                                                                                  
+| alchemy                    | processes that pursue the making of gold |                                                                                 
+| manuscript structure       |   xxxx                                   |                                                                                 
 
 ### Searching
 
