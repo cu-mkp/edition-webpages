@@ -1,4 +1,4 @@
-**Peer review**
+## Peer review
 
 This Edition and its research apparatus have been created collectively,
 and have been the objects of intense collective review, discussion, and
