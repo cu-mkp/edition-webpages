@@ -26,7 +26,7 @@ A list of dictionaries and technical encyclopedia was used during the course of 
 
 A **Glossary** of distinctive terms used in the manuscript can be  accessed by selecting “Glossary” on the pane view menu. It can  also be accessed by selecting “Research and Resources”--\>  “Glossary.”
 
-- The glossary contains:
+The glossary contains:
   - Meaning of words
   - Alternate spellings
   - Language/dialect of origin
@@ -46,7 +46,7 @@ To perform a word search (PLS SPECIFY WHETHER BOTH ARE POSSIBLE?- MODERN SPELLIN
  - Sample entry:
 
 ```
- Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
+ Acoustrer (mod. accoutrer): v. to prepare [COT1611]
 ```
 
 In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets links to the source of the definition in the Bibliography.
