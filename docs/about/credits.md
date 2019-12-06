@@ -4,7 +4,7 @@ The Making and Knowing Project strives to adhere to the guidelines for crediting
 
 [Restate the official bibliographic credit line]
 
-Project team and staff (present and past)
+### Project team and staff (present and past)
     
 - Project director    
 - Project assistant director   
