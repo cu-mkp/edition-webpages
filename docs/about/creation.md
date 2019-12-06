@@ -1,4 +1,4 @@
-**Creation of the edition**
+## Creation of the edition 
 
 This digital critical Edition and English translation of the French
 manuscript, Ms. Fr. 640, held by the Bibliothèque nationale de France
