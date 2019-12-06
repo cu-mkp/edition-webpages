@@ -6,9 +6,9 @@
 
 
 
- #### **Principles of transcription, translation, and encoding**
+ ### Principles of transcription, translation, and encoding
 
-      - The transcription, translation, and markup of the manuscript
+The transcription, translation, and markup of the manuscript
  was “grad-sourced” in a series of paleography and text
  workshops (2014-2018) that brought together international
  graduate students (already in possession of advanced French)
@@ -19,63 +19,40 @@
  Knowing Team (Clément Godbarge, Naomi Rosenkranz, Marc Smith,
  Pamela Smith, Tillmann Taape, and Tianna Uchacz).
 
-          - Principles of Transcription
+#### Principles of Transcription
+#### Principles of Translation
+#### Principles of Encoding
 
-          - Principles of Translation
+### Reference Tools 
 
-          - Principles of Encoding
+A list of dictionaries and technical encyclopedia was used during  the course of transcription and translation of Ms. Fr. 640. It is  available here: LINK to this resource?
 
+A **Glossary** of distinctive terms used in the manuscript can be  accessed by selecting “Glossary” on the pane view menu. It can  also be accessed by selecting “Research and Resources”--\>  “Glossary.”
 
-#### A list of dictionaries and technical encyclopedia was used during  the course of transcription and translation of Ms. Fr. 640. It is  available here: LINK to this resource?
+- The glossary contains:
+  - Meaning of words
+  - Alternate spellings
+  - Language/dialect of origin
+  - Modern spelling
+  - Part of speech
+  - Bibliographic references
 
-#### A **Glossary** of distinctive terms used in the manuscript can be  accessed by selecting “Glossary” on the pane view menu. It can  also be accessed by selecting “Research and Resources”--\>  “Glossary.”
+The glossary can be navigated by clicking on the relevant letter, or by using the search box to find a particular word
+(or browser find function if the search box does not include modern spelling etc. – TBD
 
-      - The glossary contains:
+To perform a word search (PLS SPECIFY WHETHER BOTH ARE POSSIBLE?- MODERN SPELLING OR SPELLING IN MS?), or Searches in the Glossary can be done by head word (open question about alternate spellings),
 
-          - Meaning of words
+\[Disclaimer about variant spellings (add h or l etc.)\] If a word from the manuscript text returns no hits in the glossary, try searching for a shorter string (e.g. the beginning of the word) or a different spelling. The author-practitioner’s early modern French shows little standardization, and while the glossary includes most common spelling variants, the list is not exhaustive. Common variations are:
 
-          - Alternate spellings
+ - double vs. single consonant, as in *plate* vs. *platte*
+ - homonyms, e.g. aiguille, esguille; alun, alum, alung
+ - Sample entry:
 
-          - Language/dialect of origin
+```
+ Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
+```
 
-          - Modern spelling
-
-          - Part of speech
-
-          - Bibliographic references
-
-      - The glossary can be navigated by clicking on the relevant
- letter, or by using the search box to find a particular word
- (or browser find function if the search box does not include
- modern spelling etc. – TBD
-
-      - To perform a word search (PLS SPECIFY WHETHER BOTH ARE
- POSSIBLE?- MODERN SPELLING OR SPELLING IN MS?), or Searches in
- the Glossary can be done by head word (open question about
- alternate spellings),
-
-      - \[Disclaimer about variant spellings (add h or l etc.)\] If a
- word from the manuscript text returns no hits in the glossary,
- try searching for a shorter string (e.g. the beginning of the
- word) or a different spelling. The author-practitioner’s early
- modern French shows little standardization, and while the
- glossary includes most common spelling variants, the list is
- not exhaustive. Common variations are:
-
-          - double vs. single consonant, as in *plate* vs. *platte*
-
-          - homonyms, e.g. aiguille, esguille; alun, alum, alung
-
-          -
-          - Sample entry:
-
-          - Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
-
-              - In this entry, the word as it appears in Ms. Fr. 640
-         is followed by its modern spelling, its part of
-         speech, and its meaning in English. The key in square
-         brackets links to the source of the definition in the
-         Bibliography.
+In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets links to the source of the definition in the Bibliography.
 
 #### Editorial Comments
  Editorial comments marked by a red asterisk occur throughout the text of the Edition to clarify structural features of the text (such as deletions, additions, marks, etc.), definitions of obscure terms, translation decisions, and historical and textual information. Editorial Comments can also be accessed by selecting “Research and Resources”--\> “Editorial Comments.”
