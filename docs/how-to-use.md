@@ -118,7 +118,7 @@ Entries have been further divided into one or more categories. This enables filt
 entry.
 
 | **category**               | **definition and use**   |                                                                                                 
-| ---------------------------|----------------------------------------------------------------------------------- |
+| -------------------------- | ------------------------ |
 | casting                    | involves making of molds for casting, and/or casting into molds|
 | painting                   | involves painting, paintings, or painters |                                                                      
 | metal process              | a process involving metals not being cast |                                                                                
@@ -129,14 +129,14 @@ entry.
 | cultivation                | to do with cultivating plants |                                                                                             
 | stones                     | references precious and semi-precious stones, and their imitations |                                                       
 | wood and its coloring      | references wood and/or the coloring of wood |                                                                            
-| tool                       | involves use of a named tool, or the making of an instrument or object used in a process |                                 |
+| tool                       | involves use of a named tool, or the making of an instrument or object used in a process |                                 
 | tricks and sleight of hand | sleight of hand tricks and practical jokes |                                                                               
 | decorative                 | involves the making of a material or object that is used to decorate  |                                                    
 | animal husbandry           | involves the raising, care, and feeding of animals of any sort |                                                          
 | glass process              | involves the making or use of glass |                                                                                    
 | corrosives                 | involves the making or use of corrosive substances |                                                                      
 | dyeing                     | involves the preparation of dye, or the dyeing of other substances |                                                      
-| preserving                 | involves the preservation of flowers, candles, foods, and animals for future use or ornamentation |                        |
+| preserving                 | involves the preservation of flowers, candles, foods, and animals for future use or ornamentation |                        
 | wax process                | process involving wax as a main ingredient, and/or the manipulation of the properties of wax                              
 | practical optics           | involves objects or processes that cause optical effects, such as perspective construction, reflection, and magnification |
 | lists                      | text that is arrayed as a list |                                                                                          
