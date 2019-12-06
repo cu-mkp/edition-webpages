@@ -138,13 +138,14 @@ entry.
 | dyeing                     | involves the preparation of dye, or the dyeing of other substances |                                                      
 | preserving                 | involves the preservation of flowers, candles, foods, and animals for future use or ornamentation |                        
 | wax process                | process involving wax as a main ingredient, and/or the manipulation of the properties of wax |                             
-| practical optics           | involves objects or processes that cause optical effects, such as perspective construction, reflection, and magnification |
+| practical optics           | objects or processes that cause optical effects, such as perspective construction, reflection, and magnification |
 | lists                      | text that is arrayed as a list |                                                                                          
 | merchants                  | refers to merchants or merchant procedures  |                                                                              
 | printing                   | references printing processes or printing tools |                                                                   
 | La boutique                | refers to entries titled "La Boutique" |                                                                                  
 | alchemy                    | processes that pursue the making of gold |                                                                                 
-| manuscript structure       |   xxxx                                   |                                                                                 
+| manuscript structure       | xxxx                                   |                                                                                 
+
 
 ### Searching
 
