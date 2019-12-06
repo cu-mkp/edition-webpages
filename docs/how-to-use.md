@@ -15,10 +15,8 @@ The layout of the transcription views mirrors the facsimile view.
   - Grey highlight: text is under the paper strips used in the rebinding
         
   - Bracket kinds
-            
-  - Curly brackets = provide the expanded version of the text implied by the author-practitioner’s abbreviation marks
-            
-  - Square brackets = indicate editorial interventions and corrections (e.g., deletions of duplicate words, addition of missing words, addition of expanded text when abbreviation marks are missing, supplied titles for entries with no heading (visible in entries list only))
+    - Curly brackets = provide the expanded version of the text implied by the author-practitioner’s abbreviation marks
+    - Square brackets = indicate editorial interventions and corrections (e.g., deletions of duplicate words, addition of missing words, addition of expanded text when abbreviation marks are missing, supplied titles for entries with no heading (visible in entries list only))
         
   - Editorial Comments: red asterisks (see below)
         
