@@ -1,8 +1,8 @@
 **Research and Resources**
 
-**Overview**
+### Overview 
 
-  - This **Edition** consists of **four views of of the French  manuscript Ms. Fr. 640**: facsimile images of the text, a complete  diplomatic (verbatim) transcription in French, a lightly  normalized French version, and an English Translation. These  versions can be read and browsed in dual-pane book view by  navigating to “The Text” --\> “Folios.”
+This **Edition** consists of **four views of of the French  manuscript Ms. Fr. 640**: facsimile images of the text, a complete  diplomatic (verbatim) transcription in French, a lightly  normalized French version, and an English Translation. These  versions can be read and browsed in dual-pane book view by  navigating to “The Text” --\> “Folios.”
 
 
 
@@ -54,10 +54,12 @@ To perform a word search (PLS SPECIFY WHETHER BOTH ARE POSSIBLE?- MODERN SPELLIN
 
 In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets links to the source of the definition in the Bibliography.
 
-#### Editorial Comments
- Editorial comments marked by a red asterisk occur throughout the text of the Edition to clarify structural features of the text (such as deletions, additions, marks, etc.), definitions of obscure terms, translation decisions, and historical and textual information. Editorial Comments can also be accessed by selecting “Research and Resources”--\> “Editorial Comments.”
+### Editorial Comments
 
-#### Research Essays** 
+Editorial comments marked by a red asterisk occur throughout the text of the Edition to clarify structural features of the text (such as deletions, additions, marks, etc.), definitions of obscure terms, translation decisions, and historical and textual information. Editorial Comments can also be accessed by selecting “Research and Resources”--\> “Editorial Comments.”
+
+### Research Essays 
+
 Research Essays clarify the text of the manuscript, provide  material, technical, and historical context, and describe student reconstructions in the Making and Knowing Laboratory. These essays can be accessed by clicking on the XX icon to be found on the upper right of the manuscript entry to which the essay pertains. They can also be read by navigating to “Research and Resources”--\> “Research Essays.” Clicking on manuscript folio numbers referenced in the essays links out to the relevant folio page (return by clicking the back arrow in your browser).
 
 Research essays are grouped in up to three of six broad categories, which allow users to filter results:
@@ -88,75 +90,61 @@ Research essays are grouped in up to three of six broad categories, which allow 
  Knowing Project, including its initiatives, pedagogy, methods,
  personnel, and collaborators.
 
-#### Essays have been composed by **scholars** on the Making and Knowing Team and by experts invited by the Team. These essays 
+#### Essays 
+
+Essays have been composed by 
+
+**Scholars** on the Making and Knowing Team and by experts invited by the Team. These essays 
 primarily provide material, technical, textual, and historical  information about the contents of Ms. Fr. 640. They are marked by  a COLOR bar at the base of each essay thumbnail.
 
- #### **Students** in the Making and Knowing Project laboratory seminars  and in courses of Project collaborators have also composed essays.  The majority of these essays ask historical questions of the  manuscript and its context that can be illuminated by laboratory  research (in combination with more conventional historical  research). These essays are marked by a COLOR bar at the base of  each essay thumbnail.
+**Students** in the Making and Knowing Project laboratory seminars  and in courses of Project collaborators have also composed essays.  The majority of these essays ask historical questions of the  manuscript and its context that can be illuminated by laboratory  research (in combination with more conventional historical  research). These essays are marked by a COLOR bar at the base of  each essay thumbnail.
 
-  - Author and citation information is provided at the top of every  essay.
+- Author and citation information is provided at the top of every  essay.
+- By clicking on folio numbers in the essay, users may jump to that  page, then return to the essay by using the back arrow of their  browser.
 
-  - By clicking on folio numbers in the essay, users may jump to that  page, then return to the essay by using the back arrow of their  browser.
-
- #### **Field notes** recorded by students as they carried out their  skillbuilding exercises, and as they planned, researched,  reconstructed, and wrote their laboratory essays can be found  linked in each Student Research Essay, and can also be browsed by  navigating to “Research and Resources”--\> “Fieldnotes.” The  Project required students to keep field notes of every stage of  their research, however, some field notes are more detailed and  comprehensive than others. Additional photographs taken by the  students as they carried out their research are available in the  Project’s repository on Flickr: For more on how fieldnotes were  integrated into the pedagogical components of the Edition, see  Pamela Smith, “Creation of the Edition,” ann....
-
- #### A **Bibliography** of all works cited in the Edition can be  accessed here: Each Research Essay also contains a full  bibliography of works cited in the essay.
+### Field notes 
  
-  - Bibliographic references include primary and secondary literature  cited in the glossary, the editorial comments and, eventually, the  research essays.
+Field Notes recorded by students as they carried out their  skillbuilding exercises, and as they planned, researched,  reconstructed, and wrote their laboratory essays can be found  linked in each Student Research Essay, and can also be browsed by  navigating to “Research and Resources”--\> “Fieldnotes.” The  Project required students to keep field notes of every stage of  their research, however, some field notes are more detailed and  comprehensive than others. Additional photographs taken by the  students as they carried out their research are available in the  Project’s repository on Flickr: For more on how fieldnotes were  integrated into the pedagogical components of the Edition, see  Pamela Smith, “Creation of the Edition,” ann....
 
-  - Bibliographic references cited in the editorial comments are  either secondary sources providing additional information on the  topic at hand, or primary sources mentioned in the manuscript.  While we provide detailed references of these primary sources, we  cannot always be certain that the specific edition we cited is the  one that the author-practitioner has used. In most cases, we  provide a non-exhaustive selection of printed editions, giving  priority to more widely available editions and more prominent  publishers (Robert and Henri Estienne, Aldo Manuzio, Christophe  Plantin, Hieronymus Froben, Johannes Herwagen, etc). To search for  other possible editions, we provide users with a link to the  Universal Short Title Catalogue whenever possible.
+ ### Bibliography
+ 
+A Bibliography of all works cited in the Edition can be  accessed here: Each Research Essay also contains a full bibliography of works cited in the essay.
 
-  - Filterable by:
+Bibliographic references include primary and secondary literature  cited in the glossary, the editorial comments and, eventually, the  research essays.
 
-      - Type of source (primary, secondary)
+Bibliographic references cited in the editorial comments are either secondary sources providing additional information on the topic at hand, or primary sources mentioned in the manuscript.  While we provide detailed references of these primary sources, we  cannot always be certain that the specific edition we cited is the  one that the author-practitioner has used. In most cases, we  provide a non-exhaustive selection of printed editions, giving  priority to more widely available editions and more prominent  publishers (Robert and Henri Estienne, Aldo Manuzio, Christophe  Plantin, Hieronymus Froben, Johannes Herwagen, etc). To search for  other possible editions, we provide users with a link to the  Universal Short Title Catalogue whenever possible.
 
-      - Document of origin (Manuscript text, Editorial Comment,
- Glossary, Research Essay)
+The references in the Bibliography are filterable by:
 
-      - Online Availability (access to external databases)
+- Type of source (primary, secondary)
+- Document of origin (Manuscript text, Editorial Comment, Glossary, Research Essay)
+- Online Availability (access to external databases)
+- Degree of certainty
 
-      - Degree of certainty
+The bibliographic databases are available in BibTeX format and downloadable from GitHub.
 
-  - The bibliographic databases are available in BibTeX format and  downloadable from GitHub.
+### Entries
 
+A **List of Entries** (that is, the headings of all 928 “recipes,”  or entries in Ms. Fr. 640) can be browsed or searched by  navigating to “The text” --\> “List of Entries.” Relevant terms in  each entry have been encoded using fourteen semantic tags, and the  terms contained in any given entry are listed below the entry.  Clicking on any of the tags gives a comprehensive list of encoded  terms in the entry. The tags are
 
+- animal
+- body part
+- currency
+- environment
+- material
+- measurement
+- medical
+- music
+- personal name
+- place
+- plant
+- profession
+- sensory
+- tool
 
-#### A **List of Entries** (that is, the headings of all 928 “recipes,”  or entries in Ms. Fr. 640) can be browsed or searched by  navigating to “The text” --\> “List of Entries.” Relevant terms in  each entry have been encoded using fourteen semantic tags, and the  terms contained in any given entry are listed below the entry.  Clicking on any of the tags gives a comprehensive list of encoded  terms in the entry.
+For further information on these tags, please see the Principles of Encoding LINK\>
 
-      - The tags are
-
-          - animal
-
-          - body part
-
-          - currency
-
-          - environment
-
-          - material
-
-          - measurement
-
-          - medical
-
-          - music
-
-          - personal name
-
-          - place
-
-          - plant
-
-          - profession
-
-          - sensory
-
-          - tool
-
-          - For further information on these tags, please see the
-     Principles of Encoding LINK\>
-
-      - The Making and Knowing Project has categorized these entries
- into one or more of 26 rather loosely-defined
+The Making and Knowing Project has categorized these entries into one or more of 26 rather loosely-defined
 categories:
 
 | **category**               | **definition and use**                                                                                                    |
@@ -186,7 +174,9 @@ categories:
 | printing                   | references printing processes or printing tools                                                                           |
 | La boutique                | refers to entries titled "La Boutique"                                                                                    |
 | alchemy                    | processes that pursue the making of gold                                                                                  |
-| manuscript structure       | refer to the structure of the manuscript (added by the Project)                                                           |  These categories provide a quick overview of processes and materials  in the manuscript. It is important to keep in mind that these  categories have been imposed by the Project on a very diverse set of  entries and should not be taken as definitive or entirely  comprehensive.
+| manuscript structure       | refer to the structure of the manuscript (added by the Project)                                                          
+
+These categories provide a quick overview of processes and materials  in the manuscript. It is important to keep in mind that these  categories have been imposed by the Project on a very diverse set of  entries and should not be taken as definitive or entirely  comprehensive.
 
 
 | **Category name** | **Percent of total**           | **Number of entries, category** | **Number of entries, additional category** | **Number of entries, additional category 2** | **Number of entries**        |**TOTAL**|
@@ -219,17 +209,16 @@ categories:
 | **26**            | **manuscript structure**       | 0.10%                           | 1                                          | 0                                            | 0                            | **1**   |
 | **total =**       |                                |  **100.00%**                    | **922**                                    | **121**                                      | **9**                        | **1052**|
 
-**Resources (GIS map, ngrams, etc)**
+### Resources (GIS map, ngrams, etc)
 
-  - There are some analyses of the ms that are hosted externally
+There are some analyses of the Manuscript that are hosted externally
 
-      - GitHub repository
+- GitHub repository
+- Gallica
+- Voyant & jupyter notebook
+- CGUI stuff?
 
-      - Gallica
 
-      - Voyant & jupyter notebook
-
-      - CGUI stuff?
 
 **NOTES: Research Essays**
 
