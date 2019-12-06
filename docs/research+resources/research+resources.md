@@ -1,237 +1,185 @@
-## Research and Resources
+**Research and Resources**
 
-### Overview
+**Overview**
 
-This **Edition** consists of **four views of of the French manuscript Ms. Fr. 640**: facsimile images of the text, a complete diplomatic (verbatim) transcription in French, a lightly normalized French version, and an English Translation. These  versions can be read and browsed in dual-pane book view by navigating to “The Text” --\> “Folios.”
-
-### rinciples of transcription, translation, and encoding
-    
-The transcription, translation, and markup of the manuscriptwas “grad-sourced” in a series of paleography and text workshops (2014-2018) that brought together international graduate students (already in possession of advanced French) to become fluent in reading middle French script by intensive transcription and translation of Ms. Fr. 640. From 2016-2018, intensive translation and markup campaigns further refined the text. Allo grad-sourced work was checked by the Making and Knowing Team (Clément Godbarge, Naomi Rosenkranz, Marc Smith, Pamela Smith, Tillmann Taape, and Tianna Uchacz).
-        
-#### Principles of Transcription
-        
-#### Principles of Translation
-
-#### Principles of Encoding
+  - This **Edition** consists of **four views of of the French  manuscript Ms. Fr. 640**: facsimile images of the text, a complete  diplomatic (verbatim) transcription in French, a lightly  normalized French version, and an English Translation. These  versions can be read and browsed in dual-pane book view by  navigating to “The Text” --\> “Folios.”
 
 
-  - > A list of dictionaries and technical encyclopedia was used during
-    > the course of transcription and translation of Ms. Fr. 640. It is
-    > available here: LINK to this resource?
 
-  - > A **Glossary** of distinctive terms used in the manuscript can be
-    > accessed by selecting “Glossary” on the pane view menu. It can
-    > also be accessed by selecting “Research and Resources”--\>
-    > “Glossary.”
-    
-      - > The glossary contains:
-        
-          - > Meaning of words
-        
-          - > Alternate spellings
-        
-          - > Language/dialect of origin
-        
-          - > Modern spelling
-        
-          - > Part of speech
-        
-          - > Bibliographic references
-    
-      - > The glossary can be navigated by clicking on the relevant
-        > letter, or by using the search box to find a particular word
-        > (or browser find function if the search box does not include
-        > modern spelling etc. – TBD
-    
-      - > To perform a word search (PLS SPECIFY WHETHER BOTH ARE
-        > POSSIBLE?- MODERN SPELLING OR SPELLING IN MS?), or Searches in
-        > the Glossary can be done by head word (open question about
-        > alternate spellings),
-    
-      - > \[Disclaimer about variant spellings (add h or l etc.)\] If a
-        > word from the manuscript text returns no hits in the glossary,
-        > try searching for a shorter string (e.g. the beginning of the
-        > word) or a different spelling. The author-practitioner’s early
-        > modern French shows little standardization, and while the
-        > glossary includes most common spelling variants, the list is
-        > not exhaustive. Common variations are:
-        
-          - > double vs. single consonant, as in *plate* vs. *platte*
-        
-          - > homonyms, e.g. aiguille, esguille; alun, alum, alung
-        
-          - 
-          - > Sample entry:
-        
-          - > Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
-            
-              - > In this entry, the word as it appears in Ms. Fr. 640
-                > is followed by its modern spelling, its part of
-                > speech, and its meaning in English. The key in square
-                > brackets links to the source of the definition in the
-                > Bibliography.
+ #### **Principles of transcription, translation, and encoding**
 
-  - > **Editorial Comments** marked by a red asterisk occur throughout
-    > the text of the Edition to clarify structural features of the text
-    > (such as deletions, additions, marks, etc.), definitions of
-    > obscure terms, translation decisions, and historical and textual
-    > information. Editorial Comments can also be accessed by selecting
-    > “Research and Resources”--\> “Editorial Comments.”
+      - The transcription, translation, and markup of the manuscript
+ was “grad-sourced” in a series of paleography and text
+ workshops (2014-2018) that brought together international
+ graduate students (already in possession of advanced French)
+ to become fluent in reading middle French script by intensive
+ transcription and translation of Ms. Fr. 640. From 2016-2018,
+ intensive translation and markup campaigns further refined the
+ text. Allo grad-sourced work was checked by the Making and
+ Knowing Team (Clément Godbarge, Naomi Rosenkranz, Marc Smith,
+ Pamela Smith, Tillmann Taape, and Tianna Uchacz).
 
-  - > **Research Essays** clarify the text of the manuscript, provide
-    > material, technical, and historical context, and describe student
-    > reconstructions in the Making and Knowing Laboratory. These essays
-    > can be accessed by clicking on the XX icon to be found on the
-    > upper right of the manuscript entry to which the essay pertains.
-    > They can also be read by navigating to “Research and
-    > Resources”--\> “Research Essays.” Clicking on manuscript folio
-    > numbers referenced in the essays links out to the relevant folio
-    > page (return by clicking the back arrow in your browser).
+          - Principles of Transcription
 
-  - > Research essays are grouped in up to three of six broad
-    > categories, which allow users to filter results:
-    
-      - > **The Manuscript, Ms. Fr. 640**: Essays that provide
-        > information about the manuscript (its codicology,
-        > palaeography, and probable genesis), its relationship to other
-        > genres of writing, and the identity of its anonymous
-        > author-practitioner.
-    
-      - > **The Making and Knowing Laboratory**: discuss hands-on work
-        > in the Making and Knowing Laboratory, principles of
-        > reconstruction, and results and conclusions from experimental
-        > work.
-    
-      - > **Society and Culture**: treat the historical context of the
-        > manuscript, and society and culture in sixteenth-century
-        > France.
-    
-      - > **Art and its Making**: discuss the materials, making, and
-        > meaning of art, and the training of artists.  
-        > **Knowing Nature**: explore the investigation, manipulation,
-        > and exploration of the materials and principles of nature in
-        > Ms. Fr. 640.
-    
-      - > **The Making and Knowing Project**: discuss The Making and
-        > Knowing Project, including its initiatives, pedagogy, methods,
-        > personnel, and collaborators.
+          - Principles of Translation
 
-  - > Essays have been composed by **scholars** on the Making and
-    > Knowing Team and by experts invited by the Team. These essays
-    > primarily provide material, technical, textual, and historical
-    > information about the contents of Ms. Fr. 640. They are marked by
-    > a COLOR bar at the base of each essay thumbnail.
+          - Principles of Encoding
 
-  - > **Students** in the Making and Knowing Project laboratory seminars
-    > and in courses of Project collaborators have also composed essays.
-    > The majority of these essays ask historical questions of the
-    > manuscript and its context that can be illuminated by laboratory
-    > research (in combination with more conventional historical
-    > research). These essays are marked by a COLOR bar at the base of
-    > each essay thumbnail.
 
-  - > Author and citation information is provided at the top of every
-    > essay.
+#### A list of dictionaries and technical encyclopedia was used during  the course of transcription and translation of Ms. Fr. 640. It is  available here: LINK to this resource?
 
-  - > By clicking on folio numbers in the essay, users may jump to that
-    > page, then return to the essay by using the back arrow of their
-    > browser.
+#### A **Glossary** of distinctive terms used in the manuscript can be  accessed by selecting “Glossary” on the pane view menu. It can  also be accessed by selecting “Research and Resources”--\>  “Glossary.”
 
-  - > **Field notes** recorded by students as they carried out their
-    > skillbuilding exercises, and as they planned, researched,
-    > reconstructed, and wrote their laboratory essays can be found
-    > linked in each Student Research Essay, and can also be browsed by
-    > navigating to “Research and Resources”--\> “Fieldnotes.” The
-    > Project required students to keep field notes of every stage of
-    > their research, however, some field notes are more detailed and
-    > comprehensive than others. Additional photographs taken by the
-    > students as they carried out their research are available in the
-    > Project’s repository on Flickr: For more on how fieldnotes were
-    > integrated into the pedagogical components of the Edition, see
-    > Pamela Smith, “Creation of the Edition,” ann....
+      - The glossary contains:
 
-  - > A **Bibliography** of all works cited in the Edition can be
-    > accessed here: Each Research Essay also contains a full
-    > bibliography of works cited in the essay.
+          - Meaning of words
 
-<!-- end list -->
+          - Alternate spellings
 
-  - > Bibliographic references include primary and secondary literature
-    > cited in the glossary, the editorial comments and, eventually, the
-    > research essays.
+          - Language/dialect of origin
 
-  - > Bibliographic references cited in the editorial comments are
-    > either secondary sources providing additional information on the
-    > topic at hand, or primary sources mentioned in the manuscript.
-    > While we provide detailed references of these primary sources, we
-    > cannot always be certain that the specific edition we cited is the
-    > one that the author-practitioner has used. In most cases, we
-    > provide a non-exhaustive selection of printed editions, giving
-    > priority to more widely available editions and more prominent
-    > publishers (Robert and Henri Estienne, Aldo Manuzio, Christophe
-    > Plantin, Hieronymus Froben, Johannes Herwagen, etc). To search for
-    > other possible editions, we provide users with a link to the
-    > Universal Short Title Catalogue whenever possible.
+          - Modern spelling
 
-  - > Filterable by:
-    
-      - > Type of source (primary, secondary)
-    
-      - > Document of origin (Manuscript text, Editorial Comment,
-        > Glossary, Research Essay)
-    
-      - > Online Availability (access to external databases)
-    
-      - > Degree of certainty
+          - Part of speech
 
-  - > The bibliographic databases are available in BibTeX format and
-    > downloadable from GitHub.
+          - Bibliographic references
 
-<!-- end list -->
+      - The glossary can be navigated by clicking on the relevant
+ letter, or by using the search box to find a particular word
+ (or browser find function if the search box does not include
+ modern spelling etc. – TBD
 
-  - > A **List of Entries** (that is, the headings of all 928 “recipes,”
-    > or entries in Ms. Fr. 640) can be browsed or searched by
-    > navigating to “The text” --\> “List of Entries.” Relevant terms in
-    > each entry have been encoded using fourteen semantic tags, and the
-    > terms contained in any given entry are listed below the entry.
-    > Clicking on any of the tags gives a comprehensive list of encoded
-    > terms in the entry.
-    
-      - > The tags are
-        
-          - > animal
-        
-          - > body part
-        
-          - > currency
-        
-          - > environment
-        
-          - > material
-        
-          - > measurement
-        
-          - > medical
-        
-          - > music
-        
-          - > personal name
-        
-          - > place
-        
-          - > plant
-        
-          - > profession
-        
-          - > sensory
-        
-          - > tool
-        
-          - > For further information on these tags, please see the
-            > Principles of Encoding LINK\>
-    
-      - > The Making and Knowing Project has categorized these entries
-        > into one or more of 26 rather loosely-defined
+      - To perform a word search (PLS SPECIFY WHETHER BOTH ARE
+ POSSIBLE?- MODERN SPELLING OR SPELLING IN MS?), or Searches in
+ the Glossary can be done by head word (open question about
+ alternate spellings),
+
+      - \[Disclaimer about variant spellings (add h or l etc.)\] If a
+ word from the manuscript text returns no hits in the glossary,
+ try searching for a shorter string (e.g. the beginning of the
+ word) or a different spelling. The author-practitioner’s early
+ modern French shows little standardization, and while the
+ glossary includes most common spelling variants, the list is
+ not exhaustive. Common variations are:
+
+          - double vs. single consonant, as in *plate* vs. *platte*
+
+          - homonyms, e.g. aiguille, esguille; alun, alum, alung
+
+          -
+          - Sample entry:
+
+          - Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
+
+              - In this entry, the word as it appears in Ms. Fr. 640
+         is followed by its modern spelling, its part of
+         speech, and its meaning in English. The key in square
+         brackets links to the source of the definition in the
+         Bibliography.
+
+#### Editorial Comments
+ Editorial comments marked by a red asterisk occur throughout the text of the Edition to clarify structural features of the text (such as deletions, additions, marks, etc.), definitions of obscure terms, translation decisions, and historical and textual information. Editorial Comments can also be accessed by selecting “Research and Resources”--\> “Editorial Comments.”
+
+#### Research Essays** 
+Research Essays clarify the text of the manuscript, provide  material, technical, and historical context, and describe student reconstructions in the Making and Knowing Laboratory. These essays can be accessed by clicking on the XX icon to be found on the upper right of the manuscript entry to which the essay pertains. They can also be read by navigating to “Research and Resources”--\> “Research Essays.” Clicking on manuscript folio numbers referenced in the essays links out to the relevant folio page (return by clicking the back arrow in your browser).
+
+Research essays are grouped in up to three of six broad categories, which allow users to filter results:
+
+ - **The Manuscript, Ms. Fr. 640**: Essays that provide
+ information about the manuscript (its codicology,
+ palaeography, and probable genesis), its relationship to other
+ genres of writing, and the identity of its anonymous
+ author-practitioner.
+
+ - **The Making and Knowing Laboratory**: discuss hands-on work
+ in the Making and Knowing Laboratory, principles of
+ reconstruction, and results and conclusions from experimental
+ work.
+
+ - **Society and Culture**: treat the historical context of the
+ manuscript, and society and culture in sixteenth-century
+ France.
+
+ - **Art and its Making**: discuss the materials, making, and
+ meaning of art, and the training of artists.
+
+ - **Knowing Nature**: explore the investigation, manipulation,
+ and exploration of the materials and principles of nature in
+ Ms. Fr. 640.
+
+ - **The Making and Knowing Project**: discuss The Making and
+ Knowing Project, including its initiatives, pedagogy, methods,
+ personnel, and collaborators.
+
+#### Essays have been composed by **scholars** on the Making and Knowing Team and by experts invited by the Team. These essays 
+primarily provide material, technical, textual, and historical  information about the contents of Ms. Fr. 640. They are marked by  a COLOR bar at the base of each essay thumbnail.
+
+ #### **Students** in the Making and Knowing Project laboratory seminars  and in courses of Project collaborators have also composed essays.  The majority of these essays ask historical questions of the  manuscript and its context that can be illuminated by laboratory  research (in combination with more conventional historical  research). These essays are marked by a COLOR bar at the base of  each essay thumbnail.
+
+  - Author and citation information is provided at the top of every  essay.
+
+  - By clicking on folio numbers in the essay, users may jump to that  page, then return to the essay by using the back arrow of their  browser.
+
+ #### **Field notes** recorded by students as they carried out their  skillbuilding exercises, and as they planned, researched,  reconstructed, and wrote their laboratory essays can be found  linked in each Student Research Essay, and can also be browsed by  navigating to “Research and Resources”--\> “Fieldnotes.” The  Project required students to keep field notes of every stage of  their research, however, some field notes are more detailed and  comprehensive than others. Additional photographs taken by the  students as they carried out their research are available in the  Project’s repository on Flickr: For more on how fieldnotes were  integrated into the pedagogical components of the Edition, see  Pamela Smith, “Creation of the Edition,” ann....
+
+ #### A **Bibliography** of all works cited in the Edition can be  accessed here: Each Research Essay also contains a full  bibliography of works cited in the essay.
+ 
+  - Bibliographic references include primary and secondary literature  cited in the glossary, the editorial comments and, eventually, the  research essays.
+
+  - Bibliographic references cited in the editorial comments are  either secondary sources providing additional information on the  topic at hand, or primary sources mentioned in the manuscript.  While we provide detailed references of these primary sources, we  cannot always be certain that the specific edition we cited is the  one that the author-practitioner has used. In most cases, we  provide a non-exhaustive selection of printed editions, giving  priority to more widely available editions and more prominent  publishers (Robert and Henri Estienne, Aldo Manuzio, Christophe  Plantin, Hieronymus Froben, Johannes Herwagen, etc). To search for  other possible editions, we provide users with a link to the  Universal Short Title Catalogue whenever possible.
+
+  - Filterable by:
+
+      - Type of source (primary, secondary)
+
+      - Document of origin (Manuscript text, Editorial Comment,
+ Glossary, Research Essay)
+
+      - Online Availability (access to external databases)
+
+      - Degree of certainty
+
+  - The bibliographic databases are available in BibTeX format and  downloadable from GitHub.
+
+
+
+#### A **List of Entries** (that is, the headings of all 928 “recipes,”  or entries in Ms. Fr. 640) can be browsed or searched by  navigating to “The text” --\> “List of Entries.” Relevant terms in  each entry have been encoded using fourteen semantic tags, and the  terms contained in any given entry are listed below the entry.  Clicking on any of the tags gives a comprehensive list of encoded  terms in the entry.
+
+      - The tags are
+
+          - animal
+
+          - body part
+
+          - currency
+
+          - environment
+
+          - material
+
+          - measurement
+
+          - medical
+
+          - music
+
+          - personal name
+
+          - place
+
+          - plant
+
+          - profession
+
+          - sensory
+
+          - tool
+
+          - For further information on these tags, please see the
+     Principles of Encoding LINK\>
+
+      - The Making and Knowing Project has categorized these entries
+ into one or more of 26 rather loosely-defined
 categories:
 
 | **category**               | **definition and use**                                                                                                    |
@@ -261,13 +209,8 @@ categories:
 | printing                   | references printing processes or printing tools                                                                           |
 | La boutique                | refers to entries titled "La Boutique"                                                                                    |
 | alchemy                    | processes that pursue the making of gold                                                                                  |
-| manuscript structure       | refer to the structure of the manuscript (added by the Project)                                                           |
+| manuscript structure       | refer to the structure of the manuscript (added by the Project)                                                           |  These categories provide a quick overview of processes and materials  in the manuscript. It is important to keep in mind that these  categories have been imposed by the Project on a very diverse set of  entries and should not be taken as definitive or entirely  comprehensive.
 
-> These categories provide a quick overview of processes and materials
-> in the manuscript. It is important to keep in mind that these
-> categories have been imposed by the Project on a very diverse set of
-> entries and should not be taken as definitive or entirely
-> comprehensive.
 
 | **Category name** | **Percent of total**           | **Number of entries, category** | **Number of entries, additional category** | **Number of entries, additional category 2** | **Number of entries, TOTAL** |
 | ----------------- | ------------------------------ | ------------------------------- | ------------------------------------------ | -------------------------------------------- | ---------------------------- | ------- |
@@ -301,132 +244,132 @@ categories:
 
 **Resources (GIS map, ngrams, etc)**
 
-  - > There are some analyses of the ms that are hosted externally
-    
-      - > GitHub repository
-    
-      - > Gallica
-    
-      - > Voyant & jupyter notebook
-    
-      - > CGUI stuff?
+  - There are some analyses of the ms that are hosted externally
+
+      - GitHub repository
+
+      - Gallica
+
+      - Voyant & jupyter notebook
+
+      - CGUI stuff?
 
 **NOTES: Research Essays**
 
-  - > NB: THERE IS ROOM FOR TEXT AT THE TOP?
+  - NB: THERE IS ROOM FOR TEXT AT THE TOP?
 
-  - > There are 2 kinds of essays
-    
-      - > Scholarly intro essays
-    
-      - > Student research and reconstruction essays
+  - There are 2 kinds of essays
 
-  - > 2 filter options:
-    
-      - > By theme
-    
-      - > By category
+      - Scholarly intro essays
 
-  - > Legend
-    
-      - > Colors of cards for type of essay
-    
-      - > Click on folio link to go to folio
+      - Student research and reconstruction essays
 
-  - > **On each essay page:**
-    
-      - > Annotation header consistent across all essays (current
-        > feature request with Nick) [Front matter content for
-        > research/intro essay (annotations)
-        > pages](https://github.com/cu-mkp/making-knowing-edition/issues/234)
-        
-          - > that includes category, type (intro vs research), Back to
-            > List, *author’s name, title*
-        
-          - > Cite as
-            
-              - > doi (and info about downloading from AC?)
-        
-          - > Author demographics and “date”
-        
-          - > Author disclaimer
-            
-              - > TO BE WRITTEN
-            
-              - > Link out to “Creation of the edition” (for more info
-                > on that process and the state of the early
-                > annotations)
+  - 2 filter options:
+
+      - By theme
+
+      - By category
+
+  - Legend
+
+      - Colors of cards for type of essay
+
+      - Click on folio link to go to folio
+
+ #### **On each essay page:**
+
+      - Annotation header consistent across all essays (current
+ feature request with Nick) [Front matter content for
+ research/intro essay (annotations)
+ pages](https://github.com/cu-mkp/making-knowing-edition/issues/234)
+
+          - that includes category, type (intro vs research), Back to
+     List, *author’s name, title*
+
+          - Cite as
+
+              - doi (and info about downloading from AC?)
+
+          - Author demographics and “date”
+
+          - Author disclaimer
+
+              - TO BE WRITTEN
+
+              - Link out to “Creation of the edition” (for more info
+         on that process and the state of the early
+         annotations)
 
 **Glossary**
 
-  - > NB: THERE IS ROOM FOR TEXT AT THE TOP
-    
-      - > Principles of the glossary (criteria for including words,
-        > etc.)
-    
-      - > What from [PW18 Translation Protocol AND VOCABULARY
-        > LIST](https://drive.google.com/open?id=1lZc4PtzU5krMmdYC_Mg0eMpvPjtXqwNHEmZubGXze8o)
-        > to include?
-    
-      - > Link out to Principles of translation etc. (make sure to
-        > include dictionaries as resources, etc)
+  - NB: THERE IS ROOM FOR TEXT AT THE TOP
 
-  - > Also accessible from drop down menu in the …
+      - Principles of the glossary (criteria for including words,
+ etc.)
 
-  - > Can navigate by letters
+      - What from [PW18 Translation Protocol AND VOCABULARY
+ LIST](https://drive.google.com/open?id=1lZc4PtzU5krMmdYC_Mg0eMpvPjtXqwNHEmZubGXze8o)
+ to include?
 
-  - > Search by head word (open question about alternate spellings)
-    
-      - > Alternatively, use your browser’s find function to search the
-        > full-text of the glossary
-    
-      - > Disclaimer about variant spellings (add h or l etc.)
+      - Link out to Principles of translation etc. (make sure to
+ include dictionaries as resources, etc)
 
-  - > Contains:
-    
-      - > Meaning of words
-    
-      - > Alternate spellings
-    
-      - > Language/dialect of origin
-    
-      - > Modern spelling
-    
-      - > Part of speech
-    
-      - > Bibliographic references
+  - Also accessible from drop down menu in the …
 
-  - > Example entry:
-    
-      - > Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
-    
-      - > Aigue marine, eau marine (mod. aigue-marine): n.(f) aquamarine
-        > (a variety of beryl, and its colour) \[tolhausen1905\]
+  - Can navigate by letters
 
-  - 
+  - Search by head word (open question about alternate spellings)
+
+      - Alternatively, use your browser’s find function to search the
+ full-text of the glossary
+
+      - Disclaimer about variant spellings (add h or l etc.)
+
+  - Contains:
+
+      - Meaning of words
+
+      - Alternate spellings
+
+      - Language/dialect of origin
+
+      - Modern spelling
+
+      - Part of speech
+
+      - Bibliographic references
+
+  - Example entry:
+
+      - Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
+
+      - Aigue marine, eau marine (mod. aigue-marine): n.(f) aquamarine
+ (a variety of beryl, and its colour) \[tolhausen1905\]
+
+  -
 **? Editorial comments? (full list and explanation of what they are)**
 
 **Field notes**
 
-  - > What they are
+  - What they are
 
-  - > How they should be used
+  - How they should be used
 
-  - > Where they now live
+  - Where they now live
 
-  - > How they were connected to the pedagogical aspect of the project
-    
-      - > Link out to Creation of the edition
+  - How they were connected to the pedagogical aspect of the project
 
-  - 
+      - Link out to Creation of the edition
+
+  -
 **Resources (GIS map, ngrams, etc)**
 
-  - > There are some analyses of the ms that are hosted externally
-    
-      - > GitHub repository
-    
-      - > Gallica
-    
-      - > Voyant & jupyter notebook
-    
-      - > CGUI stuff?
+  - There are some analyses of the ms that are hosted externally
+
+      - GitHub repository
+
+      - Gallica
+
+      - Voyant & jupyter notebook
+
+      - CGUI stuff?
