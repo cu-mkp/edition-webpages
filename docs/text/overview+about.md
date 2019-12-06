@@ -1,7 +1,5 @@
 ## Overview and About
 
-[**https://github.com/cu-mkp/m-k-manuscript-data/issues/570**](https://github.com/cu-mkp/m-k-manuscript-data/issues/570)
-
 ### What is the Digital Critical Edition?
     
 This digital critical Edition and English translation of the French manuscript, Ms. Fr. 640, held by the Bibliothèque nationale de France (BnF), presents a rich and unique sixteenth-century technical text in French transcription and English translation for the first time, and situates its contents in their material and historical context. The manuscript provides insights into the material, technical, and intellectual world of the late sixteenth century, and brings a better understanding of how and why nature was investigated, used in art, and collected and appreciated in early modern Europe. The Making and Knowing Project has created this born-digital Edition through a series of collaborative workshops, courses, and conferences that have involved students, craft practitioners, artists, scholars of the humanities and social sciences, natural and computer scientists, and practitioner-scholars from the emerging field of the digital humanities.
