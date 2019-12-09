@@ -28,4 +28,4 @@ Vivamus mollis vestibulum metus a pulvinar. Ut eget varius ante. Vestibulum eu f
 
 **test of AC video:**
 
-<iframe src="https://academiccommons.columbia.edu/doi/10.7916/d8-s5bf-w581/embed" width="1600" height="900" frameborder="0" allowfullscreen></iframe>
+<iframe title="Lab Tour" src="https://academiccommons.columbia.edu/doi/10.7916/d8-s5bf-w581/embed" width="640" height="360" frameborder="0" allowfullscreen></iframe>
