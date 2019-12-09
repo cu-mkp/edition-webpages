@@ -1,25 +1,29 @@
 [
     {
-        "label": "How to use",
+        "label": "How to Use",
         "route": "/content/how-to-use"
     },
     {
-        "label": "The text",
+        "label": "Read the Manuscript",
+        "route": "/folios"
+    },    
+    {
+        "label": "The Text",
         "menuItems": [
             {
-                "label": "Overview and about",
+                "label": "Overview and About",
                 "route": "/content/text/overview+about" 
             },
             {
-                "label": "Folios",
+                "label": "Read the Manuscript",
                 "route": "/folios" 
             },
             {
-                "label": "List of entries",
+                "label": "List of Entries",
                 "route": "/entries" 
             },
             {
-                "label": "Index of keywords (term indices)",
+                "label": "Index of Keywords (Term Indices)",
                 "placeholder": true,
                 "route": "/content/text/index-of-terms" 
             }
@@ -33,12 +37,11 @@
                 "route": "/content/research+resources/overview" 
             },
             {
-                "label": "Principles of transcription, translation, and encoding",
-                "route": "/content/research+resources/principles" 
-            },
-            {
-                "label": "Research essays",
+                "label": "Research Essays",
                 "route": "/essays" 
+            },            {
+                "label": "Principles of Transcription, Translation, and Encoding",
+                "route": "/content/research+resources/principles" 
             },
             {
                 "label": "Bibliography",
@@ -49,15 +52,15 @@
                 "route": "/content/research+resources/glossary" 
             },
             {
-                "label": "Editorial Comments",
+                "label": "List of Editorial Comments",
                 "route": "/content/research+resources/editorial-comments" 
             },
             {
-                "label": "Field notes",
+                "label": "Field Notes",
                 "route": "/content/research+resources/field-notes" 
             },
             {
-                "label": "Resources",
+                "label": "Other Resources",
                 "route": "/content/research+resources/resources" 
             }
 
@@ -67,36 +70,36 @@
         "label": "About",
         "menuItems": [
             {
-                "label": "Creation of the edition",
+                "label": "Creation of the Edition",
                 "route": "/content/about/creation" 
             },
-            {
-                "label": "About the M&K Project",
-                "route": "/content/about/m-k-project" 
+             {
+                "label": "How to Use",
+                "route": "/content/about/how-to-use" 
             },
             {
-                "label": "Peer review",
-                "route": "/content/about/peer-review" 
+                "label": "The Making and Knowing Project",
+                "route": "/content/about/m-k-project" 
             },
             {
                 "label": "Credits",
                 "route": "/content/about/credits" 
+            },            
+            {
+                "label": "Peer Review",
+                "route": "/content/about/peer-review" 
             },
             {
-                "label": "Contact",
-                "route": "/content/about/contact" 
+                "label": "How to Cite",
+                "route": "/content/about/how-to-cite" 
             },
             {
                 "label": "Sponsors",
                 "route": "/content/about/sponsors" 
-            },
+            },            
             {
-                "label": "How to cite",
-                "route": "/content/about/how-to-cite" 
-            },
-            {
-                "label": "How to use",
-                "route": "/content/about/how-to-use" 
+                "label": "Contact",
+                "route": "/content/about/contact" 
             }
         ]
     }
