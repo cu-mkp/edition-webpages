@@ -69,13 +69,13 @@
     {
         "label": "About",
         "menuItems": [
-            {
-                "label": "Creation of the Edition",
-                "route": "/content/about/creation" 
-            },
              {
                 "label": "How to Use",
                 "route": "/content/about/how-to-use" 
+            },            
+            {
+                "label": "Creation of the Edition",
+                "route": "/content/about/creation" 
             },
             {
                 "label": "The Making and Knowing Project",
