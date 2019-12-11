@@ -1,11 +1,11 @@
 [
     {
-        "label": "How to Use",
-        "route": "/content/how-to-use"
-    },
-    {
         "label": "Read the Manuscript",
         "route": "/folios"
+    },    
+    {
+        "label": "How to Use",
+        "route": "/content/how-to-use"
     },    
     {
         "label": "The Text",
