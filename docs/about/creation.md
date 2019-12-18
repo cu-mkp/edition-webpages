@@ -2,7 +2,7 @@
 
 This digital critical Edition and English translation of the French
 manuscript, Ms. Fr. 640, held by the Bibliothèque nationale de France
-(BnF),\[1\] presents a rich and unique sixteenth-century technical text
+(BnF), presents a rich and unique sixteenth-century technical text
 in French transcription and English translation for the first time, and
 situates its contents in their material and historical context. The
 manuscript provides important insights into the material, technical, and
