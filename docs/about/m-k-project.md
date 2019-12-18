@@ -8,7 +8,7 @@ research and pedagogical initiative in the Center for Science and
 Society at Columbia University. The Making and Knowing Project explores
 the intersections between historical craft making and scientific
 knowing. See
-[Vid.2](https://drive.google.com/file/d/1eVIGM-dzCAVxZsoHEsCMEzLRrOaBM2y0/view?usp=drivesdk).
+[video](https://drive.google.com/file/d/1eVIGM-dzCAVxZsoHEsCMEzLRrOaBM2y0/view?usp=drivesdk).
 Drawing on techniques from both laboratory and archival research as well
 as studio practice and digital humanities, the Making and Knowing
 Project aims to cross the science/humanities divide. The Edition of Ms.
