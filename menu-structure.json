@@ -34,6 +34,7 @@
         "menuItems": [
             {
                 "label": "Overview",
+                "placeholder": true,
                 "route": "/content/research+resources/overview" 
             },
             {
