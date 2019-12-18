@@ -50,8 +50,7 @@
             },
             {
                 "label": "Glossary",
-                "placeholder": true,
-                "route": "/content/research+resources/glossary" 
+                "route": "/folios/1r/f/1r/glossary" 
             },
             {
                 "label": "List of Editorial Comments",
