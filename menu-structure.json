@@ -49,18 +49,22 @@
             },
             {
                 "label": "Glossary",
+                "placeholder": true,
                 "route": "/content/research+resources/glossary" 
             },
             {
                 "label": "List of Editorial Comments",
+                "placeholder": true,
                 "route": "/content/research+resources/editorial-comments" 
             },
             {
                 "label": "Field Notes",
+                "placeholder": true,
                 "route": "/content/research+resources/field-notes" 
             },
             {
                 "label": "Other Resources",
+                "placeholder": true,
                 "route": "/content/research+resources/resources" 
             }
 
@@ -71,7 +75,7 @@
         "menuItems": [
              {
                 "label": "How to Use",
-                "route": "/content/about/how-to-use" 
+                "route": "/content/how-to-use" 
             },            
             {
                 "label": "Creation of the Edition",
@@ -83,6 +87,7 @@
             },
             {
                 "label": "Credits",
+                "placeholder": true,
                 "route": "/content/about/credits" 
             },            
             {
@@ -95,10 +100,12 @@
             },
             {
                 "label": "Sponsors",
+                "placeholder": true,
                 "route": "/content/about/sponsors" 
             },            
             {
                 "label": "Contact",
+                "placeholder": true,
                 "route": "/content/about/contact" 
             }
         ]
