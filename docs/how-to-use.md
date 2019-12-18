@@ -57,13 +57,12 @@ The layout of the transcription views mirrors the facsimile view.
     - Navigate one page forward / backward
   - Jump to folio
     - Navigate by entering a page number from 1r to 170v (e.g., “8v” or “106r”)
-    - \[*THU: is this the full range? It seems we can’t enter “plat sup.”*\]
   - Zoom
     - Choose from three preset magnifications, or use your mouse or trackpad for other levels of zoom
   - Thumbnail view
     - Loads thumbnails of all images of the manuscript into a pane, which can be navigated by the scroll bar
 
-  - Help icon: the movable pane divider???
+  - Movable pane divider
     - Drag the vertical bar dividing the view panes to resize them
     
     
