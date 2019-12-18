@@ -16,8 +16,6 @@ The Edition includes four versions of the manuscript text and a rich critical ap
 - glossary of terms and translation
 
 ### What is MsFr640?
-    
-[Video here of Paging through the manuscript]
 
 Sometime after 1579, an anonymous individual began recording techniques
 for many different processes we would now classify as belonging to the
@@ -45,9 +43,3 @@ for the history of craft and material culture, and for the history of
 art and science in the late sixteenth and early seventeenth centuries.
 Many things about this manuscript are, however, extraordinarily
 intriguing and puzzling.
-
-[Links to PHS and MHS essays]
-
-[Links to “The Manuscript” theme essay cluster??]
-
-[Links to Gallica]
