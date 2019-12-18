@@ -39,25 +39,27 @@ The **“normalised” transcription** aims to provide an optimally readable tex
 
 Both transcriptions document all deletions and changes in the manuscript, even of minor slips of the pen, transcribed as far as possible
 
-LIST OF SYMBOLS OCCURRING IN BNF MS. FR. 640 AND USED IN THE EDITION
---------------------------------------------------------------------
+### LIST OF SYMBOLS OCCURRING IN BNF MS. FR. 640 AND USED IN THE EDITION
 
-| **Symbol** | **Meaning**                 | **Unicode reference**                                                                               |
-|------------|-----------------------------|-----------------------------------------------------------------------------------------------------|
-| ☉          | Gold                        | [*http://unicode-table.com/en/2609/*](http://unicode-table.com/en/2609/)                            |
-| ☼          | Gold                        | [*http://unicode-table.com/en/263C/*](http://unicode-table.com/en/263C/)                            |
-| ℥          | Ounce                       | [*http://unicode-table.com/en/2125/*](http://unicode-table.com/en/2125/)                            |
+
+| **Symbol** | **Meaning**                 | **Unicode reference**|
+|------------|-----------------------------|----------------------|
+| ☉          | Gold                        | [*http://unicode-table.com/en/2609/*](http://unicode-table.com/en/2609/) |
+| ☼          | Gold                        | [*http://unicode-table.com/en/263C/*](http://unicode-table.com/en/263C/) |
+| ℥          | Ounce                       | [*http://unicode-table.com/en/2125/*](http://unicode-table.com/en/2125/)  |
 | ʒ          | Dram                        | [*http://unicode-table.com/en/0292/*](http://unicode-table.com/en/0292/) \[latin small letter ezh\] |
-| ☿          | Mercury                     | [*http://unicode-table.com/en/263F/*](http://unicode-table.com/en/263F/)                            |
-| ☾          | Last quarter moon (silver?) | [*http://unicode-table.com/en/263E/*](http://unicode-table.com/en/263E/)                            |
-| ♀          | Copper (Venus)              | [*http://unicode-table.com/en/2640/*](http://unicode-table.com/en/2640/)  \[female sign\]           |
-| ♁          | Antimony                    | [*http://unicode-table.com/en/2641/*](http://unicode-table.com/en/2641/) \[earth\]                  |
-| X          | Insertion mark              |                                                                                                     |
-| +          | Insertion mark              |                                                                                                     |
-| \#         | Insertion mark              |                                                                                                     |
-| 🝋          | Powder (Alchem.sign)        | [*http://unicode-table.com/en/1F74B/*](http://unicode-table.com/en/1F74B/)                          |
+| ☿          | Mercury                     | [*http://unicode-table.com/en/263F/*](http://unicode-table.com/en/263F/) |
+| ☾          | Last quarter moon (silver?) | [*http://unicode-table.com/en/263E/*](http://unicode-table.com/en/263E/) |
+| ♀          | Copper (Venus)              | [*http://unicode-table.com/en/2640/*](http://unicode-table.com/en/2640/)  \[female sign\] |
+| ♁          | Antimony                    | [*http://unicode-table.com/en/2641/*](http://unicode-table.com/en/2641/) \[earth\] |
+| X          | Insertion mark              | |
+| +          | Insertion mark              | |
+| \#         | Insertion mark              | |
+| 🝋          | Powder (Alchem.sign)        | [*http://unicode-table.com/en/1F74B/*](http://unicode-table.com/en/1F74B/) |
 
 [*http://unicode-table.com/en/*](http://unicode-table.com/en/)
+
+
 
 Principles of Translation
 
@@ -83,4 +85,67 @@ For more information on the process by which Ms. Fr. 640 was translated, see Soe
 For the reference sources used in translation, please see Appendix
 
 
-### Principles of Encoding
+## Principles of Encoding
+
+The encoding of Ms. Fr. 640 was “grad-sourced” in Text Workshops held by the Making and Knowing Project from 2014 to 2019 and then was checked and refined by the Digital Lead Terry Catapano and Senior Editorial Team members, Clement Godbarge, Naomi Rosenkranz, Pamela Smith, Tillmann Taape, and Tianna Uchacz. The Project employed XML markup based on the guidelines of the Text Encoding Initiative (TEI) . Additionally, Project Assistant Philip Cherian developed tools to help insert and validate ongoing markup.
+
+Each Text Workshop and encoding campaign necessitated a Protocol in order to train team members and make consistent the multiyear efforts. These Protocols are available in the Research and Pedagogy Template, and have been abstracted here. They included an introduction to TEI, and the principles of encoding for Ms. Fr. 640 developed over the five years of the Project, as well as very fine-grained practical instructions. These Encoding Protocols made clear our recognition that encoding a text is an interpretive act, thus all tags and encoding principles were discussed, reviewed, and revised multiple times over the five years of creating this Edition. They also set out the Project’s underlying goal as the effort to
+
+> achieve accurate and consistent markup of all three text versions of the manuscript. This is a very detail-oriented endeavor, but will enable future users to analyze the text in ways we have not conceived. We seek to make possible new questions and new analyses of the text.
+
+For more information on the process of encoding Ms. Fr. 640, see Celine Camps and Margot Lyautey, ann\_331\_ie\_19.
+
+### Structural and Semantic Markup employed in this Edition
+
+| **tag**     | **definition**  | **description and use**          |
+|-------------|-----------------|----------------------------------|
+| al          | animal          | denotes an animal                |
+| bp          | body part       | denotes a human body part        |                                                                    
+| caption     |                 |  |                                                   
+| cn          | coin            | denotes a known coin or currency   |     
+| df          | definition      | denotes where the author-practitioner defines or explains a term |                                     
+| env         | environment     | denotes a reference to a physical space or environment, such as workshop space, room, mountains, forest, etc |
+| m           | material        | a named physical material (e.g., “rose” but not “plant,” or a verb that implies a physical material, such as “to gild.”  |
+| md          | medical         | medical and health-related terms or phrases in an entry about some other topic. Medical recipes are categorized as such, but not marked with &lt;md&gt; tags.            |
+| ms          | measurement     | units of measurement, including temporal, volume, mass, length |
+| mu          | music           | musical instrument  |                                                                                      |
+| pa          | plant           | a named plant or part of a plant, not including plant gums  |                                         
+| pl          | place           | place name  |
+| pn          | personal name   | personal name, including authors, mythical personages, or reference to a specific individual, such as "King" and "the one who taught me to mold" (110r) | |
+| pro         | profession      | denotes both a recognized trade, such as goldsmith, but also a social status, such as peasant, or "rustic" |
+| sn          | sensory         | Use of the five senses to make a qualitative assessment |
+| tl          | tool            | tool, including any instrument, and physical or material object used to perform a process, including body parts and verbs such as "piler" (to pestle) that imply a tool. |                                                                   
+| tmp         | temporal        | references to time, including hour, day, season, holiday, span of time, time of day, etc. |
+| wp          | arms and armor  | word or phrase referring to arms and armor |
+| add         | addition        | an addition made to the main text by the writer | 
+| comment     |                 | |
+| cont        |                 | denotes a continuation of an entry across folios |
+| corr        |                 | denotes an editorial correction by the Making and Knowing Project team |
+| del         |                 | denotes a deletion by the writer  |
+| div         |                 | |                                                                                                     
+| emph        |                 | denotes italic French script  |                                                                       
+| exp         | expansion       | denotes use of abbreviation suspensions |
+| figure      |                 | |
+| fr          | french          | denotes a word left in French in the English translation because meaning is unclear or a translation does not exist |
+| gap         |                 | gap within the written text |
+| de          | german          | denotes a word with a German origin  |
+| gk          | greek           | a word or phrase in Greek (in Greek or Latin script) |
+| head        |                 | an entry title or heading |
+| hr          | horizontal rule | a horizontal line in the text | |
+| ill         | illegible       | illegible |
+| image       |                 |  |
+| it          | italian         | text in Italian  |
+| la          | latin           | text in Latin    |
+| lb          |                 | line break - only used in the French transcription |
+| mark        |                 | a mark in the text that has a corresponding unicode character |
+| oc          | occitan         | word or phrase in the Occitan language or of an Occitan root  |
+| page        |                 | |
+| po          | poitevin        | word in the Poitevin dialect |                                                                         
+| root        |                 | |
+| sup         |                 | a word or heading supplied by Making and Knowing Project editors for clarity in computational analysis of the text |
+| underline   |                 | underlining in the original  |                                                                         
+| superscript |                 | writing that appears in superscript in the original  |
+| ups         |                 | parts of the text that were covered by the paper strips placed around each page of the manuscript during its seventeenth-century re-binding in the Bethune bindings |
+
+
+
