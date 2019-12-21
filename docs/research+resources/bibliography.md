@@ -400,8 +400,7 @@ compagnie, et in somma à far ogni conto che l’huomo, si possa
 imaginare*. Brescia: Sabbio, Vincenzo, 1589.
 
 ### Secondary Sources
-Bol, Marjolijn. “Perspective as practice: Renaissance cultures of
-optics.” In, edited by Sven Dupré, 71–101. Turnhout: Brepols, 2019.
+Bol, Marjolijn. “The emerald and the eye: on sight and light in the artisan's workshop and scholar's study." In, *Perspective as practice: Renaissance cultures of optics*, edited by Sven Dupré, 71–101. Turnhout: Brepols, 2019.
 
 Daux, Camille. *Histoire de l’Eglise de montauban*. Paris: Bray et
 Retaux, 1881.
@@ -415,6 +414,7 @@ ier*. Presses de l’Université de Paris Sorbonne, 2001.
 
 Nadolski, Dieter. *Les étains anciens usuels: Leur aspect et leur
 fonction pendant six siècles*. Paris: Nouvelles Editions Latines, 1986.
+
 Roy, Maurice. *Jehan cousin père, sculpteur : La statue de l’amiral
 chabot et le jubé de la chapelle de pagny*. Sens: Duchemin, 1909.
 
