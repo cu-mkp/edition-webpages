@@ -27,35 +27,30 @@ critical apparatus.
 Parallel viewing panes allow users to compare two of the following
 components:
 
-1.  > a diplomatic (verbatim) transcription of the original French text,
+1. a diplomatic (verbatim) transcription of the original French text,
 
-2.  > a lightly normalized French transcription (with punctuation and
-    > diacritical marks added),
+2. a lightly normalized French transcription (with punctuation and diacritical marks added),
 
-3.  > an English translation, and
+3. an English translation, and
 
-4.  > high-definition images of the manuscript fed directly from
-    > Gallica, the BnF’s digital library (where it is catalogued as
-    > “Recueil de recettes” n.d.).
+4. high-definition images of the manuscript fed directly from Gallica, the BnF’s digital library (where it is catalogued as “Recueil de recettes” n.d.).
 
 The Edition also integrates access to the Project’s interpretive
 resources (also accessible as stand-alone features), including:
 
-  - > Essays that discuss the general material, historical, and cultural
-    > context of Ms. Fr. 640
+  - Essays that discuss the general material, historical, and cultural context of Ms. Fr. 640
 
-  - > In-depth multimedia essays that focus on the laboratory
-    > reconstruction of selected manuscript entries
+  - In-depth multimedia essays that focus on the laboratory reconstruction of selected manuscript entries
 
-  - > Field notes from laboratory reconstructions of select recipes
+  - Field notes from laboratory reconstructions of select recipes
 
-  - > Principles of transcription, translation, and encoding
+  - Principles of transcription, translation, and encoding
 
-  - > Bibliography of works cited
+  - Bibliography of works cited
 
-  - > Editorial and translation comments
+  - Editorial and translation comments
 
-  - > Glossary of terms and translation
+  - Glossary of terms and translation
 
 ## What is Ms. Fr. 640?
 
@@ -95,37 +90,31 @@ and puzzling.
 
 For more information:
 
-  - > On the manuscript and the Edition:
+  - On the manuscript and the Edition:
     
-      - > Smith, An Introduction to Ms. Fr. 640 and its
-        > Author-Practitioner
+      - Smith, An Introduction to Ms. Fr. 640 and its Author-Practitioner
     
-      - > Smith, Making the Edition of Ms. Fr. 640
+      - Smith, Making the Edition of Ms. Fr. 640
 
-  - > On the transcription, translation, and encoding of the manuscript,
-    > see:
+  - On the transcription, translation, and encoding of the manuscript, see:
     
-      - > Principles of Transcription
+      - Principles of Transcription
     
-      - > Principles of Translation
+      - Principles of Translation
     
-      - > Principles of Encoding
+      - Principles of Encoding
     
-      - > Smith, Making Ms. Fr. 640 (on the codicology and paleography)
+      - Smith, Making Ms. Fr. 640 (on the codicology and paleography)
     
-      - > Wacha, Dyon, Turning Turtle: The Process of Translating BnF
-        > Ms. Fr. 640
+      - Wacha, Dyon, Turning Turtle: The Process of Translating BnF Ms. Fr. 640
     
-      - > Camps, Lyautey, Ma\<r\>king and Knowing: Encoding BnF Ms. Fr.
-        > 640
+      - Camps, Lyautey, Ma\<r\>king and Knowing: Encoding BnF Ms. Fr. 640
     
-      - > Catapano, Rosenkranz, BnF Ms. Fr. 640 as a Digital Text
+      - Catapano, Rosenkranz, BnF Ms. Fr. 640 as a Digital Text
 
-  - > Other Research Essays grouped under the theme, “The Manuscript,
-    > Ms. Fr. 640.”
+  - Other Research Essays grouped under the theme, “The Manuscript, Ms. Fr. 640.”
 
-  - > The digitized manuscript through Gallica, the BnF’s digital
-    > library: <https://gallica.bnf.fr/ark:/12148/btv1b10500001g>.
+  - The digitized manuscript through Gallica, the BnF’s digital library: <https://gallica.bnf.fr/ark:/12148/btv1b10500001g>.
 
 ## Reading and Using the Edition
 
@@ -133,9 +122,6 @@ For detailed information, see How to Use the Edition.
 
 The manuscript text can be browsed in two ways:
 
-1.  > Presented in a dual-pane display in “Read the Manuscript,”
-    > allowing side-by-side viewing of any combination of two versions
-    > of the manuscript (facsimile, transcriptions, translation).
+1. Presented in a dual-pane display in “Read the Manuscript,” allowing side-by-side viewing of any combination of two versions of the manuscript (facsimile, transcriptions, translation).
 
-2.  > As a List of Entries, organized by the headings of all 930
-    > “recipes” or entries in Ms. Fr. 640.
+2. As a List of Entries, organized by the headings of all 930 “recipes” or entries in Ms. Fr. 640.
