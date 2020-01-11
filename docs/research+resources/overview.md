@@ -24,26 +24,23 @@ which was compiled in the transcription and translation of the text.
 
 It contains:
 
-  - > Meaning of words
+  - Meaning of words
 
-  - > Alternate spellings
+  - Alternate spellings
 
-  - > Language/dialect of origin
+  - Language/dialect of origin
 
-  - > Modern spelling
+  - Modern spelling
 
-  - > Part of speech
+  - Part of speech
 
-  - > Bibliographic references
+  - Bibliographic references
 
 Sample entry:
 
-  - > Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
+  - Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
     
-      - > In this entry, the word as it appears in Ms. Fr. 640 is
-        > followed by its modern spelling, its part of speech, and its
-        > meaning in English. The key in square brackets indicates the
-        > source of the definition, and is listed in the Bibliography.
+      - In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets indicates the source of the definition, and is listed in the Bibliography.
 
 The glossary can be navigated by clicking on the relevant letter, or by
 using the dedicated search box to find a particular word (the search
@@ -57,9 +54,9 @@ author-practitioner’s early modern French shows little standardization,
 and while the glossary includes common spelling variants, the list is
 not exhaustive. Common variations are:
 
-  - > double vs. single consonant, as in *plate* vs. *platte*
+  - double vs. single consonant, as in *plate* vs. *platte*
 
-  - > homonyms, e.g. aiguille, esguille; alun, alum, alung
+  - homonyms, e.g. aiguille, esguille; alun, alum, alung
 
 ## Editorial Comments
 
@@ -98,31 +95,17 @@ downloaded as standalone articles.
 The Research Essays are grouped in up to three of seven broad categories
 that are navigated by the menu bar on the left:
 
-  - > **An Introduction**: written by Project and invited scholars and
-    > serve as introductory resources and provide an overview of the
-    > manuscript, the Project, and background information.
+  - **An Introduction**: written by Project and invited scholars and serve as introductory resources and provide an overview of the manuscript, the Project, and background information.
 
-  - > **The Manuscript, Ms. Fr. 640**: provide information about the
-    > manuscript (its codicology, palaeography, and probable genesis),
-    > its relationship to other genres of writing, and the identity of
-    > its anonymous author-practitioner.
+  - **The Manuscript, Ms. Fr. 640**: provide information about the manuscript (its codicology, palaeography, and probable genesis), its relationship to other genres of writing, and the identity of its anonymous author-practitioner.
 
-  - > **The Making and Knowing Laboratory**: discuss hands-on work in
-    > the Making and Knowing Laboratory, principles of reconstruction,
-    > and results and conclusions from experimental work.
+  - **The Making and Knowing Laboratory**: discuss hands-on work in the Making and Knowing Laboratory, principles of reconstruction, and results and conclusions from experimental work.
 
-  - > **Society and Culture**: treat the historical context of the
-    > manuscript, and society and culture in sixteenth-century France.
+  - **Society and Culture**: treat the historical context of the manuscript, and society and culture in sixteenth-century France.
 
-  - > **Art and Its Making**: discuss the materials, making, and meaning
-    > of art, and the training of artists.  
-    > **Knowing Nature**: explore the investigation, manipulation, and
-    > exploration of the materials and principles of nature in Ms. Fr.
-    > 640.
+  - **Art and Its Making**: discuss the materials, making, and meaning of art, and the training of artists. **Knowing Nature**: explore the investigation, manipulation, and exploration of the materials and principles of nature in Ms. Fr. 640.
 
-  - > **The Making and Knowing Project**: discuss the Making and Knowing
-    > Project, including its initiatives, pedagogy, methods, personnel,
-    > and collaborators.
+  - **The Making and Knowing Project**: discuss the Making and Knowing Project, including its initiatives, pedagogy, methods, personnel, and collaborators.
 
 ## Field Notes
 
@@ -161,33 +144,33 @@ of all 930 “recipes” or entries in Ms. Fr. 640.
 Relevant terms in each entry have been encoded using fourteen semantic
 tags:
 
-  - > animal
+  - animal
 
-  - > body part
+  - body part
 
-  - > currency
+  - currency
 
-  - > environment
+  - environment
 
-  - > material
+  - material
 
-  - > measurement
+  - measurement
 
-  - > medical
+  - medical
 
-  - > music
+  - music
 
-  - > personal name
+  - personal name
 
-  - > place
+  - place
 
-  - > plant
+  - plant
 
-  - > profession
+  - profession
 
-  - > sensory
+  - sensory
 
-  - > tool
+  - tool
 
 For further information on these tags, please see the Principles of
 Encoding.
