@@ -1,5 +1,14 @@
 # Bibliography
 
+Bibliographic references cited in the editorial comments are either secondary sources providing additional information on the topic at hand, or primary sources mentioned in the manuscript. While we provide detailed references for these primary sources, we cannot always be certain that the specific edition we cite is the one the author-practitioner has used. 
+
+In most cases, we provide a non-exhaustive selection of printed editions, giving priority to more widely available editions and more prominent publishers (Robert and Henri Estienne, Aldo Manuzio, Christophe Plantin, Hieronymus Froben, Johannes Herwagen, etc). 
+
+To search for other possible editions, we provide users with a link to the Universal Short Title Catalogue whenever possible in the Glossary.
+
+The bibliographic databases are available as BibTeX and html, downloadable from the Project’s GitHub repository: https://github.com/cu-mkp/m-k-manuscript-data/tree/master/bibliographies.
+
+
 ## Editorial Comments
 ### Primary Sources
 Agrippa von Nettesheim, Cornelius. *De occulta philosophia*. Cologne: J.
