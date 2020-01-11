@@ -260,8 +260,7 @@ manuscript, the Project, and background information.
   - **Society and Culture**: treat the historical context of the manuscript, and society and culture in sixteenth-century France.
 
   - **Art and Its Making**: discuss the materials, making, and meaning of art, and the training of artists.
-**Knowing Nature**: explore the investigation, manipulation, and exploration of the materials and principles of nature in Ms. Fr.
-640.
+**Knowing Nature**: explore the investigation, manipulation, and exploration of the materials and principles of nature in Ms. Fr.640.
 
   - **The Making and Knowing Project**: discuss the Making and Knowing Project, including its initiatives, pedagogy, methods, personnel, and collaborators.
 
