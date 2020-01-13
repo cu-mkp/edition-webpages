@@ -39,7 +39,7 @@ Students in the Making and Knowing Project’s laboratory seminars from
 2014 to 2018 used the transcriptions and translations to investigate the
 materials and techniques contained in the manuscript.
 
-VIDEO: M\&K Lab video
+<iframe src="https://player.vimeo.com/video/384070452" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> 
 
 These students produced essays that featured their research on texts and
 objects, as well as their experiments in reconstructing the technical
