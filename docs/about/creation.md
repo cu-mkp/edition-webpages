@@ -40,7 +40,7 @@ Students in the Making and Knowing Project’s laboratory seminars from
 materials and techniques contained in the manuscript.
 
 <iframe src="https://player.vimeo.com/video/384070452" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> 
-
+<br/>
 These students produced essays that featured their research on texts and
 objects, as well as their experiments in reconstructing the technical
 processes and recipes in Ms. Fr. 640. The essays gloss entries in Ms.
