@@ -293,12 +293,8 @@ working in Google Drive, Text Workshop members used working tools
 constructed by Project Assistant Philip Cherian, and are listed here in
 case they are useful to users of the Edition.
 
-  - > Googledrive Add **“[Tag
-    > Insertion](https://chrome.google.com/webstore/detail/tag-insertion/bmbnkgemgamfdehffagfghkbkcgcoika?utm_source=permalink)”**
-    > - a digital tool for quickly grabbing a tag and inserting into the
-    > text.    
+  - Googledrive Add **“[Tag Insertion](https://chrome.google.com/webstore/detail/tag-insertion/bmbnkgemgamfdehffagfghkbkcgcoika?utm_source=permalink)”**
+  - a digital tool for quickly grabbing a tag and inserting into the text.    
 
-  - > Googledrive Add on **“[XML
-    > Validator](https://chrome.google.com/webstore/detail/xmlvalidator/enbfpfceakblekdbimplgjkmjfjceede?utm_source=permalink)”**
-    > - a digital tool for validating markup before moving on to the
-    > next recipe or folio
+  - Googledrive Add on **“[XML Validator](https://chrome.google.com/webstore/detail/xmlvalidator/enbfpfceakblekdbimplgjkmjfjceede?utm_source=permalink)”**
+  - a digital tool for validating markup before moving on to the  next recipe or folio
