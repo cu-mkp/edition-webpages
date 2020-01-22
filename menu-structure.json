@@ -43,8 +43,8 @@
                 "label": "Index of Keywords (Term Indices)",
                 "placeholder": true,
                 "route": "/content/text/index-of-terms"            
-        ]
-    },
+            }
+            ]
     {
         "label": "About",
         "menuItems": [
