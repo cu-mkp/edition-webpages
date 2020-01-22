@@ -1,4 +1,4 @@
-## About the Making and Knowing Project
+# About the Making and Knowing Project
 
 The Making and Knowing Project (www.makingandknowing.org), founded in 2014 by Pamela H. Smith, and involving hundreds of collaborators (#/content/about/credits), is a research and pedagogical initiative in the Center for Science and Society (https://scienceandsociety.columbia.edu) at Columbia University. 
 
