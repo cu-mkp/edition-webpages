@@ -5,7 +5,7 @@
     },
     {
         "label": "Essays",
-        "route": "/content/essays"
+        "route": "/essays"
     },
     {
         "label": "How to Use",
