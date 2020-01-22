@@ -5,8 +5,12 @@
     },
     {
         "label": "Essays",
-        "route": "/essays"
-    },  
+        "route": "/content/essays"
+    },
+    {
+        "label": "How to Use",
+        "route": "/content/how-to-use"
+    },    
     {
         "label": "Resources",
         "menuItems": [
@@ -78,9 +82,5 @@
                 "route": "/content/about/contact" 
             }
         ]
-    }
-        {
-        "label": "How to Use",
-        "route": "/content/how-to-use"
     }
 ]
