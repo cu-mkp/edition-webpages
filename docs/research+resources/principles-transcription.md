@@ -27,7 +27,7 @@ conventional in sixteenth-century usage or accidental (see Ms. Fr. 640’s
 letterforms,
 <https://www.makingandknowing.org/text-workshops/letterforms-fancybox/>).
 
-Even long **s (**ſ) (initial and medial) and short **s** (exclusively
+Even long **s** (**ſ**) (initial and medial) and short **s** (exclusively
 final), which would have been distinguished in early-modern print, are
 rendered in the modern form as **s**. For example, “ſans” is transcribed
 “sans.”
