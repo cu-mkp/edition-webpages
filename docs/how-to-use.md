@@ -22,7 +22,7 @@ The manuscript is presented in a dual-pane display, allowing
 side-by-side viewing of any combination of two versions of the
 manuscript.
 
-IMAGE - howtouse-dualpane
+![how-to-use-dualpane](https://github.com/cu-mkp/edition-webpages/blob/master/images/howtouse-dualpane.PNG)
 
 CAPTION: Side-by-side display of facsimile image and diplomatic French
 transcription of folio 4r.
