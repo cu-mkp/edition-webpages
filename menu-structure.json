@@ -44,7 +44,8 @@
                 "placeholder": true,
                 "route": "/content/text/index-of-terms"            
             }
-            ]
+       ]
+    },  
     {
         "label": "About",
         "menuItems": [
