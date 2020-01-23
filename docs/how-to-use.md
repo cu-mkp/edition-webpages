@@ -22,6 +22,7 @@ side-by-side viewing of any combination of two versions of the
 manuscript.
 
 ![how-to-use-dualpane](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane-4x6.png)
+
 Side-by-side display of facsimile image and diplomatic French
 transcription of folio 4r.
 
@@ -30,12 +31,14 @@ To choose a version, click on the drop-down menu in the upper right
 corner of each pane.
 
 ![howtouse-dualdropdown-4x6](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown-4x6.png)
+
 Drop-down menu for comparison viewing panes, allowing choice
 between any combination of two versions of the manuscript.
 
 
 Quick access to the [Glossary](/#folios/1r/f/1r/glossary) is a fourth option to be displayed in
 either pane (more about the Glossary below).
+
 
 To resize the panes, drag the vertical bar dividing the view panes to
 increase the size of one pane and decrease the size of the other.
@@ -47,21 +50,21 @@ overview which can be browsed with the scroll bar in order to navigate
 to any folio. Once a page is chosen, the facsimile will appear in the
 left pane by default.
 
+
 Within the pane, the facsimile image can be expanded by clicking on the
 \+ and \- symbols at the left side of the folio viewing pane.
 Alternatively, choose from three preset magnifications, or use the mouse
 or trackpad for other levels of zoom.
 
+
 To return to the thumbnail grid, click on the grid icon <i class="fas fa-th"></i> beneath the
 expand icons on the left side of the viewing pane.
 
+
 ### Transcriptions and Translations
 
-The layout of the transcription, normalized transcription, and
-translation pages mirrors the layout of the facsimile page. This
-includes headings, text blocks, marginalia, figures, marks, as well as
-distinctive elements described
-below.
+The layout of the transcription, normalized transcription, and translation pages mirrors the layout of the facsimile page. This
+includes headings, text blocks, marginalia, figures, marks, as well as distinctive elements described below.
 
 #### Elements of the Manuscript:
 
@@ -82,6 +85,7 @@ below.
 | Essay Icon             | Research Essays (see below)                                                                                                                                                                                                                                                                             | ![howtouse-beaker](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-beaker.png)|
 | Red asterisks          | Editorial Comments (see below)                                                                                                                                                                                                                                                                          | ![howtouse-asterisk](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-asterisk.png)|
 
+
 ### Navigation within the Dual-pane Display
 
 This can also be found by clicking on the the <i class="fas fa-question-circle"></i> help icon.
@@ -98,8 +102,6 @@ This can also be found by clicking on the the <i class="fas fa-question-circle">
 
           - NB: disables ability to access thumbnail view
 
-<!-- end list -->
-
   - Toggle XML Mode <i class="fas fa-code"></i>
 
       - Enable/disable view of the xml source code for the page showing the page’s encoding
@@ -113,18 +115,18 @@ This can also be found by clicking on the the <i class="fas fa-question-circle">
   - Jump to folio <i class="fas fa-hand-point-right"></i>
 
       - Navigate by entering a page number from 1r to 170v (e.g., “8v” or “106r”)
+      
 
 ### Searching
 
-The search bar allows a search in the two French transcriptions, the
-English translation, and the Research Essays. 
+The search bar allows a search in the two French transcriptions, the English translation, and the Research Essays. 
 
-Search results can be displayed either according to relevance or by folio numbers (listed
-sequentially). 
 
-Results can be narrowed by checking only the components of the Edition in which a user wishes to see search results (i.e.,
-English Translation, Diplomatic Transcription, Normalized Transcription,
-and Research Essays).
+Search results can be displayed either according to relevance or by folio numbers (listed sequentially). 
+
+
+Results can be narrowed by checking only the components of the Edition in which a user wishes to see search results (i.e., 
+English Translation, Diplomatic Transcription, Normalized Transcription, and Research Essays).
 
   - Search quick tips: see the <i class="fas fa-question-circle"></i> icon on upper right of returned searches.
 
@@ -144,25 +146,27 @@ of Ms. Fr. 640. The following listed elements can be found by navigating to the 
 
 Please also see [Overview of Resources](/#content/research+resources/overview).
 
+
 ### [List of Entries](/#entries)
 
-The List of Entries allows navigation of the manuscript by the headings of all 930
-“recipes” or entries in Ms. Fr. 640.
+The List of Entries allows navigation of the manuscript by the headings of all 930 “recipes” or entries in Ms. Fr. 640.
 
-The entries can be sorted sequentially as they appear in the manuscript
-or alphabetically.
 
-Relevant terms in each entry have been encoded using fourteen semantic
-tags that include materials, tools, and places.
+The entries can be sorted sequentially as they appear in the manuscript or alphabetically.
 
-To see the full list of tagged terms contained in any given entry, click
-on the upper right dropdown arrow. The version to be displayed
+
+Relevant terms in each entry have been encoded using fourteen semantic tags that include materials, tools, and places.
+
+
+To see the full list of tagged terms contained in any given entry, click on the upper right dropdown arrow. The version to be displayed
 (transcription, normalized transcription, and English translation) can
 be chosen.
+
 
 To filter the entries by which semantic tags they contain, click on any
 of the tags to see only entries that have terms that are tagged as such.
 These can be further refined by clicking on multiple tag types.
+
 
 For a full list of the tags and their usage, see the [Principles of
 Encoding](/#content/research+resources/principles-encoding).
@@ -173,11 +177,14 @@ Encoding](/#content/research+resources/principles-encoding).
 A Glossary of distinctive terms used in the manuscript can be accessed
 by selecting “Glossary” in the dropdown menu of the dual-pane view.
 
+
 Use the alphabetical navigation bar to browse the contents.
+
 
 Additionally, the Glossary has a dedicated filtering search which can be used to navigate by the head-word (the manuscript's original French variant) as well as alternate and modern spellings.
 
 ![howtouse-glossary](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-glossary.png)
+
 
 ### [Research Essays](/#essays)
 
@@ -185,19 +192,25 @@ Research Essays clarify the text of the manuscript, provide material,
 technical, and historical context, and describe student reconstructions
 in the Making and Knowing Laboratory.
 
+
 The Essays can be accessed in two places: 1) within the manuscript pages
 and 2) in a dedicated index.
 
+
 ![howtouse-beaker](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-beaker.png)
+
 In the dual-pane display of the manuscript, these essays appear next to
 the manuscript entries they discuss. They can be accessed by clicking on
 the essay icon found to the right of the manuscript entry heading.
 
+
 ![howtouse-essays](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essays.png)
+
 The listing of essays can be viewed as small thumbnails or as cards with the essay’s
 abstract. Clicking on manuscript folio numbers referenced in the essays
 links out to the relevant folio page (return by clicking the back arrow
 in your browser).
+
 
 The Research Essays are grouped into seven broad categories that are
 navigated by the menu bar on the left:
@@ -216,22 +229,27 @@ navigated by the menu bar on the left:
 
   - **The Making and Knowing Project**: the Making and Knowing Project, including its initiatives, pedagogy, methods, personnel, and collaborators.
 
+
 ### [The Bibliography](/#content/research+resources/bibliography)
 
 The Bibliography lists all works cited in the Edition, collected from
 editorial comments and the Glossary.
 
+
 Each Research Essay contains a full bibliography of works cited in the
 essay.
+
 
 ### [Field Notes](/#content/research+resources/fieldnotes)
 
 Field notes recorded by students as they planned, researched,
 reconstructed, and wrote their laboratory essays. 
 
+
 The respective field notes are also linked in each student Research Essay.
 
 ![howtouse-fieldnotes](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-fieldnotes.png)
+
 
 ## How to Cite
 
