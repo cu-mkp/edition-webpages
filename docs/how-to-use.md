@@ -72,7 +72,7 @@ includes headings, text blocks, marginalia, figures, marks, as well as
 distinctive elements described
 below.
 
-#### Distinctive Elements of the Manuscript:
+#### Elements of the Manuscript:
 
 | **Rendering**          | **Meaning**                                                                                                                                                                                                                                                                                             | **Example** |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
@@ -174,7 +174,7 @@ Encoding.
 
 #### Entry Categories
 
-**The** entries have been further divided into one or more categories.
+The entries have been further divided into one or more categories.
 This enables filtering by processes and/or materials that typify the
 entry. See Smith, An Introduction to Ms. Fr. 640 and its
 Author-Practitioner for more
