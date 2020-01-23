@@ -22,7 +22,7 @@ The manuscript is presented in a dual-pane display, allowing
 side-by-side viewing of any combination of two versions of the
 manuscript.
 
-![how-to-use-dualpane](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane.PNG)
+![how-to-use-dualpane](../images/howtouse-dualpane.PNG)
 
 RESIZE OF IMAGE TEST:
 
