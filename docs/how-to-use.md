@@ -22,26 +22,18 @@ The manuscript is presented in a dual-pane display, allowing
 side-by-side viewing of any combination of two versions of the
 manuscript.
 
-![how-to-use-dualpane](../images/howtouse-dualpane.PNG)
-
-RESIZE OF IMAGE TEST:
-
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane.PNG" width="400" height="200" />
-
 ![how-to-use-dualpane](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane-4x6.png)
-
-![how-to-use-dualpane](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane-6x9.png)
-
-CAPTION: Side-by-side display of facsimile image and diplomatic French
+Side-by-side display of facsimile image and diplomatic French
 transcription of folio 4r.
+
 
 To choose a version, click on the drop-down menu in the upper right
 corner of each pane.
 
-IMAGE - howtouse-dualdropdown
-
-CAPTION: Drop-down menu for comparison viewing panes, allowing choice
+![howtouse-dualdropdown-4x6](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown-4x6.png)
+Drop-down menu for comparison viewing panes, allowing choice
 between any combination of two versions of the manuscript.
+
 
 Quick access to the Glossary is a fourth option to be displayed in
 either pane (more about the Glossary below).
@@ -93,15 +85,13 @@ below.
 
 ### Navigation within the Dual-pane Display
 
-This can also be found by clicking on the the ? help icon.
+This can also be found by clicking on the the <i class="fas fa-question-circle"></i> help icon.
 
-IMAGE
-
-  - Toggle Sync View
+  - Toggle Sync View <i class="fas fa-lock"></i>
 
       - Enable/disable automatic display of the same page in both panes
 
-  -  Toggle Book Mode
+  -  Toggle Book Mode <i class="fas fa-book"></i>
 
       - Enable/disable use of the dual panes to show the facing page of the manuscript, as though reading a book
 
@@ -117,38 +107,45 @@ IMAGE
 
       - Encoded tags and their meanings are described in the  “Principles of Encoding.” 
       
-  - Go Forward / Back
+  - Go Forward / Back <i class="fas fa-arrow-alt-circle-left"></i> <i class="fas fa-arrow-alt-circle-right"></i>
 
       - Navigate one page forward / backward
 
-  - Jump to folio
+  - Jump to folio <i class="fas fa-hand-point-right"></i>
 
       - Navigate by entering a page number from 1r to 170v (e.g., “8v” or “106r”)
 
 ### Searching
 
 The search bar allows a search in the two French transcriptions, the
-English translation, and the Research Essays. Search results can be
-displayed either according to relevance or by folio numbers (listed
-sequentially). Results can be narrowed by checking only the components
-of the Edition in which a user wishes to see search results (i.e.,
+English translation, and the Research Essays. 
+
+Search results can be displayed either according to relevance or by folio numbers (listed
+sequentially). 
+
+Results can be narrowed by checking only the components of the Edition in which a user wishes to see search results (i.e.,
 English Translation, Diplomatic Transcription, Normalized Transcription,
 and Research Essays).
 
-  - Search quick tips: see the ? icon on upper right of returned searches.
+  - Search quick tips: see the <i class="fas fa-question-circle"></i> icon on upper right of returned searches.
 
   - The search functions by finding all terms entered into the search bar, connecting words with AND.
 
   - Enclose search terms in quotation marks to treat terms as a phrase. A search phrase enclosed in quotation marks will yield only entries containing the entire phrase.
 
-  - Wildcard searching can be done by including an asterisk (\*) for a term fragment. Note that the asterisk is ignored if quotation marks are used. Wildcard search can be used to allow for variations in early modern spelling, or to search for conjugated verb forms, plurals, as well as singular of nouns, etc. Because stemmed searches are not possible, the wildcard search must be used for plurals or conjugations, or, the exact search term must be entered in the search bar.
+  - Wildcard searching can be done by including an asterisk \[\*\] for a term fragment. Note that the asterisk is ignored if quotation marks are used. Wildcard search can be used to allow for variations in early modern spelling, or to search for conjugated verb forms, plurals, as well as singular of nouns, etc. Because stemmed searches are not possible, the wildcard search must be used for plurals or conjugations, or, the exact search term must be entered in the search bar.
 
-  - When a search result has been returned, it displays in the left pane of the Edition. Clicking on a result opens the page of the manuscript that contains that entry in the opposite pane. Searching within that page is by means of the browser Find
-function. To exit the search function to see a dual pane view, click on “exit search” in the upper left corner of the search results. To return to the search, either use the back arrow in your browser, or return to the Edition’s search bar, where the search term has been retained.
+  - When a search result has been returned, it displays in the left pane of the Edition. Clicking on a result opens the page of the manuscript that contains that entry in the opposite pane. Searching within that page is by means of the browser "find" function. To exit the search function to see a dual pane view, click on “exit search” in the upper left corner of the search results. To return to the search, either use the back arrow in your browser, or return to the Edition’s search bar, where the search term has been retained.
 
-### List of Entries
 
-The **List of Entries** can be accessed by navigating to “List of
+## Resources
+
+Numerous resources serve as tools and companion commentary to the text
+of Ms. Fr. 640.
+
+### [List of Entries](/#entries)
+
+The List of Entries can be accessed by navigating to “List of
 Entries” found under “The Text.”
 
 It allows navigation of the manuscript by the headings of all 930
@@ -172,47 +169,6 @@ These can be further refined by clicking on multiple tag types.
 For a full list of the tags and their usage, see the Principles of
 Encoding.
 
-#### Entry Categories
-
-The entries have been further divided into one or more categories.
-This enables filtering by processes and/or materials that typify the
-entry. See Smith, An Introduction to Ms. Fr. 640 and its
-Author-Practitioner for more
-information.
-
-| **Category**               | **Definition and use**                                                                                                    |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| casting                    | involves making of molds for casting, and/or casting into molds                                                           |
-| painting                   | involves painting, paintings, or painters                                                                                 |
-| metal process              | a process involving metals not being cast                                                                                 |
-| varnish                    | involves varnish making or application                                                                                    |
-| arms and armor             | arms and armor                                                                                                            |
-| medicine                   | medical, health, and healing recipes                                                                                      |
-| household and daily life   | to do with household management or ornamentation, daily life, and quotidian subjects                                      |
-| cultivation                | to do with cultivating plants                                                                                             |
-| stones                     | includes significant references precious and semi-precious stones, and their imitations                                   |
-| wood and its coloring      | includes significant references to wood and/or the coloring of wood                                                       |
-| tool                       | references use of a specific tool, or describes the making of tool                                                        |
-| tricks and sleight of hand | sleight of hand tricks and practical jokes                                                                                |
-| decorative                 | involves the making of a material or object that is used to decorate                                                      |
-| animal husbandry           | involves the raising, care, and feeding of animals of any sort                                                            |
-| glass process              | involves the making or use of glass                                                                                       |
-| corrosives                 | involves the making or use of corrosive substances                                                                        |
-| dyeing                     | involves the preparation of dye, or the dyeing of other substances                                                        |
-| preserving                 | involves the preservation of flowers, candles, foods, and animals for future use or ornamentation                         |
-| wax process                | process involving wax as a main ingredient, and/or the manipulation of the properties of wax                              |
-| practical optics           | involves objects or processes that cause optical effects, such as perspective construction, reflection, and magnification |
-| lists                      | text that is arrayed as a list                                                                                            |
-| merchants                  | refers to merchants or merchant practices                                                                                 |
-| printing                   | references printing processes or printing tools                                                                           |
-| La boutique                | refers to entries titled "La Boutique"                                                                                    |
-| alchemy                    | processes that pursue the making of gold                                                                                  |
-| manuscript structure       | structural note (fol. 170v only)                                                                                          |
-
-## Research and Resources
-
-Numerous resources serve as tools and companion commentary to the text
-of Ms. Fr. 640.
 
 ### Glossary
 
