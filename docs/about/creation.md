@@ -1,16 +1,5 @@
 # Creation of the Edition
 
-This Digital Critical Edition and English translation of the French
-manuscript Ms. Fr. 640, held by the Bibliothèque nationale de France
-(BnF), presents a rich and unique sixteenth-century technical text in
-French transcription and English translation for the first time, and
-situates its contents in their material and historical context.
-
-The manuscript provides important insights into the material, technical,
-and intellectual worlds of the late sixteenth century, and brings a
-better understanding of how and why nature was investigated, used in
-art, and collected and appreciated in early modern Europe.
-
 The creation of the Edition has been the primary goal of the Making and
 Knowing Project since it was founded in 2014. The Edition presents the
 culmination of over five years of iterative, collaborative, and
