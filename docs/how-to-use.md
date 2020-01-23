@@ -103,7 +103,7 @@ IMAGE
 
 <!-- end list -->
 
-  - Toggle XML Mode
+  - Toggle XML Mode <i class="fas fa-code"></i>
 
       - Enable/disable view of the xml source code for the page showing the page’s encoding
 
