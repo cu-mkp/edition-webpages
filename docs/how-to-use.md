@@ -13,8 +13,7 @@ The Edition consists of **four versions of the French manuscript Ms. Fr.
 
 4. TRANSLATION: English translation
 
-All versions can be accessed by navigating to “Read the Manuscript,”
-which is also found under “The Text.”
+All versions can be accessed by navigating to [Read Fr. 640](/#folios).
 
 ### Dual-pane Display
 
@@ -35,7 +34,7 @@ Drop-down menu for comparison viewing panes, allowing choice
 between any combination of two versions of the manuscript.
 
 
-Quick access to the Glossary is a fourth option to be displayed in
+Quick access to the [Glossary](/#folios/1r/f/1r/glossary) is a fourth option to be displayed in
 either pane (more about the Glossary below).
 
 To resize the panes, drag the vertical bar dividing the view panes to
@@ -53,7 +52,7 @@ Within the pane, the facsimile image can be expanded by clicking on the
 Alternatively, choose from three preset magnifications, or use the mouse
 or trackpad for other levels of zoom.
 
-To return to the thumbnail grid, click on the grid icon beneath the
+To return to the thumbnail grid, click on the grid icon <i class="fas fa-th"></i> beneath the
 expand icons on the left side of the viewing pane.
 
 ### Transcriptions and Translations
@@ -141,14 +140,13 @@ and Research Essays).
 ## Resources
 
 Numerous resources serve as tools and companion commentary to the text
-of Ms. Fr. 640.
+of Ms. Fr. 640. The following listed elements can be found by navigating to the "Resources" menu bar.
+
+Please also see [Overview of Resources](/#content/research+resources/overview).
 
 ### [List of Entries](/#entries)
 
-The List of Entries can be accessed by navigating to “List of
-Entries” found under “The Text.”
-
-It allows navigation of the manuscript by the headings of all 930
+The List of Entries allows navigation of the manuscript by the headings of all 930
 “recipes” or entries in Ms. Fr. 640.
 
 The entries can be sorted sequentially as they appear in the manuscript
@@ -166,31 +164,22 @@ To filter the entries by which semantic tags they contain, click on any
 of the tags to see only entries that have terms that are tagged as such.
 These can be further refined by clicking on multiple tag types.
 
-For a full list of the tags and their usage, see the Principles of
-Encoding.
+For a full list of the tags and their usage, see the [Principles of
+Encoding](/#content/research+resources/principles-encoding).
 
 
-### Glossary
+### [Glossary](/#folios/1r/f/1r/glossary)
 
 A Glossary of distinctive terms used in the manuscript can be accessed
-by selecting “Glossary” in the dropdown menu of the dual-pane view. It
-can also be accessed by selecting “Research and Resources” → “Glossary.”
+by selecting “Glossary” in the dropdown menu of the dual-pane view.
 
-### Editorial Comments
+Use the alphabetical navigation bar to browse the contents.
 
-Editorial Comments marked by a red asterisk occur throughout the
-transcription and translation texts of the Edition to clarify structural
-features of the text (such as deletions, additions, marks, etc.),
-definitions of obscure terms, translation decisions, and historical and
-textual information.
+Additionally, the Glossary has a dedicated filtering search which can be used to navigate by the head-word (the manuscript's original French variant) as well as alternate and modern spellings.
 
-Within a manuscript page, click on the asterisk to view its content in a
-popup box. Click on the “x” to close the box.
+![howtouse-glossary](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-glossary.png)
 
-A full listing of the Editorial Comments can be accessed by selecting
-“Research and Resources” → “List of Editorial Comments.”
-
-### Research Essays
+### [Research Essays](/#essays)
 
 Research Essays clarify the text of the manuscript, provide material,
 technical, and historical context, and describe student reconstructions
@@ -199,13 +188,13 @@ in the Making and Knowing Laboratory.
 The Essays can be accessed in two places: 1) within the manuscript pages
 and 2) in a dedicated index.
 
+![howtouse-beaker](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-beaker.png)
 In the dual-pane display of the manuscript, these essays appear next to
 the manuscript entries they discuss. They can be accessed by clicking on
 the essay icon found to the right of the manuscript entry heading.
 
-For the full listing of all essays, navigate to their index page,
-“Research Essays,” under “Research and Resources.” The listing of
-essays can be viewed as small thumbnails or as cards with the essay’s
+![howtouse-essays](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essays.png)
+The listing of essays can be viewed as small thumbnails or as cards with the essay’s
 abstract. Clicking on manuscript folio numbers referenced in the essays
 links out to the relevant folio page (return by clicking the back arrow
 in your browser).
@@ -213,36 +202,36 @@ in your browser).
 The Research Essays are grouped into seven broad categories that are
 navigated by the menu bar on the left:
 
-  - **An Introduction**: written by Project and invited scholars and
-serve as introductory resources and provide an overview of the
-manuscript, the Project, and background information.
+  - **An Introduction**: written by Project and invited scholars and serve as introductory resources and provide an overview of the manuscript, the Project, and background information.
 
-  -  **The Manuscript, Ms. Fr. 640**: provide information about the manuscript (its codicology, palaeography, and probable genesis), its relationship to other genres of writing, and the identity of its anonymous author-practitioner.
+  -  **The Manuscript, Ms. Fr. 640**: about the manuscript (its codicology, palaeography, and probable genesis), its relationship to other genres of writing, and the identity of its anonymous author-practitioner.
 
-  - **The Making and Knowing Laboratory**: discuss hands-on work in the Making and Knowing Laboratory, principles of reconstruction, and results and conclusions from experimental work.
+  - **The Making and Knowing Laboratory**: hands-on work in the Making and Knowing Laboratory, principles of reconstruction, and results and conclusions from experimental work.
 
-  - **Society and Culture**: treat the historical context of the manuscript, and society and culture in sixteenth-century France.
+  - **Society and Culture**: historical context of the manuscript, and society and culture in sixteenth-century France.
 
-  - **Art and Its Making**: discuss the materials, making, and meaning of art, and the training of artists.
-**Knowing Nature**: explore the investigation, manipulation, and exploration of the materials and principles of nature in Ms. Fr.640.
+  - **Art and Its Making**: materials, making, and meaning of art, and the training of artists.
 
-  - **The Making and Knowing Project**: discuss the Making and Knowing Project, including its initiatives, pedagogy, methods, personnel, and collaborators.
+  - **Knowing Nature**: investigation, manipulation, and exploration of the materials and principles of nature in Fr.640.
 
-### The Bibliography
+  - **The Making and Knowing Project**: the Making and Knowing Project, including its initiatives, pedagogy, methods, personnel, and collaborators.
 
-A Bibliography of all works cited in the Edition (collected from
-editorial comments and the Glossary) can be accessed by navigating to
-“Bibliography” under “Research and Resources.”
+### [The Bibliography](/#content/research+resources/bibliography)
+
+The Bibliography lists all works cited in the Edition, collected from
+editorial comments and the Glossary.
 
 Each Research Essay contains a full bibliography of works cited in the
 essay.
 
-### Field Notes
+### [Field Notes](/#content/research+resources/fieldnotes)
 
 Field notes recorded by students as they planned, researched,
-reconstructed, and wrote their laboratory essays can be found linked in
-each student Research Essay, and can also be found by navigating to
-“Research and Resources” → “Fieldnotes.”
+reconstructed, and wrote their laboratory essays. 
+
+The respective field notes are also linked in each student Research Essay.
+
+![howtouse-fieldnotes](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-fieldnotes.png)
 
 ## How to Cite
 
