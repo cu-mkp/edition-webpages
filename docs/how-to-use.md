@@ -28,6 +28,8 @@ RESIZE OF IMAGE TEST:
 
 <img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane.PNG" width="400" height="200" />
 
+![how-to-use-dualpane](https://github.com/cu-mkp/edition-webpages/blob/master/images/dualpane-compressed.png?raw=true)
+
 CAPTION: Side-by-side display of facsimile image and diplomatic French
 transcription of folio 4r.
 
