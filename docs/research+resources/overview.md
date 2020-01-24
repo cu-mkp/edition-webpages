@@ -20,7 +20,7 @@ For more information about the manuscript’s contents, see
 [Pamela Smith, “An Introduction to Ms. Fr. 640 and its
 Author-Practitioner.”](/#essays/ann_300_ie_19)
 
-## [The Glossary](/#/folios/1r/f/1r/glossary)
+## [The Glossary](/#folios/1r/f/1r/glossary)
 
 The Glossary is a record of distinctive terms used in the manuscript
 which was compiled in the transcription and translation of the text.
@@ -32,7 +32,7 @@ It includes:
   - alternative spellings and modern spelling
   - language or dialect of origin
 
-## [The Bibliography](/#/content/research+resources/bibliography)
+## [The Bibliography](/#content/research+resources/bibliography)
 
 All works cited in the Edition are compiled in the Bibliography, including primary and secondary literature cited
 in the glossary and the editorial comments.
@@ -41,7 +41,7 @@ Each Research Essay also contains a full bibliography of works cited in
 the essay. These will be included in the general Bibliography for a future release.
 
 
-## [Principles of Transcription, Translation, and Encoding](/#/content/research+resources/principles)
+## [Principles of Transcription, Translation, and Encoding](/#content/research+resources/principles)
 
 To transform the handwritten pages of Ms. Fr. 640 into digital text, the Making and
 Knowing Project began transcribing, translating, and encoding Ms. Fr.
@@ -54,7 +54,7 @@ Translation, and Encoding](/#content/research+resources/principles)
 A list of [dictionaries and technical encyclopedias](#content/research+resources/dictionaries) was also developed during the
 transcription and translation effort.
 
-## [Research Essays](/#/essays)
+## [Research Essays](/#essays)
 
 Research Essays explore the manuscript and its context through historical research, including hands-on reconstruction
 in the Making and Knowing Laboratory.
