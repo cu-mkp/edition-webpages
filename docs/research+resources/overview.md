@@ -102,7 +102,7 @@ research are available in the [Project’s repository on Flickr](https://www.fli
 
 For more on field notes as a pedagogical
 component of the Edition, see [Pamela Smith, “Making the Edition of Ms.
-Fr. 640.”](/#content/about/creation)
+Fr. 640.”](/#essayx/ann_329_ie_19)
 
 
 
