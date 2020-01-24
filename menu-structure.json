@@ -19,7 +19,7 @@
                 "route": "/entries" 
             },            
             {
-                "label": "Categories",
+                "label": "Entry Categories",
                 "route": "/content/research+resources/categories" 
             },            
             {
