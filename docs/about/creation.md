@@ -1,6 +1,6 @@
-# Creation of the Edition
+# Creation of Secrets of Craft and Nature in Renaissance France
 
-The creation of the Edition has been the primary goal of the Making and
+The creation of Secrets of Craft and Nature in Renaissance France has been the primary goal of the Making and
 Knowing Project since it was founded in 2014. The Edition presents the
 culmination of over five years of iterative, collaborative, and
 interdisciplinary work.
