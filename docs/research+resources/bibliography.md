@@ -10,6 +10,8 @@ The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/b
 
 
 ## Editorial Comments
+<br/>
+
 ### Primary Sources
 
 Agrippa von Nettesheim, Cornelius. *De occulta philosophia*. Cologne:
