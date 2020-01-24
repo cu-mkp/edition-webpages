@@ -2,36 +2,31 @@
 
 The encoding of Ms. Fr. 640 was carried out by graduate students and
 Making and Knowing team members in a series of Paleography and Text
-Workshops held by the Making and Knowing Project from 2014 to 2019. It
+Workshops held by the Making and Knowing Project from 2014 to 2018. It
 was then checked and refined by the Digital Lead Terry Catapano and
-Senior Editorial Team members, Clément Godbarge, Naomi Rosenkranz,
-Pamela Smith, Tillmann Taape, and Tianna Uchacz. The Project employed
+Senior Team members, Clement Godbarge, Naomi Rosenkranz, Pamela Smith, Tillmann Taape, and Tianna Uchacz. The Project employed
 XML markup based on the guidelines of the Text Encoding Initiative
 (TEI), but customized to accommodate project needs.
 
-Each Text Workshop and encoding campaign necessitated a Protocol in
+Each Text Workshop and encoding campaign necessitated a protocol in
 order to train team members and make consistent the multiyear efforts.
-These Protocols will be available in the Project’s Research and Pedagogy
-Template (2021), and have been abstracted here. They included an
-introduction to XML and TEI markup, and the principles of encoding for
+These encoding protocols included an introduction to XML and TEI markup, and the principles of encoding for
 Ms. Fr. 640 developed over the five years of the Project, as detailed
-practical instructions. These Encoding Protocols made clear our
-recognition that encoding a text is an interpretive act, thus all tags
+practical instructions. They made clear our recognition that encoding a text is an interpretive act, thus all tags
 and encoding principles were discussed, reviewed, and revised multiple
 times over the five years of creating *Secrets of Craft and Nature in Renaissance France*. They also set out
 the Project’s underlying goal as the effort to “achieve accurate and
 consistent markup of all three text versions of the manuscript. This is
 a very detail-oriented endeavor, but will enable future users to analyze
 the text in ways we have not conceived. We seek to make possible new
-questions and new analyses of the text.
+questions and new analyses of the text."
 
 For more information on the process of encoding Ms. Fr. 640, see Celine
-Camps and Margot Lyautey, ["Ma\<r\>king and Knowing: Encoding BnF Ms. Fr.
-640."](/#essays/ann_331_ie_19)
+Camps and Margot Lyautey, [Ma\<r\>king and Knowing: Encoding BnF Ms. Fr.
+640](/#essays/ann_331_ie_19).
 
 In 2017 the emerging tagset was formalized as a RelaxNG schema and
-maintained in the project’s data repository at:
-<https://github.com/cu-mkp/m-k-manuscript-data/blob/master/schema/ms-transcription.md>
+maintained in the [Project’s data repository in Github](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/schema/ms-transcription.md).
 
 ## Edition Tag Set
 
@@ -288,7 +283,7 @@ used by the writer.
 
 Project members worked in Google Drive to enable simultaneous work until
 2018, when Project data, including all transcribed, translated, and
-marked up versions of the folio pages, were transferred to GitHub. While
+encoded versions of the folio pages, were transferred to GitHub. While
 working in Google Drive, Text Workshop members used working tools
 constructed by Project Assistant Philip Cherian, and are listed here in
 case they are useful to users of *Secrets of Craft and Nature*.

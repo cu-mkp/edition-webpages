@@ -6,7 +6,9 @@ The transcription, translation, and markup of the manuscript was
 become fluent in reading middle French script by transcribing and
 translating Ms. Fr. 640.
 
-From 2016 to 2018, intensive translation and markup campaigns further
+For a full list of all participants in these workshops, see [Credits](/#content/about/credits).
+
+From 2016 to 2019, intensive translation and markup campaigns further
 refined the text.
 
 All work was checked and finalized by the Making and Knowing Team: Terry
@@ -15,7 +17,7 @@ Tillmann Taape, and Tianna Uchacz.
 
 ## [Principles of Transcription](/#content/research+resources/principles-transcription)
 
-Principles and conventions followed in the diplomatic and normalised transcriptions of the manuscript text.
+Principles and conventions followed in the diplomatic and normalized transcriptions of the manuscript text.
 
 ## [Principles of Translation](/#content/research+resources/principles-translation)
 
@@ -25,4 +27,11 @@ Translation philosophy and guidelines for our collaborative translation of a mis
 
 The rationale behind our semantic and structural markup.
 
-For further information, see also [Pamela Smith, "Making the Edition of Ms. Fr. 640."](/#essays/ann_329_ie_19)
+## [Dictionaries and Technical Encyclopedias](#content/research+resources/dictionaries)
+
+A list of the reference sources used during the translation process.
+
+
+
+For further information, see also Pamela Smith [Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19).
+

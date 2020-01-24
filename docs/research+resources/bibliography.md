@@ -1,19 +1,14 @@
 # Bibliography
 
-The bibliography compiles all the references cited in the editorial comments, the glossary and, the manuscript. 
+The Bibliography compiles references, texts, and authors cited in the manuscript, the editorial comments, and the glossary.
 
-While we provide detailed references for primary sources cited in the manuscript, we cannot always be certain that the specific edition we cited is exactly the one the author-practitioner refers to. 
-
-When in doubt, we selected the more widely available editions from the more prominent publishers of the time (Robert and Henri Estienne, the Aldine press, Christophe Plantin, Hieronymus Froben, Johannes Herwagen, etc). To search for other possible editions, we encourage users to browse the [Universal Short Title Catalogue](https://www.ustc.ac.uk), and similar resources.
+This bibliography includes detailed references for primary sources cited in the manuscript, however, they may not be the exact edition to which the manuscript refers. They include more widely available editions from prominent publishers in the sixteenth century (Robert and Henri Estienne, the Aldine press, Christophe Plantin, Hieronymus Froben, Johannes Herwagen, etc). Other possible editions can be found in the [Universal Short Title Catalogue](https://www.ustc.ac.uk) and similar resources.
 
 The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/bibtex) and html, downloadable from the Project’s [GitHub repository](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/bibliographies).
 
 <br/>
 
-## Editorial Comments
-<br/>
-
-### Primary Sources
+## Primary Sources in the Manuscript and the Editorial Comments
 
 Agrippa von Nettesheim, Cornelius. *De occulta philosophia*. Cologne:
 Johann Soter, 1533.
@@ -474,9 +469,10 @@ Baldassare Constantini, 1550.
 Vives, Juan Luis. *Los comentarios de Juan Luis Vives a "La ciudad de
 Dios" de San Agustı́n*. Edited by Rafael Cabrera Petit. vol. 6. Colección
 J.L. Vives. Ajuntament de Valencia, 2000.
-<br/>
 
-### Secondary Sources
+<br/>
+## Secondary Sources used in the Editorial Comments
+
 Bol, Marjolijn. “The emerald and the eye: on sight and light in the artisan's workshop and scholar's study." In, *Perspective as practice: Renaissance cultures of optics*, edited by Sven Dupré, 71–101. Turnhout: Brepols, 2019.
 
 Collin, Franck. “Antonio Telesio de Cosenza, Petit traité des couleurs
@@ -558,7 +554,7 @@ Zerner, Henri. *L’Art de la renaissance en france*. Paris: Flammarion,
 1996.
 
 
-## Glossary
+## Sources used in the Glossary
 <br/>
 
 Académie française. “Dictionnaire de l’Académie française.” Paris, 2018.
