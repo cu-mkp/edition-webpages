@@ -4,7 +4,7 @@ The encoding of Ms. Fr. 640 was carried out by graduate students and
 Making and Knowing team members in a series of Paleography and Text
 Workshops held by the Making and Knowing Project from 2014 to 2019. It
 was then checked and refined by the Digital Lead Terry Catapano and
-Senior Editorial Team members, Clement Godbarge, Naomi Rosenkranz,
+Senior Editorial Team members, Clément Godbarge, Naomi Rosenkranz,
 Pamela Smith, Tillmann Taape, and Tianna Uchacz. The Project employed
 XML markup based on the guidelines of the Text Encoding Initiative
 (TEI), but customized to accommodate project needs.
