@@ -3,7 +3,7 @@
 ## What is Ms. Fr. 640?
 
 <iframe src="https://vimeo.com/385073832" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/384070452">Lab_00_TourLab</a> from <a href="https://vimeo.com/user101162788">General Editor</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/385073832">Making of the Manuscript</a> from <a href="https://vimeo.com/user101162788">General Editor</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 Sometime after 1579, an anonymous individual began recording many different processes and techniques we would now classify as belonging to the fine arts, crafts, and various technologies.
 
@@ -38,7 +38,6 @@ For detailed information, see How to Use the Edition.
 The manuscript text can be browsed in two ways:
 
 1. Presented in a dual-pane display in “Read the Manuscript,” allowing side-by-side viewing of any combination of two versions of the manuscript (facsimile, transcriptions, translation).
-
 2. As a List of Entries, organized by the headings of all 930 “recipes” or entries in Ms. Fr. 640.
 
 ## Editorial Comments
