@@ -1,6 +1,6 @@
 # Bibliography
 
-The bibliography compiles all the references cited in the editorial comments, in the glossary and in the manuscript. 
+The bibliography compiles all the references cited in the editorial comments, the glossary and, the manuscript. 
 
 While we provide detailed references for primary sources cited in the manuscript, we cannot always be certain that the specific edition we cited is exactly the one the author-practitioner refers to. 
 
