@@ -3,7 +3,7 @@
 ## What is Ms. Fr. 640?
 
 <iframe src="https://vimeo.com/385073832" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/385073832">Making of the Manuscript</a> from <a href="https://vimeo.com/user101162788">General Editor</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+Vimeo</a>.</p>
 
 Sometime after 1579, an anonymous individual began recording many different processes and techniques we would now classify as belonging to the fine arts, crafts, and various technologies.
 
