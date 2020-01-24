@@ -1,58 +1,59 @@
 # Bibliography
 
-Bibliographic references cited in the editorial comments are either secondary sources providing additional information on the topic at hand, or primary sources mentioned in the manuscript. While we provide detailed references for these primary sources, we cannot always be certain that the specific edition we cite is the one the author-practitioner has used. 
+The bibliography compiles all the references cited in the editorial comments, in the glossary and in the manuscript. 
 
-In most cases, we provide a non-exhaustive selection of printed editions, giving priority to more widely available editions and more prominent publishers (Robert and Henri Estienne, Aldo Manuzio, Christophe Plantin, Hieronymus Froben, Johannes Herwagen, etc). 
+While we provide detailed references for primary sources cited in the manuscript, we cannot always be certain that the specific edition we cited is exactly the one the author-practitioner refers to. 
 
-To search for other possible editions, we provide users with a link to the Universal Short Title Catalogue whenever possible in the Glossary.
+When in doubt, we selected the more widely available editions from the more prominent publishers of the time (Robert and Henri Estienne, the Aldine press, Christophe Plantin, Hieronymus Froben, Johannes Herwagen, etc). To search for other possible editions, we encourage users to browse the [Universal Short Title Catalogue](wwww.ustc.ac.uk), and similar resources.
 
-The bibliographic databases are available as BibTeX and html, downloadable from the Project’s GitHub repository: https://github.com/cu-mkp/m-k-manuscript-data/tree/master/bibliographies.
+The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/bibtex) and html, downloadable from the Project’s [GitHub repository](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/bibliographies).
 
+<br/>
+## Editorial Comments<br/>
+### Primary Sources<br/>
 
-## Editorial Comments
-### Primary Sources
-Agrippa von Nettesheim, Cornelius. *De occulta philosophia*. Cologne: J.
-Soter, 1533.
+Agrippa von Nettesheim, Cornelius. *De occulta philosophia*. Cologne:
+Johann Soter, 1533.
 
 Alessandri, Alessandro. *Genialium dierum libri sex, varia ac recondita
 eruditione referti, accuratius et majore fide quam antehac usquam
 impressi cum duplici indice*. Paris: Jean de Roigny, 1549.
 
-Alexandrinus, Appianus. *Historia romana*. Venice: Maler, Bernhard;
-Ratdolt, Erhard; Löslein, Peter, 1477.
+Alexandrinus, Appianus. *Historia Romana*. Venice: Bernhard Maler;
+Erhard Ratdolt; Peter Löslein, 1477.
 
 Aphrodisiensis, Alexander. *Problemata*. Venice: Antonius de Strata,
 n.d.
 
-Barbaro, Ermolao. *Castigationes plinianae et pomponii melae*. Rome:
+Barbaro, Ermolao. *Castigationes Plinianae et Pomponii Melae*. Rome:
 Eucharius Silber, 1493.
 
 Barbaro, Iunior, Hermolao, and Hieronymus Wildenberg. *Naturalis
-scientiae totius compendium : Ex aristotele, & alijs philosophis*.
+scientiae totius compendium : ex Aristotele, & alijs philosophis*.
 Basel: Oporinus, 1548.
 
 Bargeo, Pietro Angelo. *De aucupio liber primus*. Florence: Giunti,
 1566.
 
-———. *Petri angelii... Cynegetica. Item carminum libri ii, eglogae iii*.
-Lyon: haeredes S. Gryphii, 1561.
+———. *Petri Angelii ... Cynegetica. Item carminum libri II, eglogae
+III*. Lyon: haeredes S. Gryphii, 1561.
 
-Bassus, Cassianus. *Constantini caesaris selectarum praeceptionum, de
-agricultura libri viginti, iano cornario medico physico interprete*.
+Bassus, Cassianus. *Constantini Caesaris selectarum praeceptionum, De
+agricultura libri viginti, Iano Cornario medico physico interprete*.
 Basel: Hyeronimus Frobenius, 1538.
 
 Belleforest, François de. *Les grandes annales, et histoire générale de
-france, de la venue des francs en gaule, iusques au regne du roy
-très-chrétien henry iii*. Paris: Gabriel Bon, 1579.
+France, de la venue des Francs en Gaule, iusques au regne du roy
+très-chrétien Henry III*. Paris: Gabriel Bon, 1579.
 
-Biondo, Flavio. *Historiarum ab inclinatione romanorum imperii decades*.
-Venice: Blavis, Thomas de, 1484.
+Biondo, Flavio. *Historiarum ab inclinatione Romanorum imperii decades*.
+Venice: Thomas de Blavis, 1484.
 
 ———. *Italia illustrata*. Rome: Johannes Philippus de Lignamine, 1474.
 
 ———. *Roma instaurata*. Turin, 1527.
 
-———. *Roma instaurata. De origine et gestis venetorum. Italia
+———. *Roma instaurata. De origine et gestis Venetorum. Italia
 illustrata*. Verona: Boninus de Boninis, 1482.
 
 ———. *Roma triumphans*. Brescia: Vercellensis, Bartholomaeus, 1482.
@@ -60,235 +61,277 @@ illustrata*. Verona: Boninus de Boninis, 1482.
 Boyer, Philibert. *Instruction pour le faict des finances*. Paris:
 Ambroise Drouart; Guillaume Le Noir, 1581.
 
-Buchanan, George. *Rerum scoticarum historia auctore georgio buchanano
-scoto*. Edinburgh: Arbuthnet, Alexander, 1582.
+Buchanan, George. *Rerum Scoticarum historia auctore Georgio Buchanano
+Scoto*. Edinburgh: Alexander Arbuthnet, 1582.
+
+Budé, Guillaume. *Annotationes in XXIIII pandectarum libros*. Lyon:
+Sébastien Gryphe, 1551.
+
+———. *Commentarii linguae Graecae. Accurate recogniti, atque amplius
+tertia parte aucti*. Paris: Robert Estienne, 1548.
+
+———. *Epistolai hellēnikai. Epistolae Graecae*. Edited by Guillaume
+Plançon. Translated by Antonius Pichonius. Paris: Jean Bienné, 1574.
+
+———. *Libri V de asse, et partib. eius post duas Parisienses
+impressiones ab eodem ipso Budaeo castigati, idque authore Io. Grolierio
+Lugdunensi christianissimi gallorum copiarum quaestore, cui etiam ob
+nostram in eum observantiam a nobis illi dicantur*. Venice: Andrea
+Torresano; Aldo Manuzio, 1522.
 
 Caesariensis, Eusebius. *Historia ecclesiastica*. Translated by
-Tyrannius Rufinus. Mantua: Schallus, Johannes, 1479.
+Tyrannius Rufinus. Mantua: Johannes Schallus, 1479.
 
-Caesariensis, Procopius. *De rebus gothorum, persarum ac vandalorum
-libri vii*. Basel: Johannes Hervagius, 1531.
+Caesariensis, Procopius. *De rebus Gothorum, Persarum ac Vandalorum
+libri VII*. Basel: Johannes Hervagius, 1531.
 
 Cartari, Vincenzo. *Les images des dieux*. Edited by Antoine du Verdier.
 Lyon: Guichard Julliéron, 1584.
 
-Collin, Franck. “Antonio telesio de cosenza, petit traité des couleurs
-latines (de coloribus libellus), éd. Michel indergand et christine
-viglino.” *Cahiers de recherches médiévales et humanistes*.
-
 Commynes, Philippe de. *Cronicque et histoyre*. Paris: François
 Regnault; Pierre Gadoul, 1529.
 
-Corrozet, Gilles. *Le cathalogue des villes et citez assises es troys
-gaulles, avecq ung traicté des fleuves et fontaines, illustré de
+Corrozet, Gilles. *Le Cathalogue des villes et citez assises es troys
+Gaulles, avecq ung traicté des fleuves et fontaines, illustré de
 nouvelles figures*. Paris: Denis Janot, 1538.
 
-Curtius Rufus, Quintus. *Historiae alexandri magni*. Venice: Johannes
+Curtius Rufus, Quintus. *Historiae Alexandri Magni*. Venice: Johannes
 Tacuinus, 1496.
 
+Damascenus, Nicolaus, and Johannes Stobaeus. *Ex Nicolai Damasceni
+Vniversali Historia Sev De moribus gentium libris excerpta Iohannis
+Stobaei*. Edited by Nicolaus Cragius. Geneva: Santandreanus, 1593.
+
 Delorme, Philibert. *Nouvelles inventions pour bien bastir et a petits
-fraiz*. Paris: Morel, Fédéric, 1561.
+fraiz*. Paris: Fédéric Morel, 1561.
 
 Dodoens, Rembert. *Trium priorum de stirpium historia commentariorum
-imagines ad vivum expressae una cum indicibus, graece, latine,
-officinarum, germanica, brabantica gallicaque nomina complectentibus*.
-Antwerp: Loe, Jan van der, 1553.
+imagines ad vivum expressae una cum indicibus, Graece, Latine,
+officinarum, Germanica, Brabantica Gallicaque nomina complectentibus*.
+Antwerp: Jan van der Loe, 1553.
 
-Emili, Paolo. *De rebus gestis gallorum libri ix ad historiam pauli
-aemylii additi, perducta historia usque ad tempora henrici ii, francorum
+Emili, Paolo. *De rebus gestis Gallorum libri IX ad historiam Pauli
+Aemylii additi, perducta historia usque ad tempora Henrici II, Francorum
 regis*. Translated by Arnoul Le Ferron. Paris: Michel de Vascosan, 1555.
 
 Festus, Sextus Pompeius, and Marcus Verrius Flaccus. *Quae extant. Et
-sex. Pompei festi de verborum significatione, libri xx. In eundem festum
-annotationes. Index rerum obiter dictarum. Ex bibliotheca antonii
-augustini*. Venice: Bonelli, Giovanni Maria (I); Ziletti, Giordano (I),
-1560.
+Sex. Pompei Festi De verborum significatione, libri XX. In eundem Festum
+annotationes. Index rerum obiter dictarum. Ex bibliotheca Antonii
+Augustini*. Venice: Giovanni Maria Bonelli; Giordano Ziletti, 1560.
 
-Firmicus, Julius. *Astronomicwn lib. VIII*. Basel: Johannes Herwagen,
+Firmicus, Julius. *Astronomicon Lib. VIII*. Basel: Johannes Herwagen,
 1533.
 
 Foresti, Jacopo Filippo. *Novissime hystoriarum omnium repercussiones
-noviter a reverendissimo patre iacobophilippo bergomense ordinis
-heremitarum edite: Que supplementum supplementi cronicarum nuncupantur.
-Incipiendo ab exordio mundi usque in annum salutis nostre mcccccii*.
-Venice: Lessona, Albertino da, 1503.
+noviter a reverendissimo patre Iacobophilippo Bergomense Ordinis
+heremitarum edite: que Supplementum supplementi cronicarum nuncupantur.
+Incipiendo ab exordio mundi usque in annum salutis nostre MCCCCCII*.
+Venice: Albertino da Lessona, 1503.
 
 ———. *Supplementum chronicarum*. Venice: Bernardinus Rizus, 1493.
 
-Froumenteau, Nicolas. *Le secret des finances de france*, 1581.
+Frisingensis, Otto, and Benedictus Chelidonius. *Rerun ab origine mundi
+ad ipsius usque tempora gestarum, libri octo. Eiusdem de gestis
+Friderici primi aenobarbi caes.aug. Libri duo. Radevici phrisingen.
+Ecclesie canonici libri duo, prioribus additi, de eiusd Friderici imp.
+Gestis*. Strasbourg: Matthias Schürer, 1515.
 
-Gellius, Aulus. *Noctes atticae*. Paris: Henri Estienne, 1585.
+Frisingensis, Otto, Guntherus Parisiensis, Rahewinus Frisingensis,
+Johannes Cuspinianus, and Pierre Pithou. *De eiudem frid. Gestis libri
+II de gestis Friderici I. Caes. Aug. Libri duo libri duo de eiusdem
+Friderici imp. Gestis ligurini de gestis imp. Caesaris Friderici primi
+augusti libri decem ligurinus, sive de gestis Friderici, libri X.
+Ottonis episcopi Frisingensis leopoldi pii Marchionis Austriae
+f.chronicon, sive rerum ab orbe condito ad sua usque tempora gestarum,
+libri octo. Eiusdem de gestis Friderici I.caes.aug.libri duo. Radeuici
+Frising.canonici de eiusdem frid. gestis libri II. Priorib.additi.
+Guntheri poëtae ligurinus, sive de gestis Friderici, libri X. Addita
+sunt et alia, cum ad Friderici, tum ad posteriorum imperatorum historiam
+pertinentia, adiectis etiam notis et indice accurato*. Basel: Peter
+Perna, 1569.
+
+Froumenteau, Nicolas. *Le secret des finances de France*, 1581.
+
+Gellius, Aulus. *Noctes Atticae*. Paris: Henri Estienne, 1585.
 
 Gembloux, Sigebert de. *Chronicon ab anno 381 ad 1113, cum insertionibus
-ex historia galfridi et additionibus roberti, abbatis montis, centum et
-tres sequentes annos complectentibus, promovente egregio patre d. G.
-Parvo,... Nunc primum in lucem emissum*. Paris: Henri Estienne; Jean
+ex historia Galfridi et additionibus Roberti, abbatis Montis, centum et
+tres sequentes annos complectentibus, promovente egregio patre D. G.
+Parvo,... nunc primum in lucem emissum*. Paris: Henri Estienne; Jean
 Petit, 1513.
 
 Gessner, Conrad. *De omni rerum fossilium genere, gemmis, lapidibus,
 metallis, et huiusmodi, libri aliquot, plerique nunc primum editi*.
 Zürich: Hans Jakob Geßner, 1566.
 
-Giovio, Paolo. *De romanis piscibus libellus ad ludovicum borbonium
-cardinalem amplissimum*. Rome: Calvo, Francesco Minizio, 1524.
+Giovio, Paolo. *De Romanis piscibus libellus ad Ludovicum Borbonium
+cardinalem amplissimum*. Rome: Francesco Minizio Calvo, 1524.
 
-———. *Descriptio britanniae, scotiae, hyberniae, et orchadum, ex libro
-pauli iouii, episcopi nucer. De imperiis, et gentibus cogniti orbis, cum
+———. *Descriptio Britanniae, Scotiae, Hyberniae, et Orchadum, ex libro
+Pauli Iouii, episcopi Nucer. de imperiis, et gentibus cogniti orbis, cum
 eius operis prohoemio*. Venice: Michele Tramezzino, 1548.
 
 ———. *Elogia virorum bellica virtute illustrium veris imaginibus
-supposita, quae apud musaeum spectantur. Volumen digestum est in septem
-libros*. Florence: Torrentino, Lorenzo, 1551.
+supposita, quae apud Musaeum spectantur. Volumen digestum est in septem
+libros*. Florence: Lorenzo Torrentino, 1551.
 
 Guichard, Claude. *Funérailles et diverses manieres d’ensevelir des
-romains, grecs, et autres nations*. Lyon: Jean de Tournes, 1581.
+Romains, Grecs, et autres nations*. Lyon: Jean de Tournes, 1581.
 
-Guiffrey, Jules. *Artistes parisiens des xvie et xviie siècles:
-Donations, contrats de mariage, testaments, inventaires, etc. Tirés des
-insinuations du châtelet de paris*. Paris: Imprimerie nationale, 1915.
-
-Halicarnassensis, Dionysius. *Antiquitates romanae*. Treviso:
+Halicarnassensis, Dionysius. *Antiquitates Romanae*. Treviso:
 Bernardinus Celerius, 1480.
 
-Herodotus. *Herodoti halicarnassei historiæ lib. IX. Et de vita homeri
-libellus. Illi ex interpretatione l. Vallæ adscripta, hic ex
-interpretatione c. Heresbachii: Utraque ab h. Stephano recognita. Ex
-ctesia excerptæ historiæ.* Edited by Lorenzo Valla and Henri Estienne.
+Herodotus. *Herodoti Halicarnassei Historiæ lib. IX. et de vita Homeri
+libellus. Illi ex interpretatione L. Vallæ adscripta, hic ex
+interpretatione C. Heresbachii: utraque ab H. Stephano recognita. Ex
+Ctesia excerptæ historiæ*. Edited by Lorenzo Valla and Henri Estienne.
 Paris: Henri Estienne; Ulrich Fugger, 1566.
 
 Hyginus, Gaius Iulius. *Fabularum liber eiusdem poeticon astronomicon,
-libri quatuor.* Basel: Johannes Herwagen, 1535.
+libri quatuor*. Basel: Johannes Herwagen, 1535.
 
 Irenaeus. *Opus in quinque libros digestum, in quibus mire retegit &
 confutat veterum haereseon impias ac por tentosas opiniones, ex
-vetustissimorum codicum collatione quantum licuit emendatum opera
-des.erasmi roterodami, ac nunc eiusdem opera denuo recognitum, correctis
-iis quae prius suffugerant. Additus est index rerum scitu dignarum.*
-Basel: Froben, Hieronymus; Episcopius, Nikolaus, 1534.
+vetustissimorum codicum collatione quantum licuit emendatum opera Des.
+Erasmi Roterodami, ac nunc eiusdem opera denuo recognitum, correctis iis
+quae prius suffugerant. Additus est index rerum scitu dignarum*. Basel:
+Hieronymus Froben; Nikolaus Episcopius, 1534.
 
-Josephus, Flavius. *De antiquitate judaica. De bello judaico.* Edited by
-Rufinus Aquileiensis and Girolamo Squarciafico. Venice: Vercellensis,
-Johannes Rubeus, 1486.
+Josephus, Flavius. *De antiquitate Judaica. De bello Judaico.* Edited by
+Rufinus Aquileiensis and Girolamo Squarciafico. Venice: Johannes Rubeus
+Vercellensis, 1486.
 
-Leproux, Guy-Michel. “Quelques éclairages sur la vie et la carrière de
-jean cousin le jeune.” *Documents d’histoire parisienne* 12 (2011):
-23–40.
+*Kompost et kalendrier des bergiers*. Paris: Guy Marchant, 1491.
 
-Livius, Titus. *Historiae romanae ab urbe condita, libri 15. Quotquot ad
+Livius, Titus. *Historiae Romanae ab urbe condita, libri 15. quotquot ad
 nostram aetatem peruenerunt, cum commentariis omnium interpretum ad
 explicationem locorum difficilium, e regione insertis*. Paris: Jean
 Charron; Michel Sonnius, 1573.
 
-———. *Les decades*. Edited by Blaise de Vigenère, Jean Hamelin, and
+———. *Les décades*. Edited by Blaise de Vigenère, Jean Hamelin, and
 Antoine de La Faye. Paris: Jacques du Puys, 1583.
 
 Lugdunensis, Irenaeus, and Nikolaus Episcopius. *Opus in quinque libros
 digestum, in quibus mire retegit & confutat veterum haereseon impias ac
 por tentosas opiniones, ex vetustissimorum codicum collatione quantum
-licuit emendatum opera des.erasmi roterodami, ac nunc eiusdem opera
+licuit emendatum opera Des. Erasmi Roterodami, ac nunc eiusdem opera
 denuo recognitum, correctis iis quae prius suffugerant. Additus est
 index rerum scitu dignarum.* Edited by Erasmus Roterodamus. Basel:
 Hieronymus Froben, 1534.
 
 Macrobius, Ambrosius Aurelius Theodosius, and Arnoldus Haldrenius
-Vesaliensis. *In somnium scipionis, libri ii. Saturnaliorum, libri vii.
-Ex variis, ac vetustissimis codicibus recogniti et aucti*. Lyon: Gryphe,
-Sébastien, 1556.
+Vesaliensis. *In somnium Scipionis, libri II. Saturnaliorum, libri VII.
+Ex variis, ac vetustissimis codicibus recogniti et aucti*. Lyon:
+Sébastien Gryphe, 1556.
 
-Maffaei, Raffaele. *Commentariorum urbanorum octo et triginta libri*.
+Maffaei, Raffaele. *Commentariorum Urbanorum octo et triginta libri*.
 Basel: Johannes Frobenius, 1559.
 
 ———. *Commentariorum urbanorum octo et triginta libri, cum duplici
 eorumdem indice secundum tomos collecto*. Lyon: Sébastien Gryphe, 1552.
 
-Maffei, Raffaele. *Commentariorum urbanorum raphaelis volaterrani, octo
+Maffei, Raffaele. *Commentariorum urbanorum Raphaelis Volaterrani, octo
 et triginta libri, accuratius quam antehac excusi, praemissis eorundem
-indicibus secundum tomos ut ab autore conscripti fuerunt: Quibus
+indicibus secundum tomos ut ab autore conscripti fuerunt: quibus
 accessit novus, res ac voces in philologia explicatas demonstrans, quo
-superiores editiones carebant hactenus. Item oeconomicus xenophontis, ab
+superiores editiones carebant hactenus. Item oeconomicus Xenophontis, ab
 eodem latio donatus*. Basel: Hieronymus Froben; Nikolaus Episcopius,
 1559.
 
-Maggi, Girolamo. *Cinque primi canti della guerra di fiandra di m.
-Gierolamo magi d’Anghiari al valoroso signor chiappino vitelli.
-Nuovamente dati in luce (venezia, comin da trino : Al segno del
-diamante, 1551)*. Venice: Comin da Trino, 1551.
+Maggi, Girolamo. *Cinque primi canti della guerra di Fiandra di m.
+Gierolamo Magi d’Anghiari al valoroso signor Chiappino Vitelli.
+Nuovamente dati in luce (Venezia, Comin da Trino : al segno del
+Diamante, 1551)*. Venice: Comin da Trino, 1551.
 
-———. *Variarum lectionum, seu miscellanorum libri iiii. In quibus multa
+———. *Variarum lectionum, seu Miscellanorum libri IIII. In quibus multa
 auctorum loca emendantur, atque explicantur, & quae ad antiquitatem
-cognoscendam pertinent, non pauca afferuntur (venezia, ex officina
-giordano i ziletti, 1564) variarum lectionum, seu miscellanorum libri
-iiii. In quibus multa auctorum loca emendantur, atque explicantur, &
-quae ad antiquitatem cognoscendam pertinent, non pauca afferuntur
-(venezia, ex officina giordano i ziletti, 1564)*. Venice: Ziletti,
-Giordano, 1564.
+cognoscendam pertinent, non pauca afferuntur*. Venice: Giordano Ziletti,
+1564.
 
 Maggi, Girolamo, and Giacomo Castriotto. *Della fortificatione delle
-città, di m. Girolamo maggi, e del capitan iacomo castriotto, ingegniero
-del christianissimo re di francia, libri iii. Ne’ quali, oltra le molte
+città, di m. Girolamo Maggi, e del capitan Iacomo Castriotto, ingegniero
+del christianissimo re di Francia, libri III. Ne’ quali, oltra le molte
 inventioni di questi autori, si contiene tutto quello di più importanza,
 che fino ad hora è stato scritto di questa materia; con infinite cose,
 che da molti signori, capitani, & ingegnieri dell’età nostra si sono
-havute. Discorso del medesimo maggi sopra la fortificatione degli
-alloggiamenti degli esserciti. Discorso del capitan francesco
-montemellino sopra la fortificatione del borgo di roma. Trattato
-dell’ordinanze, ò vero battaglie del capitan giovacchino da coniano.
-Ragionamento del sudetto castriotto sopra le fortezze della francia
-(venezia, appresso rutilio borgominieri, 1564)*. Venice: Borgominieri,
-Rutilio, 1564.
+havute. Discorso del medesimo Maggi sopra la fortificatione degli
+alloggiamenti degli esserciti. Discorso del capitan Francesco
+Montemellino sopra la fortificatione del borgo di Roma. Trattato
+dell’ordinanze, ò vero battaglie del capitan Giovacchino da Coniano.
+Ragionamento del sudetto Castriotto sopra le fortezze della Francia*.
+Venice: Borgominieri, Rutilio, 1564.
 
-Manuzio, Paolo. *Antiquitatum romanarum paulli mannuccii liber de
-senatu*. Venice: Manuzio, Paolo, 1581.
+Magnus, Albertus. *De mineralibus*. Venice: Johannes de Gregoriis;
+Gregorius de Gregoriis, 1495.
 
-———. *Lettere volgari di m. Paolo manutio divise in quattro libri*.
-Venice: Manuzio, Paolo, 1560.
+Manuzio, Paolo. *Antiquitatum Romanarum Paulli Mannuccii liber de
+senatu*. Venice: Paolo Manuzio, 1581.
 
-Marcellus, Nonius. *De proprietate sermonum: Jam demum innumeris locis
+———. *Lettere volgari di M. Paolo Manutio divise in quattro libri*.
+Venice: Paolo Manuzio, 1560.
+
+Marcellus, Nonius. *De proprietate sermonum: jam demum innumeris locis
 restitutus, multis locupletatus, ope vetustissimorum codicum, &
 industria. Additus est in calce libellus de prisco sermone repurgatus:
-Index vocabulorum de proprietate sermonum: Jam demum innumeris locis
+index vocabulorum De proprietate sermonum: jam demum innumeris locis
 restitutus, multis locupletatus, ope vetustissimorum codicum, &
 industria. Additus est in calce libellus de prisco sermone repurgatus:
-Index vocabulorum*. Antwerp: Christophe Plantin, 1565.
+index vocabulorum*. Antwerp: Christophe Plantin, 1565.
 
-Martyr, Justinus. *Opera non ita pridem graece edita, nuper verò latinè
+Martyr, Justin. *Diui Iustini philosophi ac martyris Opera non ita
+pridem Graece edita : nuper uerò Latinè reddita, interprete Sigismundo
+Gelenio, quorum tituli pagina operis initio obuersa apparent*. Basel:
+Hieronymus Froben; Nikolaus Episcopius, 1555.
+
+Martyr, Justinus. *Opera non ita pridem Graece edita, nuper verò Latinè
 reddita*. Basel: Hieronymus Froben; Nikolaus Episcopius, 1555.
 
-———. *Zēna kai serēno. Logos parainetikos pros ellēnas pros tryphōna
-ioudaiōn dialogos. Apologia ypo christianōn pros tēn rōmaiōn sygklēto.
-Apologia b’ ypo christianōn pros antōninon ton eusebē*. Paris: Robert
+———. *Τοῦ ἁγίου Ἰουστίνου φιλοσόφου καὶ μάρτυρος, Ζήνᾳ καὶ Σερήνῳ ;
+Λόγος παραινετικὸς πρὸς Ἕλληνας ; Πρὸς Τρύφωνα Ἰουδαῖον διάλογος ;
+Ἀπολογία ὑπὲρ χριστιανῶν πρὸς τὴν Ῥωμαίων σύγκλητον ; Ἀπολογία Β’ ὑπὲρ
+χριστιανῶν πρὸς Ἀντων ῖνον τὸν Εὐσεβῆ ; Περὶ Θεοῦ μοναρχίας ; Ἔκθεσις
+πίστεως περὶ τῆς ὀρθῆς ὁμολογίας, ἤτοι περὶ τῆς ἁγίας καὶ ὁμοουσίου
+Τριάδος ; Ἀνατροπὴ δογμάτων τινῶν Ἀριστοτελικῶν ; Ἐρωτήσεις Χριστιανικαὶ
+πρὸς τοὺς Ἕλληνας, καὶ ἑλληνικαὶ ἀποκρίσεις, καὶ τῶν αὐτῶν ἀποκρίσεων
+ἔλεγχοι ; Ἀποκρίσεις πρὸς τοὺς ὀρθοδόξους περὶ τινῶν ἀναγκαίων ζητημάτων
+; Ἐρωτήσεις ἑλληνικαὶ πρὸς τοὺς Χριστιανοὺς περὶ τοῦ ἀσωμάτου, καὶ περὶ
+τοῦ Θεοῦ, καὶ περὶ τῆς ἀναστάσεως τῶν νεκρῶν, καὶ πρὸς τὰς αὐτὰς
+ἐρωτήσεις ἀποκρίσεις Χριστιανικαί : ex Bibliotheca Regia*. Paris: Robert
 Estienne, 1551.
 
-Masius, Andreas. *Josuae imperatoris historia illustrata atq. Explicata
-ab andrea masio*. Antwerp: Christophorus Plantinus, 1574.
+Masius, Andreas. *Josuae imperatoris historia illustrata atq. explicata
+ab Andrea Masio*. Antwerp: Christophorus Plantinus, 1574.
 
-Mattioli, Pietro Andrea, and Jean des Moulins. *Commentaires de m.
-Pierre andré matthiole médecin sennois, sur les six livres de ped.
-Dioscoride anazarbeen de la matière médicinale : Avec certaines tables
+Mattioli, Pietro Andrea, and Jean des Moulins. *Commentaires de M.
+Pierre André Matthiole médecin sennois, sur les six livres de Ped.
+Dioscoride Anazarbeen de la matière médicinale : avec certaines tables
 médicinales, tant des qualités & vertus des simples médicamens, que des
 remèdes pour toutes maladies, qui peuvent avenir au corps humain, comme
 aussi des sentences, mots & matières traictées esdicts commentaires
-(\[reprod.\]) / mis en français sur la dernière édition latine de
-l’auteur par m. Jean des moulins, docteur en médecine*. Lyon: Guillaume
+(\[Reprod.\]) / mis en français sur la dernière édition latine de
+l’auteur par M. Jean des Moulins, docteur en médecine*. Lyon: Guillaume
 Rouille, 1579.
 
 Maximus, Valerius. *Facta et dicta memorabilia*. Edited by Oliviero
-d’Arzignano. Venice: Cereto, Guglielmus de, 1491.
+d’Arzignano. Venice: Guglielmus de Cereto, 1491.
 
-Mesmes, Jean-Pierre de. *La grammaire italienne, composée en françoys*.
+Mercuriale, Girolamo. *Liber responsorum et consultationum
+medicinalium*. Basel: Konrad von Waldkirch, 1588.
+
+Mesmes, Jean-Pierre de. *La Grammaire Italienne, composée en Françoys*.
 Paris: Gilles Corrozet; Étienne Groulleau, 1548.
 
-Nagerel, Jean. *L’histoire et cronique de normandie*. Rouen: Martin Le
+Nagerel, Jean. *L’histoire et cronique de Normandie*. Rouen: Martin Le
 Mégissier, 1581.
 
 Naucratites, Athenaeus. *Deipnosophistou ten polumathestaten pragmateian
-nun exesti soi es gnosis elthein*. Venice: Manuzio, Aldo; Torresano,
-Andrea, 1514.
+nun exesti soi es gnosis elthein*. Venice: Aldo Manuzio; Andrea
+Torresano, 1514.
 
-———. *Dipnosophistarum sive coenae sapientum libri xv*. Edited by Natale
+———. *Dipnosophistarum sive Coenae sapientum libri XV*. Edited by Natale
 Conti. Venice: Andrea Arrivabene, 1556.
 
-Ollaus, Magnus. *Historiae de gentibus septentrionalibus libri xxii*.
+Ollaus, Magnus. *Historiae de gentibus septentrionalibus libri XXII*.
 Antwerp: Jean Bellère, 1552.
 
 Orosius, Paulus. *Historiae adversus paganos*. Augsburg: Johannes
@@ -299,41 +342,51 @@ fontaines, tant naturelles qu’artificielles, des métaux, des sels et
 salines, des pierres, des terres, du feu et des émaux*. Paris: Martin le
 jeune, 1580.
 
-———. *Recepte veritable par laquelle tous les hommes de la france
+———. *Recepte veritable par laquelle tous les hommes de la France
 pourront apprendre a multiplier et augmenter leurs thresors*. La
 Rochelle: Barthélemy Berton, 1564.
 
-Pausanias. *Paysaniu tes hellados periegesis. Hoc est, pausaniae
-accurata graeciae descriptio*. Frankfurt: Claude de Marne; Johann Aubry;
+Pausanias. *Paysaniu tes hellados periegesis. Hoc est, Pausaniae
+accurata Graeciae descriptio*. Frankfurt: Claude de Marne; Johann Aubry;
 Andreas Wechel, 1583.
 
-———. *Veteris graeciae descriptio. Romulus amasaeus vertit.* Florence:
-Torrentino, Lorenzo, 1551.
+———. *Veteris Graeciae descriptio. Romulus Amasaeus vertit*. Florence:
+Lorenzo Torrentino, 1551.
 
 Pollux, Iulius. *Onomasticon*. Basel: Robert Winter, 1541.
 
-———. *Onomasticon. Iulii pollucis vocabularium*. Venice: Aldo Manuzio,
+———. *Onomasticon. Iulii Pollucis Vocabularium*. Venice: Aldo Manuzio,
 1502.
 
 ———. *Vocabularium*. Florence: Bernardo Giunta, 1520.
 
-Polybius. *Eklogai peri tōn presveiōn. Ex libris polybii selecta de
+Polybius. *Eklogai peri tōn presveiōn. Ex libris Polybii selecta de
 legationibus et alia quae seguenti pagina indicantur nunc primum in
 lucem edita*. Antwerp: Christophe Plantin, 1582.
 
-Porzio, Simone. *De coloribus libellus, latinitate donatus, et
+Porzio, Simone. *De coloribus libellus, Latinitate donatus, et
 commentariis illustratus una cum praefatione, qua coloris naturam
 declarat*. Paris: Michel de Vascosan, 1549.
 
-Redonensis, Marbodus. *Libellus de lapidibus preciosis*. Vienna: Vietor,
-Hieronymus, 1511.
+*Prattica, cioe, Nova invenzione di conteggiare : ridotta à modo tanto
+facile, che ogn’uno potrà far ogni gran conto, si in vender, come in
+comperare, sia à misura, ò a peso, ò a qual si voglia altro modo, ad
+ogni sorte di precio, & moneta, per tutte le parti del mondo : serve
+anchora a commutar scudi, & ogni altra sorte di ori in lire, in grossi,
+in soldi, e in qual altro modo si vole, & cosi per il contrario : serve
+di piu à partir ogni sorte di cosa in piu parti, a far compartite di
+compagnie, et in somma à far ogni conto che l’huomo, si possa
+imaginare*. Brescia: Sabbio, Vincenzo, 1589.
 
-Ruscelli, Girolamo. *Les secrets de reverend signeur alexis piémontois
+Redonensis, Marbodus. *Libellus de lapidibus preciosis*. Vienna:
+Hieronymus Vietor, 1511.
+
+Ruscelli, Girolamo. *Les secrets de reverend signeur Alexis piémontois
 contenans excellens remèdes contre plusieurs maladies vec la manière de
-faire distillation tr. De l’italien en françois*. Anvers: Christophe
+faire distillation tr. de l’italien en françois*. Anvers: Christophe
 Plantin, 1557.
 
-———. *Secreti del reverendo donno alessio piemontese*. Venice:
+———. *Secreti del reverendo donno Alessio Piemontese*. Venice:
 Sigismondo Bordogna, 1555.
 
 Sabellico, Marco Antonio. *Le historie vinitiane divise in tre deche con
@@ -343,86 +396,137 @@ Curzio Troiano Navò, 1544.
 Sabellicus, Marcus Antonius. *De rerum et artium inventoribus poema*.
 Vienna: Hieronymus Vietor, 1521.
 
-———. *Historiae rerum venetarum ab urbe condita, libri xxxiii. Eiusdem
+———. *Historiae rerum venetarum ab urbe condita, libri XXXIII. Eiusdem
 in singulos libros epitomae. Additus in fine est index rerum
-memorabilium copiosus.* Basel: Episcopius, Nikolaus, 1556.
+memorabilium copiosus*. Basel: Nikolaus Episcopius, 1556.
 
-———. *Rerum venetarum ab urbe condita in universum opus*. Venice, 1487.
+———. *Rerum Venetarum ab urbe condita in universum opus*. Venice, 1487.
 
-Salviani, Ippolito. *Aquatilium animalium historiae liber primus: Cum
-eorundem formis, aere excusis*. Rome: Salviani, Ippolito, 1554.
+Salviani, Ippolito. *Aquatilium animalium historiae liber primus: cum
+eorundem formis, aere excusis*. Rome: Ippolito Salviani, 1554.
 
 Savonne, Pierre de. *Nouvelle instruction d’Arithmétique abrégée propre
-à tous les marchands et banquiers*. Paris: Nicolas du Chemin, 1563.
+à tous les Marchands et Banquiers*. Paris: Nicolas du Chemin, 1563.
 
-Smith, Paul J. “Solitudo: Spaces, places, and times of solitude in late
-medieval and early modern cultures.” In, edited by Enenkel K. A. E. and
-Christine Göttler. Vol. 56. Intersections. Leiden: Brill, 2018.
-
-Statius, Publius Papinius. *Opera*. Venice: Zanis, Bartholomaeus de,
+Statius, Publius Papinius. *Opera*. Venice: Bartholomaeus de Zanis,
 1494.
 
-———. *Sylvarum libri v, thebaidos libri xii, achilleidos libri ii*.
-Lyon: Gryphe, Sébastien, 1547.
+———. *Sylvarum libri V, Thebaidos libri XII, Achilleidos libri II*.
+Lyon: Sébastien Gryphe, 1547.
 
-———. *Sylvarum libri v achilleidos libri xii thebaidos libri ii
-orthographia et flexus dictionum graecarum omnium apud statium cum
-accentib. Et generib. Ex variis utriusque linguae authoribus*. Venice:
-Aldo I Manuzio; Andrea I Torresano, 1519.
+———. *Sylvarum libri V Achilleidos libri XII Thebaidos libri II
+orthographia et flexus dictionum Graecarum omnium apud Statium cum
+accentib. et generib. ex variis utriusque linguae authoribus*. Venice:
+Aldo Manuzio; Andrea Torresano, 1519.
 
-Strabo. *Peri geographias. Strabo de situ orbis*. Venice: Torresano,
-Andrea; Aldo Manuzio, 1516.
+Strabo. *Peri geographias. Strabo De situ orbis*. Venice: Andrea
+Torresano; Aldo Manuzio, 1516.
+
+Suetonius Tranquillus, Gaius, Vulcatius Gallicanus, Aelius Spartianus,
+Trabellius Pollio, Flavius Vopiscus, Julius Capitolinus, and Aelius
+Lampridius. *Caius Suetonius Tranquillus: Vitae XII Caesarum. Aelius
+Spartianus: De vita Hadriani; Julius Capitolinus, Vulcatius Gallicanus,
+Aelius Lampridius, Trabellius Pollio and Flavius Vopiscus: De regum ac
+imperatorum Romanorum*. Venice: Johannes Rubeus Vercellensis, 1490.
 
 Telesio, Antonio. *Libellus de coloribus. Ubi multa leguntur praeter
-aliorum opinionem*. Venice: Vitali, Bernardino, 1528.
+aliorum opinionem*. Venice: Bernardino Vitali, 1528.
+
+Ursperg, Burchard of. *Chronicum abbatis urspergensis, a nino rege
+assyriorum magno, usque ad Fridericum II.romanorum imperatorem, ex
+optimis autoribus recognitum, et innumeris mendis repurgatum*.
+Strasbourg: Kraft Müller, 1537.
 
 Verdier, Antoine Du. *Questions enigmatiques, recreatives et propres
 pour deviner et y passer le temps aux veillees des longues nuicts, avec
 les responses subtiles, et autres propos joyeux*. Lyon: Benoı̂t Rigaud,
 1568.
 
-Vergilius, Polydorus. *Anglicae historiae libri vigintisex*. Basel:
-Isengrin, Michael, 1546.
+Vergilius, Polydorus. *Anglicae historiae libri Vigintisex*. Basel:
+Michael Isengrin, 1546.
 
 ———. *De inventoribus rerum*. Venice: Christophorus de Pensis, 1499.
 
-Vida, Marco Girolamo. *Bucolica de bombyce ad isabellam estensem
-marchionissam libri ii, etc.* Basel: Walder, Johann, 1534.
+Vergilius Maro, Publius, Maurus Honoratus Servius, Josse Bade, Filippo
+Beroaldo, Domizio Calderino, Agostino Dati, Aelius Donatus, Antonio
+Mancinelli, and Marcus Valerius Probus. *Vergilius cum commentariis et
+figuris P. Vergilii Maronis, Bucolica, Georgica, Aeneis cum Servii
+commentariis accuratissime emendatis in quibus multa quae adhuc deerant
+sunt adiecta et Graecae dictiones ac verius ubique restituti. Additus
+est etiam Probicelebris grammatici in Bucolica & Georgica perutilis
+commentariolus recens castigatus. Nec non commentarii Donati, Mancinelli
+et Ascensii. Insunt praeterea Beroaldi annotationes et Augustini Dathi
+in Aeneidem praefatio. Atque ut studiosis nihil amplius desiderent
+adiuncta sunt opuscula omnia sive lusus Vergiliani tum a Domitio
+Calderino tum ab Ascensio perspicue declarati. Res vero totius operis
+adeo graphice imaginibus exprimuntur ut non minus geri videantur quae
+legi possint*. Venice: Gregorio De Gregori; Lucantonio Giunta, 1522.
+
+Vida, Marco Girolamo. *Bucolica de bombyce ad Isabellam Estensem
+Marchionissam libri II, etc.* Basel: Johann Walter, 1534.
 
 Viterbo, Giovanni Nanni da. *I cinque libri de le antichita*. Venice:
 Baldassare Constantini, 1550.
 
-Vives, Juan Luis. *Los comentarios de juan luis vives a "la ciudad de
-dios" de san agustı́n*. Edited by Rafael Cabrera Petit. Vol. 6. Colección
-j.l. Vives. Ajuntament de Valencia, 2000.
-
-*Kompost et kalendrier des bergiers*. Paris: Guy Marchant, 1491.
-
-*Prattica, cioe, nova invenzione di conteggiare : Ridotta à modo tanto
-facile, che ogn’uno potrà far ogni gran conto, si in vender, come in
-comperare, sia à misura, ò a peso, ò a qual si voglia altro modo, ad
-ogni sorte di precio, & moneta, per tutte le parti del mondo : Serve
-anchora a commutar scudi, & ogni altra sorte di ori in lire, in grossi,
-in soldi, e in qual altro modo si vole, & cosi per il contrario : Serve
-di piu à partir ogni sorte di cosa in piu parti, a far compartite di
-compagnie, et in somma à far ogni conto che l’huomo, si possa
-imaginare*. Brescia: Sabbio, Vincenzo, 1589.
+Vives, Juan Luis. *Los comentarios de Juan Luis Vives a "La ciudad de
+Dios" de San Agustı́n*. Edited by Rafael Cabrera Petit. vol. 6. Colección
+J.L. Vives. Ajuntament de Valencia, 2000.
+<br/>
 
 ### Secondary Sources
 Bol, Marjolijn. “The emerald and the eye: on sight and light in the artisan's workshop and scholar's study." In, *Perspective as practice: Renaissance cultures of optics*, edited by Sven Dupré, 71–101. Turnhout: Brepols, 2019.
 
-Daux, Camille. *Histoire de l’Eglise de montauban*. Paris: Bray et
+Collin, Franck. “Antonio Telesio de Cosenza, Petit traité des couleurs
+latines (De coloribus libellus), éd. Michel Indergand et Christine
+Viglino.” Cahiers de recherches médiévales et humanistes, 2010.
+<http://journals.openedition.org/crm/12315>.
+
+Corneille, Thomas. *Le grand dictionnaire des arts et des sciences*.
+Paris: Veuve de Jean-Baptiste Coignard; Jean-Baptiste Coignard, 1692.
+<https://gallica.bnf.fr/ark:/12148/bpt6k1280426g>.
+
+Cotgrave, Randle. “A dictionarie of the french and english tongues.”
+London: Adam Islip, 1611. <http://www.pbm.com/~lindahl/cotgrave/>.
+
+Daux, Camille. *Histoire de l’Eglise de Montauban*. Paris: Bray et
 Retaux, 1881.
 
 Diderot, Denis, and Jean le Rond d’Alembert. *Encyclopédie, ou
 dictionnaire raisonné des sciences, des arts et des métiers*. Vol. 7.
 Paris: Briasson, 1770.
 
+“Dictionnaire du Moyen Français.” Paris, 2015.
+<http://www.atilf.fr/dmf>.
+
+Gilson, Etienne. *L’esprit de la philosophie médiévale*. Paris: Vrin,
+1969.
+
+Hérold, Michel. “Le verre des vitraux (xve-xvie siècles). Approche
+méthodologique.” in *Verre et Fenêtre de l’Antiquité au xviiie siècle,
+les Actes du premier colloque international organisé à Paris-La Défense
+/ Versailles du 13 au 15 octobre 2005 par l’Association Verre &
+Histoire, ont été réalisés et publiés sous la direction de Sophie
+Lagabrielle et Michel Philippe*, edited by Sophie Lagabrielle and Michel
+Philippe. Association Verre et Histoire, INHA, 2005.
+<http://www.verre-histoire.org/colloques/verrefenetre/pages/p307_02_herold.html>.
+
+Lamberini, Daniela. *Il Sanmarino. Giovan Battista Belluzzi architetto
+militare e trattatista del cinquecento*. Arte e Archeologia. Studi e
+Documenti 30. Florence: Leo S. Olschki, n.d.
+
+Leproux, Guy-Michel. “Quelques éclairages sur la vie et la carrière de
+Jean Cousin le jeune.” *Documents d’histoire parisienne* 12 (2011):
+23–40.
+
 Michel-Leproux, Guy. *La peinture à paris sous le règne de françois
 ier*. Presses de l’Université de Paris Sorbonne, 2001.
 
 Nadolski, Dieter. *Les étains anciens usuels: Leur aspect et leur
 fonction pendant six siècles*. Paris: Nouvelles Editions Latines, 1986.
+
+Norri, Juhani. *Dictionary of Medical Vocabulary in English, 1375-1550:
+Body Parts, Sicknesses, Instruments, and Medicinal Preparations*.
+London: Routledge, 2016.
 
 Roy, Maurice. *Jehan cousin père, sculpteur : La statue de l’amiral
 chabot et le jubé de la chapelle de pagny*. Sens: Duchemin, 1909.
@@ -431,9 +535,17 @@ Roy, Maurice, and Paul Vitry. *Artistes et monuments de la renaissance
 en france. Recherches nouvelles et documents inédits*. Paris: Honoré
 Champion, 1929.
 
+Smith, Paul J. “Solitudo: Spaces, places, and times of solitude in late
+medieval and early modern cultures.” edited by Enenkel K. A. E. and
+Christine Göttler, Vol. 56. Intersections. Leiden: Brill, 2018.
+<https://doi.org/10.1163/9789004367432>.
+
 Solmi, Edmondo, and Sergio Solmi. *Scritti vinciani: Le fonti dei
-manoscritti di leonardo da vinci e altri studi*. Strumenti ; 37.
+manoscritti di Leonardo da Vinci e altri studi*. Strumenti ; 37.
 Firenze: La nuova Italia, 1976.
+
+*TLFi : Trésor de la langue Française informatisé*. Nancy: ATILF - CNRS
+& Université de Lorraine, 1994. <http://www.atilf.fr/tlfi>.
 
 Wartelle, André. *Bibliographie historique et critique de saint justin,
 philosophe et martyr, 1494-1994 (avec un supplément)*. Paris: Editions
@@ -444,7 +556,7 @@ Zerner, Henri. *L’Art de la renaissance en france*. Paris: Flammarion,
 
 
 ## Glossary
-
+<br/>
 
 Académie française. “Dictionnaire de l’Académie française.” Paris, 2018.
 <https://www.dictionnaire-academie.fr>.
@@ -536,7 +648,7 @@ illustrata*. Verona: Boninus de Boninis, 1482.
 ———. *Roma triumphans*. Brescia: Vercellensis, Bartholomaeus, 1482.
 
 Biringuccio, Vannoccio. *De la pirotechnia. Libri x*. Venice: Venturino
-Ruffinelli\], 1540.
+Ruffinelli, 1540.
 
 Bogdan, Henrik, and Olav Hammer, eds. *Western esotericism in
 scandinavia*. Leiden: Brill, 2016.
@@ -626,9 +738,6 @@ Corrozet, Gilles. *Le cathalogue des villes et citez assises es troys
 gaulles, avecq ung traicté des fleuves et fontaines, illustré de
 nouvelles figures*. Paris: Denis Janot, 1538.
 
-Cotgrave, Randle. “A dictionarie of the french and english tongues.”
-London: Adam Islip, 1611. <http://www.pbm.com/~lindahl/cotgrave/>.
-
 Coxe, John Redman. *The philadelphia medical dictionary : Containing a
 concise explanation of all the terms used in medicine, surgery,
 pharmacy, botany, natural history, chymistry, and materia medica*.
@@ -639,10 +748,7 @@ Tacuinus, 1496.
 
 Dalechamps, Jacques, and Jean Des Moulins. *Histoire générale des
 plantes: Contenant xviii livres egalement departis en deux tomes*. Lyon:
-Chez Philip. Borde \[etc., 1653.
-
-Daux, Camille. *Histoire de l’Eglise de montauban*. Paris: Bray et
-Retaux, 1881.
+Chez Philip. Borde etc., 1653.
 
 Delaulne, Florentin ed. *Dictionnaire universel francois et latin:
 Contenant la signification et la definition tant des mots de l’une & de
@@ -1453,7 +1559,7 @@ A. Franck, 1866.
 *Bulletin et Mémoires de la Société Archéologique et Histoirque de la
 Charente.* (1845).
 
-. L’Intermédiaire des chercheurs et curieux : Notes and queries français
+L’Intermédiaire des chercheurs et curieux : Notes and queries français
 : Questions et réponses, communications diverses à l’usage de tous,
 littérateurs et gens du monde, artistes, bibliophiles, archéologues,
 généalogistes, etc., 1901.
