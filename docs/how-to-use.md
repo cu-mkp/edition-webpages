@@ -197,7 +197,7 @@ The Essays can be accessed in two places: 1) within the manuscript pages
 and 2) in a dedicated index.
 
 
-![howtouse-beaker](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-beaker.png)
+![howtouse-folios-essay](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folios-essay.png)
 
 In the dual-pane display of the manuscript, these essays appear next to
 the manuscript entries they discuss. They can be accessed by clicking on
