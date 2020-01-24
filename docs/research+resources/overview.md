@@ -1,4 +1,4 @@
-# Overview
+# Overview of Resources
 
 Numerous resources serve as tools and companion commentary to the text
 of Ms. Fr. 640.
@@ -6,24 +6,24 @@ of Ms. Fr. 640.
 ## [List of Entries](/#entries)
 
 The List of Entries allows navigation of the manuscript by the headings
-of all 930 “recipes” or entries in Ms. Fr. 640.
+of the over 900 “recipes,” or entries, in Ms. Fr. 640.
 
 Entries can be filtered by selecting semantic tags that have been used to encode relevant terms in each entry. For further information on these tags, see [Principles of
 Encoding](/#content/research+resources/principles-encoding).
 
 ## [Entry Categories](/#content/research+resources/categories)
 
-Entries can be faceted through 26 broad categories. These are intended to provide a quick overview of processes and materials and to help navigate
-the manuscript. They should not be taken as definitive or comprehensive.
+Entries can be faceted through 26 broad categories, which are intended to provide a quick overview of processes and materials and to help navigate
+the manuscript. 
 
 For more information about the manuscript’s contents, see
-[Pamela Smith, “An Introduction to Ms. Fr. 640 and its
-Author-Practitioner.”](/#essays/ann_300_ie_19)
+Pamela Smith, [An Introduction to Ms. Fr. 640 and its
+Author-Practitioner](/#essays/ann_300_ie_19).
 
 ## [The Glossary](/#folios/1r/f/1r/glossary)
 
 The Glossary is a record of distinctive terms used in the manuscript
-which was compiled in the transcription and translation of the text.
+which was compiled during the process of transcribing and translating the text.
 
 It includes:
 
@@ -34,8 +34,7 @@ It includes:
 
 ## [The Bibliography](/#content/research+resources/bibliography)
 
-All works cited in the Edition are compiled in the Bibliography, including primary and secondary literature cited
-in the glossary and the editorial comments.
+The Bibliography compiles references, texts, and authors cited in the manuscript, the editorial comments, and the glossary.
 
 Each Research Essay also contains a full bibliography of works cited in
 the essay. These will be included in the general Bibliography for a future release.
@@ -44,33 +43,27 @@ the essay. These will be included in the general Bibliography for a future relea
 ## [Principles of Transcription, Translation, and Encoding](/#content/research+resources/principles)
 
 To transform the handwritten pages of Ms. Fr. 640 into digital text, the Making and
-Knowing Project began transcribing, translating, and encoding Ms. Fr.
-640 in 2014 in a series of “grad-sourced” workshops.
+Knowing Project transcribed, translated, and encoded Ms. Fr.
+640 in a series of collaborative workshops for graduate students since 2014.
 
 The principles and protocols guiding this process evolved into
-the resources found under [Principles of Transcription,
-Translation, and Encoding](/#content/research+resources/principles)
+these resources.
 
 A list of [dictionaries and technical encyclopedias](#content/research+resources/dictionaries) was also developed during the
 transcription and translation effort.
 
-## [Field Notes]()
+## [Field Notes](#content/research+resources/field-notes)
 
-\[Coming soon\]
+Field notes document students' skill-building exercises and reconstruction work for their laboratory essays.
 
-Field notes document students'
-skill-building exercises and reconstruction work for their laboratory essays.
-
-While the Project required students to record every stage of
-their research, some field notes are more detailed and
+While the Project required students to record every stage of their research, some field notes are more detailed and
 comprehensive than others.
 
 Additional photographs taken by the students as they carried out their
 research are available in the [Project’s repository on Flickr](https://www.flickr.com/photos/128418753@N06/albums).
 
-For more on field notes as a pedagogical
-component of the Edition, see [Pamela Smith, “Making the Edition of Ms.
-Fr. 640.”](/#essayx/ann_329_ie_19)
+For more on field notes as a pedagogical component of the Edition, see Pamela Smith [Making the Edition of Ms.
+Fr. 640](/#essayx/ann_329_ie_19).
 
 
 
