@@ -19,6 +19,10 @@
                 "route": "/entries" 
             },            
             {
+                "label": "Categories",
+                "route": "/content/research+resources/categories" 
+            },            
+            {
                 "label": "Glossary",
                 "route": "/folios/1r/f/1r/glossary" 
             },           
@@ -46,6 +50,10 @@
         "label": "About",
         "menuItems": [
              {
+                "label": "Overview",
+                "route": "/content/about/overview" 
+            },
+            {
                 "label": "The Manuscript",
                 "route": "/content/about/manuscript" 
             },            
