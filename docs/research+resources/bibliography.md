@@ -4,7 +4,7 @@ The bibliography compiles all the references cited in the editorial comments, in
 
 While we provide detailed references for primary sources cited in the manuscript, we cannot always be certain that the specific edition we cited is exactly the one the author-practitioner refers to. 
 
-When in doubt, we selected the more widely available editions from the more prominent publishers of the time (Robert and Henri Estienne, the Aldine press, Christophe Plantin, Hieronymus Froben, Johannes Herwagen, etc). To search for other possible editions, we encourage users to browse the [Universal Short Title Catalogue](wwww.ustc.ac.uk), and similar resources.
+When in doubt, we selected the more widely available editions from the more prominent publishers of the time (Robert and Henri Estienne, the Aldine press, Christophe Plantin, Hieronymus Froben, Johannes Herwagen, etc). To search for other possible editions, we encourage users to browse the [Universal Short Title Catalogue](https://wwww.ustc.ac.uk), and similar resources.
 
 The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/bibtex) and html, downloadable from the Project’s [GitHub repository](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/bibliographies).
 
