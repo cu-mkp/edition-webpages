@@ -54,38 +54,6 @@ Translation, and Encoding](/#content/research+resources/principles)
 A list of [dictionaries and technical encyclopedias](#content/research+resources/dictionaries) was also developed during the
 transcription and translation effort.
 
-## [Research Essays](/#essays)
-
-Research Essays explore the manuscript and its context through historical research, including hands-on reconstruction
-in the Making and Knowing Laboratory.
-
-**Essays by scholars** on the Making and Knowing Team and invited
-experts explore different aspects of Ms. Fr. 640 and its material, technical,
-textual, and historical context.
-
-**Essays by students** are products of the Making and Knowing Project laboratory seminars
-and courses taught by Project collaborators. The majority addresses historical questions by
-combining laboratory work with traditional historical research.
-
-All essays will also be archived in Academic Commons where they can be
-downloaded as standalone articles.
-
-The Research Essays are grouped in up to three of seven broad categories:
-
-  - **An Introduction**: introductory resources about the manuscript, the Project, and background information.
-
-  - **The Manuscript, Ms. Fr. 640**: its codicology, palaeography, and probable genesis, its relationship to other genres of writing, and the identity of its anonymous author-practitioner.
-
-  - **The Making and Knowing Laboratory**: hands-on work in the Making and Knowing Laboratory and principles of historical reconstruction.
- 
-  - **Society and Culture**: historical context of the manuscript in sixteenth-century France and beyond.
-
-  - **Art and Its Making**: materials, making, and meaning of art, and the training of artists.
-
-  - **Knowing Nature**: investigation, manipulation, and exploration of nature in Ms. Fr. 640.
-
-  - **The Making and Knowing Project**: initiatives, pedagogy, methods, personnel, and collaborators.
-
 ## [Field Notes]()
 
 \[Coming soon\]
