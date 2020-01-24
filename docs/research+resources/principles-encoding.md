@@ -18,7 +18,7 @@ Ms. Fr. 640 developed over the five years of the Project, as detailed
 practical instructions. These Encoding Protocols made clear our
 recognition that encoding a text is an interpretive act, thus all tags
 and encoding principles were discussed, reviewed, and revised multiple
-times over the five years of creating this Edition. They also set out
+times over the five years of creating *Secrets of Craft and Nature in Renaissance France*. They also set out
 the Project’s underlying goal as the effort to “achieve accurate and
 consistent markup of all three text versions of the manuscript. This is
 a very detail-oriented endeavor, but will enable future users to analyze
@@ -284,14 +284,14 @@ maintained in the project’s data repository at:
 </table>
 
 The Project used unicode characters when they existed for the symbols
-used by the writer
+used by the writer.
 
 Project members worked in Google Drive to enable simultaneous work until
 2018, when Project data, including all transcribed, translated, and
 marked up versions of the folio pages, were transferred to GitHub. While
 working in Google Drive, Text Workshop members used working tools
 constructed by Project Assistant Philip Cherian, and are listed here in
-case they are useful to users of the Edition.
+case they are useful to users of *Secrets of Craft and Nature*.
 
   - Googledrive Add **“[Tag Insertion](https://chrome.google.com/webstore/detail/tag-insertion/bmbnkgemgamfdehffagfghkbkcgcoika?utm_source=permalink)”**
   - a digital tool for quickly grabbing a tag and inserting into the text.    

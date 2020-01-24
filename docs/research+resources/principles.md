@@ -15,6 +15,14 @@ Tillmann Taape, and Tianna Uchacz.
 
 ## [Principles of Transcription](/#content/research+resources/principles-transcription)
 
+Principles and conventions followed in the diplomatic and normalised transcriptions of the manuscript text.
+
 ## [Principles of Translation](/#content/research+resources/principles-translation)
 
+Translation philosophy and guidelines for our collaborative translation of a miscellaneous and highly technical text.
+
 ## [Principles of Encoding](/#content/research+resources/principles-encoding)
+
+The rationale behind our semantic and structural markup.
+
+For further information, see also [Pamela Smith, "Making the Edition of Ms. Fr. 640"](/#essays/ann_329_ie_19)

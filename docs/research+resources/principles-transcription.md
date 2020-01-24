@@ -4,7 +4,7 @@ The transcription of Ms. Fr. 640 was carried out by graduate students
 and Making and Knowing team members in Paleography and Text Workshops
 held by the Making and Knowing Project from 2014 to 2018. It was then
 checked and refined by the Paleography Lead Marc Smith and Senior
-Editorial Team members, Clement Godbarge, Naomi Rosenkranz, Pamela
+Editorial Team members, Clément Godbarge, Naomi Rosenkranz, Pamela
 Smith, Tillmann Taape, and Tianna Uchacz.
 
 Two versions of the transcriptions are included in the Digital Critical
@@ -64,7 +64,7 @@ text, based on the principles commonly observed in modern critical
 editions of middle-French texts for grammatical and lexical
 disambiguation.
 
-Distinct normalization protocols are the following:
+The followign normalization protocols were applied:
 
   - > Capitalization and punctuation: the liberal use in Ms. Fr. 640 of
     > capitals to mark the beginnings of both independent sentences and
