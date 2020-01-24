@@ -26,8 +26,8 @@ the text in ways we have not conceived. We seek to make possible new
 questions and new analyses of the text.
 
 For more information on the process of encoding Ms. Fr. 640, see Celine
-Camps and Margot Lyautey, Ma\<r\>king and Knowing: Encoding BnF Ms. Fr.
-640.
+Camps and Margot Lyautey, ["Ma\<r\>king and Knowing: Encoding BnF Ms. Fr.
+640."](/#essays/ann_331_ie_19)
 
 In 2017 the emerging tagset was formalized as a RelaxNG schema and
 maintained in the project’s data repository at:
@@ -293,8 +293,6 @@ working in Google Drive, Text Workshop members used working tools
 constructed by Project Assistant Philip Cherian, and are listed here in
 case they are useful to users of *Secrets of Craft and Nature*.
 
-  - Googledrive Add **“[Tag Insertion](https://chrome.google.com/webstore/detail/tag-insertion/bmbnkgemgamfdehffagfghkbkcgcoika?utm_source=permalink)”**
-  - a digital tool for quickly grabbing a tag and inserting into the text.    
+Googledrive Add **“[Tag Insertion](https://chrome.google.com/webstore/detail/tag-insertion/bmbnkgemgamfdehffagfghkbkcgcoika?utm_source=permalink)”** — a digital tool for quickly grabbing a tag and inserting into the text.    
 
-  - Googledrive Add on **“[XML Validator](https://chrome.google.com/webstore/detail/xmlvalidator/enbfpfceakblekdbimplgjkmjfjceede?utm_source=permalink)”**
-  - a digital tool for validating markup before moving on to the  next recipe or folio
+Googledrive Add on **“[XML Validator](https://chrome.google.com/webstore/detail/xmlvalidator/enbfpfceakblekdbimplgjkmjfjceede?utm_source=permalink)”** — a digital tool for validating markup before moving on to the next recipe or folio.

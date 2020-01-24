@@ -25,4 +25,4 @@ Translation philosophy and guidelines for our collaborative translation of a mis
 
 The rationale behind our semantic and structural markup.
 
-For further information, see also [Pamela Smith, "Making the Edition of Ms. Fr. 640"](/#essays/ann_329_ie_19)
+For further information, see also [Pamela Smith, "Making the Edition of Ms. Fr. 640."](/#essays/ann_329_ie_19)
