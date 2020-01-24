@@ -56,8 +56,7 @@ transcription and translation effort.
 
 ## [Research Essays](/#/essays)
 
-Research Essays explore the text of the manuscript, provide material,
-technical, and historical context, and discuss student reconstructions
+Research Essays explore the manuscript and its context through historical research, including hands-on reconstruction
 in the Making and Knowing Laboratory.
 
 **Essays by scholars** on the Making and Knowing Team and invited
