@@ -498,7 +498,7 @@ Diderot, Denis, and Jean le Rond d’Alembert. *Encyclopédie, ou
 dictionnaire raisonné des sciences, des arts et des métiers*. Vol. 7.
 Paris: Briasson, 1770.
 
-“Dictionnaire du Moyen Français.” Paris, 2015.
+“Dictionnaire du Moyen Français.” version 2015 (DMF 2015). ATILF - CNRS & Université de Lorraine Paris, 2015.
 <http://www.atilf.fr/dmf>.
 
 Gilson, Etienne. *L’esprit de la philosophie médiévale*. Paris: Vrin,
