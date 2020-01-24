@@ -183,6 +183,25 @@ Use the alphabetical navigation bar to browse the contents.
 
 Additionally, the Glossary has a dedicated filtering search which can be used to navigate by the head-word (the manuscript's original French variant) as well as alternate and modern spellings.
 
+How to read a glossary entry:
+
+Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
+    
+      - In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets indicates the source of the definition, as listed in the [Bibliography](/#/content/research+resources/bibliography).
+
+Glossary entries may also include meanings of words according to context as well as language or dialect of origin.
+
+**A note on early modern spelling:** if a word from the manuscript text
+returns no hits in the glossary, try searching for a shorter string
+(e.g. the beginning of the word) or a different spelling. The
+author-practitioner’s early modern French shows little standardization,
+and while the glossary includes common spelling variants, the list is
+not exhaustive. Common variations are:
+
+  - double vs. single consonant, as in *plate* vs. *platte*
+
+  - homonyms, e.g. aiguille, esguille; alun, alum, alung"
+
 ![howtouse-glossary](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-glossary.png)
 
 
