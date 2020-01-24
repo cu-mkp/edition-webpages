@@ -4,7 +4,7 @@ The manuscript BnF Ms. Fr. 640 mostly consists of units of text under titles, wh
 
 The over 900 entries have been grouped by the Making and Knowing Project into 26 broad categories, loosely corresponding to topics that the Project felt represented core preoccupations of the author-practitioner. 
 
-Each entry was assigned up to three of the 26 categories.
+Each entry was assigned up to three of the 26 categories. For example, *Tablettes* (Tablets) on fol. [15v](/#folios/15v) is categorized under "wood and its coloring," "decorative," and "tool."
 
 These categories form an index created by the Project to ease navigation of the manuscript. 
 

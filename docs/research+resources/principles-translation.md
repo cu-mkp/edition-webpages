@@ -3,7 +3,7 @@
 The translation of Ms. Fr. 640 was carried out by graduate students and
 Making and Knowing team members in Paleography and Text Workshops held
 by the Making and Knowing Project from 2014 to 2018. It was then checked
-and refined by the Paleography Lead Marc Smith and Senior Editorial Team
+and refined by the Paleography Lead Marc Smith and Senior Team
 members, Clément Godbarge, Naomi Rosenkranz, Pamela Smith, Tillmann
 Taape, and Tianna Uchacz.
 
@@ -37,11 +37,10 @@ obscured or subsumed into different categories in modern art historical
 terminology. To keep the original meaning in view, we have refrained
 from applying these modern categories wherever possible. For example,
 the term *desmenée* in an entry on perspective (fol.
-[62v](http://edition640.makingandknowing.org/#/folios/62v/f/62v/tl))
+[62v](/#folios/62v)
 could easily be identified as the “vanishing point,” but instead we
 opted for the more neutral “intersection.” Similarly, the entries on *or
-mat* (fol.
-[66r](http://edition640.makingandknowing.org/#/folios/66r/f/66r/tl))
+mat* (fol. [66r](/#folios/66r))
 describe a process known as mordant gilding in modern English, but to
 use that term would be tantamount to imposing a modern technical
 definition on the author-practitioner’s understanding of the process.
@@ -83,8 +82,7 @@ We paid particular attention to language describing materials as alive
 and active, with a will of their own. *Azur d’esmail*, for example,
 “hates more than any other to be ground, especially with water,” and
 with good reason, since this would mean that it “dies & loses all its
-color” (fol.
-[58v](http://edition640.makingandknowing.org/#/folios/58v/f/58v/tl)).
+color” (fol. [58v](/#folios/58v)).
 While this literal translation may sound quaint to modern readers, for
 early modern artists and artisans, there would have been nothing unusual
 in supposing that matter was a live agent that had to be coaxed or
@@ -158,8 +156,8 @@ supporting our translation decisions. The Research Essays that accompany
 interpretation of meaning.
 
 For more information on the process by which Ms. Fr. 640 was translated,
-see [Soersha Dyon and Heather Wacha, "Turning Turtle: The Process of
-Translating BnF Ms. Fr. 640."](/#essays/ann_318_ie_19)
+see Soersha Dyon and Heather Wacha, [Turning Turtle: The Process of
+Translating BnF Ms. Fr. 640](/#essays/ann_318_ie_19).
 
-For the reference sources used in translation, see our list of [dictionaries and technical encyclopedias](#content/research+resources/dictionaries).
+For the reference sources used in translation, see our list of [Dictionaries and Technical Encyclopedias](#content/research+resources/dictionaries).
 
