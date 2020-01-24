@@ -691,7 +691,7 @@ contenant la signification et la definition tant des mots de l’une & de
 l’autre langue, avec leurs différens usages ; que des Termes propres de
 chaque etat & de chaque profession*. Paris, 1721.
 
-“Dictionnaire du Moyen Français.” Paris, 2015.
+“Dictionnaire du Moyen Français.” version 2015 (DMF 2015). ATILF - CNRS & Université de Lorraine Paris, 2015.
 <http://www.atilf.fr/dmf>.
 
 Diderot, Denis, and Jean Le Rond d’ Alembert. *Encyclopedie methodique,
