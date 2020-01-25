@@ -70,7 +70,7 @@ components:
 3. an English translation, and
 4. high-definition images of the manuscript fed directly from [Gallica](https://gallica.bnf.fr), the BnF’s digital library.
 
-Secrets of Craft and Nature* also integrates access to the Project’s interpretive resources (also accessible as stand-alone features), including:
+*Secrets of Craft and Nature* also integrates access to the Project’s interpretive resources (also accessible as stand-alone features), including:
 
   - Essays that discuss the material, historical, and cultural context of Ms. Fr. 640
   - In-depth multimedia essays that focus on the laboratory reconstruction of selected manuscript entries
