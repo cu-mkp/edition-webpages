@@ -17,7 +17,7 @@ A handlist of dictionaries, technical encyclopedias, and other sources used in t
   - > [Linguee](http://www.linguee.com/english-french) French-English
     > translation tool with texts showing usage (contemporary)
   - > [Abel Boyer, The Royal Dictionary, French and
-    > English](http://books.google.fr/books?id=2-_J6e9af1EC)…, (London
+    > English](http://books.google.fr/books?id=2-_J6e9af1EC), (London
     > 1729).
   - > [Oxford English Dictionary](http://www.oed.com/) - The standard
     > reference (institutional access required).
@@ -36,19 +36,16 @@ A handlist of dictionaries, technical encyclopedias, and other sources used in t
     > Lorraine).
       - > Reference dictionary in modern and historical French.
   - > [Émile Littré - Dictionnaire de la langue
-    > française](http://www.littre.org), édition XML.
+    > française](http://www.littre.org), XML version.
       - > Very useful especially for technical terms.
   - > [Dictionnaire de l’ancienne langue française et de tous ses
     > dialectes du IXe au XVe
     > siècle](http://www.micmap.org/dicfro/introduction/dictionnaire-godefroy),
     > by Frédéric Godefroy (1880-1895),
     > and the supplementary volume ([Complément](http://www.micmap.org/dicfro/introduction/complement-godefroy), 1895-1902).
-  - > *Dictionnaire historique de l’ancien langage françois, ou
-        > Glossaire de la langue françoise depuis son origine jusqu’au
-        > siècle de Louis XIV*, par Jean-Baptiste de la Curne de
-        > Sainte-Palaye (1882). —
-        > Sur [Archive.org](http://archive.org/search.php?query=Dictionnaire%20historique%20de%20l%27ancien%20langage%20fran%C3%A7ois) et
-        > sur [Gallica](http://gallica.bnf.fr/Search?f_creator=La+Curne+de+Sainte+Palaye%2C+Jean+Baptiste+de+%281697-1781%29&ArianeWireIndex=index&q=la+curne+Dictionnaire+historique&lang=FR&n=15&p=1&f_nqamoyen=altoHQ).
+  - > *Dictionnaire historique de l’ancien langage françois, ou Glossaire de la langue françoise depuis son origine jusqu’ausiècle de Louis XIV*, par Jean-Baptiste de la Curne deSainte-Palaye (1882). 
+      - > [Archive.org](http://archive.org/search.php?query=Dictionnaire%20historique%20de%20l%27ancien%20langage%20fran%C3%A7ois) et
+        > [Gallica](http://gallica.bnf.fr/Search?f_creator=La+Curne+de+Sainte+Palaye%2C+Jean+Baptiste+de+%281697-1781%29&ArianeWireIndex=index&q=la+curne+Dictionnaire+historique&lang=FR&n=15&p=1&f_nqamoyen=altoHQ).
   - > Abel Poitrineau, [Les Anciennes mesures locales du Sud-Ouest
     > d'après les tables de
     > conversion](https://books.google.com/books?id=RQP2c4uyz9oC),
@@ -59,7 +56,7 @@ A handlist of dictionaries, technical encyclopedias, and other sources used in t
 ### For further exploration
   - > [Dicfro](http://www.micmap.org/dicfro/liste-des-dictionnaires)
     
-      - > Portal with access to numerous lexicographical and historical resource, to glossaries of several medieval works, and to some other resources of minor importance, aux glossaires de plusieurs
+      - > Portal with access to numerous lexicographical and historical resources, to glossaries of several medieval works, and to some other resources of minor importance, aux glossaires de plusieurs
         > including titles cited below in the *Grand Corpus des Dictionnaires* (institutional access
         > required).
   - > [ARTFL - American research on the treasury of the French
@@ -105,17 +102,17 @@ A handlist of dictionaries, technical encyclopedias, and other sources used in t
       - > *Dictionaire de l’Académie françoise*, 1687 \[Avant-première
         > 1\]
         
-          - > de A à Aversion
+          - > A to Aversion
     
       - > *Dictionaire de l’Académie françoise*, 1687 \[Avant-première
         > 2\]
         
-          - > de A à Confiture
+          - > A to Confiture
     
       - > *Dictionaire de l’Académie françoise*, 1687 \[Avant-première
         > 3\]
         
-          - > de A à Neuf
+          - > A to Neuf
     
       - > Furetière (Antoine), *Essai d’un Dictionaire universel*, 1687
     
@@ -165,7 +162,7 @@ A handlist of dictionaries, technical encyclopedias, and other sources used in t
   - > Bernard Moreux, Robert Razou, [Les mots de Toulouse: lexique du
     > français
     > toulousain](https://books.google.fr/books?id=gktdAAAAMAAJ&q=bl%C3%A9+cussonner&dq=bl%C3%A9+cussonner&hl=fr&sa=X&ved=0ahUKEwjA0ZvXzorcAhVGXBQKHVFRCVgQ6AEILDAB),
-    > Toulouse, 2000, 671 p.
+    > Toulouse, 2000.
   - > [Institut d'Estudis Occitans de París - Documents per l'estudi de
     > la lenga occitana](http://ieoparis.free.fr/delo.html)
     
@@ -250,7 +247,7 @@ the author.
   - > [Dictionnaire des abréviations
     > françaises](http://theleme.enc.sorbonne.fr/dico) \[XII<sup>e</sup>-XVII<sup>e</sup> siècle\],
     > par M. Smith, École nationale des chartes.
-### Digitised manuscripts 
+### Digitized manuscripts 
   - > [Patrimoine
     > numérique](http://www.culture.gouv.fr/culture/mrt/numerisation/fr/f_02.htm)
     > contains an inventory of digitised public collections of the French Ministry of Culture,
@@ -318,6 +315,7 @@ the author.
             > online).
   - > [Monumenta Germaniae Historica](http://www.dmgh.de/)
   - > [Istituto storico italiano](http://www.isime.it/index.php)
+  - 
 ### Medieval texts
   - > [Corpus de la littérature médiévale des origines au 15e
     > siècle.](http://www.columbia.edu/cgi-bin/cul/resolve?clio10931173)
@@ -350,18 +348,13 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
         > for 16th-c. books in Italy & Germany.
   - > [Bibliographie des éditions parisiennes du 16ème
     > siècle](http://bp16.bnf.fr/)
-      - > Ce site contient dans un premier temps les 10 000 notices des
-        > cinq volumes de l’*Inventaire chronologique des éditions
-        > parisiennes du 16e siècle*, imprimés entre 1972 et 2004 et
-        > couvrant les années 1501 à 1540, rédigés pour les quatre
-        > premiers par [Brigitte
+      - > This site comprises 10 000 Parisian editions from the five volumes of the
+        > *Inventaire chronologique des éditions
+        > parisiennes du 16e siècle*, printed between 1972 and 2004, covering the years 1501 to 1540.
+        > First four volumes by [Brigitte
         > Moreau](http://data.bnf.fr/11916755/brigitte_moreau/)
-        > (1930-1994). Les notices des éditions publiées de 1541 à 1550
-        > feront l'objet d'un prochain chargement.
-      - > An online bibliography of Parisian editions from the 16th
-        > century. It currently only contains 1501-1540, but it will be
-        > progressively augmented until it covers the entire sixteenth
-        > century.
+        > (1930-1994). Entries from volumes published between 1541 and 1550
+        > will be part of a future release.
         
 ## Arts and technical vocabulary
   - > Macquer, Phillipe (1720-1770), [Dictionnaire raisonné universel
@@ -403,15 +396,13 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
     > Allied Industries, in six languages…, 2nd edn, Amsterdam, 1983.
   - > Jacquart, Danielle. *Lexique de La langue scientifique:
     > astrologie, mathématiques, médecine*. Paris, 1997.
-    
-      - > Columbia Library: Offsite Q123 .J336 1997
-  - > Sachs, Hans & Jost Amman, *Das Standebüch (Book of Trades)*,
+  - > Sachs, Hans & Jost Amman, *Das Ständebuch (Book of Trades)*,
     > Frankfurt am Main, 1568. Woodcut illustrations of various
     > professions accompanied by a short poem. See Wikimedia.
   - > Trench, Lucy, *Materials and Techniques in the Decorative Arts: An
     > Illustrated Dictionary*, London, 2000. E-Book.
   - > Zedler, Johann Heinrich, [Grosses vollständiges Universal-Lexicon
-    > aller Wissenchafften und
+    > aller Wissenschafften und
     > Künste](http://www.zedler-lexikon.de/index.html). Leipzig,
     > 1731-1754.
   - > [B.
@@ -459,13 +450,10 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
   - > [Bibliothèque historique de Mines Paris
     > Tech](http://patrimoine.mines-paristech.fr/)
     
-      - > La bibliothèque de l’École des mines de Paris (Mines Paris
-        > Tech) vient d’ouvrir sa bibliothèque numérique patrimoniale,
-        > contenant entre autres des ouvrages sur les arts de la mine
-        > depuis le XVe siècle.
+      - > The digital library of the École des mines de Paris (Mines Paris
+        > Tech), including material on mining from the 15th century onwards.
   - > Beaulieu, Michèle. *Dictionnaire des sculpteurs français du Moyen
     > Age*. Paris, 1992.  
-    > \[Columbia Library: Avery (Non-Circulating) AC So289 No.19
   - > Cassan, H. “Nomination des consuls de la ville de Béziers en
     > 1332”, in *Bulletin de la Société archéologique de Béziers*,
     > 1839, p. 43-58 (55-70 in the
@@ -504,9 +492,7 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
     > Possessions of the Portuguese Merchant-Banker Emmanuel Ximenez in
     > early seventeenth-century
     > Antwerp*](http://ximenez.unibe.ch/material/)
-|  |  |
-|  |  |
-|  |  |
+    
 ### The National Archive (TNA) currency converter:
   - > <http://www.nationalarchives.gov.uk/currency/default.asp#mid> -
     > The TNA provides the following info, re: calculations and
@@ -589,12 +575,12 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
     > <http://closertovaneyck.kikirpa.be/>
 ### Miscellaneous sources for materials research
   - > Johan Gottschalk Wallerius, *Mineralogie, oder mineralreich: von
-    > ihm eingeteilt und beschrieben:  *[Latin
+    > ihm eingeteilt und beschrieben* [Latin
     > edition, 1752](https://books.google.com/books?id=NrtRAAAAcAAJ&printsec=frontcover&dq=Johan+Gottschalk+wallerius&hl=en&sa=X&ei=gUJqVeu2FYyZyAT59oLYAw&ved=0CCwQ6AEwAw#v=onepage&q=Johan%20Gottschalk%20wallerius&f=false)
     > and [German
     > edition, 1763](https://books.google.com/books?id=8h8-AAAAcAAJ&printsec=frontcover&dq=Johan+Gottschalk+wallerius&hl=en&sa=X&ei=dUFqVeHODdipyATa4YD4AQ&ved=0CD0Q6AEwBg#v=onepage&q=Johan%20Gottschalk%20wallerius&f=false)
-  - > Johann Georg Kruenitz, [* Oekonomische Encyklopaedie, oder
-    > algemeines System der Stadt- Haus- und
+  - > Johann Georg Kruenitz, [*Oekonomische Encyklopaedie, oder
+    > allgemeines System der Stadt- Haus- und
     > Landwirthschaft*](http://www.kruenitz1.uni-trier.de/) (1773-1853)
 ### Distillation
   - > Information on distilling, eau de vie, pictures of stills
