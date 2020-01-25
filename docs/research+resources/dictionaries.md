@@ -300,8 +300,7 @@ the author.
       - > SISMEL also has a vast array of interlinked resources (digital
         > and printed) on medieval Latin authors, manuscripts, and much
         > else, mainly accessible through the
-        > [Mirabile](http://www.mirabileweb.it/)
-            > portal
+        > [Mirabile](http://www.mirabileweb.it/) portal.
         
           - > [BISLAM](http://www.sismelfirenze.it/index.php/it/repertori/itemlist/category/67-bibliotheca-scriptorum-bislam)
             > (Bibliotheca Scriptorum Latinorum Medii Recentiorisque
