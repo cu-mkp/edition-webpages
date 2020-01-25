@@ -34,7 +34,7 @@ For more information:
 
 ## Reading and Using Secrets of Craft and Nature in Renaissance France
 
-For detailed information, see How to Use the Edition.
+For detailed information, see [How to Use the Edition](http://edition-staging.makingandknowing.org/#/content/how-to-use).
 
 The manuscript text can be browsed in two ways:
 
