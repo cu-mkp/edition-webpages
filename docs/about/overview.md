@@ -10,7 +10,7 @@ The creation of *Secrets of Craft and Nature in Renaissance France*: collaborati
 
 ## [The Making and Knowing Project](/#content/about/m-k-project)
 
-The Project's intellectual mission, pedagogy-drive research, and collaborative approach.
+The Project's intellectual mission, pedagogy-driven research, and collaborative approach.
 
 ## [Credits](/#content/about/credits)
 
