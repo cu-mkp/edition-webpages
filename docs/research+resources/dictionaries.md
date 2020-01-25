@@ -1,19 +1,16 @@
-# Dictionaries and Technical Encyclopedias
+# Linguistic Resources 
 
-## Resources used in transcribing and translating the Edition
+A handlist of dictionaries, technical encyclopedias, and other sources used in the transcription and translation of Ms. Fr. 640.
 
-### **VOCABULAIRE -** RESSOURCES EN LIGNE
+## Online Dictionaries 
 
-#### Traduction français-anglais
-
+### French-English dictionaries
   - > [Randle Cotgrave, Dictionarie of the French and English
     > Tongues](http://www.micmap.org/dicfro/introduction/cotgrave)
     > (London 1611).
-    
-      - > Aussi ici:
-        > [http://www.pbm.com/~lindahl/cotgrave/](http://www.pbm.com/%7Elindahl/cotgrave/)
+      - > [Also here](http://www.pbm.com/%7Elindahl/cotgrave/)
+      
   - > Claudius Hollyband, A Dictionarie French and English (London 1593)
-
   - > Guy Miège, *[A New Dictionary French and
     > English](https://books.google.com/books?id=YbWtTwVbLioC&printsec=frontcover&dq=guy+miege&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwih-ZStta7mAhVhmeAKHW9QCjQQ6AEwAHoECAYQAg#v=onepage&q&f=false)*
     > (London, 1677).
@@ -23,36 +20,30 @@
     > English](http://books.google.fr/books?id=2-_J6e9af1EC)…, (London
     > 1729).
   - > [Oxford English Dictionary](http://www.oed.com/) - The standard
-    > reference. (institutional access required)
-#### **Principaux dictionnaires historiques français** (accès libre)
+    > reference (institutional access required).
+    
+### Dictionaries of historical French
   - > [Centre national de resources textuelles et
     > lexicales](http://www.cnrtl.fr/definition/) - DMF, TLFI and other
     > dictionaries
-    
       - > Start here. Easy switching between dictionaries on the same
         > word.
   - > [DMF - Dictionnaire du moyen français](http://www.atilf.fr/dmf/),
     > 1330-1500, ATILF (CNRS & Université de Lorraine).
-    
       - > Fundamental reference tool.
   - > [TLFi - Trésor de la langue française
     > informatisé](http://atilf.atilf.fr/), ATILF (CNRS & Université de
     > Lorraine).
-    
-      - > Dictionnaire de référence en français contemporain et
-        > historique.
+      - > Reference dictionary in modern and historical French.
   - > [Émile Littré - Dictionnaire de la langue
     > française](http://www.littre.org), édition XML.
-    
-      - > Très utile notamment pour les termes techniques.
+      - > Very useful especially for technical terms.
   - > [Dictionnaire de l’ancienne langue française et de tous ses
     > dialectes du IXe au XVe
     > siècle](http://www.micmap.org/dicfro/introduction/dictionnaire-godefroy),
-    > par Frédéric Godefroy (1880-1895),
-    > et [Complément](http://www.micmap.org/dicfro/introduction/complement-godefroy) (1895-1902).
-  - > En complément: 
-    
-      - > *Dictionnaire historique de l’ancien langage françois, ou
+    > by Frédéric Godefroy (1880-1895),
+    > and the supplementary volume ([Complément](http://www.micmap.org/dicfro/introduction/complement-godefroy), 1895-1902).
+  - > *Dictionnaire historique de l’ancien langage françois, ou
         > Glossaire de la langue françoise depuis son origine jusqu’au
         > siècle de Louis XIV*, par Jean-Baptiste de la Curne de
         > Sainte-Palaye (1882). —
@@ -62,16 +53,14 @@
     > d'après les tables de
     > conversion](https://books.google.com/books?id=RQP2c4uyz9oC),
     > Clermont-Ferrand, 1996.
-  - > Pour les mots introuvables en français, penser aux dictionnaires
-    > d’**occitan** et de **latin** (*infra*).
-#### Au-delà
+  - > For words that cannot be found in French works, remember to check
+    > **Occitan** and **Latin** dictionaries (see below).
+    
+### For further exploration
   - > [Dicfro](http://www.micmap.org/dicfro/liste-des-dictionnaires)
     
-      - > Portail qui donne accès à de nombreuses ressources
-        > lexicographiques historiques, aux glossaires de plusieurs
-        > œuvres médiévales, ainsi qu’à quelques autres ressources de
-        > moindre importance, y compris divers titres cités ci-dessous
-        > dans le *Grand Corpus des Dictionnaires* (institutional access
+      - > Portal with access to numerous lexicographical and historical resource, to glossaries of several medieval works, and to some other resources of minor importance, aux glossaires de plusieurs
+        > including titles cited below in the *Grand Corpus des Dictionnaires* (institutional access
         > required).
   - > [ARTFL - American research on the treasury of the French
     > language](http://clio.columbia.edu/catalog/519700)
@@ -89,8 +78,7 @@
         > [index](http://www.u-picardie.fr/LESCLaP/rey/tdm_telechargement_dictionnaires).
   - > [Grand Corpus des
     > Dictionnaires](http://www.classiques-garnier.com.janus.biu.sorbonne.fr/numerique-bases/index.php?module=App&action=FrameMain)
-    > \[du 9e au 20e siècle\], Classiques Garnier. Sur abonnement.
-    > (Institutional access required). Contient:
+    > \[du 9e au 20e siècle\], Classiques Garnier. (Institutional access required). Contains:
     
       - > Godefroy (Frédéric), *Dictionnaire de l’ancienne langue
         > française et de tous ses dialectes du 9e au 15e s.*
@@ -165,7 +153,8 @@
     
       - > *Dictionnaire de l’Académie française*, 1932-1935
         > \[8<sup>e</sup> édition\]
-#### Occitan
+        
+### Occitan Dictionaries
   - > A critical assessment of the field: Josiane Ubaud, [Regards sur la
     > lexicographie occitane: de la richesse passée à la misère
     > endémique
@@ -202,8 +191,9 @@
       - > Maxime Lanusse, [De l'influence du dialecte gascon sur la
         > langue française](https://archive.org/details/fre_b1887388)
         > (Grenoble, 1893), with a chapter on vocabulary.
-#### Poitevin/Saintongeais  
-Important: a number of terms in the MS seem to belong specifically to
+        
+### Poitevin/Saintongeais Dictionaries
+A number of terms in the MS seem to belong specifically to
 the dialect of Poitou and Saintonge, possibly pointing to the origin of
 the author.
   - > Henri Beauchet-Filleau, [Essai sur le patois poitevin ou Petit
@@ -226,7 +216,7 @@ the author.
   - > [Le Vocabulaire poitevin (1808–1825) de Lubin
     > Mauduyt](https://books.google.fr/books?id=_llbDAAAQBAJ&pg=PA71&lpg=PA71&dq=%22apiler%22+%22tasser%22&source=bl&ots=bLVCN7U2gU&sig=MzwiFAuq6OTXaGITavH12FzUh54&hl=fr&sa=X&ved=0ahUKEwjsnKSXvYvcAhXByRQKHWO6CgkQ6AEIKjAA#v=onepage&q&f=false),
     > éd. critique Pierre Rézeau (Tübingen 1994). Limited online access.
-#### Latin
+### Latin Dictionaries
   - > [Dictionnaire
     > latin-français](http://www.micmap.org/dicfro/introduction/gaffiot),
     > par Félix Gaffiot (1934): latin classique.
@@ -240,13 +230,14 @@ the author.
         > définitions comme dans les citations.
   - > [Logeion](http://logeion.uchicago.edu/levigatio) – combines Lewis
     > & Short, Gaffiot, and DMLBS
-### MANUSCRITS, PALÉOGRAPHIE ET TEXTES ANCIENS
-  - > Orientation générale: voir le répertoire en ligne sur le portail
+    
+## Manuscripts, paleography, and ancient texts
+  - > For general orientation see online resources on the portal
     > [Ménestrel](http://www.menestrel.fr/spip.php?rubrique434)
     > (Médiévistes sur le Net: sources, travaux et références en
     > ligne).
-  - > Ressources pour l’apprentissage: voir en particulier les dossiers
-    > paléographiques en ligne de l’École des chartes,
+  - > For learning resources, see in particular the online paleography files 
+    > of the École des chartes,
     > [THELEME](http://theleme.enc.sorbonne.fr/) (Techniques pour
     > l’historien en ligne: études, manuels, exercices).
   - > [Newberry Library Paleography
@@ -254,28 +245,27 @@ the author.
     > Renaissance Studies maintains a listing of online resources for
     > those interested in Paleography. The resources are arranged by
     > language
-#### Abréviations
+    
+### Abbreviations
   - > [Dictionnaire des abréviations
     > françaises](http://theleme.enc.sorbonne.fr/dico) \[XII<sup>e</sup>-XVII<sup>e</sup> siècle\],
     > par M. Smith, École nationale des chartes.
-#### Manuscrits numérisés 
+### Digitised manuscripts 
   - > [Patrimoine
     > numérique](http://www.culture.gouv.fr/culture/mrt/numerisation/fr/f_02.htm)
-    > contient le répertoire des collections publiques françaises
-    > numérisées, notamment archives et bibliothèques, par le ministère
-    > de la Culture.
-  - > [Gallica](http://gallica.bnf.fr/html/editorial/manuscrits), la
-    > bibliothèque numérique  de la BNF, offre un nombre désormais
-    > considérable et toujours croissant de manuscrits. En cours,
-    > l’ensemble des mss. précédemment microfilmés.
-  - > [BVMM](http://bvmm.irht.cnrs.fr/) - Bibliothèque virtuelle des
-    > manuscrits médiévaux: digital library of thousands of Mss. kept in
-    > France outside the BNF. (See below, IRHT.)
-  - > [Digital Scriptorium](http://www.scriptorium.columbia.edu/)
-    > (manuscrits conservés aux USA) compte toujours parmi les plus
-    > vastes et commodes corpus collectifs, y compris beaucoup de
-    > manuscrits et documents en français. Moteur de recherche efficace.
-#### Instituts de recherche historique
+    > contains an inventory of digitised public collections of the French Ministry of Culture,
+    > in particular archives and libraries.
+  - > [Gallica](http://gallica.bnf.fr/html/editorial/manuscrits), the
+    > digital library of the BnF, offers a growing number of manuscripts.
+    > Digitisation of previously microfilmed manuscripts in progress.
+  - > [BVMM](http://bvmm.irht.cnrs.fr/) - Virtual library of 
+    > medieval manuscripts kept in
+    > France outside the BNF (see below, IRHT).
+  - > [Digital Scriptorium](http://www.scriptorium.columbia.edu/) — a
+    > vast and convenient corpus of manuscripts held in the US,
+    > including French manuscripts and documents, with an efficient search engine.
+    
+### Historical Research Istitutes
   - > [IRHT - Institut de recherche et d'histoire des
     > textes](http://www.irht.cnrs.fr/en/)
     
@@ -310,7 +300,6 @@ the author.
         > history](http://www.europahumanistica.org/?-Medecins-et-naturalistes-avant-Linne-).
   - > [SISMEL - Società Internazionale per lo Studio del Medioevo
     > Latino](http://www.sismelfirenze.it/)
-    
       - > SISMEL also has a vast array of interlinked resources (digital
         > and printed) on medieval Latin authors, manuscripts, and much
         > else, mainly accessible through the
@@ -329,13 +318,15 @@ the author.
             > online).
   - > [Monumenta Germaniae Historica](http://www.dmgh.de/)
   - > [Istituto storico italiano](http://www.isime.it/index.php)
-#### Medieval texts
+### Medieval texts
   - > [Corpus de la littérature médiévale des origines au 15e
     > siècle.](http://www.columbia.edu/cgi-bin/cul/resolve?clio10931173)
     > This database includes more than 900 full texts from the Middle
     > Ages, including chansons de geste, poetry, theater and religious
     > texts.
-### IDENTIFYING EARLY BOOKS ONLINE
+    
+## Identifying early books online
+
 See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
 [SISMEL/Mirabile](http://www.mirabileweb.it/)
   - > [USTC - Universal Short Title Catalogue](http://www.ustc.ac.uk/)
@@ -350,18 +341,15 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
         > early) editions. The digital version on Gallica is searchable,
         > but only volume by volume.
   - > [Worldcat](http://www.worldcat.org/?lang=en)
-    
       - > The largest meta search interface for library catalogues.
   - > [KvK - Karlsruhe Virtual
     > Catalogue](http://www.ubka.uni-karlsruhe.de/kvk_en.html)
-    
       - > Another meta search interface for more than 500 million books
         > and serials in library and book trade catalogs worldwide, with
         > country-by-country query filters. Includes specific catalogs
         > for 16th-c. books in Italy & Germany.
   - > [Bibliographie des éditions parisiennes du 16ème
     > siècle](http://bp16.bnf.fr/)
-    
       - > Ce site contient dans un premier temps les 10 000 notices des
         > cinq volumes de l’*Inventaire chronologique des éditions
         > parisiennes du 16e siècle*, imprimés entre 1972 et 2004 et
@@ -370,12 +358,12 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
         > Moreau](http://data.bnf.fr/11916755/brigitte_moreau/)
         > (1930-1994). Les notices des éditions publiées de 1541 à 1550
         > feront l'objet d'un prochain chargement.
-    
       - > An online bibliography of Parisian editions from the 16th
         > century. It currently only contains 1501-1540, but it will be
         > progressively augmented until it covers the entire sixteenth
         > century.
-### ARTS AND TECHNIQUE - VOCABULARY
+        
+## Arts and technical vocabulary
   - > Macquer, Phillipe (1720-1770), [Dictionnaire raisonné universel
     > des arts et métiers, contenant l'histoire, la description, la
     > police des fabriques et manufactures de France et des pays
@@ -390,7 +378,7 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
     > Dictionnaire de
     > Trévoux](http://www.cnrtl.fr/dictionnaires/anciens/trevoux/)
   - > [Encylopedie](http://encyclopedie.uchicago.edu/node/176) - The
-    > ARTFL Project, University of Chicago, searchable
+    > ARTFL Project, University of Chicago, searchable.
   - > [Encyclopedie - English
     > translation](http://quod.lib.umich.edu/d/did/) (incomplete)
   - > ArtLex: An easy search engine to search an array of dictionaries
@@ -432,7 +420,8 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
     > employés dans les recettes de couleurs
     > anciennes](http://www.brepols.net/Pages/ShowAuthor.aspx?lid=113036),
     > only in print.
-#### Other resources
+    
+## Other resources
   - > [BCIN - Réseau d’information sur la conservation - Conservation
     > Information Network](http://www.bcin.ca/)
     
@@ -518,7 +507,7 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
 |  |  |
 |  |  |
 |  |  |
-#### **The National Archive (TNA) currency converter:**
+### The National Archive (TNA) currency converter:
   - > <http://www.nationalarchives.gov.uk/currency/default.asp#mid> -
     > The TNA provides the following info, re: calculations and
     > conversions: “The data used to provide the calculations for the
@@ -529,7 +518,7 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
     > values, rather than a categorical statement of fact.
     > Approximations are from 2005.”
   - > <http://www.nationalarchives.gov.uk/currency/disclaimer.htm>
-#### Videos and reconstruction
+### Videos and reconstruction
   - > [Sandcasting with Philip
     > White](https://www.youtube.com/watch?v=Kmb5tivQ_bY) — multi part
   - > [Sandcasting with "Delft
@@ -587,7 +576,7 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
         > inform clinical outcomes and artistic practice. Each residency
         > involved a team of at least one maker and one medical and
         > scientific academic.
-#### Colormaking
+### Colormaking
   - > [Kremer Pigments documentary
     > (German)](https://www.youtube.com/watch?v=SaMtuUYppjU)
   - > [Technical Art History Website (all about
@@ -598,7 +587,7 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
     > up here: <https://www.colourcontext.be/en/app/>
   - > Closer to Van Eyck website with information about techniques:
     > <http://closertovaneyck.kikirpa.be/>
-#### Miscellaneous sources for MATERIALS research
+### Miscellaneous sources for materials research
   - > Johan Gottschalk Wallerius, *Mineralogie, oder mineralreich: von
     > ihm eingeteilt und beschrieben:  *[Latin
     > edition, 1752](https://books.google.com/books?id=NrtRAAAAcAAJ&printsec=frontcover&dq=Johan+Gottschalk+wallerius&hl=en&sa=X&ei=gUJqVeu2FYyZyAT59oLYAw&ved=0CCwQ6AEwAw#v=onepage&q=Johan%20Gottschalk%20wallerius&f=false)
@@ -607,7 +596,7 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
   - > Johann Georg Kruenitz, [* Oekonomische Encyklopaedie, oder
     > algemeines System der Stadt- Haus- und
     > Landwirthschaft*](http://www.kruenitz1.uni-trier.de/) (1773-1853)
-#### Distillation
+### Distillation
   - > Information on distilling, eau de vie, pictures of stills
     > (alembics) and retorts: Philipp Ulstadt. [*Coelum Philosophorum
     > seu de Secretis Naturae
