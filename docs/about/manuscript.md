@@ -20,9 +20,9 @@ For more information:
   - P. Smith, Making the Edition of Ms. Fr. 640
   - M. Smith, Making Ms. Fr. 640 (on the codicology and paleography)
 * On the transcription, translation, and encoding of the manuscript, see:
-  - Principles of Transcription
-  - Principles of Translation
-  - Principles of Encoding
+  - [Principles of Transcription](http://edition-staging.makingandknowing.org/#/content/research+resources/principles-transcription)
+  - [Principles of Translation](http://edition-staging.makingandknowing.org/#/content/research+resources/principles-translation)
+  - [Principles of Encoding](http://edition-staging.makingandknowing.org/#/content/research+resources/principles-encoding)
   - Wacha, Dyon, Turning Turtle: The Process of Translating BnF Ms. Fr. 640
   - Camps, Lyautey, Ma<r>king and Knowing: Encoding BnF Ms. Fr. 640
   - Catapano, Rosenkranz, BnF Ms. Fr. 640 as a Digital Text
