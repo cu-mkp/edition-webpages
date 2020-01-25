@@ -65,5 +65,11 @@ research are available in the [Project’s repository on Flickr](https://www.fli
 For more on field notes as a pedagogical component of the Edition, see Pamela Smith [Making the Edition of Ms.
 Fr. 640](/#essayx/ann_329_ie_19).
 
+## Upcoming Features 
 
+Additional features as part of forthcoming releases of *Secrets of Craft and Nature in Renaissance France* will include:
+
+ - Faceting of entries by category
+ - Additional essays
+ - Adaptive design for compatibility with mobile devices
 
