@@ -1,11 +1,11 @@
 # Creation of Secrets of Craft and Nature in Renaissance France
 
-The creation of Secrets of Craft and Nature in Renaissance France has been the primary goal of the Making and
+The creation of *Secrets of Craft and Nature in Renaissance France* has been the primary goal of the Making and
 Knowing Project since it was founded in 2014. The Edition presents the
 culmination of over five years of iterative, collaborative, and
 interdisciplinary work.
 
-Secrets of Craft and Nature in Renaissance France was developed through a series of collaborative workshops, courses, and conferences that have involved students, craft
+*Secrets of Craft and Nature in Renaissance France* was developed through a series of collaborative workshops, courses, and conferences that have involved students, craft
 practitioners, artists, scholars of the humanities and social sciences,
 natural and computer scientists, and scholar-practitioners from the
 emerging field of the digital humanities.
@@ -60,7 +60,7 @@ the Edition of Ms. Fr. 640.
 
 ## Structure of Secrets of Craft and Nature in Renaissance France
 
-Secrets of Craft and Nature in Renaissance France includes four versions of the manuscript text and a rich critical apparatus.
+*Secrets of Craft and Nature in Renaissance France* includes four versions of the manuscript text and a rich critical apparatus.
 
 Parallel viewing panes allow users to compare two of the following
 components:
@@ -70,7 +70,7 @@ components:
 3. an English translation, and
 4. high-definition images of the manuscript fed directly from [Gallica](https://gallica.bnf.fr), the BnF’s digital library.
 
-Secrets of Craft and Nature in Renaissance France also integrates access to the Project’s interpretive resources (also accessible as stand-alone features), including:
+Secrets of Craft and Nature* also integrates access to the Project’s interpretive resources (also accessible as stand-alone features), including:
 
   - Essays that discuss the material, historical, and cultural context of Ms. Fr. 640
   - In-depth multimedia essays that focus on the laboratory reconstruction of selected manuscript entries
