@@ -48,7 +48,7 @@ overview which can be browsed with the scroll bar in order to navigate
 to any folio. Once a page is chosen, the facsimile will appear in the
 left pane by default.
 
-![howtouse-folio-grid](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folio-grid)
+![howtouse-folio-grid](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folio-grid.png)
 
 Within the pane, the facsimile image can be expanded by clicking on the
 \+ and \- symbols at the left side of the folio viewing pane.
@@ -149,7 +149,7 @@ The List of Entries allows navigation of the manuscript by the headings of all 9
 
 The entries can be sorted sequentially as they appear in the manuscript or alphabetically.
 
-![howtouse-listentries](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries)
+![howtouse-listentries](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries.png)
 
 Relevant terms in each entry have been encoded using fourteen semantic tags that include materials, tools, and places.
 
@@ -158,13 +158,13 @@ To see the full list of tagged terms contained in any given entry, click on the 
 (transcription, normalized transcription, and English translation) can
 be chosen.
 
-![howtouse-listentries-select](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-select)
+![howtouse-listentries-select](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-select.png)
 
 To filter the entries by which semantic tags they contain, click on any
 of the tags to see only entries that have terms that are tagged as such.
 These can be further refined by clicking on multiple tag types.
 
-![howtouse-listentries-terms](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-terms)
+![howtouse-listentries-terms](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-terms.png)
 
 For a full list of the tags and their usage, see the [Principles of
 Encoding](/#content/research+resources/principles-encoding).
