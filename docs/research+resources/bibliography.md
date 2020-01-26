@@ -10,7 +10,7 @@ The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/b
 
 ___
 
-### On this page <a id="menu"></a>
+### On this page 
 - References in the Manuscript and the Editorial Comments
   - [Primary Sources](#primary-sources-)
   - [Secondary Sources](#secondary-sources-)
