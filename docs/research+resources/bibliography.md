@@ -12,16 +12,16 @@ ___
 
 ### On this page 
 - References in the Manuscript and the Editorial Comments
-  - [Primary Sources](#primary-sources-)
-  - [Secondary Sources](#secondary-sources-)
-- [References in the Glossary](#glossary)
+  - [Primary Sources](http://edition-staging.makingandknowing.org/#/content/research+resources/bibliography#primary-sources-)
+  - [Secondary Sources](http://edition-staging.makingandknowing.org/#/content/research+resources/bibliography#secondary-sources-)
+- [References in the Glossary](http://edition-staging.makingandknowing.org/#/content/research+resources/bibliography#glossary)
 - References in the Research Essays (forthcoming)
 
 ___
 
 ## Manuscript and Editorial Comments
 ### Primary Sources 
-[↩︎](#on-this-page-)
+[↩︎](http://edition-staging.makingandknowing.org/#/content/research+resources/bibliography#on-this-page-)
 
 <br/>
 
@@ -575,7 +575,7 @@ Zerner, Henri. *L’Art de la renaissance en france*. Paris: Flammarion,
 <br/>
 
 ## Glossary  
-[↑Menu](#on-this-page-)
+[↑Menu](http://edition-staging.makingandknowing.org/#/content/research+resources/bibliography#on-this-page-)
 
 <br/>
 
