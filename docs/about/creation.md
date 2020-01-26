@@ -57,7 +57,7 @@ Edition platform by the Project Digital Team and Performant Software
 Solutions. For more information on making the Edition, see [Smith, *Making
 the Edition of Ms. Fr. 640*]().
 
-## Structure of Secrets of Craft and Nature in Renaissance France
+## Structure of *Secrets of Craft and Nature in Renaissance France*
 
 *Secrets of Craft and Nature in Renaissance France* includes four versions of the manuscript text and a rich critical apparatus.
 
