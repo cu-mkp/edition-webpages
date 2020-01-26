@@ -21,6 +21,7 @@ ___
 
 ## Manuscript and Editorial Comments
 ### Primary Sources <a id="MS-primary"></a> 
+[↩︎](#menu)
 
 <br/>
 
