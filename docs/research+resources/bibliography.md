@@ -7,6 +7,7 @@ This bibliography includes detailed references for primary sources cited in the 
 The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/bibtex) and html, downloadable from the Project’s [GitHub repository](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/bibliographies).
 
 <br/>
+
 ___
 
 ### On this page <a id="menu"></a>
