@@ -16,8 +16,7 @@ more complex than conventional practices in the humanities.
 
 An exemplary model has been formulated in “Off the Tracks: Laying New
 Lines for Digital Humanities Scholars,” and we strive to adhere to their
-guidelines for crediting as stated in the Collaborators’ Bill of Rights
-(<http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%e2%80%99-bill-of-rights/>).
+guidelines for crediting as stated in the [Collaborators’ Bill of Rights](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%e2%80%99-bill-of-rights/).
 
 For more about the creation of the edition, see Creation of the Edition
 and Smith, Making the Edition of Ms. Fr. 640.
@@ -186,130 +185,15 @@ Digital Critical Edition and English Translation of BnF Ms. Fr. 640*
 
 ### Student Authors
 
-<table>
-<thead>
-<tr class="header">
-<th><strong>Fall 2014</strong></th>
-<th><strong>Spring 2015</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Raymond Carlson</p>
-<p>Emogene Cataldo</p>
-<p>Jordan Katz</p>
-<p>Rozemarijn Landsman</p>
-<p>Michelle Lee</p>
-<p>Diana Mellon</p>
-<p>Jonah Rowen</p>
-<p>Julianna van Visco</p>
-<p>Yijun Wang</p></td>
-<td><p>Maria Alessandra Chessa</p>
-<p>Guilia Chiostrini</p>
-<p>Celia Durkin</p>
-<p>Shiye Fu</p>
-<p>Sofia Gans</p>
-<p>Caroline Marris</p>
-<p>Jef Palframan</p>
-<p>Stephanie Pope</p>
-<p>Zhiqi Zhang</p></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr class="header">
-<th><strong>Fall 2015</strong></th>
-<th><strong>Spring 2016</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Marilyn Bowen</p>
-<p>Danielle Carr</p>
-<p>Ana Estrades</p>
-<p>Emilie Foyer</p>
-<p>Cindy Kok</p>
-<p>Kathryn Kremnitzer</p>
-<p>Tianhe Lou</p>
-<p>Siddhartha Shah</p>
-<p>Yuan Yi</p>
-<p>Wenrui Zhao</p></td>
-<td><p>Ann-Sophie Barwich</p>
-<p>Amy Chang</p>
-<p>Olivia Clemens</p>
-<p>Lila Goldenberg</p>
-<p>Njeri Ndungu</p>
-<p>Cleo Nisse</p>
-<p>Sophie Pitman</p>
-<p>Robin Reich</p>
-<p>Yuanxie Shi</p>
-<p>Teresa Soley</p></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr class="header">
-<th><strong>Fall 2016</strong></th>
-<th><strong>Spring 2017</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Joslyn DeVinney</p>
-<p>Ana Matisse Donefer-Hickie</p>
-<p>Sau-yi Fong</p>
-<p>Benjamin Hiebert</p>
-<p>Charles Kang</p>
-<p>Emma Le Pouésard</p>
-<p>Isabella Lores-Chavez</p>
-<p>Caitlyn Sellar</p></td>
-<td><p>Nicole Basile</p>
-<p>Christopher Eom</p>
-<p>Sasha Grafit</p>
-<p>Xiaomeng Liu</p>
-<p>Xinguo (Casa) Wang</p></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr class="header">
-<th><strong>Fall 2017</strong></th>
-<th><strong>Fall 2018</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Tenzin Dongchung</p>
-<p>Nina Elizondo-Garza</p>
-<p>Carl Garris</p>
-<p>Reut Ullman</p>
-<p>Sumeyye Yar</p></td>
-<td><p>Michael Assis</p>
-<p>Katie Bergen</p>
-<p>Nicolle Bertozzi</p>
-<p>Sahar Bostock</p>
-<p>Olivia Branscum</p>
-<p>James Buckley</p>
-<p>Celine Camps</p>
-<p>Amanda Faulkner</p>
-<p>Baris Gokturk</p>
-<p>Angel Jiang</p>
-<p>Min Lim</p>
-<p>Nancy Olson</p></td>
-</tr>
-</tbody>
-</table>
+| Name — Year and Affiliation at the Time of Authorship                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Michael Assis — PhD 1st Year, Art History, Bard Graduate Center Student <br><br> Ann-Sophie Barwich —  Presidential Scholars in Society and Neuroscience, Columbia University Postdoctoral Scholar <br><br> Nicole Basile — PhD 2nd Year, Latin American and Iberian Cultures, Columbia University Student <br><br> Katie Bergen — MA/MSc , International History, Columbia University Student <br><br> Nicolle Bertozzi — PhD 1st Year, History, Columbia University Student <br><br> Sahar Bostock — PhD 1st Year, History, Columbia University Student <br><br> Marilyn Bowen — MA, Medieval and Renaissance Studies, Columbia University Student <br><br> Olivia Branscum — PhD 2nd Year, Philosophy, Columbia University Student <br><br> James Buckley — PhD 1st Year, History, Columbia University Student <br><br> Celine Camps — PhD 1st Year, History, Columbia University Student <br><br> Raymond Carlson — PhD 2nd Year, Art History and Archaeology, Columbia University Student <br><br> Danielle Carr — PhD 2nd Year, Anthropology, Columbia University Student <br><br> Emogene Cataldo — PhD 1st Year, Art History and Archaeology, Columbia University Student <br><br> Amy Chang — MA, Art History and Archaeology, Columbia University Student <br><br> Maria Alessandra Chessa — MA, History of Design, V&A/RCA Student <br><br> Guilia Chiostrini — MA, Medieval and Renaissance Studies , Columbia University Student <br><br> Olivia Clemens — PhD 1st Year, Art History and Archaeology, Columbia University Student <br><br> Joslyn DeVinney — PhD 1st Year, History, Columbia University Student <br><br> Ana Matisse Donefer-Hickie — MA, Decorative Arts and Material Culture, Bard Graduate Center Student <br><br> Tenzin Dongchung — PhD 1st Year, East Asian Languages and Cultures, Columbia University Student <br><br> Celia Durkin — MA, Art History and Archaeology, Columbia University Student <br><br> Nina Elizondo-Garza — MA, Art History and Archaeology, Columbia University Student <br><br> Christopher Eom — BA 4th Year, Art History and Chemistry, Columbia University Student <br><br> Ana Estrades — MA, Decorative Arts and Material Culture, Bard Graduate Center Student <br><br> Amanda Faulkner — PhD 1st Year, History, Columbia University Student <br><br> Sau-yi Fong — PhD 3rd Year, History, Columbia University Student <br><br> Emilie Foyer — MA/MSc, International History, Columbia University Student <br><br> Shiye Fu — MA, Anthropology, Columbia University Student <br><br> Sofia Gans — PhD 4th Year, Art History and Archaeology, Columbia University Student <br><br> Carl Garris — PhD 1st Year, History, Columbia University Student <br><br> Baris Gokturk — MFA , Visual Arts, Columbia University Student <br><br> Lila Goldenberg — MA, Medieval and Renaissance Studies, Columbia University Student <br><br> Sasha Grafit — MFA , Creative Writing, Columbia University Student <br><br> Benjamin Hiebert — MA, History, Columbia University Student <br><br> | Angel Jiang — PhD 2nd Year, Art History and Archaeology, Columbia University Student <br><br> Charles Kang — PhD 7th Year, Art History, Columbia University Student <br><br> Jordan Katz — PhD 1st Year, History, Columbia University Student <br><br> Cindy Kok — MA, Decorative Arts and Material Culture, Bard Graduate Center Student <br><br> Kathryn Kremnitzer — PhD 2nd Year, Art History and Archaeology, Columbia University Student <br><br> Rozemarijn Landsman — PhD 2nd Year, Art History and Archaeology, Columbia University Student <br><br> Emma Le Pouésard — PhD 1st Year, Art History, Columbia University Student <br><br> Michelle Lee — MA, Anthropology, Columbia University Student <br><br> Min Lim — MA/MSc, International History, Columbia University Student <br><br> Xiaomeng Liu — PhD 2nd Year, History of Medicine, University of Hong Kong Visiting Student <br><br> Isabella Lores-Chavez — PhD 3rd Year, Art History and Archaeology, Columbia University Student <br><br> Tianhe Lou — MA, Medieval and Renaissance Studies, Columbia University Student <br><br> Caroline Marris — PhD 1st Year, History, Columbia University Student <br><br> Diana Mellon — PhD 1st Year, Art History and Archaeology, Columbia University Student <br><br> Njeri Ndungu — PhD 1st Year, Art History and Archaeology, Columbia University Student <br><br> Cleo Nisse — PhD 1st Year, Art History and Archaeology, Columbia University Student <br><br> Nancy Olson — MA, Decorative Arts, Parsons Student <br><br> Jef Palframan — MA, Medieval and Renaissance Studies, Columbia University Student <br><br> Sophie Pitman — PhD 3rd Year, History, Visiting Scholar, Cambridge University Student <br><br> Stephanie Pope — PhD 1st Year, English, Princeton University Student  <br><br> Robin Reich — PhD 1st Year, History, Columbia University Student <br><br> Jonah Rowen — PhD 1st Year, Architecture, Planning and Preservation, Columbia University Student <br><br> Caitlyn Sellar — MA, Anthropology, Columbia University Student <br><br> Siddhartha Shah — PhD 3rd Year, Art History and Archaeology, Columbia University Student <br><br> Yuanxie Shi — MA, Anthropology, Columbia University Student <br><br> Teresa Soley — PhD 1st Year, Art History and Archaeology, Columbia University Student <br><br> Reut Ullman — PhD 1st Year, History, Columbia University Student <br><br> Julianna van Visco — PhD 2nd Year, Italian, Columbia University Student <br><br> Yijun Wang — PhD 2nd Year, East Asian Languages and Cultures - History, Columbia University Student <br><br> Xinguo (Casa) Wang — Independant Scholar <br><br> Sumeyye Yar — Independant Scholar <br><br> Yuan Yi — PhD 2nd Year, East Asian Languages and Cultures - History, Columbia University Student <br><br> Zhiqi Zhang — MA, Anthropology, Columbia University Student <br><br> Wenrui Zhao — PhD 1st Year, History, Columbia University Student <br><br> |
 
 ### Scholar Authors
-| Name — Affiliation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Name — Affiliation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Tonny Beentjes — Head of Metal Conservation Programme, University of  Amsterdam <br> Donna Bilak — Director and Founder of Twelve Keys Consultancy and Design; Making and Knowing Postdoctoral Scholar, Columbia University <br> Marjolijn Bol — Postdoctoral Researcher, Utrecht University <br> Jenny Boulboulle — Postdoctoral Researcher, Utrecht University;  Making and Knowing Postdoctoral Scholar, Columbia University <br> Pascal Brioist — Professor of History, University of Tours <br> Terry Catapano — Digital Publications Manager, University of California, Berkeley; Making and Knowing Project Digital Lead <br> Colin Debuiche — Lecturer in History of Modern Architecture, University of Rennes 2; Making and Knowing Project Gerda Henkel Postdoctoral Scholar <br> Soersha Dyon — Graduate Student, École pratique des hautes études; Making and Knowing Project Senior Translator <br> Sietske Fransen — Research Group Coordinator, Working Group, Max Planck Institute for Art History <br> Clément Godbarge — Making and Knowing Project Postdoctoral Scholar, Columbia University <br> Alexis Hagadorn — Head of Conservation, Columbia University Libraries <br> Erma Hermens — Rijksmuseum Professor of Studio Practice and Technical Art History, University of Amsterdam <br> Vera Keller — Associate Professor of History, University of Oregon <br> Jo Kirby — Retired Senior Scientific Officer, National Gallery, London <br> | Margot Lyautney — PhD student, EHESS and the Eberhard Karls University of Tübingen <br> Sarah Muñoz — Making and Knowing Project Gerda Henkel Postdoctoral Scholar <br> Doris Oltrogge — Researcher, Technical University of Cologne <br> Richard Oosterhoff — Lecturer in History, University of Edinburgh <br> Sophie Pitman — Postdoctoral Researcher, Aalto University; Making and Knowing Postdoctoral Scholar, Columbia University <br> Naomi Rosenkranz — Assistant Director, Making and Knowing Project, Columbia University <br> Pamela H. Smith — Director of Making and Knowing Project and Seth Low Professor of History, Columbia University <br> Marc Smith — Professor of Medieval and Modern Paleography, École nationale des chartes; Making and Knowing Project Lead Paleographer <br> Marika Spring — Head of Science, National Gallery, London <br> Maartje Stols-Witlox — Assistant Professor Paintings Conservation, University of Amsterdam <br> Tillmann Taape — Making and Knowing Project Postdoctoral Scholar, Columbia University <br> Jonathan Tavares — Associate Curator of Arms, Armor and European Decorative Arts before 1700, The Art Institute Of Chicago <br> Tianna Uchacz — Making and Knowing Project Postdoctoral Scholar, Columbia University <br> Heather Wacha — CLIR Postdoctoral Fellow, University of Wisconsin-Madison; Making and Knowing Project Senior Translator <br> |
+| Name — Affiliation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tonny Beentjes — Head of Metal Conservation Programme, University of  Amsterdam <br><br>Donna Bilak — Director and Founder of Twelve Keys Consultancy and Design; Making and Knowing Postdoctoral Scholar, Columbia University <br><br>Marjolijn Bol — Postdoctoral Researcher, Utrecht University <br><br>Jenny Boulboulle — Postdoctoral Researcher, Utrecht University;  Making and Knowing Postdoctoral Scholar, Columbia University <br><br>Pascal Brioist — Professor of History, University of Tours <br><br>Terry Catapano — Digital Publications Manager, University of California, Berkeley; Making and Knowing Project Digital Lead <br><br>Colin Debuiche — Lecturer in History of Modern Architecture, University of Rennes 2; Making and Knowing Project Gerda Henkel Postdoctoral Scholar <br><br>Soersha Dyon — Graduate Student, École pratique des hautes études; Making and Knowing Project Senior Translator <br><br>Sietske Fransen — Research Group Coordinator, Working Group, Max Planck Institute for Art History <br><br>Clément Godbarge — Making and Knowing Project Postdoctoral Scholar, Columbia University <br><br>Alexis Hagadorn — Head of Conservation, Columbia University Libraries <br><br>Erma Hermens — Rijksmuseum Professor of Studio Practice and Technical Art History, University of Amsterdam <br><br>Vera Keller — Associate Professor of History, University of Oregon <br><br>Jo Kirby — Retired Senior Scientific Officer, National Gallery, London | Margot Lyautney — PhD student, EHESS and the Eberhard Karls University of Tübingen <br><br>Sarah Muñoz — Making and Knowing Project Gerda Henkel Postdoctoral Scholar <br><br>Doris Oltrogge — Researcher, Technical University of Cologne <br><br>Richard Oosterhoff — Lecturer in History, University of Edinburgh <br><br>Sophie Pitman — Postdoctoral Researcher, Aalto University; Making and Knowing Postdoctoral Scholar, Columbia University <br><br>Naomi Rosenkranz — Assistant Director, Making and Knowing Project, Columbia University <br><br>Pamela H. Smith — Director of Making and Knowing Project and Seth Low Professor of History, Columbia University <br><br>Marc Smith — Professor of Medieval and Modern Paleography, École nationale des chartes; Making and Knowing Project Lead Paleographer <br><br>Marika Spring — Head of Science, National Gallery, London <br><br>Maartje Stols-Witlox — Assistant Professor Paintings Conservation, University of Amsterdam <br><br>Tillmann Taape — Making and Knowing Project Postdoctoral Scholar, Columbia University <br><br>Jonathan Tavares — Associate Curator of Arms, Armor and European Decorative Arts before 1700, The Art Institute Of Chicago <br><br>Tianna Uchacz — Making and Knowing Project Postdoctoral Scholar, Columbia University <br><br>Heather Wacha — CLIR Postdoctoral Fellow, University of Wisconsin-Madison; Making and Knowing Project Senior Translator |
+
 
 ## Text Workshops in Paleography, Translation, and Digital Encoding
 
@@ -326,7 +210,7 @@ Senior Translation Participants: Heather Wacha and Soersha Dyon
 ### 2014-18 Participants (Paleographers, Translators, and Encoders)
 | Participants                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Heather Wacha (2014, 2015, 2016, 2017, 2018-mini, 2018, 2018-micro) <br><br>Soersha Dyon (2014, 2015, 2016, 2017, 2018-mini, 2018, 2018-micro) <br><br>Tillmann Taape (2016, 2017, 2018-mini, 2018, 2018-micro) <br><br>Celine Camps (2016, 2017, 2018-mini, 2018, 2018-micro) <br><br>Gregory Champeaund (2014, 2015, 2016, 2017, 2018-mini) <br><br>Tianna Uchacz (2017, 2018-mini, 2018, 2018-micro) <br><br>Margot Lyautey (2016, 2017, 2018-mini, 2018) <br><br>Colin Debuiche (2016, 2017, 2018-mini, 2018) <br><br>Melissa Reynolds (2015, 2017, 2018, 2018-micro) <br><br>Sophie Pitman (2018-mini, 2018, 2018-micro) <br><br>Sarah Munoz (2016, 2017, 2018) <br><br>Philip Cherian (2016, 2017, 2018) <br><br>Jose Beltran (2015, 2016, 2017) <br><br>Francois Pageau (2014, 2015, 2016) <br><br>Sebestian Kroupa (2016, 2017) <br><br> Justin Rivest (2015, 2016) <br><br> Donna Bilak (2017) <br><br> Ludovic Touze Peiffer (2017) <br><br> Emma Le Pouesard (2016) <br><br> Ji Gao (2016) <br><br> Joslyn DeVinney (2016) <br><br> | Miguel Aristondo (2016) <br><br>Nicolas Misery (2015) <br><br>Rozemarijn Landsman (2015) <br><br>Justin Gibson (2015) <br><br>Iara Dundas (2015) <br><br>Lorraine de la Verpillière (2015) <br><br>Lucie Charasson (2015) <br><br>Emogene Cataldo (2015) <br><br>Charlotte Buecheler (2015) <br><br>Dorit Brixius (2015) <br><br>Sean O’Neil (2014) <br><br>Diana Nichols (2014) <br><br>Melissa Morris (2014) <br><br>Matthias Lakits (2014) <br><br>Abram Kaplan (2014) <br><br> Lydia Hansell (2014) <br><br> Séverin Duc (2014) <br><br> Éliseé Dion (2014) <br><br> Tamara Caulkins (2014) <br><br> Emma Capron (2014) <br><br> Adham Azab (2014) <br><br> |
+| Heather Wacha (2014, 2015, 2016, 2017, 2018-mini, 2018, 2018-micro) <br><br>Soersha Dyon (2014, 2015, 2016, 2017, 2018-mini, 2018, 2018-micro) <br><br>Tillmann Taape (2016, 2017, 2018-mini, 2018, 2018-micro) <br><br>Celine Camps (2016, 2017, 2018-mini, 2018, 2018-micro) <br><br>Gregory Champeaund (2014, 2015, 2016, 2017, 2018-mini) <br><br>Tianna Uchacz (2017, 2018-mini, 2018, 2018-micro) <br><br>Margot Lyautey (2016, 2017, 2018-mini, 2018) <br><br>Colin Debuiche (2016, 2017, 2018-mini, 2018) <br><br>Melissa Reynolds (2015, 2017, 2018, 2018-micro) <br><br>Sophie Pitman (2018-mini, 2018, 2018-micro) <br><br>Sarah Munoz (2016, 2017, 2018) <br><br>Philip Cherian (2016, 2017, 2018) <br><br>Jose Beltran (2015, 2016, 2017) <br><br>Francois Pageau (2014, 2015, 2016) <br><br>Sebestian Kroupa (2016, 2017) <br><br> Justin Rivest (2015, 2016) <br><br> Donna Bilak (2017) <br><br> Ludovic Touzé Peiffer (2017) <br><br> Emma Le Pouesard (2016) <br><br> Ji Gao (2016) <br><br> Joslyn DeVinney (2016)          | Miguel Aristondo (2016) <br><br>Nicolas Misery (2015) <br><br>Rozemarijn Landsman (2015) <br><br>Justin Gibson (2015) <br><br>Iara Dundas (2015) <br><br>Lorraine de la Verpillière (2015) <br><br>Lucie Charasson (2015) <br><br>Emogene Cataldo (2015) <br><br>Charlotte Buecheler (2015) <br><br>Dorit Brixius (2015) <br><br>Sean O’Neil (2014) <br><br>Diana Nichols (2014) <br><br>Melissa Morris (2014) <br><br>Matthias Lakits (2014) <br><br>Abram Kaplan (2014) <br><br> Lydia Hansell (2014) <br><br> Séverin Duc (2014) <br><br> Éliseé Dion (2014) <br><br> Tamara Caulkins (2014) <br><br> Emma Capron (2014) <br><br> Adham Azab (2014)          |
 
 ## *Craft & Science: Making Objects in the Early Modern World* Laboratory Seminar Participants
 
@@ -334,193 +218,51 @@ Instructor: Pamela H. Smith
 
 Co-instructors:
 
-  - > Donna Bilak (2014-17)
+Donna Bilak (2014-17)
 
-  - > Jenny Boulboullé (2014-16)
+Jenny Boulboullé (2014-16)
 
-  - > Joel Klein (2014-17)
+Joel Klein (2014-17)
 
-  - > Tianna Helena Uchacz (2016-20)
-
-  - > Sophie Pitman (2017-18)
-
-  - > Tillmann Taape (2017-20)
+Tianna Helena Uchacz (2016-20)
+ 
+Sophie Pitman (2017-18)
+ 
+Tillmann Taape (2017-20)
 
 ### Expert Makers
 
-  - > Tonny Beentjes (Fall 2014)
+Tonny Beentjes (Fall 2014)
 
-  - > Andrew Lacey (Spring 2015)
+Andrew Lacey (Spring 2015)
 
-  - > Marjolijn Bol (Fall 2015)
+Marjolijn Bol (Fall 2015)
 
-  - > Erma Hermens (Spring 2016)
+Erma Hermens (Spring 2016)
 
-  - > Divya Anantharaman (Fall 2016-Spring 2017)
+Divya Anantharaman (Fall 2016-Spring 2017)
 
-  - > Jo Kirby Atkinson (Fall 2018)
+Jo Kirby Atkinson (Fall 2018)
 
-  - > Ad Stijnman (Fall 2018)
+Ad Stijnman (Fall 2018)
 
-### 2014 Fall: Moldmaking and Metalworking
+### Students by Semester and Theme
+| 2014 Fall: Moldmaking and Metalworking                                                                                                                                                                                                             | 2015 Spring: Moldmaking and Metalworking                                                                                                                                                            |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Emily Boyd <br><br> Raymond Carlson <br><br> Emogene Cataldo <br><br> Jordan Katz <br><br> Rozemarijn Landsman <br><br> Michelle Lee <br><br> Diana Mellon <br><br> Jef Palframan <br><br> Jonah Rowen <br><br> Julianna Visco <br><br> Yijun Wang | Guilia Chiostrini <br><br> Celia Durkin <br><br> Shiye Fu <br><br> Sofia Gans <br><br> Caroline Marris <br><br> Jef Palframan <br><br> Gunthild Peters <br><br> Stephanie Pope <br><br> Zhiqi Zhang |
 
-  - > Emogene Cataldo
+| 2015 Fall: Colormaking                                                                                                                                                                                                                                                 | 2016 Spring: Colormaking                                                                                                                                                                                                                               |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Marilyn Bowen <br><br> Danielle Carr <br><br> Ana Estrades <br><br> Emilie Foyer <br><br> Cindy Kok <br><br> Kathryn Kremnitzer <br><br> Tianhe Lou <br><br> David McClure <br><br> Sayantani Mukherjee <br><br> Siddhartha Shah <br><br> Yuan Yi <br><br> Wenrui Zhao | Ann-Sophie Barwich <br><br> Amy Chang <br><br> Olivia Clemens <br><br> Lila Goldenberg <br><br> Jessica (Njeri) Ndungu <br><br> Cleo Nisse <br><br> Sophie Pitman <br><br> Robin Reich <br><br> Yuanxie Shi <br><br> Teresa Soley <br><br> Wenrui Zhao |
 
-  - > Raymond Carlson
+| 2016 Fall: Practical Knowledge                                                                                                                                                                                       | 2017 Spring: Practical Knowledge                                                                                                                               |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Joslyn DeVinney <br><br> Ana Matisse Donefer-Hickie <br><br> Sau-yi Fong <br><br> Benjamin Hiebert <br><br> Changduk (Charles) Kang <br><br> Emma Le Pouésard <br><br> Isabella Lores-Chavez <br><br> Caitlyn Sellar | Nicole Basile <br><br> Hannah Elmer <br><br> Christopher Eom <br><br> Sasha Grafit <br><br> Xiaomeng Liu <br><br> Ariane van Buren <br><br> Casa (Xinguo) Wang |
 
-  - > Jordan Katz
+| 2017 Fall: Ephemeral Art                                                                                                             | 2018 Fall: Making Impressions                                                                                                                                                                                                                                                        |
+|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tenzin Dongchung <br><br> Nina Elizondo Garza <br><br> Carl Garris <br><br> Karen Tompkins <br><br> Reut Ullman <br><br> Sumeyye Yar | Michael Assis <br><br> Katie Bergen <br><br> Nicolle Bertozzi <br><br> Sahar Bostock <br><br> Olivia Branscum <br><br> James Buckley <br><br> Celine Camps <br><br> Amanda Faulker <br><br> Baris Gokturk <br><br> Angel Jiang <br><br> Lan Li <br><br> Min Lim <br><br> Nancy Olson |
 
-  - > Rozemarijn Landsman
-
-  - > Michelle Lee
-
-  - > Diana Mellon
-
-  - > Jonah Rowen
-
-  - > Julianna van Visco
-
-  - > Yijun Wang
-
-### 2015 Spring: Moldmaking and Metalworking
-
-  - > Maria Alessandra Chessa
-
-  - > Guilia Chiostrini
-
-  - > Celia Durkin
-
-  - > Shiye Fu
-
-  - > Sofia Gans
-
-  - > Caroline Marris
-
-  - > Jef Palframan
-
-  - > Stephanie Pope
-
-  - > Zhiqi Zhang
-
-### 2015 Fall: Colormaking
-
-  - > Marilyn Bowen
-
-  - > Danielle Carr
-
-  - > Ana Estrades
-
-  - > Emilie Foyer
-
-  - > Cindy Kok
-
-  - > Kathryn Kremnitzer
-
-  - > Tianhe Lou
-
-  - > David McClure
-
-  - > Sayantani Mukherjee
-
-  - > Siddhartha Shah
-
-  - > Yuan Yi
-
-  - > Wenrui Zhao
-
-### 2016 Spring: Colormaking
-
-  - > Ann-Sophie Barwich
-
-  - > Amy Chang
-
-  - > Olivia Clemens
-
-  - > Lila Goldenberg
-
-  - > Njeri Ndungu
-
-  - > Cleo Nisse
-
-  - > Sophie Pitman
-
-  - > Robin Reich
-
-  - > Yuanxie Shi
-
-  - > Teresa
-Soley
-
-### 2016 Fall: Practical Knowledge: Vernacular Natural History, Practical Optics, Mechanics, and Perspective
-
-  - > Joslyn DeVinney
-
-  - > Ana Matisse Donefer-Hickie
-
-  - > Sau-yi Fong
-
-  - > Benjamin Hiebert
-
-  - > Charles Kang
-
-  - > Emma Le Pouésard
-
-  - > Isabella Lores-Chavez
-
-  - > Caitlyn Sellar
-
-### 2017 Spring: Vernacular Natural History, Practical Optics, Mechanics, and Perspective
-
-  - > Nicole Basile
-
-  - > Christopher Eom
-
-  - > Sasha Grafit
-
-  - > Xiaomeng Liu
-
-  - > Xinguo (Casa) Wang
-
-### 2017 Fall: Ephemeral Art
-
-  - > Tenzin Dongchung
-
-  - > Carl Garris
-
-  - > Nina Elizondo-Garza
-
-  - > Reut Ullman
-
-  - > Sumeyye Yar
-
-### 2018 Fall: Making Impressions
-
-  - > Michael Assis
-
-  - > Katie Bergen
-
-  - > Nicolle Bertozzi
-
-  - > Sahar Bostock
-
-  - > Olivia Branscum
-
-  - > James Buckley
-
-  - > Celine Camps
-
-  - > Amanda Faulkner
-
-  - > Baris Gokturk
-
-  - > Angel Jiang
-
-  - > Lan Li
-
-  - > Min Lim
-
-  - > Nancy
-Olson
 
 ## Digital Humanities Seminar Participants
 
@@ -529,57 +271,14 @@ Olson
 Instructors​: Pamela H. Smith and Terry Catapano​ with Tianna Helena
 Uchacz and guest lectures by Steven Feiner
 
-  - > Sohini Chattopadhyay
-
-  - > Ben Hiebert
-
-  - > Jiayi Li
-
-  - > Xiaomeng Liu
-
-  - > Nikhil Ramachandran
-
-  - > Wenrui
-Zhao
-
 ### 2019 Spring: *Transforming Texts:Textual Analysis, Literary Modeling, and Visualization*
 
 Instructors​: Pamela H. Smith, Dennis Tenen, Tianna Helena Uchacz,
 Steven Feiner with Terry Catapano​ and Carmine Elvezio
 
-  - > Katie Bergen
-
-  - > Celine Camps
-
-  - > Daria Franklin
-
-  - > Henry Gifford
-
-  - > Sandra Goldstein Lehnert
-
-  - > Laura Hand
-
-  - > Mahzabin Hasnath
-
-  - > Gregory Houser
-
-  - > Jennifer Kaplan
-
-  - > Chris Klippenstein
-
-  - > Matthew Kumar
-
-  - > Max Kwass-Mason
-
-  - > Kathleen Sungu Lee
-
-  - > Vera Senina
-
-  - > Taewan Shim
-
-  - > Guillermo Soto
-
-  - > Yuhe Zheng
+| 2017 Spring: *What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment*                           | 2019 Spring: *Transforming Texts: Textual Analysis, Literary Modeling, and Visualization*                                                                                                                                                                                                                                                                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sohini Chattopadhyay <br><br> Ben Hiebert <br><br> Jiayi Li <br><br> Xiaomeng Liu <br><br> Nikhil Ramachandran <br><br> Wenrui Zhao | Katie Bergen <br><br>Celine Camps <br><br>Daria Franklin <br><br>Henry Gifford <br><br>Sandra Goldstein Lehnert <br><br>Laura Hand <br><br>Mahzabin Hasnath <br><br>Gregory Houser <br><br>Jennifer Kaplan <br><br>Chris Klippenstein <br><br>Matthew Kumar <br><br>Max Kwass-Mason <br><br>Kathleen Sungu Lee <br><br>Vera Senina <br><br>Taewan Shim <br><br>Guillermo Soto <br><br>Yuhe Zheng |
 
 ## Working Group Meeting Invited Scholars and Participants
 
