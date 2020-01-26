@@ -6,7 +6,7 @@ This bibliography includes detailed references for primary sources cited in the 
 
 The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/bibtex) and html, downloadable from the Project’s [GitHub repository](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/bibliographies).
 
-## Menu <a id="menu"></a>
+### On this page <a id="menu"></a>
 - References in the Manuscript and the Editorial Comments
   - [Primary Sources](#MS-primary)
   - [Secondary Sources](#MS-secondary)
@@ -15,7 +15,12 @@ The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/b
 
 <br/>
 
-## Primary Sources in the Manuscript and the Editorial Comments <a id="MS-primary"></a>
+___
+
+## Manuscript and Editorial Comments
+### Primary Sources <a id="MS-primary"></a> 
+
+<br/>
 
 Agrippa von Nettesheim, Cornelius. *De occulta philosophia*. Cologne:
 Johann Soter, 1533.
@@ -478,7 +483,9 @@ Dios" de San Agustı́n*. Edited by Rafael Cabrera Petit. vol. 6. Colección
 J.L. Vives. Ajuntament de Valencia, 2000.
 
 <br/>
-## Secondary Sources used in the Editorial Comments <a id="MS-secondary"></a> [↑Menu](#menu)
+### Secondary Sources <a id="MS-secondary"></a> 
+[↩︎](#menu)
+
 <br/>
 
 Bol, Marjolijn. “The emerald and the eye: on sight and light in the artisan's workshop and scholar's study." In, *Perspective as practice: Renaissance cultures of optics*, edited by Sven Dupré, 71–101. Turnhout: Brepols, 2019.
@@ -561,8 +568,11 @@ F. Lanore, 2001.
 Zerner, Henri. *L’Art de la renaissance en france*. Paris: Flammarion,
 1996.
 
+<br/>
 
-## Sources used in the Glossary <a id="glossary"></a> [↑Menu](#menu)
+## Glossary <a id="glossary"></a> 
+[↑Menu](#menu)
+
 <br/>
 
 Académie française. “Dictionnaire de l’Académie française.” Paris, 2018.
