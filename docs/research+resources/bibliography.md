@@ -8,6 +8,7 @@ The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/b
 
 <br/>
 ___
+
 ### On this page <a id="menu"></a>
 - References in the Manuscript and the Editorial Comments
   - [Primary Sources](#MS-primary)
