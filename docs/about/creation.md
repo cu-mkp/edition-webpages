@@ -1,4 +1,5 @@
-# Creation of Secrets of Craft and Nature in Renaissance France
+# The Edition
+## Creation of *Secrets of Craft and Nature in Renaissance France*
 
 The creation of *Secrets of Craft and Nature in Renaissance France* has been the primary goal of the Making and Knowing Project since it was founded in 2014. It presents the
 culmination of over five years of iterative, collaborative, and
@@ -77,3 +78,30 @@ components:
   - Bibliography of works cited
   - Editorial and translation comments
   - Glossary of terms and translation
+
+## Research Essays
+
+Research Essays explore the text of the manuscript, provide material,
+technical, and historical context, and discuss student reconstructions
+in the Making and Knowing Laboratory.
+
+**Essays by scholars** on the Making and Knowing Team and invited
+experts explore different aspects of Ms. Fr. 640 and its material, technical,
+textual, and historical context.
+
+**Essays by students** are products of the Making and Knowing Project laboratory seminars
+and courses taught by Project collaborators. The majority addresses historical questions by
+combining laboratory work with traditional historical research.
+
+All essays will also be archived in [Academic Commons](https://academiccommons.columbia.edu) where they can be
+downloaded as standalone articles.
+
+The Research Essays are grouped in up to three of seven broad categories:
+
+  - **An Introduction**: introductory resources about the manuscript, the Project, and background information.
+  - **The Manuscript, Ms. Fr. 640**: its codicology, palaeography, and probable genesis, its relationship to other genres of writing, and the identity of its anonymous author-practitioner.
+  - **The Making and Knowing Laboratory**: hands-on work in the Making and Knowing Laboratory and principles of historical reconstruction.
+  - **Society and Culture**: historical context of the manuscript in sixteenth-century France and beyond.
+  - **Art and Its Making**: materials, making, and meaning of art, and the training of artists.
+  - **Knowing Nature**: investigation, manipulation, and exploration of nature in Ms. Fr. 640.
+  - **The Making and Knowing Project**: initiatives, pedagogy, methods, personnel, and collaborators.
