@@ -488,7 +488,7 @@ J.L. Vives. Ajuntament de Valencia, 2000.
 <br/>
 
 ### Secondary Sources  
-[↩︎](#on-this-page-)
+[↩︎](#on-this-page)
 
 <br/>
 
