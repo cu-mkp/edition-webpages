@@ -6,6 +6,7 @@ This bibliography includes detailed references for primary sources cited in the 
 
 The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/bibtex) and html, downloadable from the Project’s [GitHub repository](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/bibliographies).
 
+## Menu <a id="menu"></a>
 - References in the Manuscript and the Editorial Comments
   - [Primary Sources](#MS-primary)
   - [Secondary Sources](#MS-secondary)
@@ -477,7 +478,8 @@ Dios" de San Agustı́n*. Edited by Rafael Cabrera Petit. vol. 6. Colección
 J.L. Vives. Ajuntament de Valencia, 2000.
 
 <br/>
-## Secondary Sources used in the Editorial Comments <a id="MS-secondary"></a>
+## Secondary Sources used in the Editorial Comments <a id="MS-secondary"></a> [↑Menu](#menu)
+<br/>
 
 Bol, Marjolijn. “The emerald and the eye: on sight and light in the artisan's workshop and scholar's study." In, *Perspective as practice: Renaissance cultures of optics*, edited by Sven Dupré, 71–101. Turnhout: Brepols, 2019.
 
@@ -560,7 +562,7 @@ Zerner, Henri. *L’Art de la renaissance en france*. Paris: Flammarion,
 1996.
 
 
-## Sources used in the Glossary <a id="glossary"></a>
+## Sources used in the Glossary <a id="glossary"></a> [↑Menu](#menu)
 <br/>
 
 Académie française. “Dictionnaire de l’Académie française.” Paris, 2018.
