@@ -12,8 +12,8 @@ ___
 
 ### On this page <a id="menu"></a>
 - References in the Manuscript and the Editorial Comments
-  - [Primary Sources](#MS-primary)
-  - [Secondary Sources](#MS-secondary)
+  - [Primary Sources](#primary-sources-)
+  - [Secondary Sources](#secondary-sources-)
 - [References in the Glossary](#glossary)
 - References in the Research Essays (forthcoming)
 
