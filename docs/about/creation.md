@@ -1,7 +1,6 @@
 # Creation of Secrets of Craft and Nature in Renaissance France
 
-The creation of *Secrets of Craft and Nature in Renaissance France* has been the primary goal of the Making and
-Knowing Project since it was founded in 2014. The Edition presents the
+The creation of *Secrets of Craft and Nature in Renaissance France* has been the primary goal of the Making and Knowing Project since it was founded in 2014. It presents the
 culmination of over five years of iterative, collaborative, and
 interdisciplinary work.
 
@@ -27,7 +26,7 @@ Students in the Making and Knowing Project’s laboratory seminars from
 2014 to 2018 used the transcriptions and translations to investigate the
 materials and techniques contained in the manuscript.
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/386753079" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/384070452" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 These students produced essays that featured their research on texts and
 objects, as well as their experiments in reconstructing the technical
@@ -40,7 +39,7 @@ Knowing Project team, after which scholars participating in annual
 Working Group Meetings commented upon them. They were edited again in
 2019 by the Making and Knowing senior editorial team.
 
-The research apparatus of the Edition also includes a collection of
+The research apparatus of *Secrets of Craft and Nature in Renaissance* France also includes a collection of
 research essays authored by Working Group members and invited
 collaborators that discuss different aspects of the context of Ms. Fr.
 640.
@@ -52,10 +51,10 @@ menu within the viewing panes and as a standalone resource), a complete
 bibliography, and a list of all 930 entries—“recipe” or entry headings
 (titles) in the manuscript.
 
-The final component of the creation of Secrets of Craft and Nature in Renaissance France was the prototyping of digital components in digital humanities courses held by the Making and Knowing Project at Columbia University, and the development of the
+The final component of the creation of *Secrets of Craft and Nature in Renaissance France* was the prototyping of digital components in digital humanities courses held by the Making and Knowing Project at Columbia University, and the development of the
 Edition platform by the Project Digital Team and Performant Software
-Solutions. For more information on making the Edition, see Smith, Making
-the Edition of Ms. Fr. 640.
+Solutions. For more information on making the Edition, see [Smith, *Making
+the Edition of Ms. Fr. 640*]().
 
 ## Structure of Secrets of Craft and Nature in Renaissance France
 
