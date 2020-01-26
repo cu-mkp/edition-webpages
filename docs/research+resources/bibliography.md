@@ -20,8 +20,8 @@ ___
 ___
 
 ## Manuscript and Editorial Comments
-### Primary Sources <a id="MS-primary"></a> 
-[↩︎](#menu)
+### Primary Sources 
+[↩︎](#on-this-page-)
 
 <br/>
 
@@ -487,7 +487,7 @@ J.L. Vives. Ajuntament de Valencia, 2000.
 
 <br/>
 
-### Secondary Sources <a id="MS-secondary"></a> 
+### Secondary Sources  
 [↩︎](#menu)
 
 <br/>
@@ -574,8 +574,8 @@ Zerner, Henri. *L’Art de la renaissance en france*. Paris: Flammarion,
 
 <br/>
 
-## Glossary <a id="glossary"></a> 
-[↑Menu](#menu)
+## Glossary  
+[↑Menu](#on-this-page-)
 
 <br/>
 
