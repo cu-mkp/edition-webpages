@@ -23,8 +23,7 @@ manuscript.
 
 ![how-to-use-dualpane](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane-4x6.png)
 
-Side-by-side display of facsimile image and diplomatic French
-transcription of folio 4r.
+*Side-by-side display of facsimile image and diplomatic French transcription of folio 4r.*
 
 
 To choose a version, click on the drop-down menu in the upper right
@@ -32,8 +31,7 @@ corner of each pane.
 
 ![howtouse-dualdropdown-4x6](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown-4x6.png)
 
-Drop-down menu for comparison viewing panes, allowing choice
-between any combination of two versions of the manuscript.
+*Drop-down menu for comparison viewing panes, allowing choice between any combination of two versions of the manuscript.*
 
 
 Quick access to the [Glossary](/#folios/1r/f/1r/glossary) is a fourth option to be displayed in
@@ -50,16 +48,15 @@ overview which can be browsed with the scroll bar in order to navigate
 to any folio. Once a page is chosen, the facsimile will appear in the
 left pane by default.
 
+![howtouse-folio-grid](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folio-grid)
 
 Within the pane, the facsimile image can be expanded by clicking on the
 \+ and \- symbols at the left side of the folio viewing pane.
 Alternatively, choose from three preset magnifications, or use the mouse
 or trackpad for other levels of zoom.
 
-
 To return to the thumbnail grid, click on the grid icon <i class="fas fa-th"></i> beneath the
 expand icons on the left side of the viewing pane.
-
 
 ### Transcriptions and Translations
 
@@ -121,9 +118,7 @@ This can also be found by clicking on the the <i class="fas fa-question-circle">
 
 The search bar allows a search in the two French transcriptions, the English translation, and the Research Essays. 
 
-
 Search results can be displayed either according to relevance or by folio numbers (listed sequentially). 
-
 
 Results can be narrowed by checking only the components of the Edition in which a user wishes to see search results (i.e., 
 English Translation, Diplomatic Transcription, Normalized Transcription, and Research Essays).
@@ -154,6 +149,7 @@ The List of Entries allows navigation of the manuscript by the headings of all 9
 
 The entries can be sorted sequentially as they appear in the manuscript or alphabetically.
 
+![howtouse-listentries](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries)
 
 Relevant terms in each entry have been encoded using fourteen semantic tags that include materials, tools, and places.
 
@@ -162,11 +158,13 @@ To see the full list of tagged terms contained in any given entry, click on the 
 (transcription, normalized transcription, and English translation) can
 be chosen.
 
+![howtouse-listentries-select](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-select)
 
 To filter the entries by which semantic tags they contain, click on any
 of the tags to see only entries that have terms that are tagged as such.
 These can be further refined by clicking on multiple tag types.
 
+![howtouse-listentries-terms](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-terms)
 
 For a full list of the tags and their usage, see the [Principles of
 Encoding](/#content/research+resources/principles-encoding).
@@ -177,6 +175,7 @@ Encoding](/#content/research+resources/principles-encoding).
 A Glossary of distinctive terms used in the manuscript can be accessed
 by selecting “Glossary” in the dropdown menu of the dual-pane view.
 
+![howtouse-glossary](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-glossary.png)
 
 Use the alphabetical navigation bar to browse the contents.
 
@@ -202,8 +201,6 @@ not exhaustive. Common variations are:
 
   - homonyms, e.g. aiguille, esguille; alun, alum, alung"
 
-![howtouse-glossary](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-glossary.png)
-
 
 ### [Research Essays](/#essays)
 
@@ -226,13 +223,16 @@ the essay icon found to the right of the manuscript entry heading.
 ![howtouse-essays](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essays.png)
 
 The listing of essays can be viewed as small thumbnails or as cards with the essay’s
-abstract. Clicking on manuscript folio numbers referenced in the essays
+abstract. Click on the small and large grids in the upper right corner.
+
+![howtouse-essay-grids](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essay-grids.png)
+
+Clicking on manuscript folio numbers referenced in the essays
 links out to the relevant folio page (return by clicking the back arrow
 in your browser).
 
 
-The Research Essays are grouped into seven broad categories that are
-navigated by the menu bar on the left:
+The Research Essays are grouped into seven broad categories:
 
   - **An Introduction**: written by Project and invited scholars and serve as introductory resources and provide an overview of the manuscript, the Project, and background information.
 
@@ -248,6 +248,9 @@ navigated by the menu bar on the left:
 
   - **The Making and Knowing Project**: the Making and Knowing Project, including its initiatives, pedagogy, methods, personnel, and collaborators.
 
+To browse the essays by their categories, use the navigation bar on the left.
+
+![howtouse-essays-themes](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essays-themes.png)
 
 ### [The Bibliography](/#content/research+resources/bibliography)
 

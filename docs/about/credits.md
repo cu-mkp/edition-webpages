@@ -17,8 +17,8 @@ An exemplary model has been formulated in “Off the Tracks: Laying New
 Lines for Digital Humanities Scholars,” and we strive to adhere to their
 guidelines for crediting as stated in the [Collaborators’ Bill of Rights](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%e2%80%99-bill-of-rights/).
 
-For more about the creation of the edition, see [About — The Edition](/#content/about/creation)
-and Pamela Smith [Making the Edition of Ms. Fr. 640](/#essayx/ann_329_ie_19).
+For more about the creation of the edition, see [About - The Edition](/#content/about/creation)
+and Pamela Smith, [Making the Edition of Ms. Fr. 640](/#essayx/ann_329_ie_19).
 
 ## To cite the Edition:
 
@@ -51,26 +51,10 @@ Digital Critical Edition and English Translation of BnF Ms. Fr. 640*
   - Digital Lead: Terry Catapano
   - Digital Designer-Developer: Nick Laiacona and team at Performant Software Solutions
 
-### Senior Editorial Team
-
-  - Pamela H. Smith
-  - Naomi Rosenkranz
-  - Tianna Helena Uchacz
-  - Tillmann Taape
-  - Clément Godbarge
-  - Sophie Pitman
-  - Jenny Boulboullé
-  - Joel Klein
-  - Donna Bilak
-  - Marc Smith
-  - Terry Catapano
-
-### Digital Team
-
-  - Terry Catapano
-  - Nick Laiacona and team at Performant Software Solutions
-  - Naomi Rosenkranz
-  - Consultants: Alex Gil, Ben Armintor, Marii Nyrop, Dennis Tenen, and Philip Cherian
+### Senior Editorial and Digital Teams
+| Senior Editorial Team                                                                                                                                                                                                                                 | Digital Team                                                                                                                                                                                          |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Pamela H. Smith <br><br>Naomi Rosenkranz <br><br>Tianna Helena Uchacz <br><br>Tillmann Taape <br><br>Clément Godbarge <br><br>Sophie Pitman <br><br>Jenny Boulboullé <br><br>Joel Klein <br><br>Donna Bilak <br><br>Marc Smith <br><br>Terry Catapano | Terry Catapano <br><br> Nick Laiacona and team at Performant Software Solutions <br><br> Naomi Rosenkranz <br><br> Consultants: Alex Gil, Ben Armintor, Marii Nyrop, Dennis Tenen, and Philip Cherian |
 
 ### Project Managers, Assistants, and Interns
 
@@ -95,12 +79,11 @@ Digital Critical Edition and English Translation of BnF Ms. Fr. 640*
   - Digital Humanities Teaching Assistants:    
       - Jeffrey Wayno (2016-17)
       - Jenna Schoen (2019)
-  - > Laboratory and Studio Teaching Assistant:
+  - Laboratory and Studio Teaching Assistant:
       - Nilam Patel (2015)
       - Bella Buscarino (2016)
       - Scott Sonnenberg (2016-18)
       - Carolin Rechberg (2018)
-
   - École Polytechnique Alliance Interns:
       - Margot Lyautey (2016)
       - Philip Cherian (2016)
@@ -155,7 +138,7 @@ Workshops open to returning participants only and co-organized by Soersha Dyon a
 
 ### 2018 (1 week, Toulouse)
 ### 2018 (1 week, Columbia University)
-Participation by invitation for experienced participants with highly specialized skills and vocabulary to finalize the full translation and encoding of Ms. Fr. 640.
+Participation by invitation for experienced participants with highly specialized skills and vocabulary to finalize the full translation and encoding of Ms. Fr. 640. In 2018, the workshop was joined by invited experts on weaponry, arms, and armor: Pascal Brioist and Jonathan Tavares.
 
 ### 2019 (6 months, Columbia University)
 Project Director, Assistant Director, Project Assistant, Digital Lead, and Postdocs Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, and Sophie Pitman implemented an extensive series of consistency checks to reconcile discrepancies from five years of iterative work based on evolving translation and markup protocols.
@@ -275,6 +258,7 @@ Staff members of the Libraries’ Digital Scholarship Division helped set the pa
 
   - Ann Thornton
   - Barbara Rockenbach
+  - Stephen P. Davis
   - Alex Gil
   - Ben Armintor
   - Marii Nyrop
