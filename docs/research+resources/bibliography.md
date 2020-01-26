@@ -12,15 +12,15 @@ ___
 
 ### On this page 
 - References in the Manuscript and the Editorial Comments
-  - [Primary Sources](#primary-sources-)
-  - [Secondary Sources](#secondary-sources-)
+  - [Primary Sources](#Primary-Sources)
+  - [Secondary Sources](#Secondary-Sources-)
 - [References in the Glossary](#glossary)
 - References in the Research Essays (forthcoming)
 
 ___
 
 ## Manuscript and Editorial Comments
-### Primary Sources 
+### Primary Sources
 [↩︎](#on-this-page-)
 
 <br/>
