@@ -12,16 +12,16 @@ ___
 
 ### On this page 
 - References in the Manuscript and the Editorial Comments
-  - [Primary Sources](http://edition-staging.makingandknowing.org/#/content/research+resources/bibliography#primary-sources-)
-  - [Secondary Sources](http://edition-staging.makingandknowing.org/#/content/research+resources/bibliography#secondary-sources-)
-- [References in the Glossary](http://edition-staging.makingandknowing.org/#/content/research+resources/bibliography#glossary)
+  - [Primary Sources](#primary-sources-)
+  - [Secondary Sources](#secondary-sources-)
+- [References in the Glossary](#glossary)
 - References in the Research Essays (forthcoming)
 
 ___
 
 ## Manuscript and Editorial Comments
 ### Primary Sources 
-[↩︎](http://edition-staging.makingandknowing.org/#/content/research+resources/bibliography#on-this-page-)
+[↩︎](#on-this-page-)
 
 <br/>
 
@@ -488,7 +488,7 @@ J.L. Vives. Ajuntament de Valencia, 2000.
 <br/>
 
 ### Secondary Sources  
-[↩︎](#menu)
+[↩︎](#on-this-page-)
 
 <br/>
 
