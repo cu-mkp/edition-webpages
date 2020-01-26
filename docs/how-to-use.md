@@ -270,7 +270,7 @@ reconstructed, and wrote their laboratory essays.
 
 The respective field notes are also linked in each student Research Essay.
 
-![howtouse-fieldnotes](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-fieldnotes.png)
+![howtouse-fieldnotes](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-fieldnotes.jpg)
 
 
 ## How to Cite
