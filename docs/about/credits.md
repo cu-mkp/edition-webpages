@@ -307,66 +307,22 @@ Digital Critical Edition and English Translation of BnF Ms. Fr. 640*
 </table>
 
 ### Scholar Authors
-
-  - > Tonny Beentjes
-
-  - > Donna Bilak
-
-  - > Marjolijn Bol
-
-  - > Jenny Boulboulle
-
-  - > Pascal Brioist
-
-  - > Celine Camps
-
-  - > Terry Catapano
-
-  - > Colin Debuiche
-
-  - > Soersha Dyon
-
-  - > Sietske Fransen
-
-  - > Clément Godbarge
-
-  - > Alexis Hagadorn
-
-  - > Erma Hermens
-
-  - > Vera Keller
-
-  - > Jo Kirby
-
-  - > Joel Klein
-
-  - > Margot Lyautney
-
-  - > Sarah Muñoz
-
-  - > Doris Oltrogge
-
-  - > Richard Oosterhoff
-
-  - > Sophie Pitman
-
-  - > Naomi Rosenkranz
-
-  - > Pamela H. Smith
-
-  - > Marc Smith
-
-  - > Marika Spring
-
-  - > Maartje Stols-Witlox
-
-  - > Tillmann Taape
-
-  - > Jonathan Tavares
-
-  - > Tianna Uchacz
-
-  - > Heather Wacha
+| Name             | Title, Affiliation                                                                                                               | Name                 | Title, Affiliation                                                                                                      |   |   |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------|-------------------------------------------------------------------------------------------------------------------------|---|---|
+| Tonny Beentjes   | Head of Metal Conservation Programme, University of  Amsterdam                                                                   | Margot Lyautney      | PhD student, EHESS and the Eberhard Karls University of Tübingen                                                        |   |   |
+| Donna Bilak      | Director and Founder of Twelve Keys Consultancy and Design; Making and Knowing Postdoctoral Scholar, Columbia University         | Sarah Muñoz          | Making and Knowing Project Gerda Henkel Postdoctoral Scholar                                                            |   |   |
+| Marjolijn Bol    | Postdoctoral Researcher, Utrecht University                                                                                      | Doris Oltrogge       | Researcher, Technical University of Cologne                                                                             |   |   |
+| Jenny Boulboulle | Postdoctoral Researcher, Utrecht University;  Making and Knowing Postdoctoral Scholar, Columbia University                       | Richard Oosterhoff   | Lecturer in History, University of Edinburgh                                                                            |   |   |
+| Pascal Brioist   | Professor of History, University of Tours                                                                                        | Sophie Pitman        | Postdoctoral Researcher, Aalto University; Making and Knowing Postdoctoral Scholar, Columbia University                 |   |   |
+| Terry Catapano   | Digital Publications Manager, University of California, Berkeley; Making and Knowing Project Digital Lead                        | Naomi Rosenkranz     | Assistant Director, Making and Knowing Project, Columbia University                                                     |   |   |
+| Colin Debuiche   | Lecturer in History of Modern Architecture, University of Rennes 2; Making and Knowing Project Gerda Henkel Postdoctoral Scholar | Pamela H. Smith      | Director of Making and Knowing Project and Seth Low Professor of History, Columbia University                           |   |   |
+| Soersha Dyon     | Graduate Student, École pratique des hautes études; Making and Knowing Project Senior Translator                                 | Marc Smith           | Professor of Medieval and Modern Paleography, École nationale des chartes; Making and Knowing Project Lead Paleographer |   |   |
+| Sietske Fransen  | Research Group Coordinator, Working Group, Max Planck Institute for Art History                                                  | Marika Spring        | Head of Science, National Gallery, London                                                                               |   |   |
+| Clément Godbarge | Making and Knowing Project Postdoctoral Scholar, Columbia University                                                             | Maartje Stols-Witlox | Assistant Professor Paintings Conservation, University of Amsterdam                                                     |   |   |
+| Alexis Hagadorn  | Head of Conservation, Columbia University Libraries                                                                              | Tillmann Taape       | Making and Knowing Project Postdoctoral Scholar, Columbia University                                                    |   |   |
+| Erma Hermens     | Rijksmuseum Professor of Studio Practice and Technical Art History, University of Amsterdam                                      | Jonathan Tavares     | Associate Curator of Arms, Armor and European Decorative Arts before 1700, The Art Institute Of Chicago                 |   |   |
+| Vera Keller      | Associate Professor of History, University of Oregon                                                                             | Tianna Uchacz        | Making and Knowing Project Postdoctoral Scholar, Columbia University                                                    |   |   |
+| Jo Kirby         | Retired Senior Scientific Officer, National Gallery, London                                                                      | Heather Wacha        | CLIR Postdoctoral Fellow, University of Wisconsin-Madison; Making and Knowing Project Senior Translator                 |   |   |
 
 ## Text Workshops in Paleography, Translation, and Digital Encoding
 
@@ -382,15 +338,9 @@ Senior Translation Participants: Heather Wacha and Soersha Dyon
 
 ### 2014-18 Participants (Paleographers, Translators, and Encoders)
 
- | Participants (2014-18)                                                        |                                                 |                               |                                   |                            |                        |
-|---------------------------------------------------------------------|-------------------------------------------------|-------------------------------|-----------------------------------|----------------------------|------------------------|
-| Heather Wacha (2014, 2015, 2016, 2017, 2018-mini, 2018, 2018-micro) | Colin Debuiche (2016, 2017, 2018-mini, 2018)    | Sebestian Kroupa (2016, 2017) | Miguel Aristondo (2016)           | Emogene Cataldo (2015)     | Abram Kaplan (2014)    |
-| Soersha Dyon (2014, 2015, 2016, 2017, 2018-mini, 2018, 2018-micro)  | Melissa Reynolds (2015, 2017, 2018, 2018-micro) | Justin Rivest (2015, 2016)    | Nicolas Misery (2015)             | Charlotte Buecheler (2015) | Lydia Hansell (2014)   |
-| Tillmann Taape (2016, 2017, 2018-mini, 2018, 2018-micro)            | Sophie Pitman (2018-mini, 2018, 2018-micro)     | Donna Bilak (2017)            | Rozemarijn Landsman (2015)        | Dorit Brixius (2015)       | Séverin Duc (2014)     |
-| Celine Camps (2016, 2017, 2018-mini, 2018, 2018-micro)              | Sarah Munoz (2016, 2017, 2018)                  | Ludovic Touze Peiffer (2017)  | Justin Gibson (2015)              | Sean O’Neil (2014)         | Éliseé Dion (2014)     |
-| Gregory Champeaund (2014, 2015, 2016, 2017, 2018-mini)              | Philip Cherian (2016, 2017, 2018)               | Emma Le Pouesard (2016)       | Iara Dundas (2015)                | Diana Nichols (2014)       | Tamara Caulkins (2014) |
-| Tianna Uchacz (2017, 2018-mini, 2018, 2018-micro)                   | Jose Beltran (2015, 2016, 2017)                 | Ji Gao (2016)                 | Lorraine de la Verpillière (2015) | Melissa Morris (2014)      | Emma Capron (2014)     |
-| Margot Lyautey (2016, 2017, 2018-mini, 2018)                        | Francois Pageau (2014, 2015, 2016)              | Joslyn DeVinney (2016)        | Lucie Charasson (2015)            | Matthias Lakits (2014)     | Adham Azab (2014)      |
+| Participants                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                                                                             |                                                                                                                                                                      |                                                                                                                                                                          |                                                                                                                                                            |                                                                                                                                           |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Heather Wacha (2014, 2015, 2016, 2017, 2018-mini, 2018, 2018-micro) Soersha Dyon (2014, 2015, 2016, 2017, 2018-mini, 2018, 2018-micro) Tillmann Taape (2016, 2017, 2018-mini, 2018, 2018-micro) Celine Camps (2016, 2017, 2018-mini, 2018, 2018-micro) Gregory Champeaund (2014, 2015, 2016, 2017, 2018-mini) Tianna Uchacz (2017, 2018-mini, 2018, 2018-micro) Margot Lyautey (2016, 2017, 2018-mini, 2018) | Colin Debuiche (2016, 2017, 2018-mini, 2018)Melissa Reynolds (2015, 2017, 2018, 2018-micro) Sophie Pitman (2018-mini, 2018, 2018-micro) Sarah Munoz (2016, 2017, 2018) Philip Cherian (2016, 2017, 2018) Jose Beltran (2015, 2016, 2017) Francois Pageau (2014, 2015, 2016) | Sebestian Kroupa (2016, 2017)Justin Rivest (2015, 2016) Donna Bilak (2017) Ludovic Touze Peiffer (2017) Emma Le Pouesard (2016) Ji Gao (2016) Joslyn DeVinney (2016) | Miguel Aristondo (2016)Nicolas Misery (2015) Rozemarijn Landsman (2015) Justin Gibson (2015) Iara Dundas (2015) Lorraine de la Verpillière (2015) Lucie Charasson (2015) | Emogene Cataldo (2015)Charlotte Buecheler (2015) Dorit Brixius (2015) Sean O’Neil (2014) Diana Nichols (2014) Melissa Morris (2014) Matthias Lakits (2014) | Abram Kaplan (2014)Lydia Hansell (2014) Séverin Duc (2014) Éliseé Dion (2014) Tamara Caulkins (2014) Emma Capron (2014) Adham Azab (2014) |
 
 ## *Craft & Science: Making Objects in the Early Modern World* Laboratory Seminar Participants
 
