@@ -10,10 +10,10 @@ The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/b
 
 ___
 
-### On this page 
+### On this page
 - References in the Manuscript and the Editorial Comments
   - [Primary Sources](#Primary-Sources)
-  - [Secondary Sources](#Secondary-Sources-)
+  - [Secondary Sources](#Secondary-Sources)
 - [References in the Glossary](#glossary)
 - References in the Research Essays (forthcoming)
 
@@ -21,7 +21,7 @@ ___
 
 ## Manuscript and Editorial Comments
 ### Primary Sources
-[↩︎](#on-this-page-)
+[↩︎](#on-this-page)
 
 <br/>
 
@@ -574,8 +574,8 @@ Zerner, Henri. *L’Art de la renaissance en france*. Paris: Flammarion,
 
 <br/>
 
-## Glossary  
-[↑Menu](#on-this-page-)
+## Glossary
+[↑Menu](#on-this-page)
 
 <br/>
 
