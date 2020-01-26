@@ -575,7 +575,7 @@ Zerner, Henri. *L’Art de la renaissance en france*. Paris: Flammarion,
 <br/>
 
 ## Glossary  
-[↑Menu](http://edition-staging.makingandknowing.org/#/content/research+resources/bibliography#on-this-page-)
+[↑Menu](#on-this-page-)
 
 <br/>
 
