@@ -12,9 +12,9 @@ ___
 
 ### On this page <a id="On-this-page"></a> 
 - References in the Manuscript and the Editorial Comments
-  - [Primary Sources](#Primary-Sources)
-  - [Secondary Sources](#Secondary-Sources)
-- [References in the Glossary](#glossary)
+  - [Primary Sources](http://edition-staging.makingandknowing.org/#/content/research+resources/bibliography#Primary-Sources)
+  - [Secondary Sources](http://edition-staging.makingandknowing.org/#/content/research+resources/bibliography#Secondary-Sources)
+- [References in the Glossary](http://edition-staging.makingandknowing.org/#/content/research+resources/bibliography#glossary)
 - References in the Research Essays (forthcoming)
 
 ___
