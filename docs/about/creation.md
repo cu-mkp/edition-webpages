@@ -16,7 +16,9 @@ The Edition was developed through a series of  workshops, courses, and conferenc
 ### Text Workshops
 The first stage of transcription, translation, and encoding of the manuscript was carried out in a series of paleography and text workshops (2014–2018) that brought together graduate students (already in possession of advanced French) to learn to read middle French script through transcription exercises and then through intensive transcription and translation of Ms. Fr. 640.
 
-The manuscript’s encoding explores fourteen semantic categories that the Project deemed meaningful in providing insight into the manuscript: animal, body part, currency, environment, material, measurement, medical, music, personal name, place, plant, profession, sensory, and tool. For more, see [Principles of Transcription, Translation, and Encoding](/#content/research+resources/principles).
+The manuscript’s encoding explores fourteen semantic categories that the Project deemed meaningful in providing insight into the manuscript: animal, body part, currency, environment, material, measurement, medical, music, personal name, place, plant, profession, sensory, and tool. 
+
+For more information, see [Principles of Transcription, Translation, and Encoding](/#content/research+resources/principles).
 
 ### Laboratory Seminars and Research Essays
 Students in the Making and Knowing Project’s laboratory seminars from 2014 to 2018 used the transcriptions and translations to investigate the materials and techniques contained in the manuscript.
