@@ -1,4 +1,4 @@
-# The Edition
+# About the Edition
 
 ## What is the Digital Critical Edition?
 
