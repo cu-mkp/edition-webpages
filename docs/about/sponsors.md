@@ -25,7 +25,7 @@ Manuscript: An Open-Access Critical Edition and Translation,” 2016-20.
 **The National Science Foundation**, Grant \#1430843, “The Role of Craft
 Skill in Scientific Practice,” 2017–20.
 
-**The National Science Foundation**, Grant \#1430843, “The Role of Tacit
+**The National Science Foundation**, Grant \#1734596, “The Role of Tacit
 Knowledge in Experimentation,” 2014–17.
 
 **The National Science Foundation**, Conference Grant \#1656227,
