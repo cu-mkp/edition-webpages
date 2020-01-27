@@ -32,22 +32,18 @@ Additional deviations from sixteenth-century conventions are:
 
   - > Abbreviations are marked up and expanded consistently with the
     > general spelling system of the manuscript.
-
   - > The transcriptions of the letters i/j and u/v, whether uppercase
     > or lowercase, follow modern usage in distinguishing vowels and
     > consonants.
-    
       - > While these letters were not considered distinct graphemes
         > (vowel/consonant) in French before the late seventeenth
         > century, the decision to distinguish between them in the
         > transcription not only facilitates reading but also makes
         > full-text word searches more intuitive.
-    
       - > The only formal distinction made in Ms. Fr. 640, following
         > early modern orthography, is between v as the initial form and
         > u elsewhere. For example, “vniuersel” is transcribed
         > “universel.”
-
   - > The æ ligature (but not the œ ligature used in modern French), a
     > form used specifically for Latin and for the Latinate spelling of
     > the prefix præ- in French, has been maintained.
@@ -66,31 +62,22 @@ The following normalization protocols were applied:
     > articulated clauses has been converted into modern punctuation,
     > and capitals applied only to the initials of sentences and proper
     > nouns.
-
   - > Word separation: blank spaces or apostrophes have been inserted,
     > but no hyphens.
-    
       - > E.g. “laultre” normalized as “l’aultre”
-
 <!-- end list -->
-
   - > Acute accents: **é** marks stressed, i.e. non-mute, **e** in final
     > syllables, but not in monosyllabic words except for disambiguation
     > between homographs.
-    
       - > E.g. “apres” is normalized as “aprés” according to
         > contemporary convention (rather than modern French “après”).
         > This also disambiguates between “aprés” and “âpres” (although
         > the latter does not occur in the manuscript).
-
 <!-- end list -->
-
   - > A grave accent distinguishes **à** (preposition) from **a**
     > (verb), **là** (adverb) from **la** (article), and **où**
     > (relative pronoun) from **ou** (conjunction).
-
   - > Occasional diacritics: diereses and cedillas.
-    
       - > E.g. “Noël” and “sçavoir”
 
 ## Deletions, Changes, and Marks
