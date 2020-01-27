@@ -186,7 +186,7 @@ How to read a glossary entry:
 
 Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
     
-      - In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets indicates the source of the definition, as listed in the [Bibliography](/#/content/research+resources/bibliography).
+  - In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets indicates the source of the definition, as listed in the [Bibliography](/#/content/research+resources/bibliography).
 
 Glossary entries may also include meanings of words according to context as well as language or dialect of origin.
 
