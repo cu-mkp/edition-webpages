@@ -276,3 +276,5 @@ Staff members of the Libraries’ Digital Scholarship Division helped set the pa
   - Jessica Brodsky
   - Michelle Hall
   - Jonah Bossewitch
+  
+ For additional collaborators, see [Collaborations](https://www.makingandknowing.org/collaborators/) on the Project's website.
