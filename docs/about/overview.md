@@ -22,7 +22,7 @@ A statement of the "open" peer review approach used for *Secrets of Craft and Na
 
 ## [How to Cite](/#content/about/how-to-cite)
 
-Instructions for citing the edited text, research essays, and other components of *Secrets of Craft and Nature in Renaissance France*.
+Instructions for citing the manuscript, the edition, research essays, and other components of *Secrets of Craft and Nature in Renaissance France*.
 
 ## [Sponsors](/#content/about/sponsors)
 
