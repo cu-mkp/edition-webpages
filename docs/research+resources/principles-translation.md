@@ -51,8 +51,8 @@ are fairly confident, after extensive research and consultation with
 experts over many years, that it refers to smalt, a blue glass
 containing cobalt, we are reluctant to impose our conclusions on the
 text. For this reason, *azur d’esmail*, *or mat*, and a range of other
-terms have been left in the original French, with an editorial note
-detailing the state of our research as to their identity.
+terms have been left in the original French. Research essays or editorial notes
+detail the state of our knowledge as to their identity.
 
 For many French terms, we chose English translations from contemporary
 dictionaries such as Cotgrave’s 1611 *Dictionarie of the French and
@@ -127,7 +127,7 @@ word, e.g., a type of material, the search can be undertaken in English,
 and compared to the French variants.
 
 All author additions and deletions, as well as Making and Knowing
-editorial corrections to the text were carried across and made visible
+editorial corrections to the text, were carried across and made visible
 in all three versions of the text. We thought it useful to the reader to
 see where the author-practitioner had rethought passages no matter which
 version was being read. When it was possible to translate the deleted
