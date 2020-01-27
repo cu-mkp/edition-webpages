@@ -172,13 +172,13 @@ Use the alphabetical navigation bar to browse the contents.
 
 The Glossary has a dedicated filtering search which can be used to navigate by the head-word (the manuscript's original French variant) as well as alternate and modern spellings.
 
-How to read a Glossary entry:
+**How to read a Glossary entry**:
 
 Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
     
   - In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets indicates the source of the definition, as listed in the [Bibliography](/#/content/research+resources/bibliography). (Some Glossary entries also include language or dialect of origin.)
 
-**A note on early modern spelling:** if a searched word returns no hits in the Glossary, try searching for a shorter string
+**A note on early modern spelling**: if a searched word returns no hits in the Glossary, try searching for a shorter string
 (e.g., the beginning of the word) or a different spelling. The author-practitioner’s early modern French shows little standardization,
 and while the glossary includes common spelling variants, the list is not exhaustive. Common variations are:
 
@@ -211,12 +211,9 @@ Click on the small and large grids in the upper right corner.
 
 ![howtouse-essay-grids](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essay-grids.png)
 
-In the large grid view, hover over the author name for their information.
+On the cards in the large grid view, hover over the author name for their information.
 
 ![howtouse-essay-author](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essay-author.png)
-
-Click on folio numbers contained in the essays to view that manuscript page (return by clicking the back arrow
-in your browser).
 
 The Research Essays are grouped into seven broad categories:
 
@@ -237,6 +234,9 @@ The Research Essays are grouped into seven broad categories:
 To browse the essays by their categories, use the navigation bar on the left.
 
 ![howtouse-essays-themes](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essays-themes.png)
+
+In any essay, click on folio numbers contained in the text to view that manuscript page (return by clicking the back arrow
+in your browser).
 
 ### [The Bibliography](/#content/research+resources/bibliography)
 
