@@ -20,9 +20,9 @@ For more information:
   - P. Smith, *Making the Edition of Ms. Fr. 640*
   - M. Smith, *Making Ms. Fr. 640 (on the codicology and paleography)*
 * On the transcription, translation, and encoding of the manuscript, see:
-  - [Principles of Transcription](http://edition640.makingandknowing.org/#/content/research+resources/principles-transcription)
-  - [Principles of Translation](http://edition640.makingandknowing.org/#/content/research+resources/principles-translation)
-  - [Principles of Encoding](http://edition640.makingandknowing.org/#/content/research+resources/principles-encoding)
+  - [Principles of Transcription](#/content/research+resources/principles-transcription)
+  - [Principles of Translation](#/content/research+resources/principles-translation)
+  - [Principles of Encoding](#/content/research+resources/principles-encoding)
   - Wacha, Dyon, *Turning Turtle: The Process of Translating BnF Ms. Fr. 640*
   - Camps, Lyautey, *Ma<r>king and Knowing: Encoding BnF Ms. Fr. 640*
   - Catapano, Rosenkranz, *BnF Ms. Fr. 640 as a Digital Text*
@@ -34,7 +34,7 @@ For more information:
 
 ## Reading and Using Secrets of Craft and Nature in Renaissance France
 
-For detailed information, see [How to Use the Edition](http://edition640.makingandknowing.org/#/content/how-to-use).
+For detailed information, see [How to Use the Edition](#/content/how-to-use).
 
 The manuscript text can be browsed in two ways:
 
