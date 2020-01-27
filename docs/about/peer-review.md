@@ -18,8 +18,10 @@ Tianna Uchacz). The essays authored by invited scholars were workshopped
 among all authors at a collective co-writing workshop in 2019, and also
 underwent editorial review by Making and Knowing team members.
 
-For more information on open review see,
-<http://mcpress.media-commons.org/open-review/files/2012/06/MediaCommons_Open_Review_White_Paper_final.pdf>.
+For more information on open review see the Andrew W. Mellon Foundation White Paper [Open Review: A Study of Contexts and Practices](http://mcpress.media-commons.org/open-review/files/2012/06/MediaCommons_Open_Review_White_Paper_final.pdf>).
+
+
+
 
 The extremely diverse and often obscure materials and techniques treated
 in the essays would have presented a problem for conventional peer
@@ -29,6 +31,8 @@ into the annual Working Group Meeting, when scholars were selected for
 their expertise on the subjects of the essays produced in a given year,
 were assigned a number of essays, and commented formally on the essays
 in the three-day meeting.
+
+![peerreview-group-table](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/peerreview-group-table.png)
 
 The Project also wished to build into the collaborative structure the
 opportunity presented by this intriguing primary source for students to
@@ -51,3 +55,5 @@ or through new approaches such as digital methods and laboratory
 research on historical questions, it seems necessary for the practices
 and parameters for scholarly peer review to adapt to these emergent
 modes of scholarship.
+
+![peerreview-group-lab](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/peerreview-group-lab.png)
