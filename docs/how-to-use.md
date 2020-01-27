@@ -5,10 +5,10 @@
 The Edition consists of **four versions of the French manuscript Ms. Fr.
 640**:
 
-1. Facsimile: Facsimile images of the manuscript pages
-2. Diplomatic: diplomatic (verbatim) transcription of the original French text
-3. Normalized: lightly normalized French transcription (with punctuation and diacritical marks added)
-4. Translation: English translation
+1. **Facsimile**: Facsimile images of the manuscript pages
+2. **Diplomatic**: diplomatic (verbatim) transcription of the original French text
+3. **Normalized**: lightly normalized French transcription (with punctuation and diacritical marks added)
+4. **Translation**: English translation
 
 All versions can be accessed by navigating to [Read Fr. 640](/#folios).
 
