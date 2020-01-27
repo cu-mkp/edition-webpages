@@ -104,7 +104,7 @@ primarily provide material, technical, textual, and historical  information abou
 
 ### Field notes 
  
-Field Notes recorded by students as they carried out their  skillbuilding exercises, and as they planned, researched,  reconstructed, and wrote their laboratory essays can be found  linked in each Student Research Essay, and can also be browsed by  navigating to “Research and Resources”--\> “Fieldnotes.” The  Project required students to keep field notes of every stage of  their research, however, some field notes are more detailed and  comprehensive than others. Additional photographs taken by the  students as they carried out their research are available in the  Project’s repository on Flickr: For more on how fieldnotes were  integrated into the pedagogical components of the Edition, see  Pamela Smith, “Creation of the Edition,” ann....
+Field Notes recorded by students as they carried out their  skill-building exercises, and as they planned, researched,  reconstructed, and wrote their laboratory essays can be found  linked in each Student Research Essay, and can also be browsed by  navigating to “Research and Resources”--\> “Fieldnotes.” The  Project required students to keep field notes of every stage of  their research, however, some field notes are more detailed and  comprehensive than others. Additional photographs taken by the  students as they carried out their research are available in the  Project’s repository on Flickr: For more on how fieldnotes were  integrated into the pedagogical components of the Edition, see  Pamela Smith, “Creation of the Edition,” ann....
 
  ### Bibliography
  

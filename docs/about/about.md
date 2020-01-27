@@ -95,7 +95,7 @@ three times by different members of the Making and Knowing Team and then
 read and commented upon by a scholar within whose expertise the subject
 of the essay fell. After this, students had an opportunity to revise the
 essay, and, finally, the essay was edited in a final editorial campaign
-by the Making and Knowing Team (Clément Godbarge, Pamela Smith, Tillmann
+by the Making and Knowing Team (Clément Godbarge, Pamela H. Smith, Tillmann
 Taape, Tianna Uchacz). The essays authored by invited scholars were
 workshopped among all authors at a collective co-writing workshop in
 2019, and also underwent editorial review by Making and Knowing team
