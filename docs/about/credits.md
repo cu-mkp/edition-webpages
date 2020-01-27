@@ -19,22 +19,10 @@ An exemplary model of crediting has been formulated in “Off the Tracks: Laying
 Lines for Digital Humanities Scholars,” and we strive to adhere to their
 guidelines as stated in the [Collaborators’ Bill of Rights](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%e2%80%99-bill-of-rights/).
 
-For more about the creation of the edition, see [About - The Edition](/#content/about/creation)
+For more about the creation of the edition, see [About the Edition](/#content/about/creation)
 and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/#essayx/ann_329_ie_19).
 
-## To cite the Edition:
-
-The Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
-Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman,
-Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry
-Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A
-Digital Critical Edition and English Translation of BnF Ms. Fr. 640*
-(New York: The Making and Knowing Project, 2020),
-[http://edition640.makingandknowing.org](http://edition640.makingandknowing.org/).
-
-## People
-
-### Project Team and Staff
+## Project Team and Staff
 
   - Founding Director: Pamela H. Smith
   - Assistant Director: Naomi Rosenkranz
@@ -53,12 +41,12 @@ Digital Critical Edition and English Translation of BnF Ms. Fr. 640*
   - Digital Lead: Terry Catapano
   - Digital Designer-Developer: Nick Laiacona and team at Performant Software Solutions
 
-### Senior Editorial and Digital Teams
+## Senior Editorial and Digital Teams
 | Senior Editorial Team                                                                                                                                                                                                                                 | Digital Team                                                                                                                                                                                          |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Pamela H. Smith <br><br>Naomi Rosenkranz <br><br>Tianna Helena Uchacz <br><br>Tillmann Taape <br><br>Clément Godbarge <br><br>Sophie Pitman <br><br>Jenny Boulboullé <br><br>Joel Klein <br><br>Donna Bilak <br><br>Marc Smith <br><br>Terry Catapano | Terry Catapano <br><br> Nick Laiacona and team at Performant Software Solutions <br><br> Naomi Rosenkranz <br><br> Consultants: Alex Gil, Ben Armintor, Marii Nyrop, Dennis Tenen, and Philip Cherian |
 
-### Project Managers, Assistants, and Interns
+## Project Managers, Assistants, and Interns
 
   - Research Associate (2014-15): Claire Sabel
   - Project Manager and Graduate Research Assistant (2015-16): Jeffrey Palframan
