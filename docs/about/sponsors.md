@@ -1,11 +1,6 @@
 # Sponsors
 
-The Critical Digital Edition of Ms. Fr. 640 would not have been possible
-without a wide network of supporters. The Making and Knowing Project
-gratefully acknowledges the support of countless individuals,
-collaborators, federal grants, internal Columbia University awards,
-faculty research funds, institutional collaborators, and grants and
-gifts from foundations and private donors—some listed below.
+_Secrets of Craft and Nature in Renaissance France_ would not have been possible without a wide network of supporters. The Making and Knowing Project gratefully acknowledges the support of countless individuals and collaborators from institutions around the world. The Project is especially grateful for the institutional support, grants, and gifts that underwrote the creation of the Edition:
 
 **The Center for Science and Society**, Columbia University.
 
