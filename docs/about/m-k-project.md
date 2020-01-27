@@ -10,7 +10,7 @@ The creation of _Secrets of Craft and Nature in Renaissance France_ has been the
 
 ![about-mk-collab-lab](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-mk-collab-lab.png)
 
-_Secrets of Craft and Nature in Renaissance France_ can shed light not only on what kind of knowledge the manuscript’s anonymous author-practitioner possessed about techniques and materials, but also, more broadly, how his work of making was related to knowing. 
+_Secrets of Craft and Nature in Renaissance France_ sheds light not only on what kind of knowledge the manuscript’s anonymous author-practitioner possessed about techniques and materials, but also, more broadly, how his work of making was related to knowing. 
 
 Indeed, the overarching theme of the Project and its work on _Secrets of Craft and Nature in Renaissance France_ has been to show the ways in which making is an epistemic activity. In other words, making is itself a form of knowledge and not just an application of knowledge. 
 
