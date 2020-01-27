@@ -8,20 +8,8 @@ The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/b
 
 <br/>
 
-___
-
-### On this page<a name="On-this-page"></a> 
-- References in the Manuscript and the Editorial Comments
-  - [Primary Sources](#Primary-Sources)
-  - [Secondary Sources](#Secondary-Sources)
-- [References in the Glossary](#glossary)
-- References in the Research Essays (forthcoming)
-
-___
-
 ## Manuscript and Editorial Comments
-### Primary Sources<a name="Primary-Sources"></a> 
-[↩︎](#On-this-page)
+### Primary Sources
 
 <br/>
 
@@ -487,8 +475,7 @@ J.L. Vives. Ajuntament de Valencia, 2000.
 
 <br/>
 
-### Secondary Sources <a name="Secondary-Sources"></a> 
-[↩︎](#On-this-page)
+### Secondary Sources
 
 <br/>
 
@@ -574,8 +561,7 @@ Zerner, Henri. *L’Art de la renaissance en france*. Paris: Flammarion,
 
 <br/>
 
-## Glossary<a name="Glossary"></a> 
-[↩︎](#On-this-page)
+## Glossary
 
 <br/>
 
