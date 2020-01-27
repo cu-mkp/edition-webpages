@@ -1,6 +1,6 @@
 # Linguistic Resources 
 
-A handlist of dictionaries, technical encyclopedias, and other sources used in the transcription and translation of Ms. Fr. 640.
+A handlist of dictionaries, technical encyclopedias, and other sources used in the transcription and translation of Ms. Fr. 640. Note: some resources below may require institutional access.
 
 ## Online Dictionaries 
 
@@ -75,7 +75,7 @@ A handlist of dictionaries, technical encyclopedias, and other sources used in t
         > [index](http://www.u-picardie.fr/LESCLaP/rey/tdm_telechargement_dictionnaires).
   - > [Grand Corpus des
     > Dictionnaires](http://www.classiques-garnier.com.janus.biu.sorbonne.fr/numerique-bases/index.php?module=App&action=FrameMain)
-    > \[du 9e au 20e siècle\], Classiques Garnier. (Institutional access required). Contains:
+    > \[du 9e au 20e siècle\], Classiques Garnier (institutional access required). Contains:
     
       - > Godefroy (Frédéric), *Dictionnaire de l’ancienne langue
         > française et de tous ses dialectes du 9e au 15e s.*
@@ -314,7 +314,7 @@ the author.
             > online).
   - > [Monumenta Germaniae Historica](http://www.dmgh.de/)
   - > [Istituto storico italiano](http://www.isime.it/index.php)
-  - 
+ 
 ### Medieval texts
   - > [Corpus de la littérature médiévale des origines au 15e
     > siècle.](http://www.columbia.edu/cgi-bin/cul/resolve?clio10931173)
@@ -347,7 +347,7 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
         > for 16th-c. books in Italy & Germany.
   - > [Bibliographie des éditions parisiennes du 16ème
     > siècle](http://bp16.bnf.fr/)
-      - > This site comprises 10 000 Parisian editions from the five volumes of the
+      - > This site comprises 10,000 Parisian editions from the five volumes of the
         > *Inventaire chronologique des éditions
         > parisiennes du 16e siècle*, printed between 1972 and 2004, covering the years 1501 to 1540.
         > First four volumes by [Brigitte
@@ -440,12 +440,12 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
     
       - > A digitized version of the Early English Books microfilm
         > collection, this database contains full-text page images of of
-        > about 100,000 of the 1250,000 titles listed in Pollard &
+        > about 100,000 of the 1,250,000 titles listed in Pollard &
         > Redgrave’s Short-Title Catalogue (1475-1640) and Wing’s
         > Short-Title Catalogue (1641-1700) and their revised editions,
         > as well as the Thomason Tracts (1640-1661) collection. These
         > include English translations of Alessio Piemontese’s book of
-        > secrets and Hugh Plat’s *Jewel House of Nature*.
+        > secrets and Hugh Plat’s *Jewel House of Art and Nature*.
   - > [Bibliothèque historique de Mines Paris
     > Tech](http://patrimoine.mines-paristech.fr/)
     
@@ -459,10 +459,7 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
     > [PDF](https://archive.org/details/bulletin02bzgoog)). Contains a
     > list of professions and trades, useful to check Occitan names.
   - > [Speelberg, Femke, French goldsmiths’ ornamental
-    > prints](http://www.metmuseum.org/toah/hd/blak/hd_blak.htm) (all
-    > that is left of 16th- and 17th-century goldsmiths’ work in France)
-    > in the collection of the Metropolitan Museum of Art (with useful
-    > bibliography)
+    > prints](http://www.metmuseum.org/toah/hd/blak/hd_blak.htm) (the only remaining evidence of most 16th- and 17th-century goldsmiths’ work in France) in the collection of the Metropolitan Museum of Art (with useful bibliography)
   - > [Europeana](http://www.europeana.eu/portal/) - archival database
     > of texts, images, objects, images, and more. “All across Europe,
     > thousands of museums, galleries and archives are digitizing their
