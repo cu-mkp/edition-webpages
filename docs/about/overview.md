@@ -6,7 +6,7 @@ Ms. Fr. 640, its codicology, composition, handwriting, and historical context.
 
 ## [The Edition](/#content/about/creation)
 
-The creation of *Secrets of Craft and Nature in Renaissance France*: collaborative transcription, translation, and encoding, historical research, and digital humanities.
+The digital critical edition of Ms. Fr. 640, including its creation, structure, and features.
 
 ## [The Making and Knowing Project](/#content/about/m-k-project)
 
