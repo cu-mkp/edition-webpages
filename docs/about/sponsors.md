@@ -22,9 +22,9 @@ _Secrets of Craft and Nature in Renaissance France_ would not have been possible
     _Any views, findings, conclusions, or recommendations expressed in this Edition do not necessarily represent those of the National Endowment for the Humanities._
 
 ![about-sponsors-luce](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-sponsors-luce.png)  <br>
-[**Luce Foundation**](https://www.hluce.org/), Higher Education Grant, 2017–20.
+[**Henry Luce Foundation**](https://www.hluce.org/), Higher Education Grant, 2017–20.
 
-**Science History Institute** (formerly the Chemical Heritage Foundation), Making and Knowing Project Postdoctoral Scholars, 2014–17.
+**Science History Institute** (formerly Chemical Heritage Foundation), Making and Knowing Project Postdoctoral Scholars, 2014–17.
 
 **Gerda Henkel Foundation**, Grant AZ 40/F/16: Making and Knowing Project Postdoctoral Research Scholars, 2017–20.
 
@@ -33,9 +33,9 @@ _Secrets of Craft and Nature in Renaissance France_ would not have been possible
  - **Collaboratory Seed Grant**, Columbia University, “What is a Book for 21st Century?” seed funding, 2016–18.
  - **Provost’s Hybrid Learning Course Redesign and Delivery**, “What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment,” 2016–17.
 
-**The Maurice I. Parisier Foundation**
+**Maurice I. Parisier Foundation**
 
-**The Florence Gould Foundation**
+**Florence Gould Foundation**
 
 **Gladys Krieble Delmas Foundation**
 
