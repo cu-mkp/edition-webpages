@@ -242,7 +242,7 @@ The Bibliography compiles references, texts, and authors cited in the manuscript
 
 Each Research Essay contains a full bibliography of works cited in the essay.
 
-### [Field Notes](/#content/research+resources/fieldnotes)
+### [Field Notes](/#content/research+resources/field-notes)
 
 Field notes recorded by students as they planned, researched, reconstructed, and wrote their laboratory essays. 
 
