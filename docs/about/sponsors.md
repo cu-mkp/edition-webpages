@@ -28,10 +28,12 @@ _Secrets of Craft and Nature in Renaissance France_ would not have been possible
 
 **Gerda Henkel Foundation**, Grant AZ 40/F/16: Making and Knowing Project Postdoctoral Research Scholars, 2017–20.
 
-## Support from Columbia University Affiliates
- - **Collaboratory Grant**, “Transforming Texts: Computational Approaches to Text Analysis and Visualization,” 2017–20.
- - **Collaboratory Seed Grant**, Columbia University, “What is a Book for 21st Century?” seed funding, 2016–18.
- - **Provost’s Hybrid Learning Course Redesign and Delivery**, “What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment,” 2016–17.
+**Support from Columbia University Affiliates**
+ - Collaboratory Grant, “Transforming Texts: Computational Approaches to Text Analysis and Visualization,” 2017–20.
+ - Collaboratory Seed Grant, Columbia University, “What is a Book for 21st Century?” seed funding, 2016–18.
+ - Provost’s Hybrid Learning Course Redesign and Delivery, “What is a
+Book in the 21st Century? Working with Historical Texts in a Digital
+Environment,” 2016–17.
 
 **Maurice I. Parisier Foundation**
 
