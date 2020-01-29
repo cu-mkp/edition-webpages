@@ -31,9 +31,8 @@ _Secrets of Craft and Nature in Renaissance France_ would not have been possible
 **Support from Columbia University Affiliates**
  - Collaboratory Grant, “Transforming Texts: Computational Approaches to Text Analysis and Visualization,” 2017–20.
  - Collaboratory Seed Grant, Columbia University, “What is a Book for 21st Century?” seed funding, 2016–18.
- - Provost’s Hybrid Learning Course Redesign and Delivery, “What is a
-Book in the 21st Century? Working with Historical Texts in a Digital
-Environment,” 2016–17.
+ - Provost’s Hybrid Learning Course Redesign and Delivery, “What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment,” 2016–17.
+ - ISERP Workshop Grant, Columbia University, 2019-20.
 
 **Maurice I. Parisier Foundation**
 
