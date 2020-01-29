@@ -20,7 +20,7 @@ Thank you\!
 <i class="fab fa-youtube-square"></i> [YouTube](https://www.youtube.com/channel/UCViaSZhCLq9zmI6djVL044Q)
 <i class="fab fa-flickr"></i> [Flickr](https://www.flickr.com/photos/128418753@N06)
 <i class="fas fa-envelope-square"></i> [Subscribe to our email listserv](https://makingandknowing.us15.list-manage.com/subscribe?u=c8ba3b95cee90d4afa19cc58f&id=972ef1e19f)
-<i class="fas fa-book-heart"></i> [Donate to the Project](https://www.givenow.columbia.edu/?_sa=22641&_sd=388#)
+<i class="far fa-book-heart"></i> [Donate to the Project](https://www.givenow.columbia.edu/?_sa=22641&_sd=388#)
 
 <br>
 
