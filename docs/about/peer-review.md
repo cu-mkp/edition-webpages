@@ -18,7 +18,7 @@ Tianna Uchacz). The essays authored by invited scholars were workshopped
 among all authors at a collective co-writing workshop in 2019, and also
 underwent editorial review by Making and Knowing team members.
 
-For more information on open review see the Andrew W. Mellon Foundation White Paper [Open Review: A Study of Contexts and Practices](http://mcpress.media-commons.org/open-review/files/2012/06/MediaCommons_Open_Review_White_Paper_final.pdf>).
+For more information on open review see the Andrew W. Mellon Foundation White Paper [Open Review: A Study of Contexts and Practices](http://mcpress.media-commons.org/open-review/files/2012/06/MediaCommons_Open_Review_White_Paper_final.pdf).
 
 
 
