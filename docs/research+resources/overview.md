@@ -58,5 +58,5 @@ Additional photographs taken by the students as they carried out their
 research are available in the [Project’s repository on Flickr](https://www.flickr.com/photos/128418753@N06/albums).
 
 For more on field notes as a pedagogical component of the Edition, see Pamela H. Smith [Making the Edition of Ms.
-Fr. 640](/#essayx/ann_329_ie_19).
+Fr. 640](/#essay/ann_329_ie_19).
 
