@@ -12,6 +12,7 @@ The Edition consists of four versions of the French manuscript Ms. Fr.
 
 All versions can be accessed by navigating to [Read Fr. 640](/#folios).
 
+
 ### Dual-pane Display
 
 The manuscript is presented in a dual-pane display, allowing
@@ -33,6 +34,7 @@ either pane (more about the Glossary below).
 
 To resize the panes, drag the vertical bar dividing the view panes to adjust the width of the panes.
 
+
 ### Facsimile Images
 
 The manuscript facsimile images first appear in a thumbnail grid
@@ -50,10 +52,12 @@ expand icons on the left side of the viewing pane.
 
 ![howtouse-expand-bar](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-expand-bar.png)
 
+
 ### Transcriptions and Translations
 
 The layout of the transcription, normalized transcription, and translation views mirrors the layout of the facsimile page. This
 includes headings, text blocks, marginalia, figures, marks, as well as textual features described below.
+
 
 #### Renditions of Textual Features
 
@@ -161,6 +165,7 @@ Each entry has been assigned up to three of 26 broad categories, displayed on th
 
 Links are provided to Research Essays which provide commentary on the entries.
 
+
 ### [Glossary](/#folios/1r/f/1r/glossary)
 
 A Glossary of distinctive terms in the manuscript can be accessed
@@ -185,7 +190,6 @@ and while the glossary includes common spelling variants, the list is not exhaus
 Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
     
 - In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets indicates the source of the definition, as listed in the [Bibliography](/#/content/research+resources/bibliography). (Some Glossary entries also include language or dialect of origin.)
-
 
 
 ### [Research Essays](/#essays)
@@ -236,11 +240,13 @@ To browse the essays by their categories, use the navigation bar on the left.
 In any essay, click on the folio numbers contained in the text to view that manuscript page (return by clicking the back arrow
 in your browser).
 
+
 ### [The Bibliography](/#content/research+resources/bibliography)
 
 The Bibliography compiles references, texts, and authors cited in the manuscript, the editorial comments, and the glossary.
 
 Each Research Essay contains a full bibliography of works cited in the essay.
+
 
 ### [Field Notes](/#content/research+resources/field-notes)
 
@@ -248,7 +254,9 @@ Field notes recorded by students as they planned, researched, reconstructed, and
 
 The respective field notes are also linked in each student Research Essay.
 
+
 ## [How to Cite](/#content/about/how-to-cite)
+
 
 ## Source Data
 
