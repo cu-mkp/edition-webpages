@@ -19,7 +19,7 @@ For more information about the manuscript’s contents, see
 Pamela H. Smith, [An Introduction to Ms. Fr. 640 and its
 Author-Practitioner](/#essays/ann_300_ie_19).
 
-## [The Glossary](/#folios/1r/f/1r/glossary)
+## [Glossary](/#folios/1r/f/1r/glossary)
 
 The Glossary is a record of distinctive terms used in the manuscript
 which was compiled during the process of transcribing and translating the text.
@@ -31,7 +31,7 @@ It includes:
   - alternate historical spellings and modern spelling
   - language or dialect of origin
 
-## [The Bibliography](/#content/research+resources/bibliography)
+## [Bibliography](/#content/research+resources/bibliography)
 
 The Bibliography compiles references, texts, and authors cited in the manuscript, the editorial comments, and the glossary.
 
