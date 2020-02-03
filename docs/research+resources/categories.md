@@ -44,6 +44,6 @@ These categories form an index created by the Project to ease navigation of the 
 
 ![entries-piechart](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/entries-piechart.png)
 
-## Overview of Manuscript's Contents
+## Overview of the Manuscript's Contents
 
 ![entries-table](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/entries-table.png)
