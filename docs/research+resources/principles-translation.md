@@ -28,7 +28,7 @@ translation of Ms. Fr. 640 aims to avoid over-interpretation and
 maintain ambiguity, providing as literal and consistent a rendering of
 the original French as possible. This frequently meant foregoing a more
 elegant solution in favor of a clunky and at times archaic rendering
-which preserves the author-practitioners rich, down-to-earth, and
+which preserves the author-practitioner's rich, down-to-earth, and
 occasionally rambling vernacular.
 
 This “hands-off” approach applies first and foremost to technical terms.
@@ -70,7 +70,7 @@ while one might find a “camel hair pencil” in a catalogue of specialist
 art equipment even today, the danger of confusing a brush with a
 graphite pencil seemed too grave to be left to a disambiguating
 editorial note on each instance of the word. Instead, on this occasion
-we translated “paintbrush,” prioritising a clear reference to the
+we translated “paintbrush,” prioritizing a clear reference to the
 correct tool over the principle of avoiding modern categories.
 
 Another important aim of our translation was to preserve the
@@ -100,7 +100,7 @@ nature of this compiled document. Consistency in translation of material
 and process terms was also sought by compiling a glossary over the five
 years of Text Workshops that specified to participants what word the
 Project had settled on to translate certain oft-repeated words. This
-formed the basis of the Glossary that is now available as one of the
+formed the basis of the [The Glossary](/#folios/1r/f/1r/glossary) that is now available as one of the
 pane views of the Edition. Editorial Team members then further enforced
 this consistency by searching for commonly used terms or phrases in a
 text editing program to make sure that they were translated with the
@@ -118,7 +118,7 @@ It must also be noted that the Making and Knowing Project created a
 critical edition of a French manuscript with a research apparatus that
 is mostly in English, which leads to a somewhat peculiar feature of
 providing Editorial Comments across all three versions of the text, as
-well as clarifications of meaning in Research Essays mostly only in
+well as clarifications of meaning in Research Essays, almost entirely in
 English. The advantage of the English translation, however, is that it
 can serve as a form of index for the French versions of the text because
 it contains single terms, whereas the French transcriptions contain many
