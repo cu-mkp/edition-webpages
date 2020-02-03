@@ -17,7 +17,7 @@ The Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz,
 Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman,
 Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry
 Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A
-Digital Critical Edition and English Translation of BnF Ms. Fr. 640*,
+Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: The Making and Knowing Project, 2020),
 \[your page-view URL\].
 
 ## To cite a Research Essay from the Edition:
@@ -30,4 +30,4 @@ of BnF Ms. Fr. 640*, <http://edition640.makingandknowing.org>, eds. The
 Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna
 Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny
 Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano
-(2020), \[URL of the essay\].
+(New York: The Making and Knowing Project, 2020), \[URL of the essay\].
