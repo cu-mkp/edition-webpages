@@ -20,7 +20,7 @@ Lines for Digital Humanities Scholars,” and we strive to adhere to their
 guidelines as stated in the [Collaborators’ Bill of Rights](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%e2%80%99-bill-of-rights/).
 
 For more about the creation of the edition, see [About the Edition](/#content/about/creation)
-and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/#essayx/ann_329_ie_19).
+and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19).
 
 ## Project Team and Staff
 
