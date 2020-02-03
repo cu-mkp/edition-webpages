@@ -15,7 +15,7 @@ Ms. Fr. 640 developed over the five years of the Project, as detailed
 practical instructions. They made clear our recognition that encoding a text is an interpretive act, thus all tags
 and encoding principles were discussed, reviewed, and revised multiple
 times over the five years of creating *Secrets of Craft and Nature in Renaissance France*. They also set out
-the Project’s underlying goal as the effort to “achieve accurate and
+the Project’s underlying goal as the effort to "achieve accurate and
 consistent markup of all three text versions of the manuscript. This is
 a very detail-oriented endeavor, but will enable future users to analyze
 the text in ways we have not conceived. We seek to make possible new
@@ -52,7 +52,7 @@ maintained in the [Project’s data repository in Github](https://github.com/cu-
 <tr class="odd">
 <td>caption</td>
 <td>caption</td>
-<td>text descriptions of graphics provided by the Author-Practioner in the Ms.</td>
+<td>text descriptions of graphics provided by the author-practioner in the Ms.</td>
 </tr>
 <tr class="even">
 <td>cn</td>
@@ -183,7 +183,7 @@ maintained in the [Project’s data repository in Github](https://github.com/cu-
 <tr class="odd">
 <td>figure</td>
 <td>figure</td>
-<td>A sketch, drawing, diagram, etc. present in the source Ms.</td>
+<td>a sketch, drawing, diagram, etc. present in the source Ms.</td>
 </tr>
 <tr class="even">
 <td>fr</td>
@@ -218,7 +218,7 @@ maintained in the [Project’s data repository in Github](https://github.com/cu-
 <tr class="even">
 <td>id</td>
 <td>identifier</td>
-<td>A unique identifier for the text division</td>
+<td>a unique identifier for the text division</td>
 </tr>
 <tr class="odd">
 <td>ill</td>
@@ -288,6 +288,6 @@ working in Google Drive, Text Workshop members used working tools
 constructed by Project Assistant Philip Cherian, and are listed here in
 case they are useful to users of *Secrets of Craft and Nature*.
 
-Googledrive Add **“[Tag Insertion](https://chrome.google.com/webstore/detail/tag-insertion/bmbnkgemgamfdehffagfghkbkcgcoika?utm_source=permalink)”** — a digital tool for quickly grabbing a tag and inserting into the text.    
+Google Drive Add-on, **Tag Insertion** — a digital tool for quickly grabbing a tag and inserting into the text.    
 
-Googledrive Add on **“[XML Validator](https://chrome.google.com/webstore/detail/xmlvalidator/enbfpfceakblekdbimplgjkmjfjceede?utm_source=permalink)”** — a digital tool for validating markup before moving on to the next recipe or folio.
+Google Drive Add-on, **XML Validator** — a digital tool for validating markup before moving on to the next recipe or folio.
