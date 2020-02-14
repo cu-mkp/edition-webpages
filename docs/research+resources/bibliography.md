@@ -9,9 +9,8 @@ The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/b
 <br/>
 
 ## Manuscript and Editorial Comments
-### Primary Sources
 
-<br/>
+### Primary Sources
 
 Agrippa von Nettesheim, Cornelius. *De occulta philosophia*. Cologne:
 Johann Soter, 1533.
@@ -477,8 +476,6 @@ J.L. Vives. Ajuntament de Valencia, 2000.
 
 ### Secondary Sources
 
-<br/>
-
 Bol, Marjolijn. “The emerald and the eye: on sight and light in the artisan's workshop and scholar's study." In, *Perspective as practice: Renaissance cultures of optics*, edited by Sven Dupré, 71–101. Turnhout: Brepols, 2019.
 
 Collin, Franck. “Antonio Telesio de Cosenza, Petit traité des couleurs
@@ -562,8 +559,6 @@ Zerner, Henri. *L’Art de la renaissance en france*. Paris: Flammarion,
 <br/>
 
 ## Glossary
-
-<br/>
 
 Académie française. “Dictionnaire de l’Académie française.” Paris, 2018.
 <https://www.dictionnaire-academie.fr>.
