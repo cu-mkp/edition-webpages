@@ -52,7 +52,7 @@ and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19)
   - Project Manager and Graduate Research Assistant (2015-16): Jeffrey Palframan
   - Research Assistant (2014-15): Miriam Pensack
   - Copy Editor (2016-20): Hannah Elmer
-  - Editorial Assistant: Kelsey Troth (2019-20)
+  - Editorial Assistant (2019-20): Kelsey Troth
   - Digital Programming Assistants:
       - Philip Cherian (2016-18)
       - Emre Tetik (2016-2018)
