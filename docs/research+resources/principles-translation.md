@@ -100,7 +100,7 @@ nature of this compiled document. Consistency in translation of material
 and process terms was also sought by compiling a glossary over the five
 years of Text Workshops that specified to participants what word the
 Project had settled on to translate certain oft-repeated words. This
-formed the basis of the [The Glossary](/#folios/1r/f/1r/glossary) that is now available as one of the
+formed the basis of the [Glossary](/#folios/1r/f/1r/glossary) that is now available as one of the
 pane views of the Edition. Editorial Team members then further enforced
 this consistency by searching for commonly used terms or phrases in a
 text editing program to make sure that they were translated with the
