@@ -20,9 +20,9 @@ For more information:
   - Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19)
   - Marc Smith, [Making Ms. Fr. 640](/#essays/ann_326_ie_19)
 * On the transcription, translation, and encoding of the manuscript, see:
-  - [Principles of Transcription](#/content/research+resources/principles-transcription)
-  - [Principles of Translation](#/content/research+resources/principles-translation)
-  - [Principles of Encoding](#/content/research+resources/principles-encoding)
+  - [Principles of Transcription](#/content/resources/principles-transcription)
+  - [Principles of Translation](#/content/resources/principles-translation)
+  - [Principles of Encoding](#/content/resources/principles-encoding)
   - Soersha Dyon and Heather, [Turning Turtle: The Process of Translating BnF Ms. Fr. 640](/#essays/ann_318_ie_19)
   - Celine Camps and Margot Lyautey, [Ma\<r\>king and Knowing: Encoding BnF Ms. Fr. 640](/#essays/ann_331_ie_19)
   - Terry Catapano and Naomi Rosenkranz, [BnF Ms. Fr. 640 as a Digital Text](/#essays/ann_310_ie_19)
