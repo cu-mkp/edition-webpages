@@ -97,7 +97,7 @@ For navigation help, click the <i class="fas fa-question-circle"></i> help icon.
 
       - Enable/disable view of the xml source code for the page
 
-      - XML tags and their meanings are described in the [Principles of Encoding](/#content/research+resources/principles-encoding). 
+      - XML tags and their meanings are described in the [Principles of Encoding](/#content/resources/principles-encoding). 
       
   - Go Forward / Back <i class="fas fa-arrow-alt-circle-left"></i> <i class="fas fa-arrow-alt-circle-right"></i>
 
@@ -136,7 +136,7 @@ The results are returned in the search pane on the left.
 
 ## Resources
 
-See [Overview of Resources](/#content/research+resources/overview) for explanation of tools and companion commentary.
+See [Overview of Resources](/#content/resources/overview) for explanation of tools and companion commentary.
 
 
 ### [List of Entries](/#entries)
@@ -166,9 +166,9 @@ To filter the entries by their semantic tags, click on the desired tags to view 
 
 ![howtouse-listentries-terms](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-terms.png)
 
-For a full list of the tags and their usage, see [Principles of Encoding](/#content/research+resources/principles-encoding). 
+For a full list of the tags and their usage, see [Principles of Encoding](/#content/resources/principles-encoding). 
 
-Each entry has been assigned up to three of 26 broad categories, displayed on the entry card. See [Entry Categories](/#content/research+resources/categories).
+Each entry has been assigned up to three of 26 broad categories, displayed on the entry card. See [Entry Categories](/#content/resources/categories).
 
 Links are provided to Research Essays which provide commentary on the entries.
 
@@ -196,7 +196,7 @@ and while the glossary includes common spelling variants, the list is not exhaus
 
 Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
     
-- In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets indicates the source of the definition, as listed in the [Bibliography](/#/content/research+resources/bibliography). (Some Glossary entries also include language or dialect of origin.)
+- In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets indicates the source of the definition, as listed in the [Bibliography](/#/content/resources/bibliography). (Some Glossary entries also include language or dialect of origin.)
 
 
 ### [Research Essays](/#essays)
@@ -246,14 +246,14 @@ In any essay, click on the folio numbers contained in the text to view that manu
 in your browser).
 
 
-### [The Bibliography](/#content/research+resources/bibliography)
+### [The Bibliography](/#content/resources/bibliography)
 
 The Bibliography compiles references, texts, and authors cited in the manuscript, the editorial comments, and the glossary.
 
 Each Research Essay contains a full bibliography of works cited in the essay.
 
 
-### [Field Notes](/#content/research+resources/field-notes)
+### [Field Notes](/#content/resources/field-notes)
 
 Field notes recorded by students as they planned, researched, reconstructed, and wrote their laboratory essays. 
 
