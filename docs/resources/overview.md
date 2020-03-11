@@ -8,9 +8,9 @@ of Ms. Fr. 640.
 The manuscript consists almost entirely of units of text under titles, which the Project has called “entries.” The List of Entries forms an index to navigate the over 900 entries.
 
 Entries can be filtered by selecting semantic tags that have been used to encode relevant terms in each entry. For further information on these tags, see [Principles of
-Encoding](/#content/research+resources/principles-encoding).
+Encoding](/#content/resources/principles-encoding).
 
-## [Entry Categories](/#content/research+resources/categories)
+## [Entry Categories](/#content/resources/categories)
 
 Entries can be faceted through 26 broad categories, which are intended to provide a quick overview of processes and materials and to help navigate
 the manuscript. 
@@ -31,7 +31,7 @@ It includes:
   - alternate historical spellings and modern spelling
   - language or dialect of origin
 
-## [Bibliography](/#content/research+resources/bibliography)
+## [Bibliography](/#content/resources/bibliography)
 
 The Bibliography compiles references, texts, and authors cited in the manuscript, the editorial comments, and the glossary.
 
