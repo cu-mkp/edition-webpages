@@ -147,6 +147,8 @@ The entries can be sorted sequentially as they appear in the manuscript or alpha
 
 ![howtouse-listentries](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries.png)
 
+
+
 Relevant terms in each entry have been encoded with semantic tags. 
 
 To see the full list of tagged terms contained in any given entry, click on the upper right drop-down arrow. 
