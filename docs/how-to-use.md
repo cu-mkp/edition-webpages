@@ -159,7 +159,7 @@ To see the full list of tagged terms contained in any given entry, click on the 
 
 Choose the version (transcription, normalized transcription, and English translation) to be displayed.
 
-![howtouse-listentries-select](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-version.png)
+![howtouse-listentries-version](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-version.png)
 
 
 To filter the entries by their semantic tags, click on the desired tags to view only entries that have those tagged terms. This can be further refined by clicking on multiple tag types.
