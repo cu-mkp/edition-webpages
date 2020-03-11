@@ -237,10 +237,7 @@ The Research Essays are grouped into categories:
 
 To browse the essays by their categories, use the navigation bar on the left.
 
-<!---
 ![howtouse-essays-themes](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essays-themes.png)
--->
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essays-themes.png" width="400">
 
 In any essay, click on the folio numbers contained in the text to view that manuscript page (return by clicking the back arrow
 in your browser).
