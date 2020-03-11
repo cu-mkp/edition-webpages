@@ -15,19 +15,19 @@ All work was checked and finalized by the Making and Knowing Team: Terry
 Catapano, Clément Godbarge, Naomi Rosenkranz, Marc Smith, Pamela Smith,
 Tillmann Taape, and Tianna Uchacz.
 
-## [Principles of Transcription](/#content/research+resources/principles-transcription)
+## [Principles of Transcription](/#content/resources/principles-transcription)
 
 Principles and conventions followed in the diplomatic and normalized transcriptions of the manuscript text.
 
-## [Principles of Translation](/#content/research+resources/principles-translation)
+## [Principles of Translation](/#content/resources/principles-translation)
 
 Translation philosophy and guidelines for our collaborative translation of a miscellaneous and highly technical text.
 
-## [Principles of Encoding](/#content/research+resources/principles-encoding)
+## [Principles of Encoding](/#content/resources/principles-encoding)
 
 The rationale behind our semantic and structural markup.
 
-## [Dictionaries and Technical Encyclopedias](#content/research+resources/dictionaries)
+## [Dictionaries and Technical Encyclopedias](#content/resources/dictionaries)
 
 A list of the reference sources used during the translation process.
 
