@@ -214,7 +214,9 @@ In the dual-pane display of the manuscript, click on the <i class="fas fa-flask"
 
 In the dedicated index, the listing of essays can be viewed as small thumbnails or as cards with the essays' abstracts. 
 
-![howtouse-essays](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essays.png)
+<!--
+![howtouse-essays](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essays.png) 
+-->
 
 Click on the small and large grids in the upper right corner to switch between thumbnail and card views.
 
