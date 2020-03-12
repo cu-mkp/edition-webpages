@@ -12,7 +12,7 @@
         "menuItems": [
             {
                 "label": "Overview of Resources",
-                "route": "/content/research+resources/overview" 
+                "route": "/content/resources/overview" 
             },
             {
                 "label": "List of Entries",
@@ -20,7 +20,7 @@
             },            
             {
                 "label": "Entry Categories",
-                "route": "/content/research+resources/categories" 
+                "route": "/content/resources/categories" 
             },            
             {
                 "label": "Glossary",
@@ -28,16 +28,16 @@
             },           
             {
                 "label": "Bibliography",
-                "route": "/content/research+resources/bibliography" 
+                "route": "/content/resources/bibliography" 
             },            
             {
                 "label": "Principles of Transcription, Translation, and Encoding",
-                "route": "/content/research+resources/principles" 
+                "route": "/content/resources/principles" 
             },
             {
                 "label": "Field Notes",
                 "placeholder": true,
-                "route": "/content/research+resources/field-notes" 
+                "route": "/content/resources/field-notes" 
             },
             {
                 "label": "Index of Keywords (Term Indices)",
