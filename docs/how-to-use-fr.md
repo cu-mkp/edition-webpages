@@ -6,54 +6,45 @@ L'édition se compose de 4 versions du manuscrit Ms. Fr.
 640:
 
 1. **Fac-similé**: Reproductions photographiques de chaque page
-2. **Diplomatique**: transcription diplomatique (verbatim) de l'original en Français
-3. **Normalisé**: transcription légèrement normalisée (avec ponctuation et signes diacritiques)
+2. **Diplomatique**: Transcription diplomatique (verbatim) de l'original en Français
+3. **Normalisé**: Transcription légèrement normalisée (avec ponctuation et signes diacritiques)
 4. **Traduction**: Traduction Anglaise
 
 Toutes les versions peuvent être accédées en cliquant sur [Read Fr. 640](/#folios).
 
 
-### Dual-pane Display
+### Affichage côte à côte
 
-The manuscript is presented in a dual-pane display, allowing
-side-by-side viewing of any combination of two versions of the
-manuscript.
+Le manuscrit est présenté côte à côte, ce qui permet de visionner deux versions du manuscrit simultanément. 
 
 ![how-to-use-dualpane](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane-4x6.png)
 
 
-To choose a version, click on the drop-down menu in the upper right
-corner of each pane.
+Pour choisir une version, cliquez sur la liste déroulante en haut à droite de chaque panneau.
 
 ![howtouse-dualdropdown-4x6](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown-4x6.png)
 
 
-Quick access to the [Glossary](/#folios/1r/f/1r/glossary) is a fourth option to be displayed in
-either pane (more about the Glossary below).
+Vous trouverez aussi sur cette liste le [Glossaire](/#folios/1r/f/1r/glossary) qui peut être consulté à tout moment. 
+
+Pour redimensionner les panneaux, glisser la barre verticale qui sépare les deux panneaux afin d'en ajuster la largeur. 
 
 
-To resize the panes, drag the vertical bar dividing the view panes to adjust the width of the panes.
+### Fac-similé
 
-
-### Facsimile Images
-
-The manuscript facsimile images first appear in a thumbnail grid
-overview which can be browsed with the scroll bar in order to navigate
-to any folio. Once a page is selected, the facsimile will appear in the
-left pane by default.
+Le fac-similé du manuscrit est d'abord affiché sous forme de mosaïque, offrant ainsi un aperçu des toutes les pages (navigable grâce à la barre de défilement). Une fois la page désirée est selectionnée, le fac-similé apparaît par défaut sur le panneau de gauche.
 
 ![howtouse-folio-grid](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folio-grid.png)
 
-Within the pane, the facsimile image can be expanded by clicking on the
-\+ and \- symbols at the left side of the folio viewing pane.
+L'image peut être agrandie ou rapetissée en cliquant sur les boutons
+\+ et \- en haut à gauche du panneau affichant le fac-similé.
 
-To return to the thumbnail grid, click on the grid icon <i class="fas fa-th"></i> beneath the
-expand icons on the left side of the viewing pane.
+Pour revenir aux mosaïques, cliquez sur l'icone <i class="fas fa-th"></i> en dessous des icônes pour zoomer situés à gauche du panneau affichant le fac-similé.
 
 ![howtouse-expand-bar](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-expand-bar.png)
 
 
-### Transcriptions and Translations
+### Transcriptions et traduction
 
 The layout of the transcription, normalized transcription, and translation views mirrors the layout of the facsimile page. This
 includes headings, text blocks, marginalia, figures, marks, as well as textual features described below.
