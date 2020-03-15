@@ -99,32 +99,24 @@ Le moteur de recherche donne des résultats dans toutes les versions du texte ai
 
 Les résultats sont fournis sur le panneau de recherche sur la partie gauche de l'écran.
 
-  - Cliquez l'icône <i class="fas fa-question-circle"></i> icon on the upper right of the search pane for quick tips on searching.
-
-  - Results can be sorted by relevance or by folio (i.e., listed sequentially). 
-
-  - Clicking on a result opens the manuscript page that contains the result in the opposite pane. Search within that page using your browser's "find" function, e.g., "ctrl"+"f". 
-
-  - To return to the dual-pane view, click on “exit search” in the upper left corner.
-  
-  - To return to the result listing, use the back arrow in your browser, or re-enter the search in the search bar, where the search term is retained.
-
-  - The search will return all folios which contain **all** the terms entered into the search bar (i.e., an "AND" search).
-
-  - Enclose search terms in quotation marks to treat terms as a phrase, which will yield only results containing the exact phrase.
-
-  - Wildcard searching can be done by including an asterisk \[\*\] for a term fragment.
-      - NB: the asterisk is ignored if quotation marks are used.
-
-  - The wildcard search allows for variations in early modern spelling, for conjugated verb forms, plurals, or singular of nouns, etc.
+  - Cliquez l'icône <i class="fas fa-question-circle"></i> en haut à droite du panneau de recherche pour des astuces de recherche dans l'édition numérique.
+  - Les résultats peuvent être ordonnés par pertinence ou par ordre de folio. 
+  - En cliquant sur un des résultats, le panneau adjacent affiche le manuscrit à la page qui contient ce résultat. Pour retrouver le passage précis sur cette même page, utilisez la fonction de recherche de votre navigateur (ex: "ctrl"+"F" sur Windows, "⌘" +"F" sur Mac)
+  - Pour revenir à l'affichage des textes côte à côte, cliquez sur “exit search” en haut à gauche. 
+  - Pour revenir à la liste de résultats, utilisez la flèche arrière de votre navigateur, ou relancez la recherche dans la barre de recherche qui aura mémorisé la dernière recherche.
+  - La recherche fournira tous les folios qui contiennent **tous** les termes de la recherche.
+  - Une recherche entre guillemets permet de chercher une pharse en particulier.
+  - Une recherche à métacaractère peut être effectuée en ajoutant un astérisque \[\*\] à la partie d'un mot.
+      - NB: l'astérisque est ignoré si la recherche comprent des guillemets.
+  - Les recherches à métacaractère permettent de rechercher des mots dont la graphie peut varier.
 
 
-## Resources
+## Ressources
 
-See [Overview of Resources](/#content/resources/overview) for explanation of tools and companion commentary.
+Lisez l'[aperçu des ressources](/#content/resources/overview) pour une présentation des outils et commentaires disponibles dans l'édidion.
 
 
-### [List of Entries](/#entries)
+### [List de Entrées](/#entries)
 
 The manuscript consists almost entirely of units of text under titles, which the Project has called “entries.”
 
