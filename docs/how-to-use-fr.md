@@ -61,50 +61,45 @@ La structure des différentes versions du texte (transcription, transcription no
 | \[*illegible*\]       | Passage du Ms. illisible.                                    | ![howtouse-illegible](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-illegible.png) |
 | \[*gap*\]             | Espace laissé dans l'original.                               | ![howtouse-gap](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-gap.png) |
 | Accolades             | Abréviations dans le texte du Ms. explicitées.               | ![howtouse-curly](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-curly.png) |
-| Crochets              | Indicates editorial interventions and corrections by the Making and Knowing Project. For example, deletion of duplicate words or addition of missing words | ![howtouse-square](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-square.png) |
-| Horizontal lines      | Approximate pen marks in the original used to separate text blocks from one another | ![howtouse-hr](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-hr.png) |
-| “*Continued…*”        | Indicates text continues on the following page               | ![howtouse-continued1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued1.png) |
-| “*...Continued*”      | Indicates text is continued from the previous page           | ![howtouse-continued2](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued2.png) |
-| Essay Icon            | Prompt to show corresponding Research Essays (see below)     | ![howtouse-beaker](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-beaker.png) |
-| Red asterisks         | Clicking on the asterisk will show Editorial Comments in a popout window | ![howtouse-asterisk](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-asterisk.png) |
+| Crochets              | Interventions éditoriales effectuées par le Making and Knowing Project. Pour la suppression par exemple, de douboons ou l'ajout de mots manquants. | ![howtouse-square](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-square.png) |
+| Lignes horizontales   | Lignes dans le manuscrit original qui séparent certaines blocs de texte. | ![howtouse-hr](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-hr.png) |
+| “*Continued…*”        | Indique que le texte continue à la page suivante.            | ![howtouse-continued1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued1.png) |
+| “*...Continued*”      | Indique que le texte est la continuation de la page précédente. | ![howtouse-continued2](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued2.png) |
+| Icône d'essai         | Indique l'existence d'un essai portant sur ce passage        | ![howtouse-beaker](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-beaker.png) |
+| Astérisque rouge      | L'astérique indique l'existence d'un commentaire éditorial en anglais. Il suffit de cliquer dessus pour le lire. | ![howtouse-asterisk](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-asterisk.png) |
 
 
-### Navigation within the Dual-pane Display
+### Navigation dans l'affichage de texte côte à côte
 
-For navigation help, click the <i class="fas fa-question-circle"></i> help icon.
+Pour obtenir de l'aide à la navigation en anglais, cliquez sur <i class="fas fa-question-circle"></i> l'icône d'aide.
 
-  - Toggle Sync View <i class="fas fa-lock"></i>
+  - Activer le visionnage synchronisé <i class="fas fa-lock"></i>
+- Active ou désactive l'affichage automatique de la même page dans les deux panneaux.
+  -  Activer le mode livre <i class="fas fa-book"></i>
 
-      - Enable/disable automatic display of the same page in both panes
+      - Active ou désactive l'affichage des pages succéssives du manuscrit, comme dans un livre.
 
-  -  Toggle Book Mode <i class="fas fa-book"></i>
+          - NB: ce mode désactive l'affichage des mosaïques.
+  - Active le mode XML <i class="fas fa-code"></i>
 
-      - Enable/disable use of the dual panes to show facing pages of the manuscript, as though reading a book
+      - Active ou désactive l'affichage du code source de la page en XML.
 
-          - NB: disables ability to access thumbnail view
+      - Pour une description des balises XML voir les [principes de codage](/#content/resources/principles-encoding) en anglais. 
+  - Aller en avant ou en arrière <i class="fas fa-arrow-alt-circle-left"></i> <i class="fas fa-arrow-alt-circle-right"></i>
 
-  - Toggle XML Mode <i class="fas fa-code"></i>
+      - Naviguer une page en avant ou en arrière
+  - Sauter au folio <i class="fas fa-hand-point-right"></i>
 
-      - Enable/disable view of the xml source code for the page
-
-      - XML tags and their meanings are described in the [Principles of Encoding](/#content/resources/principles-encoding). 
-      
-  - Go Forward / Back <i class="fas fa-arrow-alt-circle-left"></i> <i class="fas fa-arrow-alt-circle-right"></i>
-
-      - Navigate one page forward / backward
-
-  - Jump to folio <i class="fas fa-hand-point-right"></i>
-
-      - Navigate by entering a page number from 1r to 170v (e.g., “8v” or “106r”)
+      - Naviguer en entrant le numéro du folio de 1r à 170v (ex: « 8v » or « 106r »)
       
 
-### Searching
+### Recherche
 
-The search returns results in the two French transcriptions, the English translation, and the Research Essays, which can be narrowed by selecting the desired components.
+Le moteur de recherche donne des résultats dans toutes les versions du texte ainsi que dans les essais. 
 
-The results are returned in the search pane on the left.
+Les résultats sont fournis sur le panneau de recherche sur la partie gauche de l'écran.
 
-  - Click the <i class="fas fa-question-circle"></i> icon on the upper right of the search pane for quick tips on searching.
+  - Cliquez l'icône <i class="fas fa-question-circle"></i> icon on the upper right of the search pane for quick tips on searching.
 
   - Results can be sorted by relevance or by folio (i.e., listed sequentially). 
 
