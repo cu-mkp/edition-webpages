@@ -118,39 +118,39 @@ Lisez l'[aperçu des ressources](/#content/resources/overview) pour une présent
 
 ### [List de Entrées](/#entries)
 
-The manuscript consists almost entirely of units of text under titles, which the Project has called “entries.”
+Le manuscrit est composé presque exclusivement de blocs de texte sous des titres, que nous appelons « entrées ».
 
-The entries can be sorted sequentially as they appear in the manuscript or alphabetically.
+Ces entrées peuvent être ordonnées séquentiellement, telles qu'elles apparaissent dans le manuscrit ou en ordre alphabétique.
 
 ![howtouse-listentries](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries.png)
 
 
 
-Relevant terms in each entry have been encoded with semantic tags. 
+Les termes importants de chaque entrée ont été balisés par l'équipe éditoriale. 
 
-To see the full list of tagged terms contained in any given entry, click on the upper right drop-down arrow. 
+Pour voir la liste complète de termes balisés que chaque entrée comprend, cliquez sur la flèche en haut à droite.
 
 ![howtouse-listentries-select](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-select.png)
 
 
 
-Choose the version (transcription, normalized transcription, and English translation) to be displayed.
+Choisissez la version (transcription, transcription normalisée, et traduction anglaise) à afficher.
 
 ![howtouse-listentries-version](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-version.png)
 
 
-To filter the entries by their semantic tags, click on the desired tags to view only entries that have those tagged terms. This can be further refined by clicking on multiple tag types.
+Cliquez sur une ou plusieurs balises de votre choix pour ne voir que les entrées qui contiennent les balises selectionnées.
 
 ![howtouse-listentries-terms](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-terms.png)
 
-For a full list of the tags and their usage, see [Principles of Encoding](/#content/resources/principles-encoding). 
+Pour une liste des différentes balises et de leur usage, voir les [principes de codage](/#content/resources/principles-encoding) en anglais. 
 
-Each entry has been assigned up to three of 26 broad categories, displayed on the entry card. See [Entry Categories](/#content/resources/categories).
+L'équipe éditoriale a assigné aux entrées du manuscrit 26 catégories qui apparaissent au début de chaque fiche. Voir les [catégories des entrées](/#content/resources/categories) en anglais.
 
-Links are provided to Research Essays which provide commentary on the entries.
+Les fiches peuvent aussi comporter des liens revoyant à des essais pertinents.
 
 
-### [Glossary](/#folios/1r/f/1r/glossary)
+### [Glossaire](/#folios/1r/f/1r/glossary)
 
 A Glossary of distinctive terms in the manuscript can be accessed
 by selecting “Glossary” in the drop-down menu of the dual-pane view.
