@@ -6,9 +6,9 @@ L'édition se compose de 4 versions du manuscrit Ms. Fr.
 640:
 
 1. **Fac-similé**: Reproductions photographiques de chaque page
-2. **Diplomatique**: Transcription diplomatique (verbatim) de l'original en Français
+2. **Diplomatique**: Transcription diplomatique (verbatim) de l'original en français
 3. **Normalisé**: Transcription légèrement normalisée (avec ponctuation et signes diacritiques)
-4. **Traduction**: Traduction Anglaise
+4. **Traduction**: Traduction anglaise
 
 Toutes les versions peuvent être accédées en cliquant sur [Read Fr. 640](/#folios).
 
@@ -25,28 +25,28 @@ Pour choisir une version, cliquez sur la liste déroulante en haut à droite de 
 ![howtouse-dualdropdown-4x6](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown-4x6.png)
 
 
-Vous trouverez aussi sur cette liste le [Glossaire](/#folios/1r/f/1r/glossary) qui peut être consulté à tout moment. 
+Vous trouverez aussi sur cette liste le [glossaire](/#folios/1r/f/1r/glossary) qui peut être consulté à tout moment lors de la lecture. 
 
 Pour redimensionner les panneaux, glisser la barre verticale qui sépare les deux panneaux afin d'en ajuster la largeur. 
 
 
 ### Fac-similé
 
-Le fac-similé du manuscrit est d'abord affiché sous forme de mosaïque, offrant ainsi un aperçu des toutes les pages (navigable grâce à la barre de défilement). Une fois la page désirée est selectionnée, le fac-similé apparaît par défaut sur le panneau de gauche.
+Le fac-similé du manuscrit est d'abord affiché sous forme de mosaïque, offrant ainsi un aperçu des toutes les pages (navigable grâce à la barre de défilement). Une fois la page désirée est sélectionnée, le fac-similé apparaît par défaut sur le panneau de gauche.
 
 ![howtouse-folio-grid](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folio-grid.png)
 
 La taille de l'image peut être augmentée ou réduite en cliquant sur les boutons
 \+ et \- en haut à gauche du panneau affichant le fac-similé.
 
-Pour revenir aux mosaïques, cliquez sur l'icone <i class="fas fa-th"></i> en dessous des icônes pour zoomer situés à gauche du panneau affichant le fac-similé.
+Pour revenir aux mosaïques, cliquez sur l'icône <i class="fas fa-th"></i> en dessous des icônes pour zoomer situés à gauche du panneau affichant le fac-similé.
 
 ![howtouse-expand-bar](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-expand-bar.png)
 
 
 ### Transcriptions et traduction
 
-La structure des différentes versions du texte (transcription, transcription normalisée et manuscrit facsimilé) reflète celle du manuscrit facsimilé. Celle-ci comprend les titres, les blocs de texte, les notes marginales, les figures, marques, ainsi que les aspects du texte décrits ci-dessous.
+La structure des différentes versions du texte (transcription, transcription normalisée et manuscrit fac-similé) reflète celle du manuscrit fac-similé. Celle-ci comprend les titres, les blocs de texte, les notes marginales, les figures, marques, ainsi que les aspects du texte décrits ci-dessous.
 
 
 #### Renditions of Textual Features
@@ -105,18 +105,18 @@ Les résultats sont fournis sur le panneau de recherche sur la partie gauche de 
   - Pour revenir à l'affichage des textes côte à côte, cliquez sur “exit search” en haut à gauche. 
   - Pour revenir à la liste de résultats, utilisez la flèche arrière de votre navigateur, ou relancez la recherche dans la barre de recherche qui aura mémorisé la dernière recherche.
   - La recherche fournira tous les folios qui contiennent **tous** les termes de la recherche.
-  - Une recherche entre guillemets permet de chercher une pharse en particulier.
+  - Une recherche entre guillemets permet de chercher une phrase en particulier.
   - Une recherche à métacaractère peut être effectuée en ajoutant un astérisque \[\*\] à la partie d'un mot.
-      - NB: l'astérisque est ignoré si la recherche comprent des guillemets.
+      - NB: l'astérisque est ignoré si la recherche comprend des guillemets.
   - Les recherches à métacaractère permettent de rechercher des mots dont la graphie peut varier.
 
 
 ## Ressources
 
-Lisez l'[aperçu des ressources](/#content/resources/overview) pour une présentation des outils et commentaires disponibles dans l'édidion.
+Lisez l'[aperçu des ressources](/#content/resources/overview) pour une présentation des outils et commentaires disponibles dans l'édition.
 
 
-### [List de Entrées](/#entries)
+### [Liste des Entrées](/#entries)
 
 Le manuscrit est composé presque exclusivement de blocs de texte sous des titres, que nous appelons « entrées ».
 
@@ -152,21 +152,21 @@ Les fiches peuvent aussi comporter des liens revoyant à des essais pertinents.
 
 ### [Glossaire](/#folios/1r/f/1r/glossary)
 
-Un glossaire est accessible en selctionnant l'option « Glossary » dans la liste déroulante de l'affichage de texte côte à côte.
+Un glossaire est accessible en séléctionnant l'option « Glossary » dans la liste déroulante de l'affichage de texte côte à côte.
 
-Utilisez l'index alphabétique pour naviger les contenus du glossaire. 
+Utilisez l'index alphabétique pour naviguer les contenus du glossaire. 
 
 ![howtouse-glossary](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-glossary.png)
 
-Le Glossaire permet de filtrer les résultats en tapant les premières lettres d'un mot sur la case « Filter by Entry » en haut à gauche. Ce filtrage prend en compte les graphies anciennes et modernes de chaque mot repertorié.
+Le glossaire permet de filtrer les résultats en tapant les premières lettres d'un mot sur la case « Filter by Entry » en haut à gauche. Ce filtrage prend en compte les graphies anciennes et modernes de chaque mot repertorié.
 
-**Nota bene:**  la graphie des mots n'étant pas régulière, il conseillé de chercher les mots avec le moins de caractères possibles ou, le cas échéant, avec une graphie différente (ex: « plate » au lieu de « platte », « esguille » au lieu d' « aiguille », etc.) 
+**Nota bene:**  la graphie des mots n'étant pas régulière, il est conseillé de chercher les mots avec le moins de caractères possibles ou, le cas échéant, avec une graphie différente (ex: « plate » au lieu de « platte », « esguille » au lieu d' « aiguille », etc.) 
 
 **Comment lire les entrées du glossaire**:
 
 Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
     
-- Dans cet exemple, le premier mot apparaît dans sa graphie la plus courante dans le manuscrit, il est suivi de sa graphie moderne, puis de sa classe grammaticale, ainsi que de sa traduction en anglais. Le mot-clé entre crochets indique la référence bibliographique, elle peut être consultée dans son intégralité dans la [bilbiographie](/#/content/resources/bibliography) en anglais. (D'autres entrées du glossaire continennent aussi des informations sur la langue d'origine.)
+- Dans cet exemple, le premier mot apparaît dans sa graphie la plus courante dans le manuscrit, il est suivi de sa graphie moderne, puis de sa classe grammaticale, ainsi que de sa traduction en anglais. Le mot-clé entre crochets indique la référence bibliographique, elle peut être consultée dans son intégralité dans la [bilbiographie](/#/content/resources/bibliography) en anglais. (D'autres entrées du glossaire contiennent aussi des informations sur la langue d'origine.)
 
 
 ### [Essais de recherche](/#essays)
@@ -192,9 +192,9 @@ Sur les fiches plus détaillées, vous pouvez obtenir plus d'informations sur l'
 
 Les essais de recherches sont divisés en plusieurs catégories:
 
-  - **Introduction**: essais introductifs offrant tour d'horizon sur le manuscrit. Ceux-ci sont écrits par les chercheurs du Making and Knowing Project et des experts du monde entier.
+  - **Introduction**: essais introductifs offrant un tour d'horizon sur le manuscrit. Ceux-ci sont écrits par les chercheurs du Making and Knowing Project et des experts du monde entier.
 
-  - **Le manuscrit Ms. Fr. 640**: essais portant sur la codicologie, la paléographie, et la génèse du manuscrit, sur sa relation avec d'autres genres littéraires et sur l'identité de l'auteur-practicien.
+  - **Le manuscrit Ms. Fr. 640**: essais portant sur la codicologie, la paléographie, et la génèse du manuscrit, sur sa relation avec d'autres genres littéraires et sur l'identité de l'auteur-praticien.
 
   - **Le laboratoire**: essais portant sur le travail concret effectué dans le laboratoire du Making and Knowing Project, sur les principes de reconstruction, et sur les résultats de ces expérimentations.
 
@@ -202,39 +202,37 @@ Les essais de recherches sont divisés en plusieurs catégories:
 
   - **L'art et la manière**: essais portant sur les matériaux et la fabrication, sur le sens de l'art la formation des artistes.
 
-  - **Connaître la nature**: essais portant sur l'investigation, la manipulation, l'exploration des matériaux et sur les  principles de la nature dans le Ms. Fr. 640.
+  - **Connaître la nature**: essais portant sur l'investigation, la manipulation, l'exploration des matériaux et sur les  principes de la nature dans le Ms. Fr. 640.
 
-  - **Le Making and Knowing Project**: essais portant sur le Making and Knowing Project, ainsi que ses initiatives, sa  pédagogie, ses méthodes, son personnel et ses collaborateurs.
+  - **Le Making and Knowing Project**: essais portant sur le Making and Knowing Project, ses initiatives, sa  pédagogie, ses méthodes, ainsi que son personnel et ses collaborateurs.
 
-To browse the essays by their categories, use the navigation bar on the left.
+Pour accéder aux essais par catégorie, utilisez la barre de navigation à gauche.
 
 ![howtouse-essays-themes](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essays-themes.png)
 
-In any essay, click on the folio numbers contained in the text to view that manuscript page (return by clicking the back arrow
-in your browser).
+Dans chaque essai, cliquez sur les numéros des folios référencés dans le texte pour y accéder directement, retournez à l'essai en cliquant sur la flèche gauche de votre navigateur.
 
 
-### [The Bibliography](/#content/resources/bibliography)
+### [La bibliographie](/#content/resources/bibliography)
 
-The Bibliography compiles references, texts, and authors cited in the manuscript, the editorial comments, and the glossary.
+La bibliographie compile les références, les textes, et les auteurs cités dans le manuscrit, dans les commentaires éditoriaux, et dans le glossaire.
 
-Each Research Essay contains a full bibliography of works cited in the essay.
-
-
-### [Field Notes](/#content/resources/field-notes)
-
-Field notes recorded by students as they planned, researched, reconstructed, and wrote their laboratory essays. 
-
-The respective field notes are also linked in each student Research Essay.
+Chaque essai de recherche contient aussi sa propre bibliographie.
 
 
-## [How to Cite](/#content/about/how-to-cite)
+### [Notes de terrain](/#content/resources/field-notes)
+
+Les notes de terrain, « field notes », sont tenues par les étudiants lors de la planification et de l'exécution de leurs recherches en laboratoire.  
+
+Ces notes sont référencées dans les essais de recherche.
 
 
-## Source Data
+## [Comment citer l'édition](/#content/about/how-to-cite)
 
-The XML files used as the source for the edition along with other metadata is available in the Github repository
-<https://github.com/cu-mkp/m-k-manuscript-data>.
+
+## Données source
+
+Les fichiers XML à la base de cette édition numérique, ansi que d'autres métadonnées sont disponibles dans le dépot GitHub du projet <https://github.com/cu-mkp/m-k-manuscript-data>.
 
 ![howtouse-fieldnotes](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-fieldnotes.jpg)
 
