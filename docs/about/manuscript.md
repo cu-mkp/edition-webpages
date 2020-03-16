@@ -24,7 +24,7 @@ For more information:
   - [Principles of Translation](#/content/resources/principles-translation)
   - [Principles of Encoding](#/content/resources/principles-encoding)
   - Soersha Dyon and Heather, [Turning Turtle: The Process of Translating BnF Ms. Fr. 640](/#essays/ann_318_ie_19)
-  - Celine Camps and Margot Lyautey, [Ma\<r\>king and Knowing: Encoding BnF Ms. Fr. 640](/#essays/ann_331_ie_19)
+  - Celine Camps and Margot Lyautey, [Ma\<r\>king and Knowing: Encoding BnF Ms. Fr. 640](/#essays/ann_335_ie_19)
   - Terry Catapano and Naomi Rosenkranz, [BnF Ms. Fr. 640 as a Digital Text](/#essays/ann_310_ie_19)
   - Clément Godbarge, [The Manuscript Seen from Afar: a Computational Approach to BnF Ms. Fr. 640](/#essays/ann_301_ie_19)
 
