@@ -152,68 +152,59 @@ Les fiches peuvent aussi comporter des liens revoyant à des essais pertinents.
 
 ### [Glossaire](/#folios/1r/f/1r/glossary)
 
-A Glossary of distinctive terms in the manuscript can be accessed
-by selecting “Glossary” in the drop-down menu of the dual-pane view.
+Un glossaire est accessible en selctionnant l'option « Glossary » dans la liste déroulante de l'affichage de texte côte à côte.
 
-Use the alphabetical navigation bar to browse the contents.
+Utilisez l'index alphabétique pour naviger les contenus du glossaire. 
 
 ![howtouse-glossary](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-glossary.png)
 
-The Glossary has a dedicated filtering search which can be used to navigate by the head-word (the manuscript's original French variant) as well as alternate and modern spellings.
+Le Glossaire permet de filtrer les résultats en tapant les premières lettres d'un mot sur la case « Filter by Entry » en haut à gauche. Ce filtrage prend en compte les graphies anciennes et modernes de chaque mot repertorié.
 
-**A note on early modern spelling**: if a searched word returns no hits in the Glossary, try a shorter string
-(e.g., the beginning of the word) or a different spelling. The manuscript's early modern French shows little standardization,
-and while the glossary includes common spelling variants, the list is not exhaustive. Common variations are:
+**Nota bene:**  la graphie des mots n'étant pas régulière, il conseillé de chercher les mots avec le moins de caractères possibles ou, le cas échéant, avec une graphie différente (ex: « plate » au lieu de « platte », « esguille » au lieu d' « aiguille », etc.) 
 
-  - double vs. single consonant, as in *plate* vs. *platte*
-
-  - homonyms, e.g. aiguille, esguille; alun, alum, alung"
-
-**How to read a Glossary entry**:
+**Comment lire les entrées du glossaire**:
 
 Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
     
-- In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets indicates the source of the definition, as listed in the [Bibliography](/#/content/resources/bibliography). (Some Glossary entries also include language or dialect of origin.)
+- Dans cet exemple, le premier mot apparaît dans sa graphie la plus courante dans le manuscrit, il est suivi de sa graphie moderne, puis de sa classe grammaticale, ainsi que de sa traduction en anglais. Le mot-clé entre crochets indique la référence bibliographique, elle peut être consultée dans son intégralité dans la [bilbiographie](/#/content/resources/bibliography) en anglais. (D'autres entrées du glossaire continennent aussi des informations sur la langue d'origine.)
 
 
-### [Research Essays](/#essays)
+### [Essais de recherche](/#essays)
 
-Research Essays clarify the text of the manuscript, provide material,
-technical, and historical context, and describe student reconstructions
-in the Making and Knowing Laboratory.
+Les essais de recherche replacent le manuscrit dans son contexte matériel, technique et historique, décrivant au passage les reconstructions historiques effectuées en laboratoire par les étudiants et chercheurs du Making and Knowing Project. 
 
-The Essays can be accessed in two places: 1) within the manuscript pages
-and 2) in a dedicated index.
+Les essais peuvent être accédés de deux manières: 1) directement dans le texte
+et 2) dans l'index.
 
-In the dual-pane display of the manuscript, click on the <i class="fas fa-flask"></i> essay icon to the right of the entry heading to access the essay.
+Dans l'affichage de texte côte à côte, cliquez sur l'icône <i class="fas fa-flask"></i> à droite du titre de  l'entrée.
 
 ![howtouse-folios-essay](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folios-essay.png)
 
-In the dedicated index, the listing of essays can be viewed as small thumbnails or as cards with the essays' abstracts. 
+L'index des essais peut être affiché sous forme de vignettes ou de fiches plus détaillées avec un résumé. 
 
-Click on the small and large grids in the upper right corner to switch between thumbnail and card views.
+Cliquez sur la petite ou la grande grille en haut à droite pour changer d'affichage.
 
 ![howtouse-essay-grids](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essay-grids.png)
 
-On the cards in the large grid view, hover over the names for author information.
+Sur les fiches plus détaillées, vous pouvez obtenir plus d'informations sur l'auteur de l'essai en faisant planer le curseur de votre souris sur son nom.
 
 ![howtouse-essay-author](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essay-author.png)
 
-The Research Essays are grouped into categories:
+Les essais de recherches sont divisés en plusieurs catégories:
 
-  - **An Introduction**: introductory resources and provide overviews of the manuscript and the Project written by invited scholars and Project staff.
+  - **Introduction**: essais introductifs offrant tour d'horizon sur le manuscrit. Ceux-ci sont écrits par les chercheurs du Making and Knowing Project et des experts du monde entier.
 
-  - **The Manuscript, Ms. Fr. 640**: about the manuscript (its codicology, palaeography, and probable genesis), its relationship to other genres of writing, and the identity of its anonymous author-practitioner.
+  - **Le manuscrit Ms. Fr. 640**: essais portant sur la codicologie, la paléographie, et la génèse du manuscrit, sur sa relation avec d'autres genres littéraires et sur l'identité de l'auteur-practicien.
 
-  - **The Making and Knowing Laboratory**: hands-on work in the Making and Knowing Laboratory, principles of reconstruction, and results and conclusions from experimental work.
+  - **Le laboratoire**: essais portant sur le travail concret effectué dans le laboratoire du Making and Knowing Project, sur les principes de reconstruction, et sur les résultats de ces expérimentations.
 
-  - **Society and Culture**: historical context of the manuscript, and society and culture in sixteenth-century France.
+  - **Société et culture**: essais portant sur le contexte historique du manuscrit et sur la France XVIe siècle.
 
-  - **Art and Its Making**: materials, making, and meaning of art, and the training of artists.
+  - **L'art et la manière**: essais portant sur les matériaux et la fabrication, sur le sens de l'art la formation des artistes.
 
-  - **Knowing Nature**: investigation, manipulation, and exploration of the materials and principles of nature in Fr.640.
+  - **Connaître la nature**: essais portant sur l'investigation, la manipulation, l'exploration des matériaux et sur les  principles de la nature dans le Ms. Fr. 640.
 
-  - **The Making and Knowing Project**: the Making and Knowing Project, including its initiatives, pedagogy, methods, personnel, and collaborators.
+  - **Le Making and Knowing Project**: essais portant sur le Making and Knowing Project, ainsi que ses initiatives, sa  pédagogie, ses méthodes, son personnel et ses collaborateurs.
 
 To browse the essays by their categories, use the navigation bar on the left.
 
