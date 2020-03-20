@@ -1,5 +1,7 @@
 # How to Use the Edition
 
+Cliquez ici pour la [version française](/#how-to-use-fr).
+
 ## Reading and Browsing the Manuscript
 
 The Edition consists of four versions of the French manuscript Ms. Fr.
