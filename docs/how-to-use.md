@@ -1,6 +1,6 @@
 # How to Use the Edition
 
-Cliquez ici pour la [version française](#how-to-use-fr).
+Cliquez ici pour la [version française](how-to-use-fr.md).
 
 ## Reading and Browsing the Manuscript
 
