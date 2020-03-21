@@ -27,7 +27,7 @@ Pour choisir une version, cliquez sur la liste déroulante en haut à droite de 
 
 Vous trouverez aussi sur cette liste le [glossaire](/#folios/1r/f/1r/glossary) qui peut être consulté à tout moment lors de la lecture. 
 
-Pour redimensionner les panneaux, glisser la barre verticale qui sépare les deux panneaux afin d'en ajuster la largeur. 
+Pour redimensionner les panneaux, glissez la barre verticale qui sépare les deux panneaux afin d'en ajuster la largeur. 
 
 
 ### Fac-similé
@@ -39,17 +39,17 @@ Le fac-similé du manuscrit est d'abord affiché sous forme de mosaïque, offran
 La taille de l'image peut être augmentée ou réduite en cliquant sur les boutons
 \+ et \- en haut à gauche du panneau affichant le fac-similé.
 
-Pour revenir aux mosaïques, cliquez sur l'icône <i class="fas fa-th"></i> en dessous des icônes pour zoomer situés à gauche du panneau affichant le fac-similé.
+Pour revenir aux mosaïques, cliquez sur l'icône <i class="fas fa-th"></i> en dessous des boutons \+ et \- situés à gauche du panneau affichant le fac-similé.
 
 ![howtouse-expand-bar](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-expand-bar.png)
 
 
 ### Transcriptions et traduction
 
-La structure des différentes versions du texte (transcription, transcription normalisée et manuscrit fac-similé) reflète celle du manuscrit fac-similé. Celle-ci comprend les titres, les blocs de texte, les notes marginales, les figures, marques, ainsi que les aspects du texte décrits ci-dessous.
+La structure des transcriptions (diplomatique et normalisée) reflète celle du manuscrit fac-similé. Celle-ci comprend les titres, les blocs de texte, les notes marginales, les figures, marques, ainsi que les aspects du texte décrits ci-dessous.
 
 
-#### Renditions of Textual Features
+#### Affichage des propriétés du texte
 
 | Affichage             | Signification                                                | Exemple                                                      |
 | --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -61,12 +61,12 @@ La structure des différentes versions du texte (transcription, transcription no
 | \[*illegible*\]       | Passage du Ms. illisible.                                    | ![howtouse-illegible](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-illegible.png) |
 | \[*gap*\]             | Espace laissé dans l'original.                               | ![howtouse-gap](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-gap.png) |
 | Accolades             | Abréviations dans le texte du Ms. explicitées.               | ![howtouse-curly](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-curly.png) |
-| Crochets              | Interventions éditoriales effectuées par le Making and Knowing Project. Pour la suppression par exemple, de douboons ou l'ajout de mots manquants. | ![howtouse-square](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-square.png) |
+| Crochets              | Interventions éditoriales effectuées par le Making and Knowing Project. Par exemple, pour la suppression de doublons ou l'ajout de mots manquants. | ![howtouse-square](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-square.png) |
 | Lignes horizontales   | Lignes dans le manuscrit original qui séparent certaines blocs de texte. | ![howtouse-hr](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-hr.png) |
 | “*Continued…*”        | Indique que le texte continue à la page suivante.            | ![howtouse-continued1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued1.png) |
 | “*...Continued*”      | Indique que le texte est la continuation de la page précédente. | ![howtouse-continued2](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued2.png) |
 | Icône d'essai         | Indique l'existence d'un essai portant sur ce passage        | ![howtouse-beaker](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-beaker.png) |
-| Astérisque rouge      | L'astérique indique l'existence d'un commentaire éditorial en anglais. Il suffit de cliquer dessus pour le lire. | ![howtouse-asterisk](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-asterisk.png) |
+| Astérisque rouge      | L'astérique rouge indique l'existence d'un commentaire éditorial en anglais. Il suffit de cliquer dessus pour le lire. | ![howtouse-asterisk](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-asterisk.png) |
 
 
 ### Navigation dans l'affichage de texte côte à côte
@@ -87,10 +87,10 @@ Pour obtenir de l'aide à la navigation en anglais, cliquez sur <i class="fas fa
       - Pour une description des balises XML voir les [principes de codage](/#content/resources/principles-encoding) en anglais. 
   - Aller en avant ou en arrière <i class="fas fa-arrow-alt-circle-left"></i> <i class="fas fa-arrow-alt-circle-right"></i>
 
-      - Naviguer une page en avant ou en arrière
+      - Naviguez une page en avant ou en arrière
   - Sauter au folio <i class="fas fa-hand-point-right"></i>
 
-      - Naviguer en entrant le numéro du folio de 1r à 170v (ex: « 8v » or « 106r »)
+      - Naviguez en entrant le numéro du folio de 1r à 170v (ex: « 8v » or « 106r »)
       
 
 ### Recherche
@@ -100,7 +100,7 @@ Le moteur de recherche donne des résultats dans toutes les versions du texte ai
 Les résultats sont fournis sur le panneau de recherche sur la partie gauche de l'écran.
 
   - Cliquez l'icône <i class="fas fa-question-circle"></i> en haut à droite du panneau de recherche pour des astuces de recherche dans l'édition numérique.
-  - Les résultats peuvent être ordonnés par pertinence ou par ordre de folio. 
+  - Les résultats peuvent être classifiés par ordre de pertinence ou de folio. 
   - En cliquant sur un des résultats, le panneau adjacent affiche le manuscrit à la page qui contient ce résultat. Pour retrouver le passage précis sur cette même page, utilisez la fonction de recherche de votre navigateur (ex: "ctrl"+"F" sur Windows, "⌘" +"F" sur Mac)
   - Pour revenir à l'affichage des textes côte à côte, cliquez sur “exit search” en haut à gauche. 
   - Pour revenir à la liste de résultats, utilisez la flèche arrière de votre navigateur, ou relancez la recherche dans la barre de recherche qui aura mémorisé la dernière recherche.
@@ -198,11 +198,11 @@ Les essais de recherches sont divisés en plusieurs catégories:
 
   - **Le laboratoire**: essais portant sur le travail concret effectué dans le laboratoire du Making and Knowing Project, sur les principes de reconstruction, et sur les résultats de ces expérimentations.
 
-  - **Société et culture**: essais portant sur le contexte historique du manuscrit et sur la France XVIe siècle.
+  - **Société et culture**: essais portant sur le contexte historique du manuscrit et sur la France au XVIe siècle.
 
-  - **L'art et la manière**: essais portant sur les matériaux et la fabrication, sur le sens de l'art la formation des artistes.
+  - **L'art et la manière**: essais portant sur les matériaux et la fabrication, sur le sens de l'art et la formation des artistes.
 
-  - **Connaître la nature**: essais portant sur l'investigation, la manipulation, l'exploration des matériaux et sur les  principes de la nature dans le Ms. Fr. 640.
+  - **Connaître la nature**: essais portant sur l'investigation, la manipulation, l'exploration des matériaux et sur les principes de la nature dans le Ms. Fr. 640.
 
   - **Le Making and Knowing Project**: essais portant sur le Making and Knowing Project, ses initiatives, sa  pédagogie, ses méthodes, ainsi que son personnel et ses collaborateurs.
 
