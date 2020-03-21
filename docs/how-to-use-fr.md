@@ -141,7 +141,7 @@ Choisissez la version (transcription, transcription normalisée, et traduction a
 
 Cliquez sur une ou plusieurs balises de votre choix pour ne voir que les entrées qui contiennent les balises selectionnées.
 
-![howtouse-listentries-terms](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-terms.png)
+![howtouse-listentries-terms](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-entries.png)
 
 Pour une liste des différentes balises et de leur usage, voir les [principes de codage](/#content/resources/principles-encoding) en anglais. 
 
