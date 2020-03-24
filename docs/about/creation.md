@@ -65,18 +65,18 @@ The Edition also integrates access to the Project’s interpretive resources (al
 Research Essays explore the text of the manuscript, provide material,
 technical, and historical context, and discuss student reconstructions
 in the Making and Knowing Laboratory.
-
+<br>
 **Essays by scholars** on the Making and Knowing Team and invited
 experts explore different aspects of Ms. Fr. 640 and its material, technical,
 textual, and historical context.
-
+<br>
 **Essays by students** are products of the Making and Knowing Project laboratory seminars
 and courses taught by Project collaborators. The majority addresses historical questions by
 combining laboratory work with traditional historical research.
-
+<br>
 All essays will also be archived in [Academic Commons](https://academiccommons.columbia.edu) where they can be
 downloaded as stand-alone articles.
-
+<br>
 The Research Essays are grouped in up to three of seven broad categories:
 
   - **An Introduction**: written by Project and invited scholars, these essay serve as introductory resources and provide overviews of the manuscript and the Project.
