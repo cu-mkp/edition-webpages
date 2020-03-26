@@ -39,7 +39,7 @@ Each Research Essay also contains a full bibliography of works cited in
 the essay.
 
 
-## [Principles of Transcription, Translation, and Encoding](/#content/research+resources/principles)
+## [Principles of Transcription, Translation, and Encoding](/#content/resources/principles)
 
 To transform the handwritten pages of Ms. Fr. 640 into digital text, the Making and
 Knowing Project transcribed, translated, and encoded Ms. Fr. 640 in a series of collaborative workshops for graduate students since 2014. The protocols guiding this process evolved into these Principles.
@@ -47,7 +47,7 @@ Knowing Project transcribed, translated, and encoded Ms. Fr. 640 in a series of 
 A list of [dictionaries and technical encyclopedias](#content/research+resources/dictionaries) was also developed during the
 transcription and translation effort.
 
-## [Field Notes](#content/research+resources/field-notes)
+## [Field Notes](#content/resources/field-notes)
 
 Field notes document students' skill-building exercises and reconstruction work for their Research Essays.
 
