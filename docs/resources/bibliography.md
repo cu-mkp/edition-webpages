@@ -2,6 +2,8 @@
 
 The Bibliography compiles references, texts, and authors cited in the manuscript, the editorial comments, and the glossary.
 
+The Glossary uses short bibliographic keys instead of full citations. The keys usually combine author name and year of publication, or use an acronym such as OED for Oxford English Dictionary or DMF for Dictionnaire du Moyen Français. Search Glossary keys by acronym or author name.
+
 This bibliography includes detailed references for primary sources cited in the manuscript, however, they may not be the exact edition to which the manuscript refers. They include more widely available editions from prominent publishers in the sixteenth century (Robert and Henri Estienne, the Aldine press, Christophe Plantin, Hieronymus Froben, Johannes Herwagen, etc). Other possible editions can be found in the [Universal Short Title Catalogue](https://www.ustc.ac.uk) and similar resources.
 
 The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/bibtex) and html, downloadable from the Project’s [GitHub repository](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/bibliographies).
@@ -487,18 +489,12 @@ Corneille, Thomas. *Le grand dictionnaire des arts et des sciences*.
 Paris: Veuve de Jean-Baptiste Coignard; Jean-Baptiste Coignard, 1692.
 <https://gallica.bnf.fr/ark:/12148/bpt6k1280426g>.
 
-Cotgrave, Randle. “A dictionarie of the french and english tongues.”
-London: Adam Islip, 1611. <http://www.pbm.com/~lindahl/cotgrave/>.
-
 Daux, Camille. *Histoire de l’Eglise de Montauban*. Paris: Bray et
 Retaux, 1881.
 
 Diderot, Denis, and Jean le Rond d’Alembert. *Encyclopédie, ou
 dictionnaire raisonné des sciences, des arts et des métiers*. Vol. 7.
 Paris: Briasson, 1770.
-
-“Dictionnaire du Moyen Français.” version 2015 (DMF 2015). ATILF - CNRS & Université de Lorraine Paris, 2015.
-<http://www.atilf.fr/dmf>.
 
 Gilson, Etienne. *L’esprit de la philosophie médiévale*. Paris: Vrin,
 1969.
@@ -560,14 +556,14 @@ Zerner, Henri. *L’Art de la renaissance en france*. Paris: Flammarion,
 
 ## Glossary
 
-Académie française. “Dictionnaire de l’Académie française.” Paris, 2018.
+**DAF2018** Académie française. “Dictionnaire de l’Académie française.” Paris, 2018.
 <https://www.dictionnaire-academie.fr>.
 
 Akerman, Susanna. “Paracelsianism in Sweden.” In *Western esotericism in
 Scandinavia*, edited by Henrik Bogdan and Olav Hammer, 425–30. Leiden:
 Brill, 2016. <https://doi.org/10.1163/9789004325968>.
 
-Analyse et Traitement Informatique de la Langue Française, and Centre
+**TLFi2019** Analyse et Traitement Informatique de la Langue Française, and Centre
 national de la recherche scientifique. “Trésor de la langue francaise
 informatisé.” Paris: ATILF : CNRS Éditions., 2019.
 <http://atilf.atilf.fr/tlf.htm>.
@@ -673,7 +669,7 @@ Contant pere et fils...* Poitiers: Par Iulian Thoreau, 1628.
 Corneille, Thomas (1625-1709) Auteur du texte. *Le dictionnaire des arts
 et des sciences*, 1694. <https://gallica.bnf.fr/ark:/12148/bpt6k50507s>.
 
-Cotgrave, Randle. “A dictionarie of the french and english tongues.”
+**COT1611** Cotgrave, Randle. “A dictionarie of the french and english tongues.”
 London: Adam Islip, 1611. <http://www.pbm.com/~lindahl/cotgrave/>.
 
 Coxe, John Redman. *The Philadelphia Medical Dictionary : Containing a
@@ -690,7 +686,7 @@ contenant la signification et la definition tant des mots de l’une & de
 l’autre langue, avec leurs différens usages ; que des Termes propres de
 chaque etat & de chaque profession*. Paris, 1721.
 
-“Dictionnaire du Moyen Français.” version 2015 (DMF 2015). ATILF - CNRS & Université de Lorraine Paris, 2015.
+**DMF** “Dictionnaire du Moyen Français.” version 2015 (DMF 2015). ATILF - CNRS & Université de Lorraine Paris, 2015.
 <http://www.atilf.fr/dmf>.
 
 Diderot, Denis, and Jean Le Rond d’ Alembert. *Encyclopedie methodique,
@@ -708,7 +704,7 @@ mazé et sur les mines des Sards en Poitou,* Paris; Strasbourg: chez
 Didot, fils aı̂né, et Cuchet; chez Treuttel, 1786.
 
 Doujat, Jean. *Dictionnaire de la langue toulousaine*. Genève;
-Marseille: Slatkine Reprintss, 1974.
+Marseille: Slatkine Reprints, 1974.
 
 Dralet, Étienne-François. *Traité de la pierre à plâtre et de ses
 propriétés relatives à l’art des bâtimens, à la culture des prairies
@@ -935,7 +931,7 @@ lenguas, española, francesa y italiana*. Geneva: J.A. et S. de Tournes,
 Norton, Robert. *The Gunner Shewing the Whole Practise of Artillerie*.
 London: Printed by A.M. for Humphrey Robinson, 1628.
 
-“OED online.” Oxford: Oxford University Press, 2019.
+**OED** “OED online.” Oxford: Oxford University Press, 2019.
 <http://www.oed.com>.
 
 Office de la langue française, Province du Québec. *Grand dictionnaire
