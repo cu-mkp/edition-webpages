@@ -159,5 +159,5 @@ For more information on the process by which Ms. Fr. 640 was translated,
 see Soersha Dyon and Heather Wacha, [Turning Turtle: The Process of
 Translating BnF Ms. Fr. 640](/#essays/ann_318_ie_19).
 
-For the reference sources used in translation, see our list of [Dictionaries and Technical Encyclopedias](#content/research+resources/dictionaries).
+For the reference sources used in translation, see our list of [Dictionaries and Technical Encyclopedias](#content/resources/dictionaries).
 
