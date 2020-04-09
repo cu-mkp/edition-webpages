@@ -1,6 +1,6 @@
 # Linguistic Resources 
 
-A handlist of dictionaries, technical encyclopedias, and other sources used in the transcription and translation of Ms. Fr. 640. Note: some resources below may require institutional access.
+A handlist of dictionaries, technical encyclopedias, and other sources used in the transcription and translation of Ms. Fr. 640. Note: some resources below may require institutional access. While we attempted to provide persistent URLs for these resources, we cannot guarantee their stability over the long term and therefore you may find broken links.
 
 ## Online Dictionaries 
 
