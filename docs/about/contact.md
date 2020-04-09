@@ -7,7 +7,7 @@ For more information, please visit: <https://www.makingandknowing.org/> and <htt
 
 <br>
 
-If you want to report a bug or malfunction in _Secrets of Craft and Nature in Renaissance France_, please send an email to
+To report a bug or malfunction in _Secrets of Craft and Nature in Renaissance France_, please send an email to
 <info@makingandknowing.org> with a detailed description or screenshot of
 the error message or section to be corrected.
 
