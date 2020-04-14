@@ -32,7 +32,7 @@ Pour redimensionner les panneaux, glissez la barre verticale qui sépare les deu
 
 ### Fac-similé
 
-Le fac-similé du manuscrit est d'abord affiché sous forme de mosaïque, offrant ainsi un aperçu des toutes les pages (navigable grâce à la barre de défilement). Une fois la page désirée est sélectionnée, le fac-similé apparaît par défaut sur le panneau de gauche.
+Le fac-similé du manuscrit est d'abord affiché sous forme de mosaïque, offrant ainsi un aperçu des toutes les pages (navigable grâce à la barre de défilement). Une fois que la page désirée est sélectionnée, le fac-similé apparaît par défaut sur le panneau de gauche.
 
 ![howtouse-folio-grid](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folio-grid.png)
 
@@ -166,15 +166,15 @@ Le glossaire permet de filtrer les résultats en tapant les premières lettres d
 
 Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
     
-- Dans cet exemple, le premier mot apparaît dans sa graphie la plus courante dans le manuscrit, il est suivi de sa graphie moderne, puis de sa classe grammaticale, ainsi que de sa traduction en anglais. Le mot-clé entre crochets indique la référence bibliographique, elle peut être consultée dans son intégralité dans la [bilbiographie](/#/content/resources/bibliography) en anglais. (D'autres entrées du glossaire contiennent aussi des informations sur la langue d'origine.)
+- Dans cet exemple, le premier mot apparaît dans sa graphie la plus courante dans le manuscrit, il est suivi de sa graphie moderne, puis de sa classe grammaticale, ainsi que de sa traduction en anglais. Le mot-clé entre crochets indique la référence bibliographique, elle peut être consultée dans son intégralité dans la [bibliographie](/#/content/resources/bibliography) en anglais. (D'autres entrées du glossaire contiennent aussi des informations sur la langue d'origine.)
 
 
 ### [Essais de recherche](/#essays)
 
 Les essais de recherche replacent le manuscrit dans son contexte matériel, technique et historique, décrivant au passage les reconstructions historiques effectuées en laboratoire par les étudiants et chercheurs du Making and Knowing Project. 
 
-Les essais peuvent être accédés de deux manières: 1) directement dans le texte
-et 2) dans l'index.
+Les essais peuvent être accédés de deux manières: 1) depuis le texte
+et 2) depuis l'index.
 
 Dans l'affichage de texte côte à côte, cliquez sur l'icône <i class="fas fa-flask"></i> à droite du titre de  l'entrée.
 
