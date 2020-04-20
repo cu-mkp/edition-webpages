@@ -2,7 +2,7 @@
 
 The Bibliography compiles references, texts, and authors cited in the manuscript, the editorial comments, and the glossary.
 
-The Glossary uses short bibliographic keys instead of full citations. The keys usually combine author name and year of publication, or use an acronym such as OED for Oxford English Dictionary or DMF for Dictionnaire du Moyen Français. Search Glossary keys by acronym or author name.
+The Glossary uses short bibliographic keys instead of full citations. The keys usually combine author name and year of publication, or use an acronym such as OED for *Oxford English Dictionary* or DMF for *Dictionnaire du Moyen Français*. Search for Glossary keys by acronym or author name.
 
 This bibliography includes detailed references for primary sources cited in the manuscript, however, they may not be the exact edition to which the manuscript refers. They include more widely available editions from prominent publishers in the sixteenth century (Robert and Henri Estienne, the Aldine press, Christophe Plantin, Hieronymus Froben, Johannes Herwagen, etc). Other possible editions can be found in the [Universal Short Title Catalogue](https://www.ustc.ac.uk) and similar resources.
 
