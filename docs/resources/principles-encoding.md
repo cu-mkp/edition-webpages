@@ -23,7 +23,7 @@ questions and new analyses of the text."
 
 For more information on the process of encoding Ms. Fr. 640, see Celine
 Camps and Margot Lyautey, [Ma\<r\>king and Knowing: Encoding BnF Ms. Fr.
-640](/#essays/ann_331_ie_19).
+640](/#essays/ann_335_ie_19).
 
 In 2017 the emerging tagset was formalized as a RelaxNG schema and
 maintained in the [Project’s data repository in Github](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/schema/ms-transcription.md).
