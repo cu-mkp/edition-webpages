@@ -21,13 +21,12 @@ Author-Practitioner](/#essays/ann_300_ie_19).
 
 ## [Glossary](/#folios/1r/f/1r/glossary)
 
-The Glossary is a record of distinctive terms used in the manuscript
-which was compiled during the process of transcribing and translating the text.
+The Glossary, compiled during the process of transcribing and translating Ms. Fr. 640, is a record of distinctive terms used in the manuscript.
 
 It includes:
 
   - meaning(s) of words according to context
-  - bibliographic references for those meanings
+  - bibliographic references for those definitions
   - alternate historical spellings and modern spelling
   - language or dialect of origin
 
@@ -44,7 +43,7 @@ the essay.
 To transform the handwritten pages of Ms. Fr. 640 into digital text, the Making and
 Knowing Project transcribed, translated, and encoded Ms. Fr. 640 in a series of collaborative workshops for graduate students since 2014. The protocols guiding this process evolved into these Principles.
 
-A list of [dictionaries and technical encyclopedias](#content/research+resources/dictionaries) was also developed during the
+A list of [dictionaries and technical encyclopedias](#content/resources/dictionaries) was also developed during the
 transcription and translation effort.
 
 ## [Field Notes](#content/resources/field-notes)
