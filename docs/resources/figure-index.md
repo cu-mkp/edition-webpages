@@ -2,9 +2,21 @@
 
 With thanks to Philip Cherian and Melissa Reynolds
 
+original
+![p003v\_1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p003v\_1.png)
+
+with attributes:
+![p003v\_1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p003v\_1.png)
+<!-- .element height="50%" width="50%" -->
+
+true html
+<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p003v\_1.png" alt="3v vessel" height="42" width="42">
+
+
+
 **Figure**|**Folio**|**Description**
 :-----:|:-----:|:-----:
-![p003v\_1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p003v\_1.png)<!-- .element height="50%" width="50%" -->|Fol. [3v](/#folios/3v)|Distillation vessel
+![p003v\_1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p003v\_1.png)|Fol. [3v](/#folios/3v)|Distillation vessel
 ![p006v\_1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p006v\_1.png)|Fol. [6v](/#folios/6v)|Glassworking furnace
 ![p014r\_1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p014r\_1.png)|Fol. [14r](/#folios/14r)|Three tools for construction and earth fortification, including a mallet and bat
 ![p016r\_1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p016r\_1.png)|Fol. [16r](/#folios/16r)|Furnace with blast pipe and bellows
