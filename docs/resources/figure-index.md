@@ -10,7 +10,7 @@ with attributes:
 <!-- .element height="50%" width="50%" -->
 
 true html
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p003v\_1.png" alt="3v vessel" height="42" width="42">
+<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p003v_1.png" alt="3v vessel" height="42" width="42">
 
 
 
