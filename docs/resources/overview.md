@@ -40,11 +40,14 @@ the essay.
 
 ## [Principles of Transcription, Translation, and Encoding](/#content/resources/principles)
 
-To transform the handwritten pages of Ms. Fr. 640 into digital text, the Making and
-Knowing Project transcribed, translated, and encoded Ms. Fr. 640 in a series of collaborative workshops for graduate students since 2014. The protocols guiding this process evolved into these Principles.
+To transform the handwritten pages of Ms. Fr. 640 into digital text, the Making and Knowing Project transcribed, translated, and encoded Ms. Fr. 640 in a series of collaborative workshops for graduate students since 2014. The protocols guiding this process evolved into these Principles.
 
 A list of [dictionaries and technical encyclopedias](#content/resources/dictionaries) was also developed during the
 transcription and translation effort.
+
+## [Coming Soon](#content/resources/coming-soon)
+
+Since the initial release of the Edition in February 2020, the Making and Knowing Project has been working to continually add content and features. Resources to come are listed here.
 
 ## [Field Notes](#content/resources/field-notes)
 
