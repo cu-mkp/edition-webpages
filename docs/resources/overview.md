@@ -49,7 +49,7 @@ transcription and translation effort.
 
 Since the initial release of the Edition in February 2020, the Making and Knowing Project has been working to continually add content and features. Resources to come are listed here.
 
-## [Field Notes](#content/resources/field-notes)
+## [Field Notes](#content/resources/field-notes) (coming soon)
 
 Field notes document students' skill-building exercises and reconstruction work for their Research Essays.
 
