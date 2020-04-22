@@ -21,7 +21,7 @@ _Secrets of Craft and Nature_ was first launched in February 2020. Throughout th
 
 ## Improved Compatibility with Mobile Devices
 
-## The Research and Teaching Companion
+## Research and Teaching Companion
 * Set to be published in 2021, the RTC (Research and Teaching Companion) will provide a behind-the-scenes look at the making of _Secrets of Craft and Nature_.
 * It will make available numerous resources developed by the Project during the creation of this Digital Critical Edition for other researchers, students, instructors, and anyone interested in hands-on engagement with process and digital publication.
 * Resources include lessons plans and syllabi, protocols and worksheets, as well as case studies and testaments of collaboration.
