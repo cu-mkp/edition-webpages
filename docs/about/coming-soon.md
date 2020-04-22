@@ -18,7 +18,8 @@ _Secrets of Craft and Nature_ was first launched in February 2020. Throughout th
 * Complete index and descriptions of all manuscript figures sketched by Fr. 640's author-practitioner.
 * Additional visualizations and analysis of the manuscript's text and themes.
 * Toolkits and resources for analyzing the manuscript as raw data which is already available through the [Project's Github](https://github.com/cu-mkp/m-k-manuscript-data).
-* Reconstruction Insights
+* Reconstruction Insights - PHS
+* Index of Key Words - NJR language
 
 ## Improved Compatibility with Mobile Devices
 
