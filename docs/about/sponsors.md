@@ -2,7 +2,7 @@
 
 _Secrets of Craft and Nature in Renaissance France_ would not have been possible without a wide network of supporters. The Making and Knowing Project gratefully acknowledges the support of countless individuals and collaborators from institutions around the world. The Project is especially grateful for the institutional support, grants, and gifts that underwrote the creation of the Edition:
 
-![about-sponsors-css](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-sponsors-css.png) <br>
+<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-sponsors-css.png" alt="about-sponsors-css" style="float:left"> <br>
 **The Center for Science and Society**, Columbia University.
 
 ![about-sponsors-CU](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-sponsors-CU.png) <br>
