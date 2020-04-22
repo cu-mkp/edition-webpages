@@ -1,6 +1,6 @@
 # Upcoming features of _Secrets of Craft and Nature_
 
-_Secrets of Craft and Nature_ was first launched in February 2020. Throughout the coming year, the Making and Knowing Project is working to prepare additional content as well as to increase available features. Please stay tuned!
+_Secrets of Craft and Nature_ was first launched in February 2020. Throughout the coming year, the Making and Knowing Project is working to prepare additional content as well as to enhance available features. Please stay tuned!
 
 ## Research Essays
 * Additional essays still under revision.
@@ -14,15 +14,15 @@ _Secrets of Craft and Nature_ was first launched in February 2020. Throughout th
 * Browse accounts of reconstructions from the Making and Knowing Lab.
 
 ## Resources
-* Improved bibliography including references cited in the essays ans additional links to electronic resources.
-* Complete index and descriptions of all manuscript figures sketched by Fr. 640's author-practitioner.
-* Additional visualizations and analysis of the manuscript's text and themes, such as an Index of Key Terms that hopes to build an ontology from the manuscript's existing tagged terms.
+* Improved bibliography including references cited in the essays and additional links to electronic resources.
+* Complete index and descriptions of all figures sketched in the manuscript by Fr. 640's author-practitioner.
+* Additional visualizations and analysis of the manuscript's text and themes, such as an Index of Key Terms that aims to build an ontology from the manuscript's existing tagged terms.
 * Toolkits and resources for analyzing the manuscript as raw data which is already available through the [Project's Github](https://github.com/cu-mkp/m-k-manuscript-data).
-* Laboratory Reconstruction Insights - Index of essays featuring research from the Making and Knowing Lab
+* Laboratory Reconstruction Insights - an index of essays featuring research from the Making and Knowing Lab.
 
 ## Improved Compatibility with Mobile Devices
 
 ## Research and Teaching Companion
 * Set to be published in 2021, the RTC (Research and Teaching Companion) will provide a behind-the-scenes look at the making of _Secrets of Craft and Nature_.
-* It will make available numerous resources developed by the Project during the creation of this Digital Critical Edition for other researchers, students, instructors, and anyone interested in hands-on engagement with process and digital publication.
+* It will make available numerous resources developed by the Project during the creation of this Digital Critical Edition, and is intended for other researchers, students, instructors, and anyone interested in hands-on engagement with process and digital publication.
 * Resources include lessons plans and syllabi, protocols and worksheets, as well as case studies and testaments of collaboration.
