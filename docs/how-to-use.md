@@ -247,6 +247,7 @@ To browse the essays by their categories, use the navigation bar on the left.
 In any essay, click on the folio numbers contained in the text to view that manuscript page (return by clicking the back arrow
 in your browser).
 
+In any essay, click on an image to view it at full size in a pop-out lightbox. Close the lightbox by clicking either on the "X" in the upper right-hand corner or outside of the image itself.
 
 ### [The Bibliography](/#content/resources/bibliography)
 
