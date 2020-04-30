@@ -36,7 +36,6 @@
             },
             {
                 "label": "Coming Soon",
-                "placeholder": true,
                 "route": "/content/resources/coming-soon" 
             },
             {
