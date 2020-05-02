@@ -542,7 +542,7 @@ Solmi, Edmondo, and Sergio Solmi. *Scritti vinciani: Le fonti dei
 manoscritti di Leonardo da Vinci e altri studi*. Strumenti ; 37.
 Firenze: La nuova Italia, 1976.
 
-*TLFi : Trésor de la langue Française informatisé*. Nancy: ATILF - CNRS
+*TLFi : Trésor de la langue Française informatisé*. Nancy: ATILF-CNRS
 & Université de Lorraine, 1994. <http://www.atilf.fr/tlfi>.
 
 Wartelle, André. *Bibliographie historique et critique de saint justin,
@@ -565,7 +565,7 @@ Brill, 2016. <https://doi.org/10.1163/9789004325968>.
 
 **TLFi2019** Analyse et Traitement Informatique de la Langue Française, and Centre
 national de la recherche scientifique. “Trésor de la langue francaise
-informatisé.” Paris: ATILF : CNRS Éditions., 2019.
+informatisé.” ATILF, CNRS Éditions, 2019.
 <http://atilf.atilf.fr/tlf.htm>.
 
 anonymous. *Secrets concernant les arts et métiers: ouvrage utile, non
@@ -576,9 +576,6 @@ Argonne, Bonaventure d’. *Mélanges d’histoire et de littérature par M.
 de Vigneul-Marville (Noël, dit Bonaventure d’Argonne). Quatrième édition
 revûë, corrigée et augmentée par M\*\*\* (l’abbé Banier)*. Paris:
 Prudhomme, 1713.
-
-ARTFL. “The ARTFL Encyclopédie ARTFL Encyclopédie,” 2019.
-<https://encyclopedie.uchicago.edu/>.
 
 Bauderon, Brice, Laurent Catelan, and G Sauvageon. *Pharmacopée de
 Bauderon. Augmentée de plusieurs compositions necessaires; & des
@@ -669,7 +666,7 @@ Contant pere et fils...* Poitiers: Par Iulian Thoreau, 1628.
 Corneille, Thomas (1625-1709) Auteur du texte. *Le dictionnaire des arts
 et des sciences*, 1694. <https://gallica.bnf.fr/ark:/12148/bpt6k50507s>.
 
-**COT1611** Cotgrave, Randle. “A dictionarie of the french and english tongues.”
+**COT1611** Cotgrave, Randle. *A dictionarie of the french and english tongues*.
 London: Adam Islip, 1611. <http://www.pbm.com/~lindahl/cotgrave/>.
 
 Coxe, John Redman. *The Philadelphia Medical Dictionary : Containing a
@@ -686,7 +683,7 @@ contenant la signification et la definition tant des mots de l’une & de
 l’autre langue, avec leurs différens usages ; que des Termes propres de
 chaque etat & de chaque profession*. Paris, 1721.
 
-**DMF** “Dictionnaire du Moyen Français.” version 2015 (DMF 2015). ATILF - CNRS & Université de Lorraine Paris, 2015.
+**DMF** *Dictionnaire du Moyen Français*. ATILF-CNRS & Université de Lorraine Paris, 2015.
 <http://www.atilf.fr/dmf>.
 
 Diderot, Denis, and Jean Le Rond d’ Alembert. *Encyclopedie methodique,
@@ -874,8 +871,8 @@ Levy, Emil, and Raynouard. *Provenzalisches Supplement-Worterbuch:
 Berichtigung und Erganzungen zu Raynouards Lexique roman*. Hildesheim:
 G. Olms, 1973.
 
-Littré, Emile, and François Gannaz. “Dictionnaire de la langue
-francaise.” Paris: Hachette, 1873. <http://www.littre.org>.
+Littré, Emile, and François Gannaz. *Dictionnaire de la langue
+francaise*. Paris: Hachette, 1873. <http://www.littre.org>.
 
 Lucas, Newton Ivory. *Englisch-deutsches und deutsch-englisches
 Wörterbuch 1,2, 1,2,* Bremen: Schünemann, 1856.
@@ -916,6 +913,9 @@ places, & de géographie ...* Paris: Couturier et Jombert, 1783.
 Moreux, Bernard, and Robert Razou. *Les mots de Toulouse: lexique du
 français toulousain*. Toulouse: Presses Univ. du Mirail-Toulouse, 2000.
 
+Morrissey, Robert, and Glenn Roe, eds. *Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers, etc., eds. Denis Diderot and Jean le Rond d'Alembert*. Chicago: American and French Research on the Treasury of the French Language (ARTFL) Encyclopédie Project, 2017. 
+<https://encyclopedie.uchicago.edu/>.
+
 Museum of Fine Arts, Boston. “CAMEO (conservation and art materials
 encyclopedia online),” n.d. <http://cameo.mfa.org>.
 
@@ -931,8 +931,7 @@ lenguas, española, francesa y italiana*. Geneva: J.A. et S. de Tournes,
 Norton, Robert. *The Gunner Shewing the Whole Practise of Artillerie*.
 London: Printed by A.M. for Humphrey Robinson, 1628.
 
-**OED** “OED online.” Oxford: Oxford University Press, 2019.
-<http://www.oed.com>.
+**OED** *Oxford English Dictionary online*. Oxford University Press. <http://www.oed.com>.
 
 Office de la langue française, Province du Québec. *Grand dictionnaire
 terminologique*. Quebec: Office de la langue française, 2000.
