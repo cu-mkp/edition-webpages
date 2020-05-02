@@ -1,6 +1,6 @@
 # Field notes
 
-Coming soon
+**Coming soon**
 
 Field notes document students' skill-building exercises and reconstruction work for their laboratory essays.
 
