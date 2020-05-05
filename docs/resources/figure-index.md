@@ -9,6 +9,10 @@ image size test:
 
 <img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p003v_1.png" alt="3v vessel" width="100">
 
+test from excel equation:
+<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p003v_1.png" alt="Distillation vessel" width="100">"
+
+
 **Figure**|**Folio**|**Description**
 :-----:|:-----:|:-----:
 ![p003v\_1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p003v\_1.png)|Fol. [3v](/#folios/3v)|Distillation vessel
