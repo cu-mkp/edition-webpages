@@ -212,6 +212,8 @@ Pour accéder aux essais par catégorie, utilisez la barre de navigation à gauc
 
 Dans chaque essai, cliquez sur les numéros des folios référencés dans le texte pour y accéder directement, retournez à l'essai en cliquant sur la flèche gauche de votre navigateur.
 
+Dans chaque essai, cliquez sur une image pour la voir en taille réelle dans une fenêtre contextuelle. Cette fenêtre peut être fermée en cliquant en dehors de celle-ci ou sur la croix en haut à droite. 
+
 
 ### [La bibliographie](/#content/resources/bibliography)
 
