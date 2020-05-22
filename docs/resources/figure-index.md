@@ -1,6 +1,7 @@
 # Figures of Ms. Fr. 640
 
 With thanks to Philip Cherian and Melissa Reynolds
+<a href="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p019v_3.png"><img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p019v_3.png" alt="Solid and dotted designs, labeled 'a,' 'b,' and 'c,' illustrating figures made by folding paper" width="100"></a>
 
 | Folio, Entry                                                                                                                 | Figure                                                                                                                                                                                                                                               | Description                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
