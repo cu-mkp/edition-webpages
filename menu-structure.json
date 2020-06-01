@@ -35,14 +35,13 @@
                 "route": "/content/resources/principles" 
             },
             {
+                "label": "Figures in the Manuscript"
+                "route": "/content/resources/figureindex" 
+            }, 
+            {
                 "label": "Coming Soon",
                 "route": "/content/resources/coming-soon" 
-            },
-            {
-                "label": "Figures in the Manuscript",
-                "placeholder": true,
-                "route": "/content/resources/figureindex" 
-            },            
+            },         
             {
                 "label": "Field Notes",
                 "placeholder": true,
