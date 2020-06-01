@@ -1,8 +1,5 @@
 # Overview of Resources
 
-Numerous resources serve as tools and companion commentary to the text
-of Ms. Fr. 640.
-
 ## [List of Entries](/#entries)
 
 The manuscript consists almost entirely of units of text under titles, which the Project has called “entries.” The List of Entries forms an index to navigate the over 900 entries.
