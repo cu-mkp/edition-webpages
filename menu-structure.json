@@ -35,8 +35,8 @@
                 "route": "/content/resources/principles" 
             },
             {
-                "label": "Figures in the Manuscript"
-                "route": "/content/resources/figureindex" 
+                "label": "Figures in the Manuscript",
+                "route": "/content/resources/figure-index" 
             }, 
             {
                 "label": "Coming Soon",
