@@ -7,9 +7,6 @@ _Secrets of Craft and Nature_ was first launched in February 2020. Throughout th
 * Translation of French essays into English.
 * Translation of selected introductory essays into French.
 
-## List of Entries
-* Enhanced filtering of the [List of Entries](/#entries) by categories and tags in the diplomatic French, normalized French, and English Translation.
-
 ## Field Notes Repository
 * Browse accounts of reconstructions from the Making and Knowing Lab.
 
