@@ -43,6 +43,11 @@
                 "route": "/content/resources/coming-soon" 
             },         
             {
+                "label": "Reconstruction Insights",
+                "placeholder": true,
+                "route": "/content/resources/reconstruction-insights" 
+            },
+            {
                 "label": "Field Notes",
                 "placeholder": true,
                 "route": "/content/resources/field-notes" 
