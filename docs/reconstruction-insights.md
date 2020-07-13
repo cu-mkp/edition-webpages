@@ -1,4 +1,3 @@
-
 # Insights from Reconstruction Research
 From 2014 through 2019, the Making and Knowing Project team along with students in the Craft and Science courses reconstructed a large number of the techniques and processes found in the entries of Ms. Fr. 640. This reconstruction involved conventional historical textual research, object-based study, and hands-on experiments in the Making and Knowing Lab. The students’ reconstructions provided the information and evidence for the students’ essays, which form the critical commentary of this Edition. All student research also had the goal of building material and technical awareness. The essays listed below showcase the research and insights gained from the reconstructions. Additional context for the Making and Knowing Project’s reconstructions can be found in Pamela H. Smith, “Making the Edition,” http://edition640.makingandknowing.org/#/essays/ann_329_ie_19, and additional information about the Project’s reconstruction methods is provided by Joel Klein, “Methodologies for Making and Knowing: Reconstructions for Historical Research” http://edition640.makingandknowing.org/#/essays/ann_322_ie_19.
 
@@ -41,18 +40,17 @@ Chang, “"What is Esmail in Ms. Fr. 640?" http://edition640.makingandknowing.or
 
 Garris, “What is Azur in Ms. Fr. 640?” http://edition640.makingandknowing.org/#/essays/ann_060_fa_17
 
+
 ## Deciphering Obscure Materials
 Others deciphered obscure materials in Ms. Fr. 640, such as sulfur-passed wax, carton, “soft tin,” imitation jasper, stucco, fatty sand, and the material referred to as spalt, laspalt, and spat by the author-practitioner.
 
-
 **Sulfur-passed wax**
-
 Landsman/Rowen, “Uses of Sulfur for Casting,” http://edition640.makingandknowing.org/#/essays/ann_007_fa_14
 
 Kang, “Black Sulfured Wax,” http://edition640.makingandknowing.org/#/essays/ann_051_fa_16
 
-**Soft tin, fatty sand, imitation jasper**
 
+**Soft tin, fatty sand, imitation jasper**
 Buckley, “Tin and its Uses,” http://edition640.makingandknowing.org/#/essays/ann_070_fa_18
 
 Wang/Smith, “Fat, Lean, Sweet, Sour: Sand of Ox Bone and Rock Salt,” http://edition640.makingandknowing.org/#/essays/ann_012_fa_14
@@ -72,8 +70,7 @@ Kuiper/Kroon, “What is Spat?” https://edition640.makingandknowing.org/#/essa
 ## Culinary and Medical Recipes
 There are only a handful of culinary recipes in the manuscript, but students reconstructed some of them, for example, “Excellent mustard” and the Toulouse specialty of millet bread, Millas. Students explored the medical cures and remedies in the manuscript, considering the place of medical recipes among all those for art and technical processes, attempting to determine the likely meaning of the abbreviation “G.,” seeking to understand the use of rosemary in pipe smoking, deciphering the use of a medicinal plaster “For preventing teats from swelling,” and recreating the impressive inspiriting of a salve for burns by means of holy water and intensive repetitions of the Pater Noster prayer.
 
-
-Culinary recipes
+**Culinary recipes**
 
 Mellon, “Excellent Mustard,” http://edition640.makingandknowing.org/#/essays/ann_008_fa_14
 
@@ -214,7 +211,6 @@ Bergen, “Cultivation and the Genre of the Household Manual,” http://edition6
 ## Workshop Practice and Daily Life
 Through research and reconstruction, we also learned more about workshop practice and the nature of experiential or practical knowledge, as revealed, for example, in the author-practitioner’s use of particular terminology, such as, for example, “impalpable,” and his use of artisanal tricks of the trade such as the squeeze test for ascertaining the consistency of molding sand, and the paper test to measure heat. The research also yielded clues about the author-practitioner’s identity, as well as his level of education, knowledge and practice, and his familiarity with techniques outside of his French-speaking domain. Student research also provided insight into daily life, such as recipes for mustard, the use of noisy mortars by apothecaries to attract business, a method to train a dog (involving cheese held in the armpit, fol. 131r), millet consumption, woad cultivation in Languedoc, the regular use of stale urine, and the unexpected domestic production of sand for hourglasses (see Vid. 11).
 
-
 Workshop practices
 
 Le Pouésard, “Bread as Mediating Material,” http://edition640.makingandknowing.org/#/essays/ann_050_fa_16
@@ -319,7 +315,6 @@ Mukherjee, “Varied and Transmuted Wine,” https://edition640.makingandknowing
 
 ## Reading and Doing
 The Project has taught all its many participants how much information the reconstruction of technical recipes can yield. One of the most important results of reconstruction has been the new level of understanding of the recipes it enables. By the constant moving between manuscript and hands-on experimentation, we have gained an understanding of the manuscript that would not have been possible by attempting to read through it in a linear way (which, given the extreme non-linearity of the text and its contents, would have been impossible in any case). We have also learned from our hands-on historical research that reconstruction-based investigations can provide another window into artisanal workshop practices, but it can also make us aware of our inevitable “modern framings” or “lenses” through which we tend to look at the material world of the early modern period. Our research in materials suggests the inadequacy of some modern classifications to convey, not only the variety of that early modern material world, but also the ways in which practitioners thought with and through their materials and experiences to form hypotheses, taxonomies, and knowledge systems.
-
 
 **Questioning modern classifications**
 
