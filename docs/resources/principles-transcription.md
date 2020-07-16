@@ -46,7 +46,7 @@ disambiguation.
 The following normalization protocols were applied:
 
   -  Capitalization and punctuation: the liberal use in Ms. Fr. 640 of capitals to mark the beginnings of both independent sentences and articulated clauses has been converted into modern punctuation, and capitals applied only to the initials of sentences and proper nouns.
-  -  Word separation: blank spaces or apostrophes have been inserted, but no hyphens.
+  -  Word separation: blank spaces or apostrophes have been inserted, and no hyphens except to join two parts of a word that are separated in the original over a line break.
       - E.g. “laultre” normalized as “l’aultre”
   - Acute accents: **é** marks stressed, i.e. non-mute, **e** in final syllables, but not in monosyllabic words except for disambiguation between homographs.
       - E.g. “apres” is normalized as “aprés” according to contemporary convention (rather than modern French “après”). This also disambiguates between “aprés” and “âpres” (although the latter does not occur in the manuscript).
