@@ -44,7 +44,6 @@
             },         
             {
                 "label": "Reconstruction Insights",
-                "placeholder": true,
                 "route": "/content/resources/reconstruction-insights" 
             },
             {
