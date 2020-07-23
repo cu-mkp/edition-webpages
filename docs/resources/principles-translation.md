@@ -73,6 +73,22 @@ editorial note on each instance of the word. Instead, on this occasion
 we translated “paintbrush,” prioritizing a clear reference to the
 correct tool over the principle of avoiding modern categories.
 
+While the language of Ms. Fr. 640 is overwhelmingly Middle French, some
+small portion of the text (single words, phrases, or short passages) is in
+languages other than French, including German, Italian, Greek, and Latin. Excerpts in these languages have been transcribed as they appear in the manuscript, marked up with the relevant language tag, and italicized in the Edition. An editorial note (marked by an asterisk) provides an English translation of this text. The author-practitioner also uses a
+number of terms derived from Occitan. While Occitan was and is a language
+in its own right, the author-practitioner does not appear to be an Occitan
+speaker, but rather uses individual Occitan words, adapted to French
+spelling to varying degrees, suggesting that these terms had currency in
+the French spoken in the Toulouse area and the South more generally. For
+this reason, we are not treating these individual terms as a separate
+language like Latin or Italian, which the author-practitioner uses for
+longer stretches of text. Instead, Occitan-derived terms are marked up
+"silently" with the tag, i.e., they are not rendered as foreign words in
+italics in the Edition, but can nonetheless be found in the List of Entries (LINK) by selecting "Occitan" from the list of tags. The same goes for a number of terms in Poitevin, the dialect
+spoken in and around Poitou, which suggest that the author-practitioner may
+hail from that region. These terms are silently marked up with the tag, which can also be selected from the tag set in the List of Entries.
+
 Another important aim of our translation was to preserve the
 peculiarities of the author-practitioner’s language. This includes the
 odd not-quite-grammatical sentence, but, more importantly, the
