@@ -85,7 +85,7 @@ this reason, we are not treating these individual terms as a separate
 language like Latin or Italian, which the author-practitioner uses for
 longer stretches of text. Instead, Occitan-derived terms are marked up
 "silently" with the tag, i.e., they are not rendered as foreign words in
-italics in the Edition, but can nonetheless be found in the List of Entries (LINK) by selecting "Occitan" from the list of tags. The same goes for a number of terms in Poitevin, the dialect
+italics in the Edition, but can nonetheless be found in the [List of Entries](/#entries) (LINK) by selecting "Occitan" from the list of tags. The same goes for a number of terms in Poitevin, the dialect
 spoken in and around Poitou, which suggest that the author-practitioner may
 hail from that region. These terms are silently marked up with the tag, which can also be selected from the tag set in the List of Entries.
 
