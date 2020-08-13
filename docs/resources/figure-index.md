@@ -1,4 +1,4 @@
-# Figures of Ms. Fr. 640
+# Figures in Ms. Fr. 640
 
 Ms. Fr. 640 contains a number of sketches made by its anonymous author-practitioner to help describe or illustrate the processes and materials of the entries or recipes. Explore these drawings below, from a diagram for preparing a mold of a lizard on [fol. 124v](/#folios/124v) and a furnace with bellows on [fol. 16r](/#folios/16r) to the texture of dragon’s blood on [fol. 29v](/#folios/29v) and a fountain system to carry water higher than its source on [fol. 80r](/#folios/80r).
 
