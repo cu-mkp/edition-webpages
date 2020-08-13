@@ -249,7 +249,7 @@ in your browser).
 
 In any essay, click on an image to view it at full size in a pop-up lightbox. Close the lightbox by clicking either on the "X" in the upper right-hand corner or outside of the image itself.
 
-### [The Bibliography](/#content/resources/bibliography)
+### [Bibliography](/#content/resources/bibliography)
 
 The Bibliography compiles references, texts, and authors cited in the manuscript, the editorial comments, and the glossary.
 
