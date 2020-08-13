@@ -34,7 +34,7 @@ maintained in the [Project’s data repository in Github](https://github.com/cu-
 
 |  Tag |    Definition   |                        Description and Use                        |
 |:----:|:---------------:|:-----------------------------------------------------------------:|
-| ab   | anonymous block | a block of text that belongs together                             |
+| ab   | anonymous block | a block of text that belongs together semantically, or a unit within a longer entry indicated by the author-practitioner 
 | div  | text division   | the span of a single, discrete entry                              |
 | head | heading         | indicates the heading of a “recipe” or entry, classified as a div |
 | id   | identifier      | a unique identifier for the text division                         |
