@@ -39,13 +39,13 @@
                 "route": "/content/resources/figure-index" 
             }, 
             {
-                "label": "Coming Soon",
-                "route": "/content/resources/coming-soon" 
-            },         
-            {
                 "label": "Reconstruction Insights",
                 "route": "/content/resources/reconstruction-insights" 
             },
+            {
+                "label": "Coming Soon",
+                "route": "/content/resources/coming-soon" 
+            },         
             {
                 "label": "Field Notes",
                 "placeholder": true,
