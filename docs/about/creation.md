@@ -79,16 +79,12 @@ downloaded as stand-alone articles.
 <br>
 The Research Essays are grouped in up to three of seven broad categories:
 
-  - **An Introduction**: written by Project and invited scholars, these essay serve as introductory resources and provide overviews of the manuscript and the Project.
-
-  - **The Manuscript, Ms. Fr. 640**: about the manuscript (its codicology, palaeography, and probable genesis), its relationship to other genres of writing, and the identity of its anonymous author-practitioner.
-
-  - **The Making and Knowing Laboratory**: hands-on work in the Making and Knowing Laboratory, principles of reconstruction, and results and conclusions from experimental work.
-
-  - **Society and Culture**: historical context of the manuscript, and society and culture in sixteenth-century France.
+  - **An Introduction**: written by Project and invited scholars, these essay serve as introductory resources and provide overviews of the Edition and the manuscript itself (including its codicology, probable genesis, relationship to other genres of writing, and the identity of its anonymous author-practitioner).
 
   - **Art and Its Making**: materials, making, and meaning of art, and the training of artists.
-
+  
   - **Knowing Nature**: investigation, manipulation, and exploration of the materials and principles of nature in Fr.640.
+  
+  - **Society and Culture**: historical context of the manuscript, and society and culture in sixteenth-century France.
 
   - **The Making and Knowing Project**: the Making and Knowing Project, including its initiatives, pedagogy, methods, personnel, and collaborators.
