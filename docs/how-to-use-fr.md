@@ -192,17 +192,13 @@ Sur les fiches plus détaillées, vous pouvez obtenir plus d'informations sur l'
 
 Les essais de recherches sont divisés en plusieurs catégories:
 
-  - **Introduction**: essais introductifs offrant un tour d'horizon sur le manuscrit. Ceux-ci sont écrits par les chercheurs du Making and Knowing Project et des experts du monde entier.
-
-  - **Le manuscrit Ms. Fr. 640**: essais portant sur la codicologie, la paléographie, et la génèse du manuscrit, sur sa relation avec d'autres genres littéraires et sur l'identité de l'auteur-praticien.
-
-  - **Le laboratoire**: essais portant sur le travail concret effectué dans le laboratoire du Making and Knowing Project, sur les principes de reconstruction, et sur les résultats de ces expérimentations.
-
-  - **Société et culture**: essais portant sur le contexte historique du manuscrit et sur la France au XVIe siècle.
+  - **Introduction**: essais introductifs offrant un tour d'horizon sur l'édition et le manuscrit (y compris la codicologie, la paléographie, et la génèse du manuscrit, sur sa relation avec d'autres genres littéraires et sur l'identité de l'auteur-praticien). Ceux-ci sont écrits par les chercheurs du Making and Knowing Project et des experts du monde entier. 
 
   - **L'art et la manière**: essais portant sur les matériaux et la fabrication, sur le sens de l'art et la formation des artistes.
-
+  
   - **Connaître la nature**: essais portant sur l'investigation, la manipulation, l'exploration des matériaux et sur les principes de la nature dans le Ms. Fr. 640.
+  
+  - **Société et culture**: essais portant sur le contexte historique du manuscrit et sur la France au XVIe siècle.
 
   - **Le Making and Knowing Project**: essais portant sur le Making and Knowing Project, ses initiatives, sa  pédagogie, ses méthodes, ainsi que son personnel et ses collaborateurs.
 
@@ -215,7 +211,7 @@ Dans chaque essai, cliquez sur les numéros des folios référencés dans le tex
 Dans chaque essai, cliquez sur une image pour la voir en taille réelle dans une fenêtre contextuelle. Cette fenêtre peut être fermée en cliquant en dehors de celle-ci ou sur la croix en haut à droite. 
 
 
-### [La bibliographie](/#content/resources/bibliography)
+### [Bibliographie](/#content/resources/bibliography)
 
 La bibliographie compile les références, les textes, et les auteurs cités dans le manuscrit, dans les commentaires éditoriaux, et dans le glossaire.
 
