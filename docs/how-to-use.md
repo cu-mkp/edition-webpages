@@ -70,15 +70,15 @@ includes headings, text blocks, marginalia, figures, marks, as well as textual f
 | Grey highlight         | Text is under the paper strips used in the rebinding                                                                                                                                                                                                                                                    | ![howtouse-ups](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-ups.png)|
 | Italics                | Untranslated foreign language, i.e., language other than French in the ms., or, in the translation, language other than English                                                                                                                                                                         | ![howtouse-italics](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-italics.png)|
 | Bold (emphasis)        | Italic script in the ms.                                                                                                                                                                                                                                                                                | ![howtouse-bold](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-bold.png)|
-| \[*illegible*\]        | Illegible word that could not be fully transcribed/translated                                                                                                                                                                                                                                           | ![howtouse-illegible](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-illegible.png)|
+| \[*illegible*\]        | Illegible word that could not be transcribed                                                                                                                                                                                                                                                            | ![howtouse-illegible](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-illegible.png)|
 | \[*gap*\]              | Space left in the original                                                                                                                                                                                                                                                                              | ![howtouse-gap](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-gap.png)|
 | Curly brackets         | Expansions: providing the expanded version of the text implied by the author-practitioner’s abbreviation marks                                                                                                                                                                                          | ![howtouse-curly](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-curly.png)|
 | Square brackets        | Indicates editorial interventions and corrections by the Making and Knowing Project. For example, deletion of duplicate words or addition of missing words                                                                                                                                              | ![howtouse-square](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-square.png)|
 | Horizontal lines       | Approximate pen marks in the original used to separate text blocks from one another                                                                                                                                                                                                                     | ![howtouse-hr](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-hr.png)|
 | “*Continued…*”         | Indicates text continues on the following page                                                                                                                                                                                                                                                         | ![howtouse-continued1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued1.png)|
 | “*...Continued*”       | Indicates text is continued from the previous page                                                                                                                                                                                                                                                      | ![howtouse-continued2](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued2.png)|
-| Essay Icon             | Prompt to show corresponding Research Essays (see below)                                                                                                                                                                                                                                                | ![howtouse-beaker](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-beaker.png)|
-| Red asterisks          | Clicking on the asterisk will show Editorial Comments in a popout window                                                                                                                                                                                                                                        | ![howtouse-asterisk](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-asterisk.png)|
+| Essay Icon             | Clicking on the beaker displays corresponding Research Essay (see below)                                                                                                                                                                                                                                 | ![howtouse-beaker](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-beaker.png)|
+| Red asterisks          | Clicking on the asterisk displays Editorial Comments in a popout window                                                                                                                                                                                                                                   | ![howtouse-asterisk](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-asterisk.png)|
 
 
 ### Navigation within the Dual-pane Display
@@ -88,12 +88,14 @@ For navigation help, click the <i class="fas fa-question-circle"></i> help icon.
   - Toggle Sync View <i class="fas fa-lock"></i>
 
       - Enable/disable automatic display of the same page in both panes
+      
 
   -  Toggle Book Mode <i class="fas fa-book"></i>
 
       - Enable/disable use of the dual panes to show facing pages of the manuscript, as though reading a book
 
           - NB: disables ability to access thumbnail view
+          
 
   - Toggle XML Mode <i class="fas fa-code"></i>
 
@@ -101,9 +103,11 @@ For navigation help, click the <i class="fas fa-question-circle"></i> help icon.
 
       - XML tags and their meanings are described in the [Principles of Encoding](/#content/resources/principles-encoding). 
       
+      
   - Go Forward / Back <i class="fas fa-arrow-alt-circle-left"></i> <i class="fas fa-arrow-alt-circle-right"></i>
 
       - Navigate one page forward / backward
+      
 
   - Jump to folio <i class="fas fa-hand-point-right"></i>
 
@@ -192,7 +196,7 @@ and while the glossary includes common spelling variants, the list is not exhaus
 
   - double vs. single consonant, as in *plate* vs. *platte*
 
-  - homonyms, e.g. aiguille, esguille; alun, alum, alung"
+  - homonyms, e.g., aiguille, esguille; alun, alum, alung
 
 **How to read a Glossary entry**:
 
