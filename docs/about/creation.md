@@ -79,7 +79,7 @@ downloaded as stand-alone articles.
 <br>
 The Research Essays are grouped in up to three of seven broad categories:
 
-  - **An Introduction**: written by Project and invited scholars, these essay serve as introductory resources and provide overviews of the Edition and the manuscript itself (including its codicology, probable genesis, relationship to other genres of writing, and the identity of its anonymous author-practitioner).
+  - **An Introduction**: written by Project and invited scholars, these essays serve as introductory resources and provide overviews of the Edition and the manuscript itself (including its codicology, probable genesis, relationship to other genres of writing, and the identity of its anonymous author-practitioner).
 
   - **Art and Its Making**: materials, making, and meaning of art, and the training of artists.
   
