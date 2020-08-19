@@ -14,7 +14,6 @@ _Secrets of Craft and Nature_ was first launched in February 2020. Throughout th
 * Improved bibliography including references cited in the essays and additional links to electronic resources.
 * Additional visualizations and analysis of the manuscript's text and themes, such as an Index of Key Terms that aims to build an ontology from the manuscript's existing tagged terms.
 * Toolkits and resources for analyzing the manuscript as raw data; data that is already available through the [Project's Github](https://github.com/cu-mkp/m-k-manuscript-data).
-* Laboratory Reconstruction Insights - an index of essays featuring research from the Making and Knowing Lab.
 
 ## Improved Compatibility with Mobile Devices
 
