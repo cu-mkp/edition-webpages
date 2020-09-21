@@ -78,6 +78,11 @@
                 "route": "/content/about/m-k-project" 
             },
             {
+                "label": "Digital Development",
+                "placeholder": true,
+                "route": "/content/about/digital"            
+            },            
+            {
                 "label": "Credits",
                 "route": "/content/about/credits" 
             },            
