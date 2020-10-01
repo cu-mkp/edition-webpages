@@ -6,21 +6,30 @@ Digital Development of the Making and Knowing Website
 * Generating Entry Data (TODO)
 * Static Site Generation (Draft)
 
-Markup and Encoding
+Facsimile Images
 ---
 
-Texts of Fr. 640 are encoded in XML format and available in the [Project's Github repository](https://github.com/cu-mkp/m-k-manuscript-data). There are individual XML files for each folio of the manuscript in three versions: 
+The digital facsimile images of Ms. Fr. 640 are provided by the BnF’s digital library, [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10500001g). They are integrated into the Edition through its IIIF Manifest, which relates the Project's transcription and translation of the manuscript to the corresponding Gallica folio images via the IIIF Presentation API.
+
+Markup and Encoding of Ms. Fr. 640
+---
+
+The [texts of Ms. Fr. 640](/#folios) are encoded in XML format and available in the [Project's Github repository](https://github.com/cu-mkp/m-k-manuscript-data). Each folio of the manuscript is represented as individual XML files in three versions: 
 1. Diplomatic: diplomatic (verbatim) transcription of the original French text
 2. Normalized: lightly normalized French transcription (with punctuation and diacritical marks added)
 3. Translation: English translation
 
-The transcription, translation, and encoding of the manuscript was primarily carried out in a series of paleography and text workshops (2014–2018) that brought together graduate students (already in possession of advanced French) to learn to read middle French script and gain experience in textual encoding. The XML files were then revised and finalized by Senior Project team members and the Digital Lead.
+The transcription, translation, and encoding of the manuscript were primarily carried out in a series of paleography and text workshops (2014–2018) that brought together graduate students (already in possession of advanced French) to learn to read middle French script and gain experience in textual encoding. For more detail and a discussion of this process, please read Celine Camps and Margot Lyautey, [Ma<r>king and Knowing: Encoding BnF Ms. Fr. 640](/#essays/ann_335_ie_19). The XML files were then revised and finalized by Senior Project team members and the Digital Lead. Please also see Terry Catapano and Naomi Rosenkranz, [BnF Ms. Fr. 640 as a Digital Text](/#essays/ann_310_ie_19) and [Pamela H. Smith, Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19).
 
-The texts conform to a schema developed iteratively by the Project as the transcriptions and translation were revised and completed. While aimed to meet the specific needs of the Project, the custom schema is influenced by and derives much of its tagset from Text Encoding Initiative (TEI) Guidelines. The [schema](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/schema/ms-transcription.rng) is maintained in the Project repository.
+The texts conform to a schema developed iteratively by the Project as the transcriptions and translation were revised and completed. While aimed to meet the specific needs of the Project, the custom schema is influenced by and derives much of its tagset from the [Text Encoding Initiative (TEI) Guidelines](https://tei-c.org/guidelines/P5/). The [schema](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/schema/ms-transcription.rng) is maintained in the Project repository. The [Principles of Encoding](/#content/resources/principles-encoding) provide a full description of the Project's tagset.
 
 
 
-Layout of the Diplomatic
+\[Use of the XML in the Edition\] -- TO DO
+---
+
+
+Layout of the Texts of Ms. Fr. 640
 ----
 
 The Making and Knowing Grid Layout is a rendering scheme is designed to faithfully render the layout of a single column of text, consisting of multiple entries, surrounded by marginalia. Each entry is given a unique id and may contain zero or more marginal notes. The marginal notes are wrapped in `<ab>` tags. The editor may specify the arrangement of these notes relative to the entry using the `<margin>` tag. Valid values for the margin tag are:
@@ -41,6 +50,29 @@ Additional Notes:
 * If there are multiple notes with the same grid location, such as in folio 4v, they are rendered in the same grid location in the order they appear in the transcription.
 * Content in the main entry div will take up both the middle and the right columns unless there are notes in the right column.
 * Figures inherit the positioning of the `<ab>` block they are contained in.
+
+Other Resources and Derivative Versions
+---
+
+A number of resources are maintained in the Project's Github repository. Editorial Comments
+Glossary
+The source bibliographic metadata for the [Bibliography](/#content/resources/bibliography) is maintained in BibTeX and HTML formats in the Project’s [GitHub repository](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/bibliographies).
+Entry Metadata
+
+Derivative Versions
+allFolios
+entries
+txt
+
+
+
+
+Research and Scholarly Essays
+---
+
+All [essays](/#essays) are edited and maintained in the Project's Google Drive in order to best faciclitate the collaborative process. Each essay in the Drive has uniform organization and style to ensure consistency and allow for conversion to HTML and integration into this Edition. For persistent access, each essay has been assigned a Digital Object Identifier (DOI) and will also be archived in Columbia University [Academic Commons](https://academiccommons.columbia.edu/) and downloadable as standalone publications.
+
+Essay Metadata
 
 
 Static Site Generation
