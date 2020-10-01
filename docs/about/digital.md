@@ -59,7 +59,7 @@ A number of supplementary resources are maintained in the Project's Github repos
 - The [Glossary](/#folios/1r/f/1r/glossary) is similarly edited in a spreadsheet table by the Editorial Team and exported in CSV format for integration into the Edition.
 - The source bibliographic metadata for the [Bibliography](/#content/resources/bibliography) is maintained in BibTeX and HTML formats in the Project’s [GitHub repository](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/bibliographies).
 
-To facilitate reuse and analysis of the Project's edited and encoded text of Ms. Fr. 640, a number of files are generated from the XML folio files by the Project-developed [manuscript-object](https://github.com/cu-mkp/manuscript-object) Python tool. These include:
+To facilitate reuse and analysis of the Project's edited and encoded text of Ms. Fr. 640, files are provided in alternative formats including:
 - [allFolios](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/allFolios): for each version of the manuscript (diplomatic transcription, normalized transcription, and English translation), a single XML file containing each folio concatenated together
 - {entries](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/entries): for each version, every entry as a single file in both XML and TXT formats
 - [ms-txt](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/ms-txt): for each version, every folio as a single file in TXT format. 
@@ -69,7 +69,7 @@ Research and Scholarly Essays
 
 All [essays](/#essays) are edited and maintained in the Project's Google Drive in order to best faciclitate the collaborative process. Each essay in the Drive has uniform organization and style to ensure consistency and allow for conversion to HTML and integration into this Edition. For persistent access, each essay has been assigned a Digital Object Identifier (DOI) and will also be archived in Columbia University [Academic Commons](https://academiccommons.columbia.edu/) and downloadable as standalone publications.
 
-Essay Metadata
+IN PROGRESS - Because the essays  --Essay Metadata
 
 
 Static Site Generation
