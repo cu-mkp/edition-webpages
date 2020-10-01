@@ -1,12 +1,15 @@
 Digital Development of the Making and Knowing Website
 ======
 
-* Markup and Encoding (TODO)
+* Facsimile Images of Ms. Fr. 640 (Draft)
+* Markup and Encoding (Draft)
+* \[Use of the XML in the Edition\] (TODO) - Nick?
 * Layout of the Diplomatic (Draft)
-* Generating Entry Data (TODO)
+* Other Resources and Derivative Versions (Draft)
+* Research and Scholarly Essays (Draft)
 * Static Site Generation (Draft)
 
-Facsimile Images
+Facsimile Images of Ms. Fr. 640
 ---
 
 The digital facsimile images of Ms. Fr. 640 are provided by the BnF’s digital library, [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10500001g). They are integrated into the Edition through its IIIF Manifest, which relates the Project's transcription and translation of the manuscript to the corresponding Gallica folio images via the IIIF Presentation API.
@@ -23,11 +26,8 @@ The transcription, translation, and encoding of the manuscript were primarily ca
 
 The texts conform to a schema developed iteratively by the Project as the transcriptions and translation were revised and completed. While aimed to meet the specific needs of the Project, the custom schema is influenced by and derives much of its tagset from the [Text Encoding Initiative (TEI) Guidelines](https://tei-c.org/guidelines/P5/). The [schema](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/schema/ms-transcription.rng) is maintained in the Project repository. The [Principles of Encoding](/#content/resources/principles-encoding) provide a full description of the Project's tagset.
 
-
-
 \[Use of the XML in the Edition\] -- TO DO
 ---
-
 
 Layout of the Texts of Ms. Fr. 640
 ----
@@ -67,10 +67,9 @@ To facilitate reuse and analysis of the Project's edited and encoded text of Ms.
 Research and Scholarly Essays
 ---
 
-All [essays](/#essays) are edited and maintained in the Project's Google Drive in order to best faciclitate the collaborative process. Each essay in the Drive has uniform organization and style to ensure consistency and allow for conversion to HTML and integration into this Edition. For persistent access, each essay has been assigned a Digital Object Identifier (DOI) and will also be archived in Columbia University [Academic Commons](https://academiccommons.columbia.edu/) and downloadable as standalone publications.
+All [essays](/#essays) are edited and maintained in the Project's Google Drive in order to best faciclitate the collaborative process. Each essay in the Drive has uniform organization and style to ensure consistency and allow for conversion to HTML and integration into this Edition. The Research and Scholarly Essays are supplemented with additional information (including Project-assigned themes, associated entries, and citation information) in a spreadsheet table and exported in CSV format for integration into the Edition.
 
-IN PROGRESS - Because the essays  --Essay Metadata
-
+For persistent access, each essay has been assigned a Digital Object Identifier (DOI) and will also be archived in Columbia University [Academic Commons](https://academiccommons.columbia.edu/) and downloadable as standalone publications.
 
 Static Site Generation
 ------
