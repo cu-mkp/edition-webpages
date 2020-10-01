@@ -2,7 +2,7 @@ Digital Development of the Making and Knowing Website
 ======
 
 * Facsimile Images of Ms. Fr. 640 (Draft)
-* Markup and Encoding (Draft)
+* Markup and Encoding of the Text of Ms. Fr. 640 (Draft)
 * \[Use of the XML in the Edition\] (TODO) - Nick?
 * Layout of the Diplomatic (Draft)
 * Other Resources and Derivative Versions (Draft)
@@ -14,7 +14,7 @@ Facsimile Images of Ms. Fr. 640
 
 The digital facsimile images of Ms. Fr. 640 are provided by the BnF’s digital library, [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10500001g). They are integrated into the Edition through its IIIF Manifest, which relates the Project's transcription and translation of the manuscript to the corresponding Gallica folio images via the IIIF Presentation API.
 
-Markup and Encoding of Ms. Fr. 640
+Markup and Encoding of the Text of Ms. Fr. 640
 ---
 
 The [texts of Ms. Fr. 640](/#folios) are encoded in XML format and available in the [Project's Github repository](https://github.com/cu-mkp/m-k-manuscript-data). Each folio of the manuscript is represented as individual XML files in three versions: 
