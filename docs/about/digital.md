@@ -6,6 +6,20 @@ Digital Development of the Making and Knowing Website
 * Generating Entry Data (TODO)
 * Static Site Generation (Draft)
 
+Markup and Encoding
+---
+
+Texts of Fr. 640 are encoded in XML format and available in the [Project's Github repository](https://github.com/cu-mkp/m-k-manuscript-data). There are individual XML files for each folio of the manuscript in three versions: 
+1. Diplomatic: diplomatic (verbatim) transcription of the original French text
+2. Normalized: lightly normalized French transcription (with punctuation and diacritical marks added)
+3. Translation: English translation
+
+The transcription, translation, and encoding of the manuscript was primarily carried out in a series of paleography and text workshops (2014–2018) that brought together graduate students (already in possession of advanced French) to learn to read middle French script and gain experience in textual encoding. The XML files were then revised and finalized by Senior Project team members and the Digital Lead.
+
+The texts conform to a schema developed iteratively by the Project as the transcriptions and translation were revised and completed. While aimed to meet the specific needs of the Project, the custom schema is influenced by and derives much of its tagset from Text Encoding Initiative (TEI) Guidelines. The [schema](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/schema/ms-transcription.rng) is maintained in the Project repository.
+
+
+
 Layout of the Diplomatic
 ----
 
