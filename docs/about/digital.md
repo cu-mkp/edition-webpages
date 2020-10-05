@@ -1,6 +1,8 @@
 Digital Development of the Making and Knowing Website
 ======
 
+Intro summary: minimal computing, content and digital development at the same time - point towards essays
+
 * Facsimile Images of Ms. Fr. 640 (Draft)
 * Markup and Encoding of the Text of Ms. Fr. 640 (Draft)
 * \[Use of the XML in the Edition\] (TODO) - Nick?
