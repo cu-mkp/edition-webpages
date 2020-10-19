@@ -6,22 +6,22 @@ Special thank you to our [team members and collaborators](/#content/about/credit
 
 ## Marks Used in the Manuscript
 
-In addition to the figures listed below, there are a number of symbols used by the author-practitioner to denote standard measurements and metals. A few example entries are listed with each symbol, though there are many other instances throughout the text.
+In addition to the figures listed below, there are a number of symbols used by the author-practitioner to denote standard measurements and metals. An example entry is listed with each symbol, though there are many other instances throughout the text.
 
 | Symbol | Meaning                | Example                     |
 | ---------- | -------------------------- | ------------------------------------ |
-| ☉          | Gold                       | <http://unicode-table.com/en/2609/>  |
-| ☼          | Gold                       | <http://unicode-table.com/en/263C/>  |
-| ℥          | Ounce                      | <http://unicode-table.com/en/2125/>  |
-| ʒ          | Dram                       | <http://unicode-table.com/en/0292/>  |
-| ☿          | Mercury                    | <http://unicode-table.com/en/263F/>  |
-| ☾          | Silver (last quarter moon) | <http://unicode-table.com/en/263E/>  |
-| ♀          | Copper (Venus)             | <http://unicode-table.com/en/2640/>  |
-| ♁          | Antimony                   | <http://unicode-table.com/en/2641/>  |
-| X          | Insertion mark             | <https://unicode-table.com/en/0058/> |
-| \+         | Insertion mark             | <https://unicode-table.com/en/002B/> |
-| \#         | Insertion mark             | <https://unicode-table.com/en/0023/> |
-| 🝋          | Powder (Alchem.sign)       | <http://unicode-table.com/en/1F74B/> |
+| ☉          | Gold                       | [Fol. 52v: The work done in Algiers](/#folios/52v)  |
+| ☼          | Gold                       | [Fol. 8v: Perfect amalgam](/#folios/8v)  |
+| ℥          | Ounce                      | [Fol. 8v: Perfect amalgam](/#folios/8v)  |
+| ʒ          | Dram                       | [Fol. 8v: Perfect amalgam](/#folios/8v)  |
+| ☿          | Mercury                    | [Fol. 8v: Perfect amalgam](/#folios/8v)  |
+| ☾          | Silver (last quarter moon) | [Fol. 8v: Perfect amalgam](/#folios/8v)  |
+| ♀          | Copper (Venus)             | [Fol. 8v: Perfect amalgam](/#folios/8v)  |
+| ♁          | Antimony                   | [Fol. 8v: Perfect amalgam](/#folios/8v)  |
+| X          | Insertion mark             | [Fol. 8v: Perfect amalgam](/#folios/8v) |
+| \+         | Insertion mark             | [Fol. 8v: Perfect amalgam](/#folios/8v) |
+| \#         | Insertion mark             | [Fol. 8v: Perfect amalgam](/#folios/8v) |
+| 🝋          | Powder (Alchem.sign)       | [Fol. 8v: Perfect amalgam](/#folios/8v) |
 
 ## Figures in the Manuscript
 
