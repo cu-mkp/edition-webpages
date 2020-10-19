@@ -12,7 +12,7 @@ In addition to the figures listed below, there are a number of symbols used by t
 | ---------- | -------------------------- | ------------------------------------ |
 | ☉          | Gold                       | [Fol. 52v: The work done in Algiers](/#folios/52v)  |
 | ☼          | Gold                       | [Fol. 8v: Perfect amalgam](/#folios/8v)  |
-| ℥          | Ounce                      | [Fol. 8v: Perfect amalgam](/#folios/8v)  |
+| ℥          | Ounce                      | [Fol. 10r: Powder for hourglasses](/#folios/10r)  |
 | ʒ          | Dram                       | [Fol. 8v: Perfect amalgam](/#folios/8v)  |
 | ☿          | Mercury                    | [Fol. 8v: Perfect amalgam](/#folios/8v)  |
 | ☾          | Silver (last quarter moon) | [Fol. 8v: Perfect amalgam](/#folios/8v)  |
