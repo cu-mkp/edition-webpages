@@ -4,6 +4,27 @@ Ms. Fr. 640 contains a number of sketches made by its anonymous author-practitio
 
 Special thank you to our [team members and collaborators](/#content/about/credits): Philip Cherian for scanning the folios of the manuscript, page by page, to find all figures and create individual image files; Melissa Reynolds for captioning and identifying each figure; and Pamela H. Smith, Tianna Helena Uchacz, and Naomi Rosenkranz for final revisions, editing, and formatting.
 
+## Marks Used in the Manuscript
+
+In addition to the figures listed below, there are a number of symbols used by the author-practitioner to denote standard measurements and metals. A few example entries are listed with each symbol, though there are many other instances throughout the text.
+
+| Symbol | Meaning                | Example                     |
+| ---------- | -------------------------- | ------------------------------------ |
+| ☉          | Gold                       | <http://unicode-table.com/en/2609/>  |
+| ☼          | Gold                       | <http://unicode-table.com/en/263C/>  |
+| ℥          | Ounce                      | <http://unicode-table.com/en/2125/>  |
+| ʒ          | Dram                       | <http://unicode-table.com/en/0292/>  |
+| ☿          | Mercury                    | <http://unicode-table.com/en/263F/>  |
+| ☾          | Silver (last quarter moon) | <http://unicode-table.com/en/263E/>  |
+| ♀          | Copper (Venus)             | <http://unicode-table.com/en/2640/>  |
+| ♁          | Antimony                   | <http://unicode-table.com/en/2641/>  |
+| X          | Insertion mark             | <https://unicode-table.com/en/0058/> |
+| \+         | Insertion mark             | <https://unicode-table.com/en/002B/> |
+| \#         | Insertion mark             | <https://unicode-table.com/en/0023/> |
+| 🝋          | Powder (Alchem.sign)       | <http://unicode-table.com/en/1F74B/> |
+
+## Figures in the Manuscript
+
 | Folio, Entry                                                                                                                 | Figure                                                                                                                                                                                                                                                                                                                                                            | Description                                                                                                         |
 |------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | [Fol. 3v: Thick varnish for planks](/#folios/3v)                                                                             | <a href="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p003v_1.png" target="_blank"><img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/bnf-figures/p003v_1.png" alt="Distillation vessel" width="250"></a>                                                                                                 | Distillation vessel                                                                                                 |
