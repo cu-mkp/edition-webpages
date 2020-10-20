@@ -10,18 +10,18 @@ In addition to the figures listed below, there are a number of symbols used by t
 
 | Symbol | Meaning                | Example                     |
 | ---------- | -------------------------- | ------------------------------------ |
-| ☉          | Gold                       | [Fol. 166v: Softening gold](/#folios/166v)  |
-| ☼          | Gold                       | [Fol. 135v: Casting in ☀](/#folios/135v)  |
+| ☉          | Gold (Sun)                      | [Fol. 166v: Softening gold](/#folios/166v)  |
+| ☼          | Gold (Sun)                       | [Fol. 135v: Casting in ☼](/#folios/135v)  |
 | ℥          | Ounce                      | [Fol. 10r: Powder for hourglasses](/#folios/10r)  |
 | ʒ          | Dram                       | [Fol. 7v: Against gonorrhea](/#folios/7v)  |
-| ☿          | Mercury                    | [Fol. 117v: For making the ashes of flowers and plants leave molds](/#folios/117v)  |
+| ☿          | Mercury (Mercury)           | [Fol. 117v: For making the ashes of flowers and plants leave molds](/#folios/117v)  |
 | ☾          | Silver, Moon (last quarter moon) | [Fol. 86v: Excellent sand for lead, tin, and copper](/#folios/86v)  |
 | ♀          | Copper (Venus)             | [Fol. 8v: Perfect amalgam](/#folios/8v)  |
-| ♁          | Antimony                   | [Fol. 52v: The work done in Algiers](/#folios/52v) |
+| ♁          | Antimony (Earth)                   | [Fol. 52v: The work done in Algiers](/#folios/52v) |
 | X          | Insertion mark             | [Fol. 33r: For relighting an extinguished candle between your hands without blowing](/#folios/33r) |
 | \+         | Insertion mark             | [Fol. 3r: Counterfeit coral](/#folios/3r) |
 | \#         | Insertion mark             | [Fol. 45r: Loading an arquebus with hail shot](/#folios/45r) |
-| 🝋          | Insertion mark, Powder      | [Fol. 124v: A means to make the gate for small female lizards](/#folios/124v) |
+| 🝋          | Insertion mark (Powder)      | [Fol. 124v: A means to make the gate for small female lizards](/#folios/124v) |
 
 ## Figures in the Manuscript
 
