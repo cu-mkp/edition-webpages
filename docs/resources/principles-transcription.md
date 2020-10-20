@@ -74,17 +74,17 @@ facsimile.
 
 | **Symbol** | **Meaning**                | **Unicode reference**                |
 | ---------- | -------------------------- | ------------------------------------ |
-| ☉          | Gold                       | <http://unicode-table.com/en/2609/>  |
-| ☼          | Gold                       | <http://unicode-table.com/en/263C/>  |
+| ☉          | Gold (Sun)                       | <http://unicode-table.com/en/2609/>  |
+| ☼          | Gold (Sun)                     | <http://unicode-table.com/en/263C/>  |
 | ℥          | Ounce                      | <http://unicode-table.com/en/2125/>  |
 | ʒ          | Dram                       | <http://unicode-table.com/en/0292/>  |
-| ☿          | Mercury                    | <http://unicode-table.com/en/263F/>  |
-| ☾          | Silver (last quarter moon) | <http://unicode-table.com/en/263E/>  |
+| ☿          | Mercury (Mercury)                    | <http://unicode-table.com/en/263F/>  |
+| ☾          | Silver, Moon (last quarter moon) | <http://unicode-table.com/en/263E/>  |
 | ♀          | Copper (Venus)             | <http://unicode-table.com/en/2640/>  |
-| ♁          | Antimony                   | <http://unicode-table.com/en/2641/>  |
+| ♁          | Antimony (Earth)                   | <http://unicode-table.com/en/2641/>  |
 | X          | Insertion mark             | <https://unicode-table.com/en/0058/> |
 | \+         | Insertion mark             | <https://unicode-table.com/en/002B/> |
 | \#         | Insertion mark             | <https://unicode-table.com/en/0023/> |
-| 🝋          | Powder (Alchem.sign)       | <http://unicode-table.com/en/1F74B/> |
+| 🝋          | Insertion mark (Powder)     | <http://unicode-table.com/en/1F74B/> |
 
 See <http://unicode-table.com/en/>
