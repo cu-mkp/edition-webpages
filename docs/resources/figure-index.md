@@ -18,9 +18,13 @@ In addition to the figures listed below, there are a number of symbols used by t
 | ☾          | Silver, Moon (last quarter moon) | [Fol. 86v: Excellent sand for lead, tin, and copper](/#folios/86v)  |
 | ♀          | Copper (Venus)             | [Fol. 8v: Perfect amalgam](/#folios/8v)  |
 | ♁          | Antimony (Earth)                   | [Fol. 52v: The work done in Algiers](/#folios/52v) |
-| X          | Insertion mark             | [Fol. 33r: For relighting an extinguished candle between your hands without blowing](/#folios/33r) |
-| \+         | Insertion mark             | [Fol. 3r: Counterfeit coral](/#folios/3r) |
-| \#         | Insertion mark             | [Fol. 45r: Loading an arquebus with hail shot](/#folios/45r) |
+| ℞          | Recipe (From the Latin, "take")        | [Fol. 83r: Sand for lead](/#folios/83r) |
+| ◯         | Circle             | [Fol. 17v: On the gunner](/#folios/17v) |
+| X          | Insertion mark (X)             | [Fol. 33r: For relighting an extinguished candle between your hands without blowing](/#folios/33r) |
+| \+         | Insertion mark (Plus sign)             | [Fol. 3r: Counterfeit coral](/#folios/3r) |
+| \#         | Insertion mark (Hash)             | [Fol. 45r: Loading an arquebus with hail shot](/#folios/45r) |
+| ʘ          | Insertion mark (Bullseye)            | [Fol. 106v: Plaster](/#folios/106v) |
+| 🜊          | Insertion mark (Vinegar)            | [Fol. 129v: Spider molded on a leaf](/#folios/129v) |
 | 🝋          | Insertion mark (Powder)      | [Fol. 124v: A means to make the gate for small female lizards](/#folios/124v) |
 
 ## Figures in the Manuscript
