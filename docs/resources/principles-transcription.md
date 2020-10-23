@@ -72,19 +72,24 @@ facsimile.
 
 ### Marks Used in the Manuscript
 
-| **Symbol** | **Meaning**                | **Unicode reference**                |
+| Symbol | Meaning                | Unicode reference                    |
 | ---------- | -------------------------- | ------------------------------------ |
-| ☉          | Gold (Sun)                       | <http://unicode-table.com/en/2609/>  |
-| ☼          | Gold (Sun)                     | <http://unicode-table.com/en/263C/>  |
-| ℥          | Ounce                      | <http://unicode-table.com/en/2125/>  |
-| ʒ          | Dram                       | <http://unicode-table.com/en/0292/>  |
-| ☿          | Mercury (Mercury)                    | <http://unicode-table.com/en/263F/>  |
+| ☉          | Gold (Sun)   | <http://unicode-table.com/en/2609/>  |
+| ☼          | Gold (Sun)   | <http://unicode-table.com/en/263C/>  |
+| ℥          | Ounce   | <http://unicode-table.com/en/2125/>  |
+| ʒ          | Dram  | <http://unicode-table.com/en/0292/>  |
+| ☿          | Mercury (Mercury)   | <http://unicode-table.com/en/263F/>  |
 | ☾          | Silver, Moon (last quarter moon) | <http://unicode-table.com/en/263E/>  |
-| ♀          | Copper (Venus)             | <http://unicode-table.com/en/2640/>  |
-| ♁          | Antimony (Earth)                   | <http://unicode-table.com/en/2641/>  |
-| X          | Insertion mark             | <https://unicode-table.com/en/0058/> |
-| \+         | Insertion mark             | <https://unicode-table.com/en/002B/> |
-| \#         | Insertion mark             | <https://unicode-table.com/en/0023/> |
-| 🝋          | Insertion mark (Powder)     | <http://unicode-table.com/en/1F74B/> |
+| ♀          | Copper (Venus) | <http://unicode-table.com/en/2640/>  |
+| ♁          | Antimony (Earth)  | <http://unicode-table.com/en/2641/> |
+| ℞          | Recipe (From the Latin, "take")        | <https://unicode-table.com/en/211E/> |
+| ◯         | Circle    | <https://unicode-table.com/en/25EF/> |
+| X          | Insertion mark (X)   | <https://unicode-table.com/en/0058/> |
+| \+         | Insertion mark (Plus sign) | <https://unicode-table.com/en/002B/> |
+| \#         | Insertion mark (Hash mark)  | <https://unicode-table.com/en/0023/> |
+| ʘ          | Insertion mark (Bullseye)  | <https://unicode-table.com/en/0298/> |
+| 🜊          | Insertion mark (Vinegar) | <https://unicode-table.com/en/1F70A/> |
+| 🝋          | Insertion mark (Powder)  | <http://unicode-table.com/en/1F74B/> |
+
 
 See <http://unicode-table.com/en/>
