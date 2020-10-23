@@ -22,7 +22,7 @@ In addition to the figures listed below, there are a number of symbols used by t
 | ◯         | Circle             | [Fol. 17v: On the gunner](/#folios/17v) |
 | X          | Insertion mark (X)             | [Fol. 33r: For relighting an extinguished candle between your hands without blowing](/#folios/33r) |
 | \+         | Insertion mark (Plus sign)             | [Fol. 3r: Counterfeit coral](/#folios/3r) |
-| \#         | Insertion mark (Hash)             | [Fol. 45r: Loading an arquebus with hail shot](/#folios/45r) |
+| \#         | Insertion mark (Hash mark)             | [Fol. 45r: Loading an arquebus with hail shot](/#folios/45r) |
 | ʘ          | Insertion mark (Bullseye)            | [Fol. 106v: Plaster](/#folios/106v) |
 | 🜊          | Insertion mark (Vinegar)            | [Fol. 129v: Spider molded on a leaf](/#folios/129v) |
 | 🝋          | Insertion mark (Powder)      | [Fol. 124v: A means to make the gate for small female lizards](/#folios/124v) |
