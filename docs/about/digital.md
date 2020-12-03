@@ -5,7 +5,7 @@ Intro summary: minimal computing, content and digital development at the same ti
 
 * Facsimile Images of Ms. Fr. 640 (Draft)
 * Markup and Encoding of the Text of Ms. Fr. 640 (Draft)
-* \[Use of the XML in the Edition\] (TODO) - Nick?
+* Use of the XML in the Edition (Draft)
 * Layout of the Diplomatic (Draft)
 * Other Resources and Derivative Versions (Draft)
 * Research and Scholarly Essays (Draft)
@@ -28,8 +28,40 @@ The transcription, translation, and encoding of the manuscript were primarily ca
 
 The texts conform to a schema developed iteratively by the Project as the transcriptions and translation were revised and completed. While aimed to meet the specific needs of the Project, the custom schema is influenced by and derives much of its tagset from the [Text Encoding Initiative (TEI) Guidelines](https://tei-c.org/guidelines/P5/). The [schema](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/schema/ms-transcription.rng) is maintained in the Project repository. The [Principles of Encoding](/#content/resources/principles-encoding) provide a full description of the Project's tagset.
 
-\[Use of the XML in the Edition\] -- TO DO
+Use of the XML in the Edition
 ---
+The XML encoded in the paleography and text workshops and painstakingly revised by the editorial team over the course of the project, is stored in a GitHub repository. The XML markup drives a number of important functions of the digital edition:
+
+* It specifies the layout of each page exactly, so that it can easily compared with an image of the original
+* It encodes transcription marks such as deletions, insertions, and gaps in the text.
+* It encodes editorial notes that contextualize the choices made in transcription and offer immediate insight into the lanuage of the period.
+* It cross references concepts such as materials used in an entry, names of plants and animals.
+* It links entries to the scholarly essays provided on the Making and Knowing website.
+* It embeds close up shots of certain parts of the manuscript which are diagrams, icons, and other non-textual elements.
+
+To convert all of this information into HTML and JSON, as well as to index the material for search, we created a tool called the Lizard. Lizard is named after one of the more popular doodles found in the manuscript that is also in the project logo. It is a command line tool that performs these functions to generate the static content of the site. Here are some of the functions you can do with Lizard:
+
+```
+$ scripts/lizard.js help
+Usage: lizard.js <command> <target>
+A helpful lizard that responds to the following <command>s:
+        download-thumbs: Download essay thumbnails from Google Drive via rclone.
+        download: Download only essays marked with 'refresh'.
+        process: Process the downloaded files and place them on the asset server.
+        manifest: Create the IIIF Manifest and associated files.
+        assets: Process the manuscript data and edition webpages and index them.
+        figures: Copy the manuscript figures into the target directory.
+        env: Create the environment files for development and production.
+        index: Create a search index of the essays.
+        run: Download, process, manifest, assets, figures, env, and index.
+        init: Download all, download thumbs, and run.
+        help: Displays this help. 
+<target> is the target key from the edition_data/config.json file. Defaults to 'local'.
+```
+
+Once Lizard has done its job, the generated site is then packaged up and sent to a web server. We used Amazon Web Services (AWS) for hosting the edition. The files are uploaded to an AWS S3 Bucket for display on the web. Each build has a unique ID, so it easy to roll back to a previous version.
+
+For a more technical review of these functions, please see the project README on GitHub: https://github.com/cu-mkp/making-knowing-edition .
 
 Layout of the Texts of Ms. Fr. 640
 ----
