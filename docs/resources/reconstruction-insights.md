@@ -12,7 +12,7 @@ Students explored early modern materials, such as alabaster sand, and other sand
 
 Gans, [Excellent Sand from Alabaster](/#essays/ann_016_sp_15)
 
-Cataldo/van Visco, “*Eau Magistra*,” http://edition640.makingandknowing.org/#/essays/ann_011_fa_14
+Cataldo/van Visco, [*Eau Magistra*] (/#essays/ann_011_fa_14)
 
 Carslon/Katz, “Casting in Frames,” http://edition640.makingandknowing.org/#/essays/ann_010_fa_14
 
