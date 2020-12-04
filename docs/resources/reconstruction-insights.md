@@ -3,14 +3,14 @@
 
 From 2014 through 2019, the Making and Knowing Project team along with students in the Craft and Science courses reconstructed a large number of the techniques and processes found in the ca. 930 entries of Ms. Fr. 640. This reconstruction involved conventional historical textual research, object-based study, and hands-on experiments in the Making and Knowing Lab. The students’ reconstructions provided the information and evidence for their essays, which form the critical commentary of this Edition. All student research also had the goal of building material and technical awareness.
 
-The essays listed below showcase the research and insights gained from the reconstructions. Additional context for the Making and Knowing Project’s reconstructions can be found in Pamela H. Smith, “Making the Edition,” http://edition640.makingandknowing.org/#/essays/ann_329_ie_19, and additional information about the Project’s reconstruction methods is provided by Joel A. Klein, “Methodologies for Making and Knowing: Reconstructions for Historical Research” http://edition640.makingandknowing.org/#/essays/ann_322_ie_19.
+The essays listed below showcase the research and insights gained from the reconstructions. Additional context for the Making and Knowing Project’s reconstructions can be found in Pamela H. Smith, [Making the Edition](/#essays/ann_329_ie_19], and additional information about the Project’s reconstruction methods is provided by Joel A. Klein, [Methodologies for Making and Knowing: Reconstructions for Historical Research](/#essays/ann_322_ie_19).
 
 ## Materials
 Students explored early modern materials, such as alabaster sand, and other sands (or, powders) for molding, imitation coral, lute varnish, sand for hourglasses, a blue pigment called *azur d’esmail*, dragon’s blood, black sulfured wax, wax for seals, and fish glue, among many others:
 
 ### Molding sands
 
-Gans, “Excellent Sand from Alabaster,” http://edition640.makingandknowing.org/#/essays/ann_016_sp_15
+Gans, [Excellent Sand from Alabaster](/#essays/ann_016_sp_15)
 
 Cataldo/van Visco, “*Eau Magistra*,” http://edition640.makingandknowing.org/#/essays/ann_011_fa_14
 
