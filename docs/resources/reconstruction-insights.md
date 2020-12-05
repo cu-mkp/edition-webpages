@@ -76,7 +76,7 @@ There are only a handful of culinary recipes in the manuscript, but students rec
 
 Mellon, [Excellent Mustard](/#essays/ann_008_fa_14)
 
-Chiostrini/Palframan, “Making Millet Bread,” http://edition640.makingandknowing.org/#/essays/ann_014_sp_15
+Chiostrini/Palframan, [Making Millet Bread](/#essays/ann_023_sp_15)
 
 Durkin/Smith, [Molding Fruits and Animals in Sugar](/#essays/ann_017_sp_15)
 
@@ -116,13 +116,13 @@ Landsman/Rowen, [Molding a Hollow on One Side and in Relief on the Other](/#essa
 
 Groeneveld/Nuij, “Molding a Hollow on One Side and in Relief on the Other II,” https://edition640.makingandknowing.org/#/essays/ann_508_ad_20
 
-Noirot, “Molding, Modeling, Repairing,” https://edition640.makingandknowing.org/#/essays/ann_504_ad_20
+Noirot, [Molding, Modeling, Repairing](/#/essays/ann_504_ad_20) 
 
 Chiostrini/Palframan, [Molding a Rose](/#essays/ann_022_sp_15)
 
 Fu/Zhang/Smith, [Molding Grasshoppers](/#essays/ann_013_sp_15)
 
-Chiostrini/Palframan, “Founders of Small Tin Work,” http://edition640.makingandknowing.org/#/essays/ann_023_sp_15
+Chiostrini/Palframan, [Founders of Small Tin Works](/#essays/ann_014_sp_15)
 
 Carlson/Katz/Gokturk, [Molding Paper with Raised Letters](/#essays/ann_005_fa_14)
 
@@ -134,9 +134,9 @@ Boyd/Palframan/Smith, "Molding with Cuttlefish Bone," https://edition640.makinga
 
 ### Painting on taffeta
 
-Bowen/Lou, “Painting in Oil on Taffeta I,” http://edition640.makingandknowing.org/#/essays/ann_025_fa_15
+Bowen/Lou, [Painting in Oil on Taffeta I](/#essays/ann_024_fa_15)
 
-Bowen/Ou, “Painting in Oil on Taffeta Without the Oil Running,” http://edition640.makingandknowing.org/#/essays/ann_024_fa_15
+Bowen/Ou, [Painting in Oil on Taffeta Without the Oil Running](#essays/ann_025_fa_15)
 
 Yar, [Painting in Oil on Taffeta II](/#essays/ann_062_fa_17)
 
@@ -222,7 +222,7 @@ Cataldo/van Visco, [*Eau Magistra*](/#essays/ann_011_fa_14)
 
 Boulboullé/Stols-Witlox, [*Corps* in Ms. Fr. 640](/#essays/ann_307_ie_19)
 
-Boyd/Palframan/Smith, “Making Gold Run for Casting,” https://edition640.makingandknowing.org/#/essays/ann_502_ad_20
+Boyd/Palframan/Smith, [Making Gold Run for Casting](/#essays/ann_505_ad_20)
 
 Boyd/Palframan/Smith, [Molding with Cuttlefish Bone](/#essays/ann_506_ad_20)
 
@@ -284,7 +284,7 @@ Carlson/Katz, [Molded Roses](/#essays/ann_003_fa_14)
 
 Fu/Zhang/Smith, [Molding Grasshoppers](/#essays/ann_013_sp_15)
 
-Sellar, “Keeping Dry Flowers,” http://edition640.makingandknowing.org/#/essays/nn_049_fa_16
+Sellar, [Keeping Dry Flowers](/#essays/ann_049_fa_16)
 
 Anantharaman/Smith, [Animals Dried in an Oven](/#essays/ann_502_ad_20)
 
@@ -299,9 +299,9 @@ The central preoccupation of the author-practitioner that emerged from the Proje
 
 Chessa, [Counterfeit Coral](/#essays/ann_015_sp_15)
 
-Kremnitzer/Shah/Smith, “Gemstones and Imitation,” http://edition640.makingandknowing.org/#/essays/ann_081_fa_15
+Kremnitzer/Shah/Smith, [Gemstones and Imitation](/#essays/ann_029_fa_15)
 
-Shah, “Imitation Emeralds,” http://edition640.makingandknowing.org/#/essays/ann_081_fa_15
+Shah, [Imitation Emeralds](/#essays/ann_081_fa_15)
 
 Estrades, [Jasper Imitation on Horn](/#essays/ann_028_fa_15)
 
@@ -326,4 +326,4 @@ Zhao, [Reverse Painting on Glass](/#essays/ann_027_fa_15)
 
 Ndungu, [What is *or mat*?](/#essays/ann_041_sp_16)
 
-Boyd/Palframan/Smith, “Making Gold Run for Casting,” https://edition640.makingandknowing.org/#/essays/ann_502_ad_20
+Boyd/Palframan/Smith, [Making Gold Run for Casting](/#essays/ann_505_ad_20)
