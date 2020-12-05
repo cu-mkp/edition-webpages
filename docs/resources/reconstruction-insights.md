@@ -34,11 +34,11 @@ Olson, [Wax for Seal](/#essays/ann_077_fa_18)
 
 Wang, [Making and Using Fish Glue](/#essays/ann_056_sp_17)
 
-Marris/Pope, [Powder for Hourglasses](#essays/ann_021_sp_15)
+Marris/Pope, [Powder for Hourglasses](/#essays/ann_021_sp_15)
 
 ### Blue pigments
 
-Chang, [What is *Esmail* in Ms. Fr. 640?](#essays/ann_038_sp_16)
+Chang, [What is *Esmail* in Ms. Fr. 640?](/#essays/ann_038_sp_16)
 
 Garris, [What is *Azur* in Ms. Fr. 640?](/#essays/ann_060_fa_17)
 
@@ -90,7 +90,7 @@ Liu, [Collecting Cures in an Artisanal Manuscript](/#essays/ann_057_sp_17)
 
 Liu, [Medicinal Plaster](/#essays/ann_079_sp_17)
 
-Liu, [Salve for Burns](#essays/ann_080_sp_17)
+Liu, [Salve for Burns](/#essays/ann_080_sp_17)
 
 Liu, [Acid as Dental Cleanser](/#essays/ann_058_sp_17)
 
@@ -258,72 +258,72 @@ Especially interesting has been the insight provided by reconstruction into the 
 
 ### Qualitative material categories
 
-Lee/Smith, “Lean Sands and Fat Binders,” http://edition640.makingandknowing.org/#/essays/ann_009_fa_14
+Lee/Smith, [Lean Sands and Fat Binders](/#essays/ann_009_fa_14)
 
-Wang/Smith, “Fat, Lean, Sweet, Sour: Sand of Ox Bone and Rock Salt,” http://edition640.makingandknowing.org/#/essays/ann_012_fa_14
+Wang/Smith, [Fat, Lean, Sweet, Sour: Sand of Ox Bone and Rock Salt](/#essays/ann_012_fa_14)
 
-Buckley, “Tin and its Uses,” http://edition640.makingandknowing.org/#/essays/ann_070_fa_18
+Buckley, [Tin and its Uses](/#essays/ann_070_fa_18)
 
 ### Material metaphors
 
-Landsman/Rowen, “Uses of Sulfur for Casting,” http://edition640.makingandknowing.org/#/essays/ann_007_fa_14
+Landsman/Rowen, [Uses of Sulfur for Casting](/#essays/ann_007_fa_14)
 
-Le Pouésard, “Bread as Mediating Material,” http://edition640.makingandknowing.org/#/essays/ann_050_fa_16
+Le Pouésard, [Bread as Mediating Material](/#essays/ann_050_fa_16)
 
 ### The animate world
 
-Cataldo/van Visco, “Wax and Tallow,” http://edition640.makingandknowing.org/#/essays/ann_001_fa_14
+Cataldo/van Visco, [Wax and Tallow](/#essays/ann_001_fa_14)
 
-Chiostrini/Palframan, “Molding a Rose,” http://edition640.makingandknowing.org/#/essays/ann_022_sp_15
+Chiostrini/Palframan, [Molding a Rose](#essays/ann_022_sp_15)
 
-Liu, “Salve for Burns,” http://edition640.makingandknowing.org/#/essays/ann_080_sp_17
+Liu, [Salve for Burns](/#essays/ann_080_sp_17)
 
 ### Ephemerality and preservation
 
-Carlson/Katz, “Molded Roses,” http://edition640.makingandknowing.org/#/essays/ann_003_fa_14
+Carlson/Katz, [Molded Roses](/#essays/ann_003_fa_14)
 
-Fu/Zhang/Smith, “Molding Grasshoppers,” http://edition640.makingandknowing.org/#/essays/ann_013_sp_15
+Fu/Zhang/Smith, [Molding Grasshoppers](/#essays/ann_013_sp_15)
 
 Sellar, “Keeping Dry Flowers,” http://edition640.makingandknowing.org/#/essays/nn_049_fa_16
 
-Anantharaman/Smith, “Animals Dried in an Oven,” https://edition640.makingandknowing.org/#/essays/ann_502_ad_20
+Anantharaman/Smith, [Animals Dried in an Oven](/#essays/ann_502_ad_20)
 
 ### Vernacular taxonomies
 
-Marris/Pope, “Sand Molds of Ox Bone, Wine, and Elm Root,” http://edition640.makingandknowing.org/#/essays/ann_020_sp_15
+Marris/Pope, [Sand Molds of Ox Bone, Wine, and Elm Root](/#essays/ann_020_sp_15)
 
-Jiang, “What is Stone?” http://edition640.makingandknowing.org/#/essays/ann_075_fa_18
+Jiang, [What is Stone?](/#essays/ann_075_fa_18)
 
 ## Artifice
 The central preoccupation of the author-practitioner that emerged from the Project’s research was that of creating artificial materials. This overarching concern with artifice reveals the imitation of nature by the human hand as an essential mode of investigating nature and natural materials through the crafting of objects. In the years that the Project focused on techniques for coloring diverse materials and on “ephemeral art” (temporary art for civic and court festivals), students reconstructed many artificial materials, such as emeralds and other precious stones, imitation jasper, marbled wood, imitation rouge clair, imitation damask cloth, and “color of gold without gold.”
 
-Chessa, “Counterfeit Coral,” http://edition640.makingandknowing.org/#/essays/ann_015_sp_15
+Chessa, [Counterfeit Coral](/#essays/ann_015_sp_15)
 
 Kremnitzer/Shah/Smith, “Gemstones and Imitation,” http://edition640.makingandknowing.org/#/essays/ann_081_fa_15
 
 Shah, “Imitation Emeralds,” http://edition640.makingandknowing.org/#/essays/ann_081_fa_15
 
-Estrades, “Jasper Imitation on Horn,” http://edition640.makingandknowing.org/#/essays/ann_028_fa_15
+Estrades, [Jasper Imitation on Horn](/#essays/ann_028_fa_15)
 
-Lores-Chavez, “Imitating Raw Nature,” http://edition640.makingandknowing.org/#/essays/ann_045_fa_16
+Lores-Chavez, [Imitating Raw Nature](/#essays/ann_045_fa_16)
 
-Soley, “Imitation Marble,” http://edition640.makingandknowing.org/#/essays/ann_040_sp_16
+Soley, [Imitation Marble](/#essays/ann_040_sp_16)
 
-Shi/Chang, “Rouge Clair: Glass or Paint?” http://edition640.makingandknowing.org/#/essays/ann_034_sp_16
+Shi/Chang, [Rouge Clair: Glass or Paint?](/#essays/ann_034_sp_16)
 
-Yi, “Damasked Cloth,” http://edition640.makingandknowing.org/#/essays/ann_031_fa_15
+Yi, [Damasked Cloth](/#essays/ann_031_fa_15)
 
-Foyer, “Color of Gold without Gold on Silver,” http://edition640.makingandknowing.org/#/essays/ann_032_fa_15
+Foyer, [Color of Gold without Gold on Silver](/#essays/ann_032_fa_15)
 
-Mukherjee, “Varied and Transmuted Wine,” https://edition640.makingandknowing.org/#/essays/ann_512_ad_20
+Mukherjee, [Varied and Transmuted Wine](/#essays/ann_512_ad_20)
 
 ## Reading and Doing
 The Project has taught all its many participants how much information the reconstruction of technical recipes can yield. One of the most important results of reconstruction was gaining a new level of understanding of the recipes. By the constant moving between manuscript and hands-on experimentation, we gained an understanding of the manuscript that would not have been possible by simply reading through it in a linear way (which, given the extreme non-linearity of the text and its contents, would have been near impossible in any case). We have also learned from our hands-on historical research that reconstruction-based investigations can provide another window into artisanal workshop practices, but it can also make us aware of our inevitable “modern framings” or “lenses” through which we tend to look at the material world of the early modern period. Our research in materials suggests the inadequacy of some modern classifications to convey, not only the variety of that early modern material world, but also the ways in which practitioners thought with and through their materials and experiences to form hypotheses, taxonomies, and knowledge systems.
 
 ### Questioning modern classifications
 
-Zhao, “Reverse Painting on Glass,” http://edition640.makingandknowing.org/#/essays/ann_027_fa_15
+Zhao, [Reverse Painting on Glass](/#essays/ann_027_fa_15)
 
-Ndungu, “What is *or mat*?” http://edition640.makingandknowing.org/#/essays/ann_041_sp_16
+Ndungu, [What is *or mat*?](/#essays/ann_041_sp_16)
 
 Boyd/Palframan/Smith, “Making Gold Run for Casting,” https://edition640.makingandknowing.org/#/essays/ann_502_ad_20
