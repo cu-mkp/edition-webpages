@@ -30,7 +30,7 @@ The texts conform to a schema developed iteratively by the Project as the transc
 
 Use of the XML in the Edition
 ---
-The XML encoded in the paleography and text workshops and painstakingly revised by the editorial team over the course of the project, is stored in the [ms-xml/ directory](https://github.com/cu-mkp/m-k-manuscript-data/ms-xml) of the Project's Github repository. The XML markup drives a number of important functions of the digital edition:
+The XML files encoded during the paleography and text workshops and painstakingly revised by the editorial team over the course of the project are stored in the [ms-xml/ directory](https://github.com/cu-mkp/m-k-manuscript-data/ms-xml) of the Project's Github repository. The XML markup drives a number of important functions of the Edition:
 
 * It organizes the manuscript text into the component entries with Project-assigned unique identifiers and thematic categories
 * It specifies the relative positions of the textual blocks on each page to approximate the layout of the original manuscript
@@ -39,7 +39,7 @@ The XML encoded in the paleography and text workshops and painstakingly revised 
 * It labels segments of text related to concepts of interests to the Project, such as materials, tools, plants, and animals mentioned in an entry
 * It encodes editorial notes that provide additional information, such as historical context, technical and material explanations, and transcription and translation decisions
 
-All of this information is converted into HTML and JSON as well as into a search index using the tool we created called the Lizard. Lizard is named after one of the more popular doodles found in the manuscript that is also in the project logo. It is a command line tool that performs these functions to generate the static content of the site. Here are some of the functions you can do with Lizard:
+All of this information is converted into HTML and JSON as well as complied into a search index by "Lizard," a command line tool that performs these functions to generate the static content of the site. Lizard is named after one of the more popular figures found on fol. [124v](/#folios/124v) that also serves as the Project's logo. Some of Llizard's functions include:
 
 ```
 $ scripts/lizard.js help
@@ -59,16 +59,16 @@ A helpful lizard that responds to the following <command>s:
 <target> is the target key from the edition_data/config.json file. Defaults to 'local'.
 ```
 
-Once Lizard has done its job, the generated site is then packaged up and sent to a web server. We used Amazon Web Services (AWS) for hosting the edition. The files are uploaded to an AWS S3 Bucket for display on the web. Each build has a unique ID, so it easy to roll back to a previous version.
+Once Lizard has done its job, the generated site is then packaged up and sent to a web server, currently hosted on Amazon Web Services (AWS). The files are uploaded to an AWS S3 Bucket for display on the web. Each build has a unique ID, so it easy to roll back to a previous version.
 
-For a more technical review of these functions, please see the project README on GitHub: https://github.com/cu-mkp/making-knowing-edition .
+For a more technical review of these functions, please see the README in the [Github repository of the Edition's software](https://github.com/cu-mkp/making-knowing-edition).
 
 Layout of the Texts of Ms. Fr. 640
 ----
 
 The Making and Knowing Grid Layout is a rendering scheme is designed to faithfully render the layout of a single column of text, consisting of multiple entries, surrounded by marginalia. Each entry is given a unique id and may contain zero or more marginal notes. The marginal notes are wrapped in `<ab>` tags. The editor may specify the arrangement of these notes relative to the entry using the `<margin>` tag. Valid values for the margin tag are:
 
-* top  note is above the entry and in the same column as the entry
+* top note is above the entry and in the same column as the entry
 * left-top note is above and to the left of the entry
 * left-middle note is beside the entry to the left
 * left-bottom note is below and to the left of the entry
