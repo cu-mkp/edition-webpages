@@ -67,7 +67,7 @@ Dongchung, [What is *Carton*?](/#essays/ann_061_fa_17)
 
 Elizondo-Garza, [Stucco for Molding](/#essays/ann_064_fa_17)
 
-Kuiper/Kroon, “What is *Spat*?” https://edition640.makingandknowing.org/#/essays/ann_509_ad_20
+Kuiper/Kroon, [“What is *Spat*?”](/#/essays/ann_509_ad_20)
 
 ## Culinary and Medical Recipes
 There are only a handful of culinary recipes in the manuscript, but students reconstructed some of them, for example, “Excellent mustard” and the Toulouse specialty of millet bread, *Millas*. Students explored the medical cures and remedies in the manuscript, considering the place of medical recipes in this mostly art and technical manuscript, attempting to determine the likely meaning of the abbreviation “G.,” seeking to understand the use of rosemary in pipe smoking, deciphering the use of a medicinal plaster “for preventing teats from swelling,” and recreating the impressive inspiriting of a salve for burns by means of holy water and intensive repetitions of the Pater Noster prayer.
@@ -114,9 +114,9 @@ Reconstruction has been especially useful for comprehending long lost or obscure
 
 Landsman/Rowen, [Molding a Hollow on One Side and in Relief on the Other](/#essays/ann_002_fa_14)
 
-Groeneveld/Nuij, “Molding a Hollow on One Side and in Relief on the Other II,” https://edition640.makingandknowing.org/#/essays/ann_508_ad_20
+Groeneveld/Nuij, “Molding a Hollow on One Side and in Relief on the Other II" (/#essays/ann_508_ad_20)
 
-Noirot, [Molding, Modeling, Repairing](/#/essays/ann_504_ad_20) 
+Noirot, [Molding, Modeling, Repairing](/#essays/ann_504_ad_20) 
 
 Chiostrini/Palframan, [Molding a Rose](/#essays/ann_022_sp_15)
 
@@ -130,13 +130,13 @@ Durkin/Smith, [Molding Fruits and Animals in Sugar](/#essays/ann_017_sp_15)
 
 Smith/Making and Knowing Project, “Lifecasting in Ms. Fr. 640,” https://edition640.makingandknowing.org/#/essays/ann_511_ad_20
 
-Boyd/Palframan/Smith, "Molding with Cuttlefish Bone," https://edition640.makingandknowing.org/#/essays/ann_506_ad_20
+Boyd/Palframan/Smith, ["Molding with Cuttlefish Bone"] (/#essays/ann_506_ad_20)
 
 ### Painting on taffeta
 
 Bowen/Lou, [Painting in Oil on Taffeta I](/#essays/ann_024_fa_15)
 
-Bowen/Ou, [Painting in Oil on Taffeta Without the Oil Running](#essays/ann_025_fa_15)
+Bowen/Ou, [Painting in Oil on Taffeta Without the Oil Running](/#essays/ann_025_fa_15)
 
 Yar, [Painting in Oil on Taffeta II](/#essays/ann_062_fa_17)
 
@@ -162,7 +162,7 @@ McClure, [Making Colored Wood in Ms. Fr. 640](/#essays/ann_515_ad_20)
 
 ### Preservation
 
-Sellar, “Keeping Dry Flowers,” http://edition640.makingandknowing.org/#/essays/nn_049_fa_16
+Sellar, [“Keeping Dry Flowers”](/#essays/ann_049_fa_16)
 
 Anantharaman/Smith, [Animals Dried in an Oven](/#essays/ann_502_ad_20)
 
@@ -249,9 +249,9 @@ Fu/Zhang, [Molding Grasshoppers](/#essays/ann_013_sp_15)
 
 Donefer-Hickie, [Glassworking](/#essays/ann_052_fa_16)
 
-Smith/Making and Knowing Project, “Lifecasting in Ms. Fr. 640,” https://edition640.makingandknowing.org/#/essays/ann_511_ad_20
+Smith/Making and Knowing Project, “Lifecasting in Ms. Fr. 640” (/#essays/ann_511_ad_20)
 
-Wang/van Buren/Uchacz, “‘Perspective is Very Difficult,’” https://edition640.makingandknowing.org/#/essays/ann_516_ad_20
+Wang/van Buren/Uchacz, [“‘Perspective is Very Difficult’”](/#essays/ann_516_ad_20)
 
 ## Material Imaginary
 Especially interesting has been the insight provided by reconstruction into the author-practitioner’s system of knowledge about nature and the behavior of natural materials—his “material imaginary”—including qualitative material categories, such as hot, cold, wet, dry, fat, lean, sweet, and sour; material metaphors based on, for example, the materials of vermilion and of sulfur, which provided a means, not so much to signify material meaning (although they also enabled that), but, rather, to enact principles of material process. The author-practitioner’s vocabulary of moldmaking and casting conveys a conception of the material world as animate, such as veins of wax (*filons de cire*) and breathing holes (*souspirails*) to vent the mold (fol. 155r). The interactions between materials often demonstrate a view of materials being friendly or hostile. For example, “Latten is the enemy of gold & the friend of silver” (*Le letton est ennemy de lor & amy de largent*, fol. 121v). His material imaginary also included various areas or activities of emphasis, such as experimenting with the states and phases of materials, or trying to arrest ephemerality in living things through lifecasting, preserving plants and fruits, and taxidermy. In most of the recipes, we see that human utility is the overarching organizing principle in creating (mostly implicit) taxonomies of natural materials.
