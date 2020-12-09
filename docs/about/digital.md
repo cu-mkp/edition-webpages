@@ -5,7 +5,7 @@ As a digital scholarly publication, _Secrets of Craft and Nature in Renaissance 
  
 The Edition relies upon a common and well-established technology stack: HTML/HTML5 with CSS and JavaScript served statically through a Columbia Libraries webserver. Until the Edition is archived for long-term preservation, infrastructure and content assets are developed and maintained using Apache HTTP Server, React JavaScript Library, Github, AWS CloudFront and S3, and DigitalOcean virtual servers. Data format and storage decisions are chosen for their ability to be readily transformed to multiple target formats, and content is routinely exported and converted to open standard formats.
 
-The component parts of the Edition are detailed further below. For more information, please also see [About the Edition](/#content/about/creation) and the essays by Terry Catapano and Naomi Rosenkranz, [BnF Ms. Fr. 640 as a Digital Text](/#essays/ann_310_ie_19) and [Pamela H. Smith, Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19).
+The component parts of the Edition are detailed further below. For more information, please also see [About the Edition](/#content/about/creation) and the essays by Terry Catapano and Naomi Rosenkranz, [BnF Ms. Fr. 640 as a Digital Text](/#essays/ann_310_ie_19) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19).
 
 Facsimile Images of Ms. Fr. 640
 ---
@@ -20,9 +20,9 @@ The [texts of Ms. Fr. 640](/#folios) are encoded in XML format and available in 
 2. Normalized: lightly normalized French transcription (with punctuation and diacritical marks added)
 3. Translation: English translation
 
-The transcription, translation, and encoding of the manuscript were primarily carried out in a series of paleography and text workshops (2014–2018) that brought together graduate students (already in possession of advanced French) to learn to read middle French script and gain experience in textual encoding. For more detail and a discussion of this process, please read Celine Camps and Margot Lyautey, [Ma<r>king and Knowing: Encoding BnF Ms. Fr. 640](/#essays/ann_335_ie_19). The XML files were then revised and finalized by Senior Project team members and the Digital Lead. Please also see Terry Catapano and Naomi Rosenkranz, [BnF Ms. Fr. 640 as a Digital Text](/#essays/ann_310_ie_19) and [Pamela H. Smith, Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19).
+The transcription, translation, and encoding of the manuscript were primarily carried out in a series of paleography and text workshops (2014–2018) that brought together graduate students (already in possession of advanced French) to learn to read middle French script and gain experience in textual encoding. For more detail and a discussion of this process, see Celine Camps and Margot Lyautey, [Ma<r>king and Knowing: Encoding BnF Ms. Fr. 640](/#essays/ann_335_ie_19). The XML files were then revised and finalized by Senior Project team members and the Digital Lead. See also Terry Catapano and Naomi Rosenkranz, [BnF Ms. Fr. 640 as a Digital Text](/#essays/ann_310_ie_19) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19).
 
-The texts conform to a schema developed iteratively by the Project as the transcriptions and translation were revised and completed. While aimed to meet the specific needs of the Project, the custom schema is influenced by and derives much of its tagset from the [Text Encoding Initiative (TEI) Guidelines](https://tei-c.org/guidelines/P5/). The [schema](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/schema/ms-transcription.rng) is maintained in the Project repository. The [Principles of Encoding](/#content/resources/principles-encoding) provide a full description of the Project's tagset.
+The texts conform to a schema developed iteratively by the Project as the transcriptions and translation were revised and completed. While intended to meet the specific needs of the Project, the custom schema is influenced by and derives much of its tagset from the [Text Encoding Initiative (TEI) Guidelines](https://tei-c.org/guidelines/P5/). The [schema](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/schema/ms-transcription.rng) is maintained in the Project repository. The [Principles of Encoding](/#content/resources/principles-encoding) provide a full description of the Project's tagset.
 
 Use of the XML in the Edition
 ---
@@ -35,7 +35,7 @@ The XML encoded in the paleography and text workshops and painstakingly revised 
 * It links entries to the scholarly essays provided on the Making and Knowing website.
 * It embeds close up shots of certain parts of the manuscript which are diagrams, icons, and other non-textual elements.
 
-To convert all of this information into HTML and JSON, as well as to index the material for search, we created a tool called the Lizard. Lizard is named after one of the more popular doodles found in the manuscript that is also in the project logo. It is a command line tool that performs these functions to generate the static content of the site. Here are some of the functions you can do with Lizard:
+To convert all this information into HTML and JSON, as well as to index the material for search, we created a tool called the Lizard. Lizard is named after one of the sketches found in the manuscript and is also used in the project logo. It is a command line tool that performs these functions to generate the static content of the site. Here are some of the functions you can perform with Lizard:
 
 ```
 $ scripts/lizard.js help
@@ -62,9 +62,9 @@ For a more technical review of these functions, please see the project README on
 Layout of the Texts of Ms. Fr. 640
 ----
 
-The Making and Knowing Grid Layout is a rendering scheme is designed to faithfully render the layout of a single column of text, consisting of multiple entries, surrounded by marginalia. Each entry is given a unique id and may contain zero or more marginal notes. The marginal notes are wrapped in `<ab>` tags. The editor may specify the arrangement of these notes relative to the entry using the `<margin>` tag. Valid values for the margin tag are:
+The Making and Knowing Grid Layout is a rendering scheme designed to faithfully render the layout of a single column of text, consisting of multiple entries, surrounded by marginalia. Each entry is given a unique id and may contain zero or more marginal notes. The marginal notes are wrapped in `<ab>` tags. The editor may specify the arrangement of these notes relative to the entry using the `<margin>` tag. Valid values for the margin tag are:
 
-* top  note is above the entry and in the same column as the entry
+* top note is above the entry and in the same column as the entry
 * left-top note is above and to the left of the entry
 * left-middle note is beside the entry to the left
 * left-bottom note is below and to the left of the entry
@@ -106,14 +106,14 @@ Static Site Generation
 
 In a typical website with a content management system, content is kept in a database and rendered into HTML when requested. With static site generation, pages are created beforehand. The content is already in its final form and can be sent as-is to the user.
 
-Static sites generation has a number of advantages. One is that it responds really well with increased user traffic. Open source web servers like Apache and Nginx can very efficiently serve large amounts of static data. This leads to lower server costs. Because the technology is so fundemental to the web, techniques for serving static sites are likely to work well into the future and be universally understood by IT professionals tasked with keeping the assets online.
+Static sites generation has a number of advantages. One is that it responds very well with increased user traffic. Open source web servers like Apache and Nginx can very efficiently serve large amounts of static data. This leads to lower server costs. Because the technology is so fundemental to the web, techniques for serving static sites are likely to work well into the future and be universally understood by IT professionals tasked with keeping the assets online.
 
-The biggest challenge in developing a website using this approach is that one needs to adopt or build an appropriate static site generator for the project. There are a number of existing projects in this space. Jekyll is the most well known, this project is built using the Ruby programming language.
+The biggest challenge in developing a website using this approach is that one needs to adopt or build an appropriate static site generator for the project. There are a number of existing projects in this space. Jekyll is the most well known. _Secrets of Craft and Nature_ is built using the Ruby programming language.
 
-Jekyll powers GitHub Pages, which allows a user to easily turn a GitHub repo into a static website. We looked at Jekyll initially for Making and Knowing but decided we need to build our own system based on the requirements of the project.
+Jekyll powers GitHub Pages, which allows a user to easily turn a GitHub repo into a static website. Performant Software considered Jekyll initially for _Secrets of Craft and Nature_ but decided we needed to build our own system based on the requirements of the project.
 
-The content for the Making and Knowing project involved the scholarly work of a large team working over many years to explore the secrets of our text. The team kept most of this data on Google Drive. As the project evolved, more and more data was moved to GitHub repositories. So there was a need to draw content from both GitHub and Google Drive at build time.
+The content for _Secrets of Craft and Nature_ involved the scholarly work of a large team working over several years to explore the secrets of the text. The team kept most of this data on Google Drive. As the project evolved, more and more data was moved to GitHub repositories. Thus, there was a need to draw content from both GitHub and Google Drive at build time.
 
-In order to get the rendering of the transcription correct, we needed to be able to see how the transcribed XML looked in the diplomatic rendering on the website. A staging server was setup that would automatically regenerate the folio fews every few minutes. This real time look at the results was important to the workflow of the project.
+In order to get the rendering of the transcription correct, we needed to be able to see how the transcribed XML looked in the diplomatic rendering on the website. A staging server was set up that would automatically regenerate the folio views every few minutes. This real-time look at the results was important to the workflow of the project.
 
-Even though we were using very simple server technology, this did not proclude us using the latest client technology to render the site in the user's web browser. We used React and Material UI to develope the user interface. The static data was a mix of pre-rendered HTML pages and pre-rendered JSON data structures which were then processed by React to produce the final site.
+Although we were using very simple server technology, this did not preclude us from using the latest client technology to render the site in the user's web browser. We used React and Material UI to develop the user interface. The static data was a mix of pre-rendered HTML pages and pre-rendered JSON data structures which were then processed by React to produce the final site.
