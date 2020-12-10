@@ -67,7 +67,7 @@ Dongchung, [What is *Carton*?](/#essays/ann_061_fa_17)
 
 Elizondo-Garza, [Stucco for Molding](/#essays/ann_064_fa_17)
 
-Kuiper/Kroon, [“What is *Spat*?”](/#/essays/ann_509_ad_20)
+Kuiper/Kroon, [“What is *Spat*?”](/#essays/ann_509_ad_20)
 
 ## Culinary and Medical Recipes
 There are only a handful of culinary recipes in the manuscript, but students reconstructed some of them, for example, “Excellent mustard” and the Toulouse specialty of millet bread, *Millas*. Students explored the medical cures and remedies in the manuscript, considering the place of medical recipes in this mostly art and technical manuscript, attempting to determine the likely meaning of the abbreviation “G.,” seeking to understand the use of rosemary in pipe smoking, deciphering the use of a medicinal plaster “for preventing teats from swelling,” and recreating the impressive inspiriting of a salve for burns by means of holy water and intensive repetitions of the Pater Noster prayer.
