@@ -67,7 +67,7 @@ Dongchung, [What is *Carton*?](/#essays/ann_061_fa_17)
 
 Elizondo-Garza, [Stucco for Molding](/#essays/ann_064_fa_17)
 
-Kuiper/Kroon, [“What is *Spat*?”](/#essays/ann_509_ad_20)
+Kuiper/Kroon, [What is *Spat*?](/#essays/ann_509_ad_20)
 
 ## Culinary and Medical Recipes
 There are only a handful of culinary recipes in the manuscript, but students reconstructed some of them, for example, “Excellent mustard” and the Toulouse specialty of millet bread, *Millas*. Students explored the medical cures and remedies in the manuscript, considering the place of medical recipes in this mostly art and technical manuscript, attempting to determine the likely meaning of the abbreviation “G.,” seeking to understand the use of rosemary in pipe smoking, deciphering the use of a medicinal plaster “for preventing teats from swelling,” and recreating the impressive inspiriting of a salve for burns by means of holy water and intensive repetitions of the Pater Noster prayer.
@@ -251,7 +251,7 @@ Donefer-Hickie, [Glassworking](/#essays/ann_052_fa_16)
 
 Smith/Making and Knowing Project, [Lifecasting in Ms. Fr. 640](/#essays/ann_511_ad_20)
 
-Wang/van Buren/Uchacz, [‘Perspective is Very Difficult’](/#essays/ann_516_ad_20)
+Wang/van Buren/Uchacz, ["Perspective is Very Difficult"](/#essays/ann_516_ad_20)
 
 ## Material Imaginary
 Especially interesting has been the insight provided by reconstruction into the author-practitioner’s system of knowledge about nature and the behavior of natural materials—his “material imaginary”—including qualitative material categories, such as hot, cold, wet, dry, fat, lean, sweet, and sour; material metaphors based on, for example, the materials of vermilion and of sulfur, which provided a means, not so much to signify material meaning (although they also enabled that), but, rather, to enact principles of material process. The author-practitioner’s vocabulary of moldmaking and casting conveys a conception of the material world as animate, such as veins of wax (*filons de cire*) and breathing holes (*souspirails*) to vent the mold (fol. 155r). The interactions between materials often demonstrate a view of materials being friendly or hostile. For example, “Latten is the enemy of gold & the friend of silver” (*Le letton est ennemy de lor & amy de largent*, fol. 121v). His material imaginary also included various areas or activities of emphasis, such as experimenting with the states and phases of materials, or trying to arrest ephemerality in living things through lifecasting, preserving plants and fruits, and taxidermy. In most of the recipes, we see that human utility is the overarching organizing principle in creating (mostly implicit) taxonomies of natural materials.
