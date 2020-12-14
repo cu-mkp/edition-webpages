@@ -39,7 +39,7 @@ and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19)
   - Project Assistant: Caroline Surman
   - Lead Paleographer: Marc Smith
   - Digital Lead: Terry Catapano
-  - Digital Designer-Developer: Nick Laiacona and team at Performant Software Solutions
+  - Digital Designer-Developer: Nick Laiacona and team at [Performant Software Solutions](https://www.performantsoftware.com/)
 
 ## Senior Editorial and Digital Teams
 | Senior Editorial Team                                                                                                                                                                                                                                 | Digital Team                                                                                                                                                                                          |
