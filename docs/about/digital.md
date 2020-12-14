@@ -1,9 +1,10 @@
 Digital Development
 ======
 
-_Secrets of Craft and Nature_ first publicly launched in February 2020 after the culmination of more than six years of research, teaching, and collaboration. The digital development of the Edition has taken place in tandem with content development, creating an iterative workflow between IN THE MIDDLE HERE
+_Secrets of Craft and Nature_ first publicly launched in February 2020 after the culmination of more than six years of research, teaching, and collaboration. The digital development of the Edition has taken place in tandem with content development, creating an iterative workflow between technical and editorial activities. This brought together members of the Making and Knowing Project, [Performant Software Solutions](https://www.performantsoftware.com/), and the Columbia University Libraries, as well as numerous students and collaborators as detailed further in the Edition's [Credits](/#content/about/credits).
 
-has brought together members of the Making and Knowing Project with  Digital Designer-Developer: Nick Laiacona and team at [Performant Software Solutions](https://www.performantsoftware.com/) the Project 
+Introduction and Sustainability
+---
 
 As a digital scholarly publication, _Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_ aims to make all online content openly and sustainably available. The creation of the Edition by the Making and Knowing Project has involved evolving approaches and methodologies to facilitate the multifaceted collaborative research process. At the same time, the digital development of the Edition has prioritized the generation and preservation of all Project data in sustainable, open formats to ensure adherence to open-access and open-source standards wherever possible. This commitment is founded on the conviction that the Edition should serve as a resource to a wide and diverse audience, enabling knowledge exchange now and into the future.
  
@@ -39,7 +40,7 @@ The XML files encoded during the paleography and text workshops and painstakingl
 * It labels segments of text related to concepts of interests to the Project, such as materials, tools, plants, and animals mentioned in an entry
 * It encodes editorial notes that provide additional information, such as historical context, technical and material explanations, and transcription and translation decisions
 
-All this information is converted into HTML and JSON as well as complied into a search index by "Lizard," a command line tool that performs these functions to generate the static content of the site. Lizard is named after one of the more popular figures found on fol. [124v](/#folios/124v) that also serves as the Project's logo. Some of Llizard's functions include:
+All this information is converted into HTML and JSON as well as complied into a search index by "Lizard," a command line tool that performs these functions to generate the static content of the site. Lizard is named after one of the more popular figures found on fol. [124v](/#folios/124v) that also serves as the Project's logo. Some of Lizard's functions include:
 
 ```
 $ scripts/lizard.js help
@@ -101,7 +102,7 @@ To facilitate reuse and analysis of the Project's edited and encoded text of Ms.
 Research and Scholarly Essays
 ---
 
-All [essays](/#essays) are edited and maintained in the Project's Google Drive in order to best faciclitate the collaborative process. Each essay in the Drive has uniform organization and style to ensure consistency and allow for conversion to HTML and integration into this Edition. The Research and Scholarly Essays are supplemented with additional information (including Project-assigned themes, associated entries, and citation information) in a spreadsheet table and exported in CSV format for integration into the Edition.
+All [essays](/#essays) are edited and maintained in the Project's Google Drive in order to best facilitate the collaborative process. Each essay in the Drive has uniform organization and style to ensure consistency and allow for conversion to HTML and integration into this Edition. The Research and Scholarly Essays are supplemented with additional information (including Project-assigned themes, associated entries, and citation information) in a spreadsheet table and exported in CSV format for integration into the Edition.
 
 For persistent access, each essay has been assigned a Digital Object Identifier (DOI) and will also be archived in Columbia University [Academic Commons](https://academiccommons.columbia.edu/) and downloadable as standalone publications.
 
