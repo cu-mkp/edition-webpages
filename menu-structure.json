@@ -79,7 +79,6 @@
             },
             {
                 "label": "Digital Development",
-                "placeholder": true,
                 "route": "/content/about/digital"            
             },            
             {
