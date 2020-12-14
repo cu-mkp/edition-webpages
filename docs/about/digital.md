@@ -1,13 +1,17 @@
 Digital Development
 ======
 
+_Secrets of Craft and Nature_ first publicly launched in February 2020 after the culmination of more than six years of research, teaching, and collaboration. The digital development of the Edition has taken place in tandem with content development, creating an iterative workflow between IN THE MIDDLE HERE
+
+has brought together members of the Making and Knowing Project with  Digital Designer-Developer: Nick Laiacona and team at [Performant Software Solutions](https://www.performantsoftware.com/) the Project 
+
 As a digital scholarly publication, _Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_ aims to make all online content openly and sustainably available. The creation of the Edition by the Making and Knowing Project has involved evolving approaches and methodologies to facilitate the multifaceted collaborative research process. At the same time, the digital development of the Edition has prioritized the generation and preservation of all Project data in sustainable, open formats to ensure adherence to open-access and open-source standards wherever possible. This commitment is founded on the conviction that the Edition should serve as a resource to a wide and diverse audience, enabling knowledge exchange now and into the future.
  
 The focus on sustainability is guided by the principles of [minimal computing](https://go-dh.github.io/mincomp/about/) which emphasize durability and the use of basic technologies and workflows that have a greater likelihood of persisting. The Edition relies upon a common and well-established technology stack: HTML/HTML5 with CSS and JavaScript served statically through a Columbia Libraries webserver. Until the Edition is archived for long-term preservation, infrastructure and content assets are developed and maintained using Apache HTTP Server, React JavaScript Library, Github, AWS CloudFront and S3, and DigitalOcean virtual servers. Data format and storage decisions are chosen for their ability to be readily transformed to multiple target formats, and content is routinely exported and converted to open standard formats.
 
 The component parts of the Edition are detailed further below. For more information, please also see [About the Edition](/#content/about/creation) and the essays by Terry Catapano and Naomi Rosenkranz, [BnF Ms. Fr. 640 as a Digital Text](/#essays/ann_310_ie_19) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19).
 
-Facsimile Images of Ms. Fr. 640
+Facsimile Images of BnF Ms. Fr. 640
 ---
 
 The digital facsimile images of Ms. Fr. 640 are provided by the BnF’s digital library, [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10500001g). They are integrated into the Edition through its IIIF Manifest, which relates the Project's transcription and translation of the manuscript to the corresponding Gallica folio images via the IIIF Presentation API.
