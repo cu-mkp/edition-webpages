@@ -60,6 +60,7 @@ and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19)
       - Bingyan Hu (2015-16)
       - Ludovic Touzé-Peiffer (2017)
       - Matthew Kumar (2019-20)
+      - Gregory Schare (2020-21)
   - Programming Teaching Assistants:  
       - Atif Ahmed (2016-17)
       - Mehul Kumar (2016-17)
