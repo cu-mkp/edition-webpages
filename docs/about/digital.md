@@ -1,7 +1,7 @@
 Digital Development
 ======
 
-_Secrets of Craft and Nature_ first publicly launched in February 2020 after the culmination of more than six years of research, teaching, and collaboration. The digital development of the Edition has taken place in tandem with content development, creating an iterative workflow between technical and editorial activities. This brought together members of the Making and Knowing Project, [Performant Software Solutions](https://www.performantsoftware.com/), and the Columbia University Libraries, as well as numerous students and collaborators as detailed further in the Edition's [Credits](/#content/about/credits).
+_Secrets of Craft and Nature_ first publicly launched in February 2020 after the culmination of more than six years of research, teaching, and collaboration. The digital development of the Edition has taken place in tandem with content development, creating an iterative workflow between technical and editorial activities. This brought together members of the Making and Knowing Project, [Performant Software Solutions](https://www.performantsoftware.com/), and the Columbia University Libraries, as well as numerous students and collaborators as detailed further in the Edition's [Credits](/#content/about/credits). Under the technical direction of Digital Lead Terry Catapano, Nick Laiacona of Performant Software developed the critical edition website as well as the data workflow for publishing the editorial team's content.
 
 Introduction and Sustainability
 ---
