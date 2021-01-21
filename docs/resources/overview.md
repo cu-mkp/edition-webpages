@@ -42,6 +42,14 @@ To transform the handwritten pages of Ms. Fr. 640 into digital text, the Making 
 A list of [dictionaries and technical encyclopedias](#content/resources/dictionaries) was also developed during the
 transcription and translation effort.
 
+## [Figures in the Manuscript](#content/resources/figures)
+
+An index of all illustrations by Ms. Fr. 640's author-practitioner found throughout the manuscript.
+
+## [Reconstruction Insights](#content/resources/reconstruction-insights)
+
+One of the key methodologies for studying the processes and materials described in Ms. Fr. 640 was the historical reconstruction of its entries. This resource provides a guide for the research essays that discuss the insights gained through reconstructions undertaken by the Project in the laboratory.
+
 ## [Coming Soon](#content/resources/coming-soon)
 
 Since the initial release of the Edition in February 2020, the Making and Knowing Project has been working to continually add content and features. Resources to come are listed here.
