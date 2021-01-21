@@ -1,4 +1,4 @@
-# Overview of the About pages
+# Overview of the About Pages
 
 ## [The Manuscript](/#content/about/manuscript)
 
@@ -11,6 +11,10 @@ The digital critical edition of Ms. Fr. 640, including its creation, structure, 
 ## [The Making and Knowing Project](/#content/about/m-k-project)
 
 The Project's intellectual mission, pedagogy-driven research, and collaborative approach.
+
+## [Digital Development](/#content/about/digital)
+
+Technical specifications of the site as well as the methodology behind its creation.
 
 ## [Credits](/#content/about/credits)
 
