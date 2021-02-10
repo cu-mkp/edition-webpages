@@ -17,6 +17,6 @@ The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/b
 
 ## Sources Cited in the Glossary
 
-Note: The Glossary uses short bibliographic keys instead of full citations. The keys usually combine author name and year of publication such as [COT1611] for Cotgrave's _A dictionarie of the french and english tongues_, or use an acronym such as [OED2008] for _Oxford English Dictionary_ or [DMF2015] for *Dictionnaire du Moyen Français*. Search for Glossary keys in the Bibliography by acronym or author name.
+Note: The Glossary uses short bibliographic keys instead of full citations, such as [COT1611] for Cotgrave's _A dictionarie of the french and english tongues_. The keys usually combine author name and year of publication or use an acronym such as [OED2008] for _Oxford English Dictionary_ or [DMF2015] for *Dictionnaire du Moyen Français*. Search for Glossary keys in the Bibliography by acronym or author name.
 
 [Primary and Secondary Sources](/#content/resources/glossary-full-bibliography)
