@@ -10,13 +10,13 @@ The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/b
 
 <br/>
 
-## Manuscript and Editorial Comments
+## Sources Cited in Ms. Fr. 640 and in the Editorial Comments
 
 [Primary Sources](/#content/resources/dce-primary-sources-bibliography)
 <br/>
 
 [Secondary Sources](/#content/resources/dce-secondary-sources-bibliography)
 
-## Glossary
+## Sources Cited in the Glossary
 
-[Full bibliography](/#content/resources/glossary-full-bibliography)
+[Primary and Secondary Sources](/#content/resources/glossary-full-bibliography)
