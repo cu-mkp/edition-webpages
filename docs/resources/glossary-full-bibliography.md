@@ -1,4 +1,4 @@
-##Glossary - Full Bibliography
+# Bibliography: Primary and Secondary Sources Cited in the [Glossary](/#folios/1r/f/1r/glossary)
 
 **DAF2018** Académie française. “Dictionnaire de l’Académie française.” Paris, 2018.
 <https://www.dictionnaire-academie.fr>.
