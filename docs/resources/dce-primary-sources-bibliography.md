@@ -1,4 +1,4 @@
-# Manuscript and Editorial Comments – Primary Sources
+# Bibliography: Primary Sources Cited in Ms. Fr. 640 and in the Editorial Comments
 
 Agrippa von Nettesheim, Cornelius. _De occulta philosophia_. Cologne: Johann Soter, 1533. [https://doi.org/10.3931/e-rara-4309](https://doi.org/10.3931/e-rara-4309).
 
