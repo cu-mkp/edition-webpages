@@ -2,7 +2,7 @@
 
 The Bibliography compiles references, texts, and authors cited in Ms. Fr. 640, the Edition's editorial comments, and the Glossary.
 
-This Bibliography includes detailed references for primary sources cited in the manuscript, including—whenever possible—permanent links to electronic facsimiles. However, since Ms. Fr. 640 rarely specifies a particular printed edition, the references provided here are those that are more widely available and/or were produced by prominent sixteenth-century publishers (Robert and Henri Estienne, the Aldine press, Christophe Plantin, Hieronymus Froben, Johannes Herwagen, etc.). Other possible editions can be found in the [Universal Short Title Catalogue](https://www.ustc.ac.uk) and similar resources.
+This Bibliography includes detailed references for primary sources cited in the manuscript, including—whenever possible—permanent links to electronic facsimiles. Because Ms. Fr. 640 rarely specifies a particular printed edition, the references provided here are those that are more widely available and/or were produced by prominent sixteenth-century publishers (Robert and Henri Estienne, the Aldine press, Christophe Plantin, Hieronymus Froben, Johannes Herwagen, etc.). Other possible editions can be found in the [Universal Short Title Catalogue](https://www.ustc.ac.uk) and similar resources.
 
 The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/bibtex) and HTML, downloadable from the Project’s [GitHub repository](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/bibliographies).
 
