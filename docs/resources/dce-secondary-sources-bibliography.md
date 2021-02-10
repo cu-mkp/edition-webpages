@@ -1,4 +1,4 @@
-# Manuscript and Editorial Comments – Secondary Sources
+# Bibliography: Secondary Sources Cited in the Editorial Comments
 
 Bol, Marjolijn. “The emerald and the eye: On sight and light in the artisan’s workshop and scholar’s study.” In _Perspective as practice: Renaissance cultures of optics_, edited by Sven Dupré, 71–101. Turnhout: Brepols, 2019.
 
