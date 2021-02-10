@@ -1,6 +1,6 @@
 # Bibliography: Primary and Secondary Sources Cited in the [Glossary](/#folios/1r/f/1r/glossary)
 
-Note: The Glossary uses short bibliographic keys instead of full citations. The keys usually combine author name and year of publication such as [COT1611] for Cotgrave's _A dictionarie of the french and english tongues_, or use an acronym such as [OED2008] for _Oxford English Dictionary_ or [DMF2015] for *Dictionnaire du Moyen Français*. Search for Glossary keys in the Bibliography by acronym or author name.
+Note: The Glossary uses short bibliographic keys instead of full citations, such as [COT1611] for Cotgrave's _A dictionarie of the french and english tongues_. The keys usually combine author name and year of publication or use an acronym such as [OED2008] for _Oxford English Dictionary_ or [DMF2015] for *Dictionnaire du Moyen Français*. Search for Glossary keys in the Bibliography by acronym or author name.
 
 **DAF2018** Académie française. “Dictionnaire de l’Académie française.” Paris, 2018.
 <https://www.dictionnaire-academie.fr>.
@@ -129,7 +129,7 @@ contenant la signification et la definition tant des mots de l’une & de
 l’autre langue, avec leurs différens usages ; que des Termes propres de
 chaque etat & de chaque profession*. Paris, 1721.
 
-**DMF** *Dictionnaire du Moyen Français*. ATILF-CNRS & Université de Lorraine Paris, 2015.
+**DMF2015** *Dictionnaire du Moyen Français*. ATILF-CNRS & Université de Lorraine Paris, 2015.
 <http://www.atilf.fr/dmf>.
 
 Diderot, Denis, and Jean Le Rond d’ Alembert. *Encyclopedie methodique,
@@ -377,7 +377,7 @@ lenguas, española, francesa y italiana*. Geneva: J.A. et S. de Tournes,
 Norton, Robert. *The Gunner Shewing the Whole Practise of Artillerie*.
 London: Printed by A.M. for Humphrey Robinson, 1628.
 
-**OED** *Oxford English Dictionary online*. Oxford University Press. <http://www.oed.com>.
+**OED2008** *Oxford English Dictionary online*. Oxford University Press. <http://www.oed.com>.
 
 Office de la langue française, Province du Québec. *Grand dictionnaire
 terminologique*. Quebec: Office de la langue française, 2000.
