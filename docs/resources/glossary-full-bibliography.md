@@ -1,5 +1,7 @@
 # Bibliography: Primary and Secondary Sources Cited in the [Glossary](/#folios/1r/f/1r/glossary)
 
+Note: The Glossary uses short bibliographic keys instead of full citations. The keys usually combine author name and year of publication such as [COT1611] for Cotgrave's _A dictionarie of the french and english tongues_, or use an acronym such as [OED2008] for _Oxford English Dictionary_ or [DMF2015] for *Dictionnaire du Moyen Français*. Search for Glossary keys in the Bibliography by acronym or author name.
+
 **DAF2018** Académie française. “Dictionnaire de l’Académie française.” Paris, 2018.
 <https://www.dictionnaire-academie.fr>.
 
