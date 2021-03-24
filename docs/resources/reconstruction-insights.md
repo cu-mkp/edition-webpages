@@ -14,7 +14,7 @@ Gans, [Excellent Sand from Alabaster](/#essays/ann_016_sp_15)
 
 Cataldo/van Visco, [*Eau Magistra*](/#essays/ann_011_fa_14)
 
-Carslon/Katz, [Casting in Frames](/#essays/ann_010_fa_14) 
+Carslon/Katz, [Casting in Frames](/#essays/ann_010_fa_14)
 
 Marris/Pope, [Sand Molds of Ox Bone, Wine, and Elm Root](/#essays/ann_020_sp_15)
 
@@ -55,7 +55,7 @@ Kang, [Black Sulfured Wax](/#essays/ann_051_fa_16)
 
 Buckley, [Tin and its Uses](/#essays/ann_070_fa_18)
 
-Wang/Smith, [Fat, Lean, Sweet, Sour: Sand of Ox Bone and Rock Salt](/#essays/ann_012_fa_14)
+Wang/Smith, [Sand of Ox Bone and Rock Salt](/#essays/ann_012_fa_14)
 
 Lores-Chavez, [Imitating Raw Nature](/#essays/ann_045_fa_16)
 
@@ -116,7 +116,7 @@ Landsman/Rowen, [Molding a Hollow on One Side and in Relief on the Other](/#essa
 
 Groeneveld/Nuij, [Molding a Hollow on One Side and in Relief on the Other II](/#essays/ann_508_ad_20)
 
-Noirot, [Molding, Modeling, Repairing](/#essays/ann_504_ad_20) 
+Noirot, [Molding, Modeling, Repairing](/#essays/ann_504_ad_20)
 
 Chiostrini/Palframan, [Molding a Rose](/#essays/ann_022_sp_15)
 
@@ -150,7 +150,7 @@ Foyer, [Color of Gold without Gold on Silver](/#essays/ann_032_fa_15)
 
 Kok, [Colors for Green Leaves](/#essays/ann_030_fa_15)
 
-Ndungu, [What is *or mat*?](/#essays/ann_041_sp_16)
+Ndungu, [What is *Or Mat*?](/#essays/ann_041_sp_16)
 
 Clemens, [Sulfuric Acid for the Scribe](/#essays/ann_044_sp_16)
 
@@ -260,7 +260,7 @@ Especially interesting has been the insight provided by reconstruction into the 
 
 Lee/Smith, [Lean Sands and Fat Binders](/#essays/ann_009_fa_14)
 
-Wang/Smith, [Fat, Lean, Sweet, Sour: Sand of Ox Bone and Rock Salt](/#essays/ann_012_fa_14)
+Wang/Smith, [Sand of Ox Bone and Rock Salt](/#essays/ann_012_fa_14)
 
 Buckley, [Tin and its Uses](/#essays/ann_070_fa_18)
 
@@ -324,6 +324,6 @@ The Project has taught all its many participants how much information the recons
 
 Zhao, [Reverse Painting on Glass](/#essays/ann_027_fa_15)
 
-Ndungu, [What is *or mat*?](/#essays/ann_041_sp_16)
+Ndungu, [What is *Or Mat*?](/#essays/ann_041_sp_16)
 
 Boyd/Palframan/Smith, [Making Gold Run for Casting](/#essays/ann_505_ad_20)
