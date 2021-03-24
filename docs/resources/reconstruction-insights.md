@@ -136,7 +136,7 @@ Boyd/Palframan/Smith, [Molding with Cuttlefish Bone](/#essays/ann_506_ad_20)
 
 Bowen/Lou, [Painting in Oil on Taffeta I](/#essays/ann_024_fa_15)
 
-Bowen/Ou, [Painting in Oil on Taffeta Without the Oil Running](/#essays/ann_025_fa_15)
+Bowen/Lou, [Painting in Oil on Taffeta Without the Oil Running](/#essays/ann_025_fa_15)
 
 Yar, [Painting in Oil on Taffeta II](/#essays/ann_062_fa_17)
 
