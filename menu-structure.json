@@ -20,41 +20,7 @@
             },
             {
                 "title": "Entry Categories",
-                "id": "entry-categories",
-                "sub_sections": [
-                    {
-                        "title": "Category Descriptions",
-                        "id": "category-descriptions"
-                    },
-                    {
-                        "title": "Visualizing the Manuscript's Contents",
-                        "id": "visualizing-the-manuscripts-contents"
-                    },
-                    {
-                        "title": "Overview of the Manuscript's Contents",
-                        "id": "overview-of-the-manuscripts-contents"
-                    },
-                    {
-                        "title": "Glossary",
-                        "id": "glossary"
-                    },
-                    {
-                        "title": "Bibliography",
-                        "id": "bibliography"
-                    },
-                    {
-                        "title": "Principles",
-                        "id": "principles-of-transcription-translation-and-encoding"
-                    },
-                    {
-                        "title": "Figures in the Manuscript",
-                        "id": "figures-in-the-manuscript"
-                    },
-                    {
-                        "title": "Reconstruction Insights",
-                        "id": "reconstruction-insights"
-                    }
-                ]
+                "id": "entry-categories"
             },
             {
                 "title": "Coming Soon",
@@ -79,17 +45,7 @@
             },
             {
                 "title": "The Edition",
-                "id": "the-edition",
-                "sub_sections": [
-                    {
-                        "title": "What is it?",
-                        "id": "what-is-the-digital-critical-edition"
-                    },
-                    {
-                        "title": "Creation",
-                        "id": "creation-of-the-edition"
-                    }
-                ]
+                "id": "the-edition"
             },
             {
                 "title": "The Making and Knowing Project",
@@ -97,41 +53,7 @@
             },
             {
                 "title": "Digital Development",
-                "id": "digital-development",
-                "sub_sections": [
-                    {
-                        "title": "Introduction and Sustainability",
-                        "id": "introduction-and-sustainability"
-                    },
-                    {
-                        "title": "Facsimile Images of BnF Ms. Fr. 640",
-                        "id": "facsimile-images-of-bnf-ms-fr-640"
-                    },
-                    {
-                        "title": "Markup and Encoding of the Text of Ms. Fr. 640",
-                        "id": "markup-and-encoding-of-the-text-of-ms-fr-640"
-                    },
-                    {
-                        "title": "Use of the XML in the Edition",
-                        "id": "use-of-the-xml-in-the-edition"
-                    },
-                    {
-                        "title": "Layout of the Texts of Ms. Fr. 640",
-                        "id": "layout-of-the-texts-of-ms-fr-640"
-                    },
-                    {
-                        "title": "Other Resources and Derivative Versions",
-                        "id": "other-resources-and-derivative-versions"
-                    },
-                    {
-                        "title": "Research and Scholarly Essays",
-                        "id": "research-and-scholarly-essays"
-                    },
-                    {
-                        "title": "Static Site Generation",
-                        "id": "static-site-generation"
-                    }
-                ]
+                "id": "digital-development"
             },
             {
                 "title": "People and Credits",
@@ -143,25 +65,7 @@
             },
             {
                 "title": "How to Cite",
-                "id": "how-to-cite",
-                "sub_sections": [
-                    {
-                        "title": "The Edition",
-                        "id": "to-cite-the-edition"
-                    },
-                    {
-                        "title": "A dual-pane page-view of the Edition",
-                        "id": "to-cite-a-dual-pane-page-view-of-the-edition"
-                    },
-                    {
-                        "title": "A Research Essay from the Edition",
-                        "id": "to-cite-a-research-essay-from-the-edition"
-                    },
-                    {
-                        "title": "A Resource page",
-                        "id": "to-cite-a-resource-page"
-                    }
-                ]
+                "id": "how-to-cite"
             },
             {
                 "title": "Sponsors",
@@ -186,55 +90,11 @@
         "sections": [
             {
                 "title": "Reading and Browsing the Manuscript",
-                "id": "reading-and-browsing-the-manuscript",
-                "sub_sections": [
-                    {
-                        "title": "Dual-pane Display",
-                        "id": "dual-pane-display"
-                    },
-                    {
-                        "title": "Facsimile Images",
-                        "id": "facsimile-images"
-                    },
-                    {
-                        "title": "Transcriptions and Translations",
-                        "id": "transcriptions-and-translations"
-                    },
-                    {
-                        "title": "Navigation within the Dual-pane Display",
-                        "id": "navigation-within-the-dual-pane-display"
-                    },
-                    {
-                        "title": "Searching",
-                        "id": "searching"
-                    }
-                ]
+                "id": "reading-and-browsing-the-manuscript"
             },
             {
                 "title": "Resources",
-                "id": "resources",
-                "sub_sections": [
-                    {
-                        "title": "List of Entries",
-                        "id": "list-of-entries"
-                    },
-                    {
-                        "title": "Glossary",
-                        "id": "glossary"
-                    },
-                    {
-                        "title": "Research Essays",
-                        "id": "research-essays"
-                    },
-                    {
-                        "title": "Bibliography",
-                        "id": "bibliography"
-                    },
-                    {
-                        "title": "Field Notes",
-                        "id": "field-notes"
-                    }
-                ]
+                "id": "resources"
             },
             {
                 "title": "How to Cite",
@@ -258,55 +118,11 @@
         "sections": [
             {
                 "title": "Lire et feuilleter le manuscrit",
-                "id": "lire-et-feuilleter-le-manuscrit",
-                "sub_sections": [
-                    {
-                        "title": "Affichage côte à côte",
-                        "id": "affichage-côte-à-côte"
-                    },
-                    {
-                        "title": "Fac-similé",
-                        "id": "fac-similé"
-                    },
-                    {
-                        "title": "Transcriptions et traduction",
-                        "id": "transcriptions-et-traduction"
-                    },
-                    {
-                        "title": "Navigation dans l'affichage de texte côte à côte",
-                        "id": "navigation-dans-laffichage-de-texte-côte-à-côte"
-                    },
-                    {
-                        "title": "Recherche",
-                        "id": "recherche"
-                    }
-                ]
+                "id": "lire-et-feuilleter-le-manuscrit"
             },
             {
                 "title": "Ressources",
-                "id": "ressources",
-                "sub_sections": [
-                    {
-                        "title": "Liste des Entrées",
-                        "id": "liste-des-entrées"
-                    },
-                    {
-                        "title": "Glossaire",
-                        "id": "glossaire"
-                    },
-                    {
-                        "title": "Essais de recherche",
-                        "id": "essais-de-recherche"
-                    },
-                    {
-                        "title": "Bibliographie",
-                        "id": "bibliographie"
-                    },
-                    {
-                        "title": "Notes de terrain",
-                        "id": "notes-de-terrain"
-                    }
-                ]
+                "id": "ressources"
             },
             {
                 "title": "Comment citer l'édition",
@@ -342,87 +158,19 @@
             },
             {
                 "title": "Research Essay Authors",
-                "id": "research-essay-authors",
-                "sub_sections": [
-                    {
-                        "title": "Student Authors",
-                        "id": "student-authors"
-                    },
-                    {
-                        "title": "Scholar Authors",
-                        "id": "scholar-authors"
-                    }
-                ]    
+                "id": "research-essay-authors"
             },
             {
                 "title": "Text Workshops in Paleography, Translation, and Digital Encoding",
-                "id": "text-workshops-in-paleography-translation-and-digital-encoding",
-                "sub_sections": [
-                    {
-                        "title": "2014 (3 weeks, Columbia University)",
-                        "id": "2014-3-weeks-columbia-university"
-                    },
-                    {
-                        "title": "2015 (3 weeks, Columbia University)",
-                        "id": "2015-3-weeks-columbia-university"
-                    },
-                    {
-                        "title": "2016 (3 weeks, Columbia University)",
-                        "id": "2016-3-weeks-columbia-university"
-                    },
-                    {
-                        "title": "2017 (2 weeks, Université Toulouse-Jean Jaurès)",
-                        "id": "2017-2-weeks-université-toulouse-jean-jaurès"
-                    },
-                    {
-                        "title": "2018 (2 weeks, Université Toulouse-Jean Jaurès)",
-                        "id": "2018-2-weeks-université-toulouse-jean-jaurès"
-                    },
-                    {
-                        "title": "2018 (1 week, Toulouse)",
-                        "id": "2018-1-week-toulouse"
-                    },
-                    {
-                        "title": "2018 (1 week, Columbia University)",
-                        "id": "2018-1-week-columbia-university"
-                    },
-                    {
-                        "title": "2019 (6 months, Columbia University)",
-                        "id": "2019-6-months-columbia-university"
-                    },
-                    {
-                        "title": "2014-18 Participants (Paleographers, Translators, and Encoders)",
-                        "id": "2014-18-participants-paleographers-translators-and-encoders"
-                    }
-                ]    
+                "id": "text-workshops-in-paleography-translation-and-digital-encoding"
             },
             {
                 "title": "Craft & Science: Making Objects in the Early Modern World* Laboratory Seminar Participants",
-                "id": "craft--science-making-objects-in-the-early-modern-world-laboratory-seminar-participants",
-                "sub_sections": [
-                    {
-                        "title": "Expert Makers",
-                        "id": "expert-makers"
-                    },
-                    {
-                        "title": "Students by Semester and Theme",
-                        "id": "students-by-semester-and-theme"
-                    }
-                ]      
+                "id": "craft--science-making-objects-in-the-early-modern-world-laboratory-seminar-participants"
             },
             {
                 "title": "Digital Humanities Seminar Participants",
-                "id": "digital-humanities-seminar-participants",
-                "sub_sections": [
-                    {
-                        "title": "2017 Spring",
-                        "id": "2017-spring-what-is-a-book-in-the-21st-century-working-with-historical-texts-in-a-digital-environment"
-                    },
-                    {
-                        "title": "2019 Spring",
-                        "id": "2019-spring-transforming-textstextual-analysis-literary-modeling-and-visualization"
-                    }
-                ]         
+                "id": "digital-humanities-seminar-participants"
             },
             {
                 "title": "Working Group Meeting Invited Scholars and Participants",
@@ -440,87 +188,13 @@
         "content_id": "resources/principles",
         "page_heading": "Principles of Transcription, Translation, and Encoding",
         "header_graphic_filename": "banner-resources.png",
-        "route": "/content/resources/principles",
-        "sections": [
-            {
-                "title": "Principles of Transcription",
-                "id": "principles-of-transcription",
-                "sub_sections": [
-                    {
-                        "title": "Diplomatic Transcription",
-                        "id": "diplomatic-transcription"
-                    },
-                    {
-                        "title": "Normalized Transcription",
-                        "id": "normalized-transcription"
-                    },
-                    {
-                        "title": "Deletions, Changes, and Marks",
-                        "id": "deletions-changes-and-marks"
-                    }
-                ]
-            },
-            {
-                "title": "Principles of Translation",
-                "id": "principles-of-translation"
-            },
-            {
-                "title": "Principles of Encoding",
-                "id": "principles-of-encoding",
-                "sub_sections": [
-                    {
-                        "title": "Edition Tag Set",
-                        "id": "edition-tag-set"
-                    }
-                ]
-            },
-            {
-                "title": "Linguistic Resources: Dictionaries and Technical Encyclopedias",
-                "id": "linguistic-resources-dictionaries-and-technical-encyclopedias",
-                "sub_sections": [
-                    {
-                        "title": "Online Dictionaries",
-                        "id": "online-dictionaries"
-                    },
-                    {
-                        "title": "Manuscripts, paleography, and ancient texts",
-                        "id": "manuscripts-paleography-and-ancient-texts"
-                    },
-                    {
-                        "title": "Identifying early books online",
-                        "id": "identifying-early-books-online"
-                    },
-                    {
-                        "title": "Arts and technical vocabulary",
-                        "id": "arts-and-technical-vocabulary"
-                    },
-                    {
-                        "title": "Other resources",
-                        "id": "other-resources"
-                    }
-                ]
-            }
-        ]
+        "route": "/content/resources/principles"
     },
     {
         "content_id": "resources/bibliography",
         "page_heading": "Bibliography",
         "header_graphic_filename": "banner-resources.png",
-        "route": "/content/resources/bibliography",
-        "sections": [
-            {
-                "title": "Primary Sources Cited in Ms. Fr. 640 and in the Editorial Comments",
-                "id": "primary-sources-cited-in-ms-fr-640-and-in-the-editorial-comments"
-            },
-            {
-                "title": "Secondary Sources Cited in the Editorial Comments",
-                "id": "secondary-sources-cited-in-the-editorial-comments"
-            },
-            {
-                "title": "Primary and Secondary Sources Cited in the Glossary",
-                "id": "primary-and-secondary-sources-cited-in-the-glossary"
-            }
-        ]
+        "route": "/content/resources/bibliography"
     },
     {
         "content_id": "resources/figure-index",
@@ -546,57 +220,15 @@
         "sections": [
             {
                 "title": "Materials",
-                "id": "materials",
-                "sub_sections": [
-                    {
-                        "title": "Molding sands",
-                        "id": "molding-sands"
-                    },
-                    {
-                        "title": "Coral, varnish, dragon’s blood",
-                        "id": "coral-varnish-dragons-blood"
-                    },
-                    {
-                        "title": "Wax, fish glue, hourglass sand",
-                        "id": "wax-fish-glue-hourglass-sand"
-                    },
-                    {
-                        "title": "Blue pigments",
-                        "id": "blue-pigments"
-                    }
-                ]
+                "id": "materials"
             },
             {
                 "title": "Deciphering Obscure Materials",
-                "id": "deciphering-obscure-materials",
-                "sub_sections": [
-                    {
-                        "title": "Sulfur-passed wax",
-                        "id": "sulfur-passed-wax"
-                    },
-                    {
-                        "title": "Soft tin, fatty sand, imitation jasper",
-                        "id": "soft-tin-fatty-sand-imitation-jasper"
-                    },
-                    {
-                        "title": "Molding material",
-                        "id": "molding-material"
-                    }
-                ]
+                "id": "deciphering-obscure-materials"
             },
             {
                 "title": "Culinary and Medical Recipes",
-                "id": "culinary-and-medical-recipes",
-                "sub_sections": [
-                    {
-                        "title": "Culinary recipes",
-                        "id": "culinary-recipes"
-                    },
-                    {
-                        "title": "Medical recipes",
-                        "id": "medical-recipes"
-                    }
-                ]
+                "id": "culinary-and-medical-recipes"
             },
             {
                 "title": "Deciphering the Text",
@@ -604,25 +236,7 @@
             },
             {
                 "title": "Reconstructing Historical Techniques",
-                "id": "reconstructing-historical-techniques",
-                "sub_sections": [
-                    {
-                        "title": "Casting, incurse reverse casting, and casting from life",
-                        "id": "casting-incurse-reverse-casting-and-casting-from-life"
-                    },
-                    {
-                        "title": "Painting on taffeta",
-                        "id": "painting-on-taffeta"
-                    },
-                    {
-                        "title": "Colormaking",
-                        "id": "colormaking"
-                    },
-                    {
-                        "title": "Preservation",
-                        "id": "preservation"
-                    }
-                ]
+                "id": "reconstructing-historical-techniques"
             },
             {
                 "title": "Historical Investigation",
@@ -630,17 +244,7 @@
             },
             {
                 "title": "Workshop Practice and Daily Life",
-                "id": "workshop-practice-and-daily-life",
-                "sub_sections": [
-                    {
-                        "title": "Workshop practices",
-                        "id": "workshop-practices"
-                    },
-                    {
-                        "title": "Insights into daily life",
-                        "id": "insights-into-daily-life"
-                    }
-                ]
+                "id": "workshop-practice-and-daily-life"
             },
             {
                 "title": "Failures",
@@ -648,29 +252,7 @@
             },
             {
                 "title": "Material Imaginary",
-                "id": "material-imaginary",
-                "sub_sections": [
-                    {
-                        "title": "Qualitative material categories",
-                        "id": "qualitative-material-categories"
-                    },
-                    {
-                        "title": "Material metaphors",
-                        "id": "material-metaphors"
-                    },
-                    {
-                        "title": "The animate world",
-                        "id": "the-animate-world"
-                    },
-                    {
-                        "title": "Ephemerality and preservation",
-                        "id": "ephemerality-and-preservation"
-                    },
-                    {
-                        "title": "Vernacular taxonomies",
-                        "id": "vernacular-taxonomies"
-                    }
-                ]
+                "id": "material-imaginary"
             },
             {
                 "title": "Artifice",
@@ -678,13 +260,7 @@
             },
             {
                 "title": "Reading and Doing",
-                "id": "reading-and-doing",
-                "sub_sections": [
-                    {
-                        "title": "Questioning modern classifications",
-                        "id": "questioning-modern-classifications"
-                    }
-                ]
+                "id": "reading-and-doing"
             }
         ]
     }
