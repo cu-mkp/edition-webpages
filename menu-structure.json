@@ -23,6 +23,26 @@
                 "id": "entry-categories"
             },
             {
+                "title": "Glossary",
+                "id": "glossary"
+            },
+            {
+                "title": "Bibliography",
+                "id": "bibliography"
+            },
+            {
+                "title": "Principles of Transcription, Translation, and Encoding",
+                "id": "principles-of-transcription-translation-and-encoding"
+            },
+            {
+                "title": "Figures in the Manuscript",
+                "id": "figures-in-the-manuscript"
+            },
+            {
+                "title": "Reconstruction Insights",
+                "id": "reconstruction-insights"
+            },
+            {
                 "title": "Coming Soon",
                 "id": "coming-soon"
             },

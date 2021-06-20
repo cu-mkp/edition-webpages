@@ -67,7 +67,7 @@ These categories form an index created by the Project to ease navigation of the 
 ![entries-table](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/entries-table.png)
 
 <!-- =========== GLOSSARY =========== -->
-### Glossary
+## Glossary
 
 The Glossary, compiled during the process of transcribing and translating Ms. Fr. 640, is a record of distinctive terms used in the manuscript.
 
@@ -81,7 +81,7 @@ It includes:
 [View the Glossary >>](/folios/1r/f/1r/glossary)
 
 <!-- =========== BIBLIOGRAPHY =========== -->
-### Bibliography
+## Bibliography
 
 The Bibliography compiles references, texts, and authors cited in Ms. Fr. 640, the Edition's editorial comments, and the Glossary.
 
@@ -94,7 +94,7 @@ The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/b
 [View the Bibliography >>](/content/resources/bibliography)
 
 <!-- =========== PRINCIPLES =========== -->
-### Principles of Transcription, Translation, and Encoding
+## Principles of Transcription, Translation, and Encoding
 
 To transform the handwritten pages of Ms. Fr. 640 into digital text, the Making and Knowing Project transcribed, translated, and encoded Ms. Fr. 640 in a series of collaborative workshops for graduate students since 2014. The protocols guiding this process evolved into these Principles.
 
@@ -106,14 +106,14 @@ transcription and translation effort.
 [View the Dictionaries and Encyclopedias >>](/content/resources/principles#linguistic-resources-dictionaries-and-technical-encyclopedias)
 
 <!-- =========== FIGURES =========== -->
-### Figures in the Manuscript
+## Figures in the Manuscript
 
 An index of all illustrations by Ms. Fr. 640's author-practitioner found throughout the manuscript.
 
 [View the Figures Index >>](/content/resources/figure-index)
 
 <!-- =========== RECONSTRUCTION INSIGHTS =========== -->
-### Reconstruction Insights
+## Reconstruction Insights
 
 One of the key methodologies for studying the processes and materials described in Ms. Fr. 640 was the historical reconstruction of its entries. This resource provides a guide for the research essays that discuss the insights gained through reconstructions undertaken by the Project in the laboratory.
 
