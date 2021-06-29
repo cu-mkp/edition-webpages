@@ -44,7 +44,7 @@ and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19)
 ## Senior Editorial and Digital Teams
 | Senior Editorial Team                                                                                                                                                                                                                                 | Digital Team                                                                                                                                                                                          |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Pamela H. Smith <br><br>Naomi Rosenkranz <br><br>Tianna Helena Uchacz <br><br>Tillmann Taape <br><br>Clément Godbarge <br><br>Sophie Pitman <br><br>Jenny Boulboullé <br><br>Joel A. Klein <br><br>Donna Bilak <br><br>Marc Smith <br><br>Terry Catapano | Terry Catapano <br><br> Nick Laiacona and team at Performant Software Solutions <br><br> Naomi Rosenkranz <br><br> Consultants: Alex Gil, Ben Armintor, Marii Nyrop,<br>Dennis Tenen, and Philip Cherian |
+| Pamela H. Smith <br><br>Naomi Rosenkranz <br><br>Tianna Helena Uchacz <br><br>Tillmann Taape <br><br>Clément Godbarge <br><br>Sophie Pitman <br><br>Jenny Boulboullé <br><br>Joel A. Klein <br><br>Donna Bilak <br><br>Marc Smith <br><br>Terry Catapano | Terry Catapano <br><br> Nick Laiacona and team at Performant Software Solutions <br><br> Naomi Rosenkranz <br><br> Consultants: Alex Gil, Ben Armintor, Marii Nyrop, Dennis Tenen, and Philip Cherian |
 
 ## Project Managers, Assistants, and Interns
 
@@ -52,7 +52,9 @@ and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19)
   - Project Manager and Graduate Research Assistant (2015-16): Jef Palframan
   - Research Assistant (2014-15): Miriam Pensack
   - Copy Editor (2016-20): Hannah Elmer
-  - Editorial Assistant (2019-20): Kelsey Troth
+  - Editorial Assistants
+      - Kelsey Troth (2019-20)
+      - Christian-Joseph Macahilig (2020-21) 
   - Digital Programming Assistants:
       - Philip Cherian (2016-18)
       - Emre Tetik (2016-2018)
