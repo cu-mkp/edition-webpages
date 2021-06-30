@@ -49,11 +49,12 @@ and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19)
 ## Project Managers, Assistants, and Interns
 
   - Research Associate (2014-15): Claire Sabel
-  - Project Manager and Graduate Research Assistant (2015-16): Jef Palframan
+  - Project Manager and Graduate Research Assistant (2014-15): Jef Palframan
   - Research Assistant (2014-15): Miriam Pensack
   - Copy Editor (2016-20): Hannah Elmer
   - Editorial Assistants
       - Kelsey Troth (2019-20)
+      - Ray Abruzzi (2019-21)
       - Christian-Joseph Macahilig (2020-21) 
   - Digital Programming Assistants:
       - Philip Cherian (2016-18)
