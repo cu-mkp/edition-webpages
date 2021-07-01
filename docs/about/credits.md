@@ -52,7 +52,7 @@ and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19)
   - Project Manager and Graduate Research Assistant (2014-15): Jef Palframan
   - Research Assistant (2014-15): Miriam Pensack
   - Copy Editor (2016-20): Hannah Elmer
-  - Editorial Assistants
+  - Editorial Assistants:
       - Kelsey Troth (2019-20)
       - Ray Abruzzi (2019-21)
       - Christian-Joseph Macahilig (2020-21) 
@@ -73,7 +73,7 @@ and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/#essays/ann_329_ie_19)
   - Digital Humanities Teaching Assistants:    
       - Jeffrey Wayno (2016-17)
       - Jenna Schoen (2019)
-  - Laboratory and Studio Teaching Assistant:
+  - Laboratory and Studio Teaching Assistants:
       - Nilam Patel (2015)
       - Bella Buscarino (2016)
       - Scott Sonnenberg (2016-18)
