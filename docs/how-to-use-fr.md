@@ -1,5 +1,3 @@
-# Guide d'utilisation
-
 ## Lire et feuilleter le manuscrit
 
 L'édition se compose de 4 versions du manuscrit Ms. Fr.
@@ -10,7 +8,7 @@ L'édition se compose de 4 versions du manuscrit Ms. Fr.
 3. **Normalisé**: Transcription légèrement normalisée (avec ponctuation et signes diacritiques)
 4. **Traduction**: Traduction anglaise
 
-Toutes les versions peuvent être accédées en cliquant sur [Read Fr. 640](/#folios).
+Toutes les versions peuvent être accédées en cliquant sur [Read Fr. 640](/folios).
 
 
 ### Affichage côte à côte
@@ -25,7 +23,7 @@ Pour choisir une version, cliquez sur la liste déroulante en haut à droite de 
 ![howtouse-dualdropdown-4x6](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown-4x6.png)
 
 
-Vous trouverez aussi sur cette liste le [glossaire](/#folios/1r/f/1r/glossary) qui peut être consulté à tout moment lors de la lecture. 
+Vous trouverez aussi sur cette liste le [glossaire](/folios/1r/f/1r/glossary) qui peut être consulté à tout moment lors de la lecture. 
 
 Pour redimensionner les panneaux, glissez la barre verticale qui sépare les deux panneaux afin d'en ajuster la largeur. 
 
@@ -84,7 +82,7 @@ Pour obtenir de l'aide à la navigation en anglais, cliquez sur <i class="fas fa
 
       - Active ou désactive l'affichage du code source de la page en XML.
 
-      - Pour une description des balises XML voir les [principes de codage](/#content/resources/principles-encoding) en anglais. 
+      - Pour une description des balises XML voir les [principes de codage](/content/resources/principles#principles-of-encoding) en anglais. 
   - Aller en avant ou en arrière <i class="fas fa-arrow-alt-circle-left"></i> <i class="fas fa-arrow-alt-circle-right"></i>
 
       - Naviguez une page en avant ou en arrière
@@ -113,10 +111,10 @@ Les résultats sont fournis sur le panneau de recherche sur la partie gauche de 
 
 ## Ressources
 
-Lisez l'[aperçu des ressources](/#content/resources/overview) pour une présentation des outils et commentaires disponibles dans l'édition.
+Lisez l'[aperçu des ressources](/content/resources) pour une présentation des outils et commentaires disponibles dans l'édition.
 
 
-### [Liste des Entrées](/#entries)
+### [Liste des Entrées](/entries)
 
 Le manuscrit est composé presque exclusivement de blocs de texte sous des titres, que nous appelons « entrées ».
 
@@ -143,14 +141,14 @@ Cliquez sur une ou plusieurs balises de votre choix pour ne voir que les entrée
 
 ![howtouse-listentries-terms](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-entries.png)
 
-Pour une liste des différentes balises et de leur usage, voir les [principes de codage](/#content/resources/principles-encoding) en anglais. 
+Pour une liste des différentes balises et de leur usage, voir les [principes de codage](/content/resources/principles#principles-of-encoding) en anglais. 
 
-L'équipe éditoriale a assigné aux entrées du manuscrit 26 catégories qui apparaissent au début de chaque fiche. Voir les [catégories des entrées](/#content/resources/categories) en anglais.
+L'équipe éditoriale a assigné aux entrées du manuscrit 26 catégories qui apparaissent au début de chaque fiche. Voir les [catégories des entrées](/content/resources#entry-categories) en anglais.
 
 Les fiches peuvent aussi comporter des liens revoyant à des essais pertinents.
 
 
-### [Glossaire](/#folios/1r/f/1r/glossary)
+### [Glossaire](/folios/1r/f/1r/glossary)
 
 Un glossaire est accessible en séléctionnant l'option « Glossary » dans la liste déroulante de l'affichage de texte côte à côte.
 
@@ -166,10 +164,10 @@ Le glossaire permet de filtrer les résultats en tapant les premières lettres d
 
 Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
     
-- Dans cet exemple, le premier mot apparaît dans sa graphie la plus courante dans le manuscrit, il est suivi de sa graphie moderne, puis de sa classe grammaticale, ainsi que de sa traduction en anglais. Le mot-clé entre crochets indique la référence bibliographique, elle peut être consultée dans son intégralité dans la [bibliographie](/#/content/resources/bibliography) en anglais. (D'autres entrées du glossaire contiennent aussi des informations sur la langue d'origine.)
+- Dans cet exemple, le premier mot apparaît dans sa graphie la plus courante dans le manuscrit, il est suivi de sa graphie moderne, puis de sa classe grammaticale, ainsi que de sa traduction en anglais. Le mot-clé entre crochets indique la référence bibliographique, elle peut être consultée dans son intégralité dans la [bibliographie](//content/resources/bibliography) en anglais. (D'autres entrées du glossaire contiennent aussi des informations sur la langue d'origine.)
 
 
-### [Essais de recherche](/#essays)
+### [Essais de recherche](/essays)
 
 Les essais de recherche replacent le manuscrit dans son contexte matériel, technique et historique, décrivant au passage les reconstructions historiques effectuées en laboratoire par les étudiants et chercheurs du Making and Knowing Project. 
 
@@ -211,22 +209,23 @@ Dans chaque essai, cliquez sur les numéros des folios référencés dans le tex
 Dans chaque essai, cliquez sur une image pour la voir en taille réelle dans une fenêtre contextuelle. Cette fenêtre peut être fermée en cliquant en dehors de celle-ci ou sur la croix en haut à droite. 
 
 
-### [Bibliographie](/#content/resources/bibliography)
+### [Bibliographie](/content/resources/bibliography)
 
 La bibliographie compile les références, les textes, et les auteurs cités dans le manuscrit, dans les commentaires éditoriaux, et dans le glossaire.
 
 Chaque essai de recherche contient aussi sa propre bibliographie.
 
 
-### [Notes de terrain](/#content/resources/field-notes)
+### [Notes de terrain](/content/resources#field-notes-coming-soon)
 
 Les notes de terrain, « field notes », sont tenues par les étudiants lors de la planification et de l'exécution de leurs recherches en laboratoire.  
 
 Ces notes sont référencées dans les essais de recherche.
 
 
-## [Comment citer l'édition](/#content/about/how-to-cite)
+## Comment citer l'édition
 
+[Apprenez à citer l'édition >>](/content/about#how-to-cite)
 
 ## Données source
 

@@ -1,7 +1,3 @@
-# How to Use the Edition
-
-Cliquez ici pour la [version française](/#content/how-to-use-fr).
-
 ## Reading and Browsing the Manuscript
 
 The Edition consists of four versions of the French manuscript Ms. Fr.
@@ -12,7 +8,7 @@ The Edition consists of four versions of the French manuscript Ms. Fr.
 3. **Normalized**: lightly normalized French transcription (with punctuation and diacritical marks added)
 4. **Translation**: English translation
 
-All versions can be accessed by navigating to [Read Fr. 640](/#folios).
+All versions can be accessed by navigating to [Read Fr. 640](/folios).
 
 
 ### Dual-pane Display
@@ -30,7 +26,7 @@ corner of each pane.
 ![howtouse-dualdropdown-4x6](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown-4x6.png)
 
 
-Quick access to the [Glossary](/#folios/1r/f/1r/glossary) is a fourth option to be displayed in
+Quick access to the [Glossary](/folios/1r/f/1r/glossary) is a fourth option to be displayed in
 either pane (more about the Glossary below).
 
 
@@ -101,7 +97,7 @@ For navigation help, click the <i class="fas fa-question-circle"></i> help icon.
 
       - Enable/disable view of the xml source code for the page
 
-      - XML tags and their meanings are described in the [Principles of Encoding](/#content/resources/principles-encoding). 
+      - XML tags and their meanings are described in the [Principles of Encoding](/content/resources/principles#principles-of-encoding). 
       
       
   - Go Forward / Back <i class="fas fa-arrow-alt-circle-left"></i> <i class="fas fa-arrow-alt-circle-right"></i>
@@ -142,10 +138,10 @@ The results are returned in the search pane on the left.
 
 ## Resources
 
-See [Overview of Resources](/#content/resources/overview) for explanation of tools and companion commentary.
+See [Resources](/content/resources) for explanation of tools and companion commentary.
 
 
-### [List of Entries](/#entries)
+### [List of Entries](/entries)
 
 The manuscript consists almost entirely of units of text under titles, which the Project has called “entries.”
 
@@ -172,14 +168,14 @@ To filter the entries by their semantic tags, click on the desired tags to view 
 
 ![howtouse-listentries-terms](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-terms.png)
 
-For a full list of the tags and their usage, see [Principles of Encoding](/#content/resources/principles-encoding). 
+For a full list of the tags and their usage, see [Principles of Encoding](/content/resources/principles#principles-of-encoding). 
 
-Each entry has been assigned up to three of 26 broad categories, displayed on the entry card. See [Entry Categories](/#content/resources/categories).
+Each entry has been assigned up to three of 26 broad categories, displayed on the entry card. See [Entry Categories](/content/resources#entry-categories).
 
 Links are provided to Research Essays which provide commentary on the entries.
 
 
-### [Glossary](/#folios/1r/f/1r/glossary)
+### [Glossary](/folios/1r/f/1r/glossary)
 
 A Glossary of distinctive terms in the manuscript can be accessed
 by selecting “Glossary” in the drop-down menu of the dual-pane view.
@@ -202,10 +198,10 @@ and while the glossary includes common spelling variants, the list is not exhaus
 
 Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
     
-- In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets indicates the source of the definition, as listed in the [Bibliography](/#/content/resources/bibliography). (Some Glossary entries also include language or dialect of origin.)
+- In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets indicates the source of the definition, as listed in the [Bibliography](//content/resources/bibliography). (Some Glossary entries also include language or dialect of origin.)
 
 
-### [Research Essays](/#essays)
+### [Research Essays](/essays)
 
 Research Essays clarify the text of the manuscript, provide material,
 technical, and historical context, and describe student reconstructions
@@ -249,22 +245,23 @@ in your browser).
 
 In any essay, click on an image to view it at full size in a pop-up lightbox. Close the lightbox by clicking either on the "X" in the upper right-hand corner or outside of the image itself.
 
-### [Bibliography](/#content/resources/bibliography)
+### [Bibliography](/content/resources/bibliography)
 
 The Bibliography compiles references, texts, and authors cited in the manuscript, the editorial comments, and the glossary.
 
 Each Research Essay contains a full bibliography of works cited in the essay.
 
 
-### [Field Notes](/#content/resources/field-notes)
+### [Field Notes](/content/resources#field-notes-coming-soon)
 
 Field notes recorded by students as they planned, researched, reconstructed, and wrote their laboratory essays. 
 
 The respective field notes are also linked in each student Research Essay.
 
 
-## [How to Cite](/#content/about/how-to-cite)
+## How to Cite
 
+[Learn how to cite the edition](/content/about#how-to-cite)
 
 ## Source Data
 
