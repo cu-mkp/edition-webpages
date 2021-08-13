@@ -125,7 +125,7 @@
                 "id": "source-data"
             }
         ]
-    },  
+    },
     {
         "content_id": "how-to-use-fr",
         "page_heading": "Guide d'utilisation",
@@ -162,19 +162,19 @@
         "sections": [
             {
                 "title": "Introduction",
-                "id": "introduction"      
+                "id": "introduction"
             },
             {
                 "title": "Project Team and Staff",
-                "id": "project-team-and-staff"      
+                "id": "project-team-and-staff"
             },
             {
                 "title": "Senior Editorial and Digital Teams",
-                "id": "senior-editorial-and-digital-teams"      
+                "id": "senior-editorial-and-digital-teams"
             },
             {
                 "title": "Project Managers, Assistants, and Interns",
-                "id": "project-managers-assistants-and-interns"      
+                "id": "project-managers-assistants-and-interns"
             },
             {
                 "title": "Research Essay Authors",
@@ -185,7 +185,7 @@
                 "id": "text-workshops-in-paleography-translation-and-digital-encoding"
             },
             {
-                "title": "Craft & Science: Making Objects in the Early Modern World* Laboratory Seminar Participants",
+                "title": "Craft & Science: Making Objects in the Early Modern World Laboratory Seminar Participants",
                 "id": "craft--science-making-objects-in-the-early-modern-world-laboratory-seminar-participants"
             },
             {
@@ -194,11 +194,11 @@
             },
             {
                 "title": "Working Group Meeting Invited Scholars and Participants",
-                "id": "working-group-meeting-invited-scholars-and-participants"      
+                "id": "working-group-meeting-invited-scholars-and-participants"
             },
             {
                 "title": "Columbia University Libraries and the Center for Teaching and Learning",
-                "id": "columbia-university-libraries-and-the-center-for-teaching-and-learning"      
+                "id": "columbia-university-libraries-and-the-center-for-teaching-and-learning"
             }
 
         ]
@@ -209,12 +209,50 @@
         "page_heading": "Principles of Transcription, Translation, and Encoding",
         "header_graphic_filename": "banner-resources.png",
         "route": "/content/resources/principles"
+        "sections": [
+            {
+                "title": "Transcription",
+                "id": "transcription"
+            },
+            {
+                "title": "Translation",
+                "id": "translation"
+            },
+            {
+                "title": "Encoding",
+                "id": "encoding"
+            },
+            {
+                "title": "Linguistic Resources",
+                "id": "linguistic-resources"
+            }
+       ]
+
     },
     {
         "content_id": "resources/bibliography",
         "page_heading": "Bibliography",
         "header_graphic_filename": "banner-resources.png",
-        "route": "/content/resources/bibliography"
+        "route": "/content/resources/bibliography",
+        "sections": [
+            {
+                "title": "Sources Cited in Ms. Fr. 640 and Editorial Comments",
+                "id": "sources-cited-in-ms-fr-640-and-editorial-comments"
+            },
+                {
+                    "title": "Primary Sources",
+                    "id": "primary-sources"
+                },
+                {
+                    "title": "Secondary Sources",
+                    "id": "secondary-sources"
+                },
+            {
+               "title": "Sources Cited in the Glossary",
+               "id": "sources-cited-in-the-glossary"
+            }
+        ]
+
     },
     {
         "content_id": "resources/figure-index",
