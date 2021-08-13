@@ -13,7 +13,7 @@ Toutes les versions peuvent être accédées en cliquant sur [Read Fr. 640](/fol
 
 ### Affichage côte à côte
 
-Le manuscrit est présenté côte à côte, ce qui permet de visionner deux versions du manuscrit simultanément. 
+Le manuscrit est présenté côte à côte, ce qui permet de visionner deux versions du manuscrit simultanément.
 
 ![how-to-use-dualpane](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane-4x6.png)
 
@@ -23,9 +23,9 @@ Pour choisir une version, cliquez sur la liste déroulante en haut à droite de 
 ![howtouse-dualdropdown-4x6](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown-4x6.png)
 
 
-Vous trouverez aussi sur cette liste le [glossaire](/folios/1r/f/1r/glossary) qui peut être consulté à tout moment lors de la lecture. 
+Vous trouverez aussi sur cette liste le [glossaire](/folios/1r/f/1r/glossary) qui peut être consulté à tout moment lors de la lecture.
 
-Pour redimensionner les panneaux, glissez la barre verticale qui sépare les deux panneaux afin d'en ajuster la largeur. 
+Pour redimensionner les panneaux, glissez la barre verticale qui sépare les deux panneaux afin d'en ajuster la largeur.
 
 
 ### Fac-similé
@@ -61,8 +61,8 @@ La structure des transcriptions (diplomatique et normalisée) reflète celle du 
 | Accolades             | Abréviations dans le texte du Ms. explicitées.               | ![howtouse-curly](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-curly.png) |
 | Crochets              | Interventions éditoriales effectuées par le Making and Knowing Project. Par exemple, pour la suppression de doublons ou l'ajout de mots manquants. | ![howtouse-square](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-square.png) |
 | Lignes horizontales   | Lignes dans le manuscrit original qui séparent certaines blocs de texte. | ![howtouse-hr](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-hr.png) |
-| “*Continued…*”        | Indique que le texte continue à la page suivante.            | ![howtouse-continued1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued1.png) |
-| “*...Continued*”      | Indique que le texte est la continuation de la page précédente. | ![howtouse-continued2](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued2.png) |
+| "*Continued…*"        | Indique que le texte continue à la page suivante.            | ![howtouse-continued1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued1.png) |
+| "*...Continued*"      | Indique que le texte est la continuation de la page précédente. | ![howtouse-continued2](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued2.png) |
 | Icône d'essai         | Indique l'existence d'un essai portant sur ce passage        | ![howtouse-beaker](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-beaker.png) |
 | Astérisque rouge      | L'astérique rouge indique l'existence d'un commentaire éditorial en anglais. Il suffit de cliquer dessus pour le lire. | ![howtouse-asterisk](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-asterisk.png) |
 
@@ -82,25 +82,25 @@ Pour obtenir de l'aide à la navigation en anglais, cliquez sur <i class="fas fa
 
       - Active ou désactive l'affichage du code source de la page en XML.
 
-      - Pour une description des balises XML voir les [principes de codage](/content/resources/principles#principles-of-encoding) en anglais. 
+      - Pour une description des balises XML voir les [principes de codage](/content/resources/principles#principles-of-encoding) en anglais.
   - Aller en avant ou en arrière <i class="fas fa-arrow-alt-circle-left"></i> <i class="fas fa-arrow-alt-circle-right"></i>
 
       - Naviguez une page en avant ou en arrière
   - Sauter au folio <i class="fas fa-hand-point-right"></i>
 
       - Naviguez en entrant le numéro du folio de 1r à 170v (ex: « 8v » or « 106r »)
-      
+
 
 ### Recherche
 
-Le moteur de recherche donne des résultats dans toutes les versions du texte ainsi que dans les essais. 
+Le moteur de recherche donne des résultats dans toutes les versions du texte ainsi que dans les essais.
 
 Les résultats sont fournis sur le panneau de recherche sur la partie gauche de l'écran.
 
   - Cliquez l'icône <i class="fas fa-question-circle"></i> en haut à droite du panneau de recherche pour des astuces de recherche dans l'édition numérique.
-  - Les résultats peuvent être affichés par ordre de pertinence ou de folio. 
+  - Les résultats peuvent être affichés par ordre de pertinence ou de folio.
   - En cliquant sur un des résultats, le panneau adjacent affiche le manuscrit à la page qui contient ce résultat. Pour retrouver le passage précis sur cette même page, utilisez la fonction de recherche de votre navigateur (ex: "ctrl"+"F" sur Windows, "⌘" +"F" sur Mac)
-  - Pour revenir à l'affichage des textes côte à côte, cliquez sur “exit search” en haut à gauche. 
+  - Pour revenir à l'affichage des textes côte à côte, cliquez sur "exit search" en haut à gauche.
   - Pour revenir à la liste de résultats, utilisez la flèche arrière de votre navigateur, ou relancez la recherche dans la barre de recherche qui aura mémorisé la dernière recherche.
   - La recherche fournira tous les folios qui contiennent **tous** les termes de la recherche.
   - Une recherche entre guillemets permet de chercher une phrase en particulier.
@@ -124,7 +124,7 @@ Ces entrées peuvent être ordonnées séquentiellement, telles qu'elles apparai
 
 
 
-Les termes importants de chaque entrée ont été balisés par l'équipe éditoriale. 
+Les termes importants de chaque entrée ont été balisés par l'équipe éditoriale.
 
 Pour voir la liste complète de termes balisés que chaque entrée comprend, cliquez sur la flèche en haut à droite.
 
@@ -141,7 +141,7 @@ Cliquez sur une ou plusieurs balises de votre choix pour ne voir que les entrée
 
 ![howtouse-listentries-terms](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-entries.png)
 
-Pour une liste des différentes balises et de leur usage, voir les [principes de codage](/content/resources/principles#principles-of-encoding) en anglais. 
+Pour une liste des différentes balises et de leur usage, voir les [principes de codage](/content/resources/principles#principles-of-encoding) en anglais.
 
 L'équipe éditoriale a assigné aux entrées du manuscrit 26 catégories qui apparaissent au début de chaque fiche. Voir les [catégories des entrées](/content/resources#entry-categories) en anglais.
 
@@ -152,24 +152,24 @@ Les fiches peuvent aussi comporter des liens revoyant à des essais pertinents.
 
 Un glossaire est accessible en séléctionnant l'option « Glossary » dans la liste déroulante de l'affichage de texte côte à côte.
 
-Utilisez l'index alphabétique pour naviguer les contenus du glossaire. 
+Utilisez l'index alphabétique pour naviguer les contenus du glossaire.
 
 ![howtouse-glossary](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-glossary.png)
 
 Le glossaire permet de filtrer les résultats en tapant les premières lettres d'un mot sur la case « Filter by Entry » en haut à gauche. Ce filtrage prend en compte les graphies anciennes et modernes de chaque mot repertorié.
 
-**Nota bene:**  la graphie des mots n'étant pas régulière, il est conseillé de chercher les mots avec le moins de caractères possibles ou, le cas échéant, avec une graphie différente (ex: « plate » au lieu de « platte », « esguille » au lieu d' « aiguille », etc.) 
+**Nota bene:**  la graphie des mots n'étant pas régulière, il est conseillé de chercher les mots avec le moins de caractères possibles ou, le cas échéant, avec une graphie différente (ex: « plate » au lieu de « platte », « esguille » au lieu d' « aiguille », etc.)
 
 **Comment lire les entrées du glossaire**:
 
 Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
-    
+
 - Dans cet exemple, le premier mot apparaît dans sa graphie la plus courante dans le manuscrit, il est suivi de sa graphie moderne, puis de sa classe grammaticale, ainsi que de sa traduction en anglais. Le mot-clé entre crochets indique la référence bibliographique, elle peut être consultée dans son intégralité dans la [bibliographie](//content/resources/bibliography) en anglais. (D'autres entrées du glossaire contiennent aussi des informations sur la langue d'origine.)
 
 
 ### [Essais de recherche](/essays)
 
-Les essais de recherche replacent le manuscrit dans son contexte matériel, technique et historique, décrivant au passage les reconstructions historiques effectuées en laboratoire par les étudiants et chercheurs du Making and Knowing Project. 
+Les essais de recherche replacent le manuscrit dans son contexte matériel, technique et historique, décrivant au passage les reconstructions historiques effectuées en laboratoire par les étudiants et chercheurs du Making and Knowing Project.
 
 Les essais peuvent être accédés de deux manières: 1) depuis le texte
 et 2) depuis l'index.
@@ -178,7 +178,7 @@ Dans l'affichage de texte côte à côte, cliquez sur l'icône <i class="fas fa-
 
 ![howtouse-folios-essay](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folios-essay.png)
 
-L'index des essais peut être affiché sous forme de vignettes ou de fiches plus détaillées avec un résumé. 
+L'index des essais peut être affiché sous forme de vignettes ou de fiches plus détaillées avec un résumé.
 
 Cliquez sur la petite ou la grande grille en haut à droite pour changer d'affichage.
 
@@ -190,12 +190,12 @@ Sur les fiches plus détaillées, vous pouvez obtenir plus d'informations sur l'
 
 Les essais de recherches sont divisés en plusieurs catégories:
 
-  - **Introduction**: essais introductifs offrant un tour d'horizon sur l'édition et le manuscrit (y compris la codicologie, la paléographie, et la génèse du manuscrit, sur sa relation avec d'autres genres littéraires et sur l'identité de l'auteur-praticien). Ceux-ci sont écrits par les chercheurs du Making and Knowing Project et des experts du monde entier. 
+  - **Introduction**: essais introductifs offrant un tour d'horizon sur l'édition et le manuscrit (y compris la codicologie, la paléographie, et la génèse du manuscrit, sur sa relation avec d'autres genres littéraires et sur l'identité de l'auteur-praticien). Ceux-ci sont écrits par les chercheurs du Making and Knowing Project et des experts du monde entier.
 
   - **L'art et la manière**: essais portant sur les matériaux et la fabrication, sur le sens de l'art et la formation des artistes.
-  
+
   - **Connaître la nature**: essais portant sur l'investigation, la manipulation, l'exploration des matériaux et sur les principes de la nature dans le Ms. Fr. 640.
-  
+
   - **Société et culture**: essais portant sur le contexte historique du manuscrit et sur la France au XVIe siècle.
 
   - **Le Making and Knowing Project**: essais portant sur le Making and Knowing Project, ses initiatives, sa  pédagogie, ses méthodes, ainsi que son personnel et ses collaborateurs.
@@ -206,7 +206,7 @@ Pour accéder aux essais par catégorie, utilisez la barre de navigation à gauc
 
 Dans chaque essai, cliquez sur les numéros des folios référencés dans le texte pour y accéder directement, retournez à l'essai en cliquant sur la flèche gauche de votre navigateur.
 
-Dans chaque essai, cliquez sur une image pour la voir en taille réelle dans une fenêtre contextuelle. Cette fenêtre peut être fermée en cliquant en dehors de celle-ci ou sur la croix en haut à droite. 
+Dans chaque essai, cliquez sur une image pour la voir en taille réelle dans une fenêtre contextuelle. Cette fenêtre peut être fermée en cliquant en dehors de celle-ci ou sur la croix en haut à droite.
 
 
 ### [Bibliographie](/content/resources/bibliography)
@@ -232,4 +232,3 @@ Ces notes sont référencées dans les essais de recherche.
 Les fichiers XML à la base de cette édition numérique, ansi que d'autres métadonnées sont disponibles dans le dépot GitHub du projet <https://github.com/cu-mkp/m-k-manuscript-data>.
 
 ![howtouse-fieldnotes](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-fieldnotes.jpg)
-

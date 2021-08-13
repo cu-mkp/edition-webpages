@@ -1,7 +1,7 @@
 <!-- =========== LIST OF ENTRIES =========== -->
 ## List of Entries
 
-The manuscript consists almost entirely of units of text under titles, which the Project has called “entries.” The List of Entries forms an index to navigate the over 900 entries.
+The manuscript consists almost entirely of units of text under titles, which the Project has called "entries." The List of Entries forms an index to navigate the over 900 entries.
 
 Entries can be filtered by selecting semantic tags that have been used to encode relevant terms in each entry. For further information on these tags, see [Principles of
 Encoding](/content/resources/principles#principles-of-encoding).
@@ -12,19 +12,19 @@ Encoding](/content/resources/principles#principles-of-encoding).
 ## Entry Categories
 
 Entries can be faceted through 26 broad categories, which are intended to provide a quick overview of processes and materials and to help navigate
-the manuscript. 
+the manuscript.
 
 For more information about the manuscript’s contents, see
 Pamela H. Smith, [An Introduction to Ms. Fr. 640 and its
 Author-Practitioner](/essays/ann_300_ie_19).
 
-The manuscript BnF Ms. Fr. 640 mostly consists of units of text under titles, which the Project has called “entries.” 
+The manuscript BnF Ms. Fr. 640 mostly consists of units of text under titles, which the Project has called "entries."
 
-The over 900 entries have been grouped by the Making and Knowing Project into 26 broad categories, loosely corresponding to topics that the Project felt represented core preoccupations of the author-practitioner. 
+The over 900 entries have been grouped by the Making and Knowing Project into 26 broad categories, loosely corresponding to topics that the Project felt represented core preoccupations of the author-practitioner.
 
 Each entry was assigned up to three of the 26 categories. For example, *Tablettes* (Tablets) on fol. [15v](/folios/15v) is categorized under "wood and its coloring," "decorative," and "tool."
 
-These categories form an index created by the Project to ease navigation of the manuscript. 
+These categories form an index created by the Project to ease navigation of the manuscript.
 
 
 ### Category Descriptions
@@ -83,7 +83,7 @@ It includes:
 <!-- =========== BIBLIOGRAPHY =========== -->
 ## Bibliography
 
-The Bibliography compiles references, texts, and authors cited in Ms. Fr. 640, the Edition's editorial comments, and the Glossary.
+The Bibliography compiles references, texts, and authors cited in Ms. Fr. 640, in the Edition's editorial comments, and in the Glossary.
 
 This Bibliography includes detailed references for primary sources cited in the manuscript, including—whenever possible—permanent links to electronic facsimiles. Because Ms. Fr. 640 rarely specifies a particular printed edition, the references provided here are those that are more widely available and/or were produced by prominent sixteenth-century publishers (Robert and Henri Estienne, the Aldine press, Christophe Plantin, Hieronymus Froben, Johannes Herwagen, etc.). Other possible editions can be found in the [Universal Short Title Catalogue](https://www.ustc.ac.uk) and similar resources.
 
@@ -115,7 +115,7 @@ An index of all illustrations by Ms. Fr. 640's author-practitioner found through
 <!-- =========== RECONSTRUCTION INSIGHTS =========== -->
 ## Reconstruction Insights
 
-One of the key methodologies for studying the processes and materials described in Ms. Fr. 640 was the historical reconstruction of its entries. This resource provides a guide for the research essays that discuss the insights gained through reconstructions undertaken by the Project in the laboratory.
+One of the key methods for studying the processes and materials described in Ms. Fr. 640 was the historical reconstruction of its entries. This resource provides a guide to research essays that discuss insights gained through laboratory reconstructions by the Project.
 
 [View Reconstruction Insights >>](/content/resources/reconstruction-insights)
 
@@ -128,7 +128,6 @@ _Secrets of Craft and Nature_ was first launched in February 2020. Throughout th
 
 #### Research Essays
 * Additional essays still under revision.
-* Translation of French essays into English.
 * Translation of selected introductory essays into French.
 
 #### Field Notes Repository
@@ -138,8 +137,6 @@ _Secrets of Craft and Nature_ was first launched in February 2020. Throughout th
 * Improved bibliography including references cited in the essays and additional links to electronic resources.
 * Additional visualizations and analysis of the manuscript's text and themes, such as an Index of Key Terms that aims to build an ontology from the manuscript's existing tagged terms.
 * Toolkits and resources for analyzing the manuscript as raw data; data that is already available through the [Project's Github](https://github.com/cu-mkp/m-k-manuscript-data).
-
-#### Improved Compatibility with Mobile Devices
 
 #### Research and Teaching Companion
 * Set to be published in 2021, the Research and Teaching Companion will provide a behind-the-scenes look at the making of _Secrets of Craft and Nature_.
@@ -151,8 +148,7 @@ _Secrets of Craft and Nature_ was first launched in February 2020. Throughout th
 
 Field notes document students' skill-building exercises and reconstruction work for their Research Essays.
 
-While the Project required students to record every stage of their research, some field notes are more detailed and
-comprehensive than others.
+While the Project required students to record every stage of their research, field notes differ in detail and completeness.
 
 Additional photographs taken by the students as they carried out their
 research are available in the [Project’s repository on Flickr](https://www.flickr.com/photos/128418753@N06/albums).

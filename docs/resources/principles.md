@@ -1,5 +1,5 @@
 The transcription, translation, and markup of the manuscript was
-“grad-sourced” in a series of paleography and text workshops
+"grad-sourced" in a series of paleography and text workshops
 (2014–2018) that brought together international graduate students to
 become fluent in reading middle French script by transcribing and
 translating Ms. Fr. 640.
@@ -13,7 +13,7 @@ All work was checked and finalized by the Making and Knowing Team: Terry
 Catapano, Clément Godbarge, Naomi Rosenkranz, Marc Smith, Pamela Smith,
 Tillmann Taape, and Tianna Uchacz.
 
-## Principles of Transcription 
+## Principles of Transcription
 
 The transcription of Ms. Fr. 640 was carried out by graduate students
 and Making and Knowing team members in Paleography and Text Workshops
@@ -27,7 +27,7 @@ normalized French transcription.
 
 ### Diplomatic Transcription
 
-The “diplomatic” transcription attempts to render the text and marks of
+The "diplomatic" transcription attempts to render the text and marks of
 the manuscript in type as faithfully in ASCII characters as necessary to
 assist the reader in gaining a better sense of the original — or better
 still, of visually accessing the facsimile — without previous knowledge
@@ -40,20 +40,20 @@ determined by position within the word, ligatures or cursivity, whether
 conventional in sixteenth-century usage or accidental (see [Ms. Fr. 640’s
 letterforms](https://www.makingandknowing.org/text-workshops/letterforms-fancybox/). This means, for example, that even long **s** (**ſ**) (initial and medial) and short **s** (exclusively
 final), which would have been distinguished in early-modern print, are
-rendered in the modern form as **s**. Thus, “ſans” is transcribed
-“sans.”
+rendered in the modern form as **s**. Thus, "ſans" is transcribed
+"sans."
 
 Additional deviations from sixteenth-century conventions are:
 
   - Abbreviations are marked up and expanded consistently with the general spelling system of the manuscript.
   - The transcriptions of the letters i/j and u/v, whether uppercase or lowercase, follow modern usage in distinguishing vowels and consonants.
       - While these letters were not considered distinct graphemes (vowel/consonant) in French before the late seventeenth century, the decision to distinguish between them in the transcription not only facilitates reading but also makes full-text word searches more intuitive.
-      - The only formal distinction made in Ms. Fr. 640, following early modern orthography, is between v as the initial form and u elsewhere. For example, “vniuersel” is transcribed “universel.”
+      - The only formal distinction made in Ms. Fr. 640, following early modern orthography, is between v as the initial form and u elsewhere. For example, "vniuersel" is transcribed "universel."
   -  The æ ligature (but not the œ ligature used in modern French), a form used specifically for Latin and for the Latinate spelling of the prefix præ- in French, has been maintained.
 
 ### Normalized Transcription
 
-The “normalized” transcription aims to provide an optimally readable
+The "normalized" transcription aims to provide an optimally readable
 text, based on the principles commonly observed in modern critical
 editions of middle-French texts for grammatical and lexical
 disambiguation.
@@ -62,12 +62,12 @@ The following normalization protocols were applied:
 
   -  Capitalization and punctuation: the liberal use in Ms. Fr. 640 of capitals to mark the beginnings of both independent sentences and articulated clauses has been converted into modern punctuation, and capitals applied only to the initials of sentences and proper nouns.
   -  Word separation: blank spaces or apostrophes have been inserted, and no hyphens except to join two parts of a word that are separated in the original over a line break.
-      - E.g. “laultre” normalized as “l’aultre”
+      - E.g. "laultre" normalized as "l’aultre"
   - Acute accents: **é** marks stressed, i.e. non-mute, **e** in final syllables, but not in monosyllabic words except for disambiguation between homographs.
-      - E.g. “apres” is normalized as “aprés” according to contemporary convention (rather than modern French “après”). This also disambiguates between “aprés” and “âpres” (although the latter does not occur in the manuscript).
+      - E.g. "apres" is normalized as "aprés" according to contemporary convention (rather than modern French "après"). This also disambiguates between "aprés" and "âpres" (although the latter does not occur in the manuscript).
   - A grave accent distinguishes **à** (preposition) from **a** (verb), **là** (adverb) from **la** (article), and **où** (relative pronoun) from **ou** (conjunction).
   - Occasional diacritics: diereses and cedillas.
-      - E.g. “Noël” and “sçavoir”
+      - E.g. "Noël" and "sçavoir"
 
 ### Deletions, Changes, and Marks
 
@@ -142,15 +142,15 @@ elegant solution in favor of a clunky and at times archaic rendering
 which preserves the author-practitioner's rich, down-to-earth, and
 occasionally rambling vernacular.
 
-This “hands-off” approach applies first and foremost to technical terms.
+This "hands-off" approach applies first and foremost to technical terms.
 Many sixteenth-century terms for processes and materials have been
 obscured or subsumed into different categories in modern art historical
 terminology. To keep the original meaning in view, we have refrained
 from applying these modern categories wherever possible. For example,
 the term *desmenée* in an entry on perspective (fol.
 [62v](/folios/62v)
-could easily be identified as the “vanishing point,” but instead we
-opted for the more neutral “intersection.” Similarly, the entries on *or
+could easily be identified as the "vanishing point," but instead we
+opted for the more neutral "intersection." Similarly, the entries on *or
 mat* (fol. [66r](/folios/66r))
 describe a process known as mordant gilding in modern English, but to
 use that term would be tantamount to imposing a modern technical
@@ -169,19 +169,19 @@ For many French terms, we chose English translations from contemporary
 dictionaries such as Cotgrave’s 1611 *Dictionarie of the French and
 English Tongues*, even if they might seem obscure or archaic to modern
 readers (see below the full list of dictionaries used). Even if a word
-such as “mattrass,” denoting a round-bottomed glass flask, is now rarely
+such as "mattrass," denoting a round-bottomed glass flask, is now rarely
 used, it is by far the closest equivalent, both etymologically and in
 terms of its technical meaning, to the French *mattelas*. There are
 cases, however, where this strategy would have caused more confusion
 that it is worth. The small paintbrush called *pinceau*, for example,
-would have been known as a “pencil” in English from the sixteenth until
+would have been known as a "pencil" in English from the sixteenth until
 well into the nineteenth century. Being moreover etymologically related
-to *pinceau*, “pencil” seems in many ways an ideal candidate. However,
-while one might find a “camel hair pencil” in a catalogue of specialist
+to *pinceau*, "pencil" seems in many ways an ideal candidate. However,
+while one might find a "camel hair pencil" in a catalogue of specialist
 art equipment even today, the danger of confusing a brush with a
 graphite pencil seemed too grave to be left to a disambiguating
 editorial note on each instance of the word. Instead, on this occasion
-we translated “paintbrush,” prioritizing a clear reference to the
+we translated "paintbrush," prioritizing a clear reference to the
 correct tool over the principle of avoiding modern categories.
 
 While the language of Ms. Fr. 640 is overwhelmingly Middle French, some
@@ -203,12 +203,12 @@ Another important aim of our translation was to preserve the
 peculiarities of the author-practitioner’s language. This includes the
 odd not-quite-grammatical sentence, but, more importantly, the
 author-practitioner’s language of things and processes, which is one of
-the key elements that tell us something about his “material imaginary.”
+the key elements that tell us something about his "material imaginary."
 We paid particular attention to language describing materials as alive
 and active, with a will of their own. *Azur d’esmail*, for example,
-“hates more than any other to be ground, especially with water,” and
-with good reason, since this would mean that it “dies & loses all its
-color” (fol. [58v](/folios/58v)).
+"hates more than any other to be ground, especially with water," and
+with good reason, since this would mean that it "dies & loses all its
+color" (fol. [58v](/folios/58v)).
 While this literal translation may sound quaint to modern readers, for
 early modern artists and artisans, there would have been nothing unusual
 in supposing that matter was a live agent that had to be coaxed or
@@ -232,8 +232,8 @@ this consistency by searching for commonly used terms or phrases in a
 text editing program to make sure that they were translated with the
 agreed-upon term. For example, we reviewed hundreds of variations of the
 construction *il faut*, determining how to implement our self-imposed
-consistency rules (“one needs (to do),” “one ought not,” or “it is
-necessary,” depending on context) or depart from them in edge cases. The
+consistency rules ("one needs (to do)," "one ought not," or "it is
+necessary," depending on context) or depart from them in edge cases. The
 exhilarating but alarming capacity that digital tools allow in enforcing
 consistency in a document like this has resulted in a non-literary piece
 of literature, as we consciously sacrificed elegance of prose in the
@@ -323,9 +323,9 @@ maintained in the [Project’s data repository in Github](https://github.com/cu-
 
 |  Tag |    Definition   |                        Description and Use                        |
 |------|-----------------|-------------------------------------------------------------------|
-| ab   | anonymous block | a block of text that belongs together semantically, or a unit within a longer entry indicated by the author-practitioner 
+| ab   | anonymous block | a block of text that belongs together semantically, or a unit within a longer entry indicated by the author-practitioner
 | div  | text division   | the span of a single, discrete entry                              |
-| head | heading         | indicates the heading of a “recipe” or entry, classified as a div |
+| head | heading         | indicates the heading of a "recipe" or entry, classified as a div |
 | id   | identifier      | a unique identifier for the text division                         |
 | lb   | line break      | line break - only used in the French transcriptions               |
 
@@ -333,7 +333,7 @@ maintained in the [Project’s data repository in Github](https://github.com/cu-
 
 |     Tag     |     Definition    |                                                                                                                    Description and Use                                                                                                                   | Rendering (when applicable)                                                                                            |
 |-------------|-------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
-| add         | addition          | an addition made to the text by the writer in the original; renders in blue font of a smaller size. Passages were judged to be “additions” by: superscript in main body, significant changes in ink color, squeezed between other extant blocks of text. | ![howtouse-add](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-add.png)              |
+| add         | addition          | an addition made to the text by the writer in the original; renders in blue font of a smaller size. Passages were judged to be "additions" by: superscript in main body, significant changes in ink color, squeezed between other extant blocks of text. | ![howtouse-add](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-add.png)              |
 | caption     | caption           | text descriptions of graphics provided by the author-practioner in the Ms.                                                                                                                                                                               |                                                                                                                        |
 | comment     | comment           | anchors for commentary by the editors                                                                                                                                                                                                                    | ![howtouse-asterisk](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-asterisk.png)    |
 | corr        | correction        | denotes an editorial correction by the Making and Knowing Project team; renders in square brackets                                                                                                                                                       | ![howtouse-square](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-square.png)        |
@@ -359,7 +359,7 @@ maintained in the [Project’s data repository in Github](https://github.com/cu-
 | cn  | currency       | a known coin or currency                                                                                                                                                 |
 | df  | definition     | denotes where the author-practitioner defines or explains a term                                                                                                         |
 | env | environment    | reference to a physical space or environment, such as workshop space, room, mountains, forest, etc                                                                       |
-| m   | material       | a named physical material (e.g., “rose” but not “plant”), or a verb that implies a physical material, such as “to gild.”                                                 |
+| m   | material       | a named physical material (e.g., "rose" but not "plant"), or a verb that implies a physical material, such as "to gild."                                                 |
 | md  | medical        | medical and health-related terms or phrases in an entry about some other topic. Medical recipes are categorized as such, but not marked with tags.                       |
 | ms  | measurement    | units of measurement, including temporal, volume, mass, length                                                                                                           |
 | mu  | music          | musical instrument                                                                                                                                                       |
@@ -402,14 +402,14 @@ Google Drive Add-on, **XML Validator** — a digital tool for validating markup 
 
 A handlist of dictionaries, technical encyclopedias, and other sources used in the transcription and translation of Ms. Fr. 640. Note: some resources below may require institutional access. While we attempted to provide persistent URLs for these resources, we cannot guarantee their stability over the long term and therefore you may find broken links.
 
-### Online Dictionaries 
+### Online Dictionaries
 
 #### French-English dictionaries
   - [Randle Cotgrave, Dictionarie of the French and English
     Tongues](http://www.micmap.org/dicfro/introduction/cotgrave)
     (London 1611).
       - [Also here](http://www.pbm.com/%7Elindahl/cotgrave/)
-      
+
   - Claudius Hollyband, A Dictionarie French and English (London 1593)
   - Guy Miège, *[A New Dictionary French and
     English](https://books.google.com/books?id=YbWtTwVbLioC&printsec=frontcover&dq=guy+miege&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwih-ZStta7mAhVhmeAKHW9QCjQQ6AEwAHoECAYQAg#v=onepage&q&f=false)*
@@ -421,7 +421,7 @@ A handlist of dictionaries, technical encyclopedias, and other sources used in t
     1729).
   - [Oxford English Dictionary](http://www.oed.com/) - The standard
     reference (institutional access required).
-    
+
 #### Dictionaries of historical French
   - [Centre national de resources textuelles et
     lexicales](http://www.cnrtl.fr/definition/) - DMF, TLFI and other
@@ -443,7 +443,7 @@ A handlist of dictionaries, technical encyclopedias, and other sources used in t
     siècle](http://www.micmap.org/dicfro/introduction/dictionnaire-godefroy),
     by Frédéric Godefroy (1880-1895),
     and the supplementary volume ([Complément](http://www.micmap.org/dicfro/introduction/complement-godefroy), 1895-1902).
-  - *Dictionnaire historique de l’ancien langage françois, ou Glossaire de la langue françoise depuis son origine jusqu’ausiècle de Louis XIV*, par Jean-Baptiste de la Curne deSainte-Palaye (1882). 
+  - *Dictionnaire historique de l’ancien langage françois, ou Glossaire de la langue françoise depuis son origine jusqu’ausiècle de Louis XIV*, par Jean-Baptiste de la Curne deSainte-Palaye (1882).
       - [Archive.org](http://archive.org/search.php?query=Dictionnaire%20historique%20de%20l%27ancien%20langage%20fran%C3%A7ois) et
         [Gallica](http://gallica.bnf.fr/Search?f_creator=La+Curne+de+Sainte+Palaye%2C+Jean+Baptiste+de+%281697-1781%29&ArianeWireIndex=index&q=la+curne+Dictionnaire+historique&lang=FR&n=15&p=1&f_nqamoyen=altoHQ).
   - Abel Poitrineau, [Les Anciennes mesures locales du Sud-Ouest
@@ -452,16 +452,16 @@ A handlist of dictionaries, technical encyclopedias, and other sources used in t
     Clermont-Ferrand, 1996.
   - For words that cannot be found in French works, remember to check
     **Occitan** and **Latin** dictionaries (see below).
-    
+
 #### For further exploration
   - [Dicfro](http://www.micmap.org/dicfro/liste-des-dictionnaires)
-    
+
       - Portal with access to numerous lexicographical and historical resources, to glossaries of several medieval works, and to some other resources of minor importance, aux glossaires de plusieurs
         including titles cited below in the *Grand Corpus des Dictionnaires* (institutional access
         required).
   - [ARTFL - American research on the treasury of the French
     language](http://clio.columbia.edu/catalog/519700)
-    
+
       - A full-text retrieval database of classical French writings;
         users can create a dictionary and frequency count of words
         used in a text, trace origins of words or phrases back through
@@ -470,87 +470,87 @@ A handlist of dictionaries, technical encyclopedias, and other sources used in t
         treatises.
   - [Gallica](http://gallica.bnf.fr) has many historical dictionaries,
     often in image mode.
-    
+
       - Best accessed via this handy
         [index](http://www.u-picardie.fr/LESCLaP/rey/tdm_telechargement_dictionnaires).
   - [Grand Corpus des
     Dictionnaires](http://www.classiques-garnier.com.janus.biu.sorbonne.fr/numerique-bases/index.php?module=App&action=FrameMain)
     \[du 9e au 20e siècle\], Classiques Garnier (institutional access required). Contains:
-    
+
       - Godefroy (Frédéric), *Dictionnaire de l’ancienne langue
         française et de tous ses dialectes du 9e au 15e s.*
-    
+
       - La Curne de Sainte-Palaye, *Dictionnaire historique de
         l’ancien langage français depuis son origine jusqu’au siècle
         de Louis XIV*
-    
+
       - Huguet (Edmond), *Dictionnaire de la langue française du 16e
         siècle*
-    
+
       - Estienne (Robert), *Dictionaire Francois-latin*, 1549
-    
+
       - Nicot (Jean), *Thrésor de la langue françoyse, tant ancienne
         que moderne*, 1606
-    
+
       - Cotgrave (Randle), *A Dictionarie of the french and english
         tongues*, 1611
-    
+
       - Ménage (Gilles), *Les Origines de la langue françoise*, 1650
-    
+
       - Richelet (Pierre), *Dictionnaire françois*, 1680
-    
+
       - *Dictionaire de l’Académie françoise*, 1687 \[Avant-première
         1\]
-        
+
           - A to Aversion
-    
+
       - *Dictionaire de l’Académie françoise*, 1687 \[Avant-première
         2\]
-        
+
           - A to Confiture
-    
+
       - *Dictionaire de l’Académie françoise*, 1687 \[Avant-première
         3\]
-        
+
           - A to Neuf
-    
+
       - Furetière (Antoine), *Essai d’un Dictionaire universel*, 1687
-    
+
       - Furetière (Antoine), *Dictionaire universel*, 1690
-    
+
       - *Le* *Dictionnaire de l’Académie françoise*, 1694
         \[1<sup>re</sup> édition\]
-    
+
       - Corneille (Thomas), *Le Dictionnaire des arts et des
         sciences*, 1694 (the same is on Gallica, in image mode)
-    
+
       - Ménage (Gilles), *Dictionnaire étymologique ou Origines de la
         langue françoise*, 1694
-    
+
       - *Nouveau* *Dictionnaire de l’Académie françoise*, 1718
         \[2<sup>e</sup> édition\]
-    
+
       - *Dictionnaire de l’Académie françoise*, 1740 \[3<sup>e</sup>
         édition\]
-    
+
       - *Dictionnaire de l’Académie françoise*, 1762
         \[4<sup>e</sup>édition\]
-    
+
       - *Dictionnaire de l’Académie françoise*, 1798 \[5<sup>e</sup>
         édition\]
-    
+
       - *Dictionnaire de l’Académie française*, 1835 \[6<sup>e</sup>
         édition\]
-    
+
       - Barré (Louis), *Complément du* *Dictionnaire de l’Académie
         française*, 1842
-    
+
       - *Dictionnaire de l’Académie française*, 1879 \[7<sup>e</sup>
         édition\]
-    
+
       - *Dictionnaire de l’Académie française*, 1932-1935
         \[8<sup>e</sup> édition\]
-        
+
 #### Occitan Dictionaries
   - A critical assessment of the field: Josiane Ubaud, [Regards sur la
     lexicographie occitane: de la richesse passée à la misère
@@ -565,10 +565,10 @@ A handlist of dictionaries, technical encyclopedias, and other sources used in t
     Toulouse, 2000.
   - [Institut d'Estudis Occitans de París - Documents per l'estudi de
     la lenga occitana](http://ieoparis.free.fr/delo.html)
-    
+
       - Links to many resources, including Raynouard, Levy, and the
         following:
-    
+
       - P. A. Boissièr de Sauvatges, *Dictionnaire
         languedocien-français*, 1756, 2 vols,
         [A-E](https://drive.google.com/open?id=1914zkD3PGx3NWb4S7fGpQjWMPlFq7cO8),
@@ -577,18 +577,18 @@ A handlist of dictionaries, technical encyclopedias, and other sources used in t
         languedocien-français*, 1881, 2 vols,
         [A-E](https://drive.google.com/open?id=1uY2vVnAFr4G542Zf0qWv27cjA3dYIyAY),
         [F-Z](https://drive.google.com/open?id=1i5P6CE39OoCxIbQnH6kWk23ysmKhbaNz)
-    
+
       - François Raynouard, [Lexique
         roman](http://gallica.bnf.fr/Search?adva=1&adv=1&tri=&t_relation=cb31183402v&q=raynouard+lexique+roman)
         (1844) \[Gallica\], and its supplement:  
         Emil Levy, [Provenzalisches
         Supplement-Wörterbuch](https://archive.org/search.php?query=Provenzalisches%20Supplement-W%C3%B6rterbuch)
         (1894-1915) \[Internet Archive\].
-    
+
       - Maxime Lanusse, [De l'influence du dialecte gascon sur la
         langue française](https://archive.org/details/fre_b1887388)
         (Grenoble, 1893), with a chapter on vocabulary.
-        
+
 #### Poitevin/Saintongeais Dictionaries
 A number of terms in the MS seem to belong specifically to
 the dialect of Poitou and Saintonge, possibly pointing to the origin of
@@ -621,19 +621,19 @@ the author.
     latinitatis](http://ducange.enc.sorbonne.fr/), par Charles du
     Fresne, sieur du Cange *et al*. (éd. de 1883-1887), éd. numérique
     École nationale des chartes.
-    
+
       - Dictionnaire monumental du latin médiéval (définitions en
         latin), également riche en termes d’ancien français dans les
         définitions comme dans les citations.
   - [Logeion](http://logeion.uchicago.edu/levigatio) – combines Lewis
     & Short, Gaffiot, and DMLBS
-    
+
 ### Manuscripts, paleography, and ancient texts
   - For general orientation see online resources on the portal
     [Ménestrel](http://www.menestrel.fr/spip.php?rubrique434)
     (Médiévistes sur le Net: sources, travaux et références en
     ligne).
-  - For learning resources, see in particular the online paleography files 
+  - For learning resources, see in particular the online paleography files
     of the École des chartes,
     [THELEME](http://theleme.enc.sorbonne.fr/) (Techniques pour
     l’historien en ligne: études, manuels, exercices).
@@ -642,12 +642,12 @@ the author.
     Renaissance Studies maintains a listing of online resources for
     those interested in Paleography. The resources are arranged by
     language
-    
+
 #### Abbreviations
   - [Dictionnaire des abréviations
     françaises](http://theleme.enc.sorbonne.fr/dico) \[XII<sup>e</sup>-XVII<sup>e</sup> siècle\],
     par M. Smith, École nationale des chartes.
-#### Digitized manuscripts 
+#### Digitized manuscripts
   - [Patrimoine
     numérique](http://www.culture.gouv.fr/culture/mrt/numerisation/fr/f_02.htm)
     contains an inventory of digitised public collections of the French Ministry of Culture,
@@ -655,17 +655,17 @@ the author.
   - [Gallica](http://gallica.bnf.fr/html/editorial/manuscrits), the
     digital library of the BnF, offers a growing number of manuscripts.
     Digitisation of previously microfilmed manuscripts in progress.
-  - [BVMM](http://bvmm.irht.cnrs.fr/) - Virtual library of 
+  - [BVMM](http://bvmm.irht.cnrs.fr/) - Virtual library of
     medieval manuscripts kept in
     France outside the BNF (see below, IRHT).
   - [Digital Scriptorium](http://www.scriptorium.columbia.edu/) — a
     vast and convenient corpus of manuscripts held in the US,
     including French manuscripts and documents, with an efficient search engine.
-    
+
 #### Historical Research Istitutes
   - [IRHT - Institut de recherche et d'histoire des
     textes](http://www.irht.cnrs.fr/en/)
-    
+
       - The IRHT is an independent institute within the
         [CNRS](http://www.cnrs.fr/index.php) (UPR 841). It is devoted
         to fundamental research on medieval manuscripts and early
@@ -676,21 +676,21 @@ the author.
         content, decoration, iconography, diffusion, and reception.
   - The IRHT website has essential databases of manuscripts in French,
     Latin, Greek, Hebrew and Arabic.
-    
+
       - [Medium](http://medium.irht.cnrs.fr/) is the catalogue of
         their massive collection of microfilms and photographs,
         covering practically all medieval and Renaissance Mss in
         France except the BNF. Many of those are now accessible as
         digital images, in full or in part, in
         [BVMM](http://bvmm.irht.cnrs.fr/).
-    
+
       - [Jonas](http://jonas.irht.cnrs.fr/) is the catalogue of French
         texts.
-    
+
       - [BUDE](http://bude.irht.cnrs.fr/), slightly chaotic (work in
         progress), has all sorts of information on humanists and their
         texts.
-    
+
       - [Europa Humanistica](http://www.europahumanistica.org/) is a
         networking effort, with resources including valuable
         information on early [medical science and natural
@@ -701,39 +701,39 @@ the author.
         and printed) on medieval Latin authors, manuscripts, and much
         else, mainly accessible through the
         [Mirabile](http://www.mirabileweb.it/) portal.
-        
+
           - [BISLAM](http://www.sismelfirenze.it/index.php/it/repertori/itemlist/category/67-bibliotheca-scriptorum-bislam)
             (Bibliotheca Scriptorum Latinorum Medii Recentiorisque
             Aevi) contains bio-bibliographical information on 13,000
             Latin authors (or authors translated into Latin) before
             1536.
-        
+
           - [CALMA](http://www.sismelfirenze.it/index.php/it/repertori/itemlist/category/68-compendium-auctorum-calma)
             (Compendium Auctorum Latinorum Medii Aevi, 500-1500) is a
             general repertory of medieval authors (in print, not
             online).
   - [Monumenta Germaniae Historica](http://www.dmgh.de/)
   - [Istituto storico italiano](http://www.isime.it/index.php)
- 
+
 #### Medieval texts
   - [Corpus de la littérature médiévale des origines au 15e
     siècle.](http://www.columbia.edu/cgi-bin/cul/resolve?clio10931173)
     This database includes more than 900 full texts from the Middle
     Ages, including chansons de geste, poetry, theater and religious
     texts.
-    
+
 ### Identifying early books online
 
 See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
 [SISMEL/Mirabile](http://www.mirabileweb.it/)
   - [USTC - Universal Short Title Catalogue](http://www.ustc.ac.uk/)
-    
+
       - General catalogue of pre-1600 European books. Includes links
         to digitized copies whenever possible.
   - [J.-C. Brunet, Manuel du libraire et de l’amateur de
     livres](http://catalogue.bnf.fr/servlet/RechercheEquation;jsessionid=F2E05E38A032D4F393F95B3A1A9B95D8?TexteCollection=HGARSTUVWXYZ1DIECBMJNQLOKP&TexteTypeDoc=DESNFPIBTMCJOV&Equation=IDP%3Dcb301695339&host=catalogue).
     Paris, 1860-65, 6 vols.
-    
+
       - Remains an essential reference tool for early (and not so
         early) editions. The digital version on Gallica is searchable,
         but only volume by volume.
@@ -754,7 +754,7 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
         Moreau](http://data.bnf.fr/11916755/brigitte_moreau/)
         (1930-1994). Entries from volumes published between 1541 and 1550
         will be part of a future release.
-        
+
 ### Arts and technical vocabulary
   - Macquer, Phillipe (1720-1770), [Dictionnaire raisonné universel
     des arts et métiers, contenant l'histoire, la description, la
@@ -786,7 +786,7 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
   - Gay, Victor, [Glossaire archéologique du Moyen Age et de la
     Renaissance](https://archive.org/search.php?query=gay%20glossaire),
     Paris, 1887-1928, 2 vols.
-    
+
       - Vol. 1 only on [Google
         Books](http://books.google.com/books?id=hUFPTJx_bj8C&pg=PP1#v=onepage&q&f=false).
         A remarkable dictionary with many words for everyday items
@@ -810,11 +810,11 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
     employés dans les recettes de couleurs
     anciennes](http://www.brepols.net/Pages/ShowAuthor.aspx?lid=113036),
     only in print.
-    
+
 ### Other resources
   - [BCIN - Réseau d’information sur la conservation - Conservation
     Information Network](http://www.bcin.ca/)
-    
+
       - The bibliographic database of the Conservation Information
         Network (BCIN) provides access to over 200,000 bibliographic
         citations for conservation literature. BCIN includes citations
@@ -824,20 +824,20 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
         audiovisual materials, theses, software and machine-readable
         files and unpublished materials. In French and English.
   - [Getty Research Portal](http://portal.getty.edu/portal/landing)
-    
+
       - Access to digitized art history publications, rare books, and
         related literature.
   - [Getty Art & Architectural Thesaurus -- for technical
     terms](http://www.getty.edu/research/tools/vocabularies/aat/)
   - [MetPublications - Metropolitan Museum of Art Publications
     online](http://www.metmuseum.org/research/metpublications).
-    
+
       - Online database of research publications from the Metropolitan
         Museum of Art. Many out of print catalogs are available to
         download in full.
   - [EEBO - Early English Books
     Online](http://eebo.chadwyck.com.ezproxy.cul.columbia.edu/home)
-    
+
       - A digitized version of the Early English Books microfilm
         collection, this database contains full-text page images of of
         about 100,000 of the 1,250,000 titles listed in Pollard &
@@ -848,26 +848,26 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
         secrets and Hugh Plat’s *Jewel House of Art and Nature*.
   - [Bibliothèque historique de Mines Paris
     Tech](http://patrimoine.mines-paristech.fr/)
-    
+
       - The digital library of the École des mines de Paris (Mines Paris
         Tech), including material on mining from the 15th century onwards.
   - Beaulieu, Michèle. *Dictionnaire des sculpteurs français du Moyen
     Age*. Paris, 1992.  
-  - Cassan, H. “Nomination des consuls de la ville de Béziers en
-    1332”, in *Bulletin de la Société archéologique de Béziers*,
+  - Cassan, H. "Nomination des consuls de la ville de Béziers en
+    1332", in *Bulletin de la Société archéologique de Béziers*,
     1839, p. 43-58 (55-70 in the
     [PDF](https://archive.org/details/bulletin02bzgoog)). Contains a
     list of professions and trades, useful to check Occitan names.
   - [Speelberg, Femke, French goldsmiths’ ornamental
     prints](http://www.metmuseum.org/toah/hd/blak/hd_blak.htm) (the only remaining evidence of most 16th- and 17th-century goldsmiths’ work in France) in the collection of the Metropolitan Museum of Art (with useful bibliography)
   - [Europeana](http://www.europeana.eu/portal/) - archival database
-    of texts, images, objects, images, and more. “All across Europe,
+    of texts, images, objects, images, and more. "All across Europe,
     thousands of museums, galleries and archives are digitizing their
     collections - creating virtual copies of their texts, imagery and
     objects that can be stored on local servers or in the cloud. Once
     these collections are made public online, we work hard to make
     sure other people can find and use them. For change. For ideas.
-    For progress.”
+    For progress."
   - [History of the Accademia di San
     Luca](http://www.nga.gov/casva/accademia/search_eng.shtm) - *The
     History of the Accademia di San Luca, c. 1590–1635: Documents from
@@ -888,17 +888,17 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
     Possessions of the Portuguese Merchant-Banker Emmanuel Ximenez in
     early seventeenth-century
     Antwerp*](http://ximenez.unibe.ch/material/)
-    
+
 #### The National Archive (TNA) currency converter:
   - <http://www.nationalarchives.gov.uk/currency/default.asp#mid> -
     The TNA provides the following info, re: calculations and
-    conversions: “The data used to provide the calculations for the
+    conversions: "The data used to provide the calculations for the
     currency converter has been collated from original documents and
     official statistics, and the survey of material used has been as
     comprehensive as possible. However, the results of the
     calculations are intended to be a general guide to historic
     values, rather than a categorical statement of fact.
-    Approximations are from 2005.”
+    Approximations are from 2005."
   - <http://www.nationalarchives.gov.uk/currency/disclaimer.htm>
 #### Videos and reconstruction
   - [Sandcasting with Philip
@@ -946,7 +946,7 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
   - [Parallel
     Practices](http://www.craftscouncil.org.uk/what-we-do/parallel-practices/),
     Crafts Council and Kings College London
-    
+
       - The value of craft skills to facilitate innovation in science,
         technology and medicine is increasingly recognised. Parallel
         Practices a 2014 pilot led by Crafts Council in partnership
@@ -986,4 +986,3 @@ See also above, [IRHT](http://www.irht.cnrs.fr/en/) and
     1525.
 
 For further information, see also Pamela Smith [Making the Edition of Ms. Fr. 640](/essays/ann_329_ie_19).
-

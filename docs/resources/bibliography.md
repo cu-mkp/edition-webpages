@@ -1,4 +1,14 @@
-## Primary Sources Cited in Ms. Fr. 640 and in the Editorial Comments
+The Bibliography compiles references, texts, and authors cited in Ms. Fr. 640, in the Edition's editorial comments, and in the Glossary.
+
+This Bibliography includes detailed references for primary sources cited in the manuscript, including—whenever possible—permanent links to electronic facsimiles. Because Ms. Fr. 640 rarely specifies a particular printed edition, the references provided here are those that are more widely available and/or were produced by prominent sixteenth-century publishers (Robert and Henri Estienne, the Aldine press, Christophe Plantin, Hieronymus Froben, Johannes Herwagen, etc.). Other possible editions can be found in the [Universal Short Title Catalogue](https://www.ustc.ac.uk) and similar resources.
+
+The bibliographic databases are available as [BibTeX](https://www.ctan.org/pkg/bibtex) and HTML, downloadable from the Project’s [GitHub repository](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/bibliographies).
+
+Note: The Glossary uses short bibliographic keys instead of full citations, such as [COT1611] for Cotgrave's _A dictionarie of the french and english tongues_. The keys usually combine author name and year of publication or use an acronym such as [OED2008] for _Oxford English Dictionary_ or [DMF2015] for _Dictionnaire du Moyen Français_. Search for Glossary keys in the Bibliography by acronym or author name.
+
+## Sources Cited in Ms. Fr. 640 and in the Editorial Comments
+
+### Primary Sources
 
 Agrippa von Nettesheim, Cornelius. _De occulta philosophia_. Cologne: Johann Soter, 1533. [https://doi.org/10.3931/e-rara-4309](https://doi.org/10.3931/e-rara-4309).
 
@@ -228,11 +238,11 @@ Viterbo, Giovanni Nanni da. _I cinque libri de le antichita_. Venice: Baldassare
 
 Vives, Juan Luis. _Los comentarios de Juan Luis Vives a "La ciudad de Dios" de San Agustı́n_. Edited by Rafael Cabrera Petit. vol. 6. Colección J.L. Vives. Ajuntament de Valencia, 2000.
 
-## Secondary Sources Cited in the Editorial Comments
+### Secondary Sources Cited in the Editorial Comments
 
-Bol, Marjolijn. “The emerald and the eye: On sight and light in the artisan’s workshop and scholar’s study.” In _Perspective as practice: Renaissance cultures of optics_, edited by Sven Dupré, 71–101. Turnhout: Brepols, 2019.
+Bol, Marjolijn. "The emerald and the eye: On sight and light in the artisan’s workshop and scholar’s study." In _Perspective as practice: Renaissance cultures of optics_, edited by Sven Dupré, 71–101. Turnhout: Brepols, 2019.
 
-Collin, Franck. “Antonio Telesio de Cosenza, Petit traité des couleurs latines (De coloribus libellus), éd. Michel Indergand et Christine Viglino.” _Cahiers de recherches médiévales et humanistes_, 2010. [http://journals.openedition.org/crm/12315](http://journals.openedition.org/crm/12315).
+Collin, Franck. "Antonio Telesio de Cosenza, Petit traité des couleurs latines (De coloribus libellus), éd. Michel Indergand et Christine Viglino." _Cahiers de recherches médiévales et humanistes_, 2010. [http://journals.openedition.org/crm/12315](http://journals.openedition.org/crm/12315).
 
 ATILF-CNRS. _Dictionnaire du Moyen Français_. Paris, 2015. [http://www.atilf.fr/dmf](http://www.atilf.fr/dmf).
 
@@ -246,11 +256,11 @@ Gilson, Etienne. _L’esprit de la philosophie médiévale_. Paris: Vrin, 1969.
 
 Guiffrey, Jules. _Artistes parisiens des XVIe et XVIIe siècles: Donations, contrats de mariage, testaments, inventaires, etc. Tirés des insinuations du Châtelet de Paris_. Paris: Imprimerie nationale, 1915. [https://gallica.bnf.fr/ark:/12148/bpt6k205098w](https://gallica.bnf.fr/ark:/12148/bpt6k205098w).
 
-Hérold, Michel. “Le verre des vitraux (xve-xvie siècles). Approche méthodologique.” in _Verre et Fenêtre de l’Antiquité au xviiie siècle, les Actes du premier colloque international organisé à Paris-La Défense / Versailles du 13 au 15 octobre 2005 par l’Association Verre & Histoire, ont été réalisés et publiés sous la direction de Sophie Lagabrielle et Michel Philippe_, edited by Sophie Lagabrielle and Michel Philippe. Association Verre et Histoire, INHA, 2005. [http://www.verre-histoire.org/colloques/verrefenetre/pages/p307\_02\_herold.html](http://www.verre-histoire.org/colloques/verrefenetre/pages/p307_02_herold.html).
+Hérold, Michel. "Le verre des vitraux (xve-xvie siècles). Approche méthodologique." in _Verre et Fenêtre de l’Antiquité au xviiie siècle, les Actes du premier colloque international organisé à Paris-La Défense / Versailles du 13 au 15 octobre 2005 par l’Association Verre & Histoire, ont été réalisés et publiés sous la direction de Sophie Lagabrielle et Michel Philippe_, edited by Sophie Lagabrielle and Michel Philippe. Association Verre et Histoire, INHA, 2005. [http://www.verre-histoire.org/colloques/verrefenetre/pages/p307\_02\_herold.html](http://www.verre-histoire.org/colloques/verrefenetre/pages/p307_02_herold.html).
 
 Lamberini, Daniela. _Il Sanmarino. Giovan Battista Belluzzi architetto militare e trattatista del cinquecento_. Arte e Archeologia. Studi e Documenti 30. Florence: Leo S. Olschki, 2007.
 
-Leproux, Guy-Michel. “Quelques éclairages sur la vie et la carrière de Jean Cousin le jeune.” _Documents d’histoire parisienne_ 12 (2011): 23–40.
+Leproux, Guy-Michel. "Quelques éclairages sur la vie et la carrière de Jean Cousin le jeune." _Documents d’histoire parisienne_ 12 (2011): 23–40.
 
 Michel-Leproux, Guy. _La Peinture à Paris sous le règne de François Ier_. Presses de l’Université de Paris Sorbonne, 2001.
 
@@ -258,7 +268,7 @@ Nadolski, Dieter. _Les étains anciens usuels: leur aspect et leur fonction pend
 
 Norri, Juhani. _Dictionary of Medical Vocabulary in English, 1375-1550: Body Parts, Sicknesses, Instruments, and Medicinal Preparations_. London: Routledge, 2016.
 
-Smith, Paul J. “Passer solitarius: Tribulations of a lonely bird in poetry and natural history, from petrarch to buffon.” In _Solitudo: Spaces, places, and times of solitude in late medieval and early modern cultures_, edited by K. A. E. Enenkel and Christine Göttler, Vol. 56. Intersections. Leiden: Brill, 2018. [https://doi.org/10.1163/9789004367432](https://doi.org/10.1163/9789004367432).
+Smith, Paul J. "Passer solitarius: Tribulations of a lonely bird in poetry and natural history, from petrarch to buffon." In _Solitudo: Spaces, places, and times of solitude in late medieval and early modern cultures_, edited by K. A. E. Enenkel and Christine Göttler, Vol. 56. Intersections. Leiden: Brill, 2018. [https://doi.org/10.1163/9789004367432](https://doi.org/10.1163/9789004367432).
 
 Solmi, Edmondo, and Sergio Solmi. _Scritti vinciani: Le fonti dei manoscritti di Leonardo da Vinci e altri studi_. Strumenti ; 37. Firenze: La nuova Italia, 1976.
 
@@ -266,20 +276,20 @@ Wartelle, André. _Bibliographie historique et critique de saint Justin, philoso
 
 Zerner, Henri. _L’Art de la Renaissance en France_. Paris: Flammarion, 1996.
 
-## Primary and Secondary Sources Cited in the [Glossary](/folios/1r/f/1r/glossary)
+## Sources Cited in the [Glossary](/folios/1r/f/1r/glossary)
 
 Note: The Glossary uses short bibliographic keys instead of full citations, such as [COT1611] for Cotgrave's _A dictionarie of the french and english tongues_. The keys usually combine author name and year of publication or use an acronym such as [OED2008] for _Oxford English Dictionary_ or [DMF2015] for *Dictionnaire du Moyen Français*. Search for Glossary keys in the Bibliography by acronym or author name.
 
-**DAF2018** Académie française. “Dictionnaire de l’Académie française.” Paris, 2018.
+**DAF2018** Académie française. "Dictionnaire de l’Académie française." Paris, 2018.
 <https://www.dictionnaire-academie.fr>.
 
-Akerman, Susanna. “Paracelsianism in Sweden.” In *Western esotericism in
+Akerman, Susanna. "Paracelsianism in Sweden." In *Western esotericism in
 Scandinavia*, edited by Henrik Bogdan and Olav Hammer, 425–30. Leiden:
 Brill, 2016. <https://doi.org/10.1163/9789004325968>.
 
 **TLFi2019** Analyse et Traitement Informatique de la Langue Française, and Centre
-national de la recherche scientifique. “Trésor de la langue francaise
-informatisé.” ATILF, CNRS Éditions, 2019.
+national de la recherche scientifique. "Trésor de la langue francaise
+informatisé." ATILF, CNRS Éditions, 2019.
 <http://atilf.atilf.fr/tlf.htm>.
 
 anonymous. *Secrets concernant les arts et métiers: ouvrage utile, non
@@ -322,7 +332,7 @@ Scandinavia*. Leiden: Brill, 2016.
 Boodt, Anselmus de. *Le parfaict ioaillier, ou histoire des pierreries*.
 Edited by André Toll. Lyon, 1644.
 
-Boucherie, M. A. “Patois de la Saintonge.” *Patois de la Saintonge*,
+Boucherie, M. A. "Patois de la Saintonge." *Patois de la Saintonge*,
 1845.
 
 Bourne, William. *The Arte of Shooting in Great Ordnaunce*. London:
@@ -491,7 +501,7 @@ lingieres, et femmes qui besognent de lesguille*. Paris: Jérôme de
 Gourmont, 1546.
 
 Gouvernement du Canada, Travaux publics et Services gouvernementaux
-Canada. “TERMIUM Plus,” October 2009.
+Canada. "TERMIUM Plus," October 2009.
 <http://www.btb.termiumplus.gc.ca/tpv2alpha/alpha-fra.html?lang=fra&i=1&index=alt&codom2nd_wet=1>.
 
 Grandjean, Serge. *L’Orfevrerie du XIX Siecle en Europe*. Paris: Presses
@@ -517,7 +527,7 @@ Honnorat, S. J. *Dictionnaire Provençal Français, ou dictionnaire de la
 langue d’Oc, ancienne et moderne, suivi d’un vocabulaire
 Français-Provençal.* Digne, 1846.
 
-Horlogerie, Fondation Haute. “Lexique de l’horlogerie,” n.d.
+Horlogerie, Fondation Haute. "Lexique de l’horlogerie," n.d.
 <https://www.hautehorlogerie.org/fr/encyclopedie/lexique-de-lhorlogerie/s/nielle-ou-niel/>.
 
 Huguet, Edmond. *Dictionnaire de la langue française du seizième
@@ -533,8 +543,8 @@ Jonain, P. *Dictionnaire du patois saintongeais*. l’auteur (Royan) L.
 Clouzot (Niort) Maisonneuve (Paris), 1869.
 <http://gallica.bnf.fr/ark:/12148/bpt6k64376415>.
 
-Karpenko, Vladimı́r, and John A. Norris. “Vitriol in the History of
-Chemistry.” *Chemické Listy*, no. 96 (2007): 997–1005.
+Karpenko, Vladimı́r, and John A. Norris. "Vitriol in the History of
+Chemistry." *Chemické Listy*, no. 96 (2007): 997–1005.
 
 Kirby, Jo, Susie Nash, and Joanna Cannon. *Trade in Artists’ Materials:
 Markets and Commerce in Europe to 1700*. London: Courtauld Institute;
@@ -627,11 +637,11 @@ places, & de géographie ...* Paris: Couturier et Jombert, 1783.
 Moreux, Bernard, and Robert Razou. *Les mots de Toulouse: lexique du
 français toulousain*. Toulouse: Presses Univ. du Mirail-Toulouse, 2000.
 
-Morrissey, Robert, and Glenn Roe, eds. *Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers, etc., eds. Denis Diderot and Jean le Rond d'Alembert*. Chicago: American and French Research on the Treasury of the French Language (ARTFL) Encyclopédie Project, 2017. 
+Morrissey, Robert, and Glenn Roe, eds. *Encyclopédie, ou dictionnaire raisonné des sciences, des arts et des métiers, etc., eds. Denis Diderot and Jean le Rond d'Alembert*. Chicago: American and French Research on the Treasury of the French Language (ARTFL) Encyclopédie Project, 2017.
 <https://encyclopedie.uchicago.edu/>.
 
-Museum of Fine Arts, Boston. “CAMEO (conservation and art materials
-encyclopedia online),” n.d. <http://cameo.mfa.org>.
+Museum of Fine Arts, Boston. "CAMEO (conservation and art materials
+encyclopedia online)," n.d. <http://cameo.mfa.org>.
 
 Musset, Georges. *Glossaire des patois et des parlers de l’Aunis et de
 la Saintonge*. Geneva: Slatkine Reprints, 1977.
@@ -772,8 +782,8 @@ Paris: Centre National de la Recherche Scientifique, 1986.
 Shakespeare, William. *Love’s Labour’s Lost*. Edited by Horace Howard
 Furness. Philadelphia, PA: Lippincot company, 1906.
 
-Smith, Paul J. “Passer Solitarius: Tribulations of a Lonely Bird in
-Poetry and Natural History, from Petrarch to Buffon.” In *Solitudo
+Smith, Paul J. "Passer Solitarius: Tribulations of a Lonely Bird in
+Poetry and Natural History, from Petrarch to Buffon." In *Solitudo
 spaces, places, and times of solitude in late medieval and early modern
 cultures*, edited by Karl A. E Enenkel and Christine Göttler. Leiden:
 Brill, 2018. <https://doi.org/10.1163/9789004367432>.
@@ -801,8 +811,8 @@ Private Learners*. Eau Claire, WI: R.O. Stoll, 1893.
 Stone, Samuel. *Vocabulaire complet français–anglais et
 anglais–français*. Paris: Librairie classique élémentaire, 1823.
 
-Taylor, F. Sherwood. “Some Metallurgical Processes of the Early
-Sixteenth Century (1530).” *Transactions of the Newcomen Society
+Taylor, F. Sherwood. "Some Metallurgical Processes of the Early
+Sixteenth Century (1530)." *Transactions of the Newcomen Society
 Transactions of the Newcomen Society* 29, no. 1 (1953): 93–101.
 
 Tolhausen, Alexandre, and Louis Tolhausen. *Dictionnaire technologique
@@ -844,7 +854,7 @@ Paris: Gabriel Buon, 1567.
 Ward, Gerald W. R. *The Grove Encyclopedia of Materials and Techniques
 in Art*. Oxford: Oxford University Press, 2008.
 
-Whalley, Joanna. “Faded glory: Gemstone simulants and enhancements.”
+Whalley, Joanna. "Faded glory: Gemstone simulants and enhancements."
 *Studies in Conservation* 57, no. sup1 (2012): S313–S321.
 <https://doi.org/10.1179/2047058412Y.0000000041>.
 

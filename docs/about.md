@@ -51,7 +51,7 @@ The Edition was developed through a series of  workshops, courses, and conferenc
 #### Text Workshops
 The first stage of transcription, translation, and encoding of the manuscript was carried out in a series of paleography and text workshops (2014–2018) that brought together graduate students (already in possession of advanced French) to learn to read middle French script through transcription exercises and then through intensive transcription and translation of Ms. Fr. 640.
 
-The manuscript’s encoding explores fourteen semantic categories that the Project deemed meaningful in providing insight into the manuscript: animal, body part, currency, environment, material, measurement, medical, music, personal name, place, plant, profession, sensory, and tool. 
+The manuscript’s encoding explores fourteen semantic categories that the Project deemed meaningful in providing insight into the manuscript: animal, body part, currency, environment, material, measurement, medical, music, personal name, place, plant, profession, sensory, and tool.
 
 For more information, see [Principles of Transcription, Translation, and Encoding](/content/resources/principles).
 
@@ -81,9 +81,9 @@ The creation of _Secrets of Craft and Nature in Renaissance France_ has been the
 
 ![about-mk-collab-lab](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-mk-collab-lab.png)
 
-_Secrets of Craft and Nature in Renaissance France_ sheds light not only on what kind of knowledge the manuscript’s anonymous author-practitioner possessed about techniques and materials, but also, more broadly, how his work of making was related to knowing. 
+_Secrets of Craft and Nature in Renaissance France_ sheds light not only on what kind of knowledge the manuscript’s anonymous author-practitioner possessed about techniques and materials, but also, more broadly, how his work of making was related to knowing.
 
-Indeed, the overarching theme of the Project and its work on _Secrets of Craft and Nature in Renaissance France_ has been to show the ways in which making is an epistemic activity. In other words, making is itself a form of knowledge and not just an application of knowledge. 
+Indeed, the overarching theme of the Project and its work on _Secrets of Craft and Nature in Renaissance France_ has been to show the ways in which making is an epistemic activity. In other words, making is itself a form of knowledge and not just an application of knowledge.
 
 ![about-mk-collab-books](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-mk-collab-books.png)
 
@@ -100,7 +100,7 @@ _Secrets of Craft and Nature_ first publicly launched in February 2020 after the
 
 ### Introduction and Sustainability
 As a digital scholarly publication, _Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640_ aims to make all online content openly and sustainably available. The creation of the Edition by the Making and Knowing Project employed evolving approaches and methodologies to facilitate the multifaceted collaborative research process. At the same time, the digital development of the Edition has prioritized the generation and preservation of all Project data in sustainable, open formats to ensure adherence to open-access and open-source standards wherever possible. This commitment is founded on the conviction that the Edition should serve as a resource to a wide and diverse audience, enabling knowledge exchange now and into the future.
- 
+
 The focus on sustainability is guided by the principles of [minimal computing](https://go-dh.github.io/mincomp/about/) which the Project applies through an emphasis on durability and the use of basic technologies and workflows that have a greater likelihood of persisting. The Edition relies upon a common and well-established technology stack: HTML/HTML5 with CSS and JavaScript served statically from a webserver. Until the Edition is archived for long-term preservation, infrastructure and content assets are developed and maintained using Apache HTTP Server, React JavaScript Library, Github, AWS CloudFront and S3, and DigitalOcean virtual servers. Data format and storage decisions are chosen for their ability to be readily transformed to multiple target formats, and content is routinely exported and converted to open standard formats.
 
 The component parts of the Edition are detailed further below. For more information, please also see [About the Edition](#creation-of-the-edition) and the essays by Terry Catapano and Naomi Rosenkranz, [BnF Ms. Fr. 640 as a Digital Text](/essays/ann_310_ie_19) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/essays/ann_329_ie_19).
@@ -109,12 +109,12 @@ The component parts of the Edition are detailed further below. For more informat
 The digital facsimile images of Ms. Fr. 640 are provided by the BnF’s digital library, [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10500001g). They are integrated into the Edition through its IIIF Manifest, which relates the Project's transcription and translation of the manuscript to the corresponding Gallica folio images via the IIIF Presentation API.
 
 ### Markup and Encoding of the Text of Ms. Fr. 640
-The [texts of Ms. Fr. 640](/folios) are encoded in XML format and available in the [Project's Github repository](https://github.com/cu-mkp/m-k-manuscript-data). Each folio of the manuscript is represented as individual XML files in three versions: 
+The [texts of Ms. Fr. 640](/folios) are encoded in XML format and available in the [Project's Github repository](https://github.com/cu-mkp/m-k-manuscript-data). Each folio of the manuscript is represented as individual XML files in three versions:
 1. Diplomatic: diplomatic (verbatim) transcription of the original French text
 2. Normalized: lightly normalized French transcription (with punctuation and diacritical marks added)
 3. Translation: English translation
 
-The transcription, translation, and encoding of the manuscript were primarily carried out in a series of paleography and text workshops (2014–2018) that brought together graduate students (already in possession of advanced French) to learn to read middle French script and gain experience in textual encoding. For more detail and a discussion of this process, see Celine Camps and Margot Lyautey, [Ma<r>king and Knowing: Encoding BnF Ms. Fr. 640](/essays/ann_335_ie_19). The XML files were then revised and finalized by Senior Project team members and the Digital Lead. See also Terry Catapano and Naomi Rosenkranz, [BnF Ms. Fr. 640 as a Digital Text](/essays/ann_310_ie_19) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/essays/ann_329_ie_19).
+The transcription, translation, and encoding of the manuscript were primarily carried out in a series of paleography and text workshops (2014–2018) that brought together graduate students (already in possession of advanced French) to learn to read middle French script and gain experience in textual encoding. For more detail and a discussion of this process, see Celine Camps and Margot Lyautey, [Ma&#60;r&#62;king and Knowing: Encoding BnF Ms. Fr. 640](/essays/ann_335_ie_19). The XML files were then revised and finalized by Senior Project team members and the Digital Lead. See also Terry Catapano and Naomi Rosenkranz, [BnF Ms. Fr. 640 as a Digital Text](/essays/ann_310_ie_19) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/essays/ann_329_ie_19).
 
 The texts conform to a schema developed iteratively by the Project as the transcriptions and translation were revised and completed. While intended to meet the specific needs of the Project, the custom schema is influenced by and derives much of its tagset from the [Text Encoding Initiative (TEI) Guidelines](https://tei-c.org/guidelines/P5/). The [schema](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/schema/ms-transcription.rng) is maintained in the Project repository. The [Principles of Encoding](/content/resources/principles#principles-of-encoding) provide a full description of the Project's tagset.
 
@@ -144,7 +144,7 @@ A helpful lizard that responds to the following <command>s:
         index: Create a search index of the essays.
         run: Download, process, manifest, assets, figures, env, and index.
         init: Download all, download thumbs, and run.
-        help: Displays this help. 
+        help: Displays this help.
 <target> is the target key from the edition_data/config.json file. Defaults to 'local'.
 ```
 
@@ -183,7 +183,7 @@ A number of supplementary resources are maintained in the Project's Github repos
 To facilitate reuse and analysis of the Project's edited and encoded text of Ms. Fr. 640, files are provided in alternative formats including:
 - [allFolios](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/allFolios): for each version of the manuscript (diplomatic transcription, normalized transcription, and English translation), a single XML file containing each folio concatenated together
 - [entries](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/entries): for each version, every entry as a single file in both XML and TXT formats
-- [ms-txt](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/ms-txt): for each version, every folio as a single file in TXT format. 
+- [ms-txt](https://github.com/cu-mkp/m-k-manuscript-data/tree/master/ms-txt): for each version, every folio as a single file in TXT format.
 
 ### Research and Scholarly Essays
 
@@ -201,7 +201,7 @@ The biggest challenge in developing a website using this approach is that one ne
 
 The content for _Secrets of Craft and Nature_ involved the scholarly work of a number of different editors, teams, and collaborators working over several years to explore the intricacies of a complex historical text, Ms. Fr. 640. To facilitate the collaborative methods, most of this data was worked on in the Project's Google Drive. As the Project evolved and came closer to digital publication, more and more data was moved to Github repositories. At the same time, content was still under development, and there was a need to draw from both Github and Google Drive at build time.
 
-Digital development of the Project has taken place in tandem with content development leading to an important feature of the Project's workflow: the ability to see real-time changes of the content in place. In order to approximate the rendering of the text's transcription and translation as closely as possible to the original manuscript, it was necessary to see how the transcribed XML looked in the diplomatic rendering on the website. A staging server was thus set up to automatically regenerate the folio views every few minutes. 
+Digital development of the Project has taken place in tandem with content development leading to an important feature of the Project's workflow: the ability to see real-time changes of the content in place. In order to approximate the rendering of the text's transcription and translation as closely as possible to the original manuscript, it was necessary to see how the transcribed XML looked in the diplomatic rendering on the website. A staging server was thus set up to automatically regenerate the folio views every few minutes.
 
 Although very simple server technology is utilized, this did not preclude us from using the latest client technology to render the site in the user's web browser, including [React](https://reactjs.org/) and [Material UI](https://material-ui.com/) to develop the user interface. The static data was a mix of pre-rendered HTML pages and pre-rendered JSON data structures which were then processed by React to produce the final site.
 
@@ -217,7 +217,7 @@ iterated examination and revision. Because of its format and extensive
 scope—three versions of the manuscript and more than 100 research
 essays—it was not sent out for peer review.
 
-Instead, a form of “open review” was instituted: each of the student
+Instead, a form of "open review" was instituted: each of the student
 essays was edited at least three times by different members of the
 Making and Knowing Team and then read and commented upon by a scholar
 within whose expertise the subject of the essay fell.
@@ -298,19 +298,19 @@ Digital Critical Edition and English Translation of BnF Ms. Fr. 640* (New York: 
 
 Example:
 
-Mellon, Diana. “Excellent Mustard.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_008_fa_14>.
+Mellon, Diana. "Excellent Mustard." In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/essays/ann_008_fa_14>.
 
-### To cite a Resource page
+### To cite a Resource page:
 
 Examples:
 
 **To cite the Glossary:**
 
-“Glossary.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/folios/1r/f/1r/glossary>.
+"Glossary." In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/folios/1r/f/1r/glossary>.
 
 **To cite the Principles of Translation:**
 
-“Principles of Translation.” In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/content/resources/principles#principles-of-translation>.
+"Principles of Translation." In *Secrets of Craft and Nature in Renaissance France. A Digital Critical Edition and English Translation of BnF Ms. Fr. 640*, edited by Making and Knowing Project, Pamela H. Smith, Naomi Rosenkranz, Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman, Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry Catapano. New York: Making and Knowing Project, 2020. <https://edition640.makingandknowing.org/#/content/resources/principles#principles-of-translation>.
 
 <!-- =========== SPONSORS =========== -->
 ## Sponsors
@@ -327,13 +327,13 @@ _Secrets of Craft and Nature in Renaissance France_ would not have been possible
 
 ![about-sponsors-NSF](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-sponsors-NSF.png) <br>
 [**National Science Foundation**](https://www.nsf.gov/) <br>
-**NSF** Grant \#1430843, “The Role of Craft Skill in Scientific Practice,” 2017–20. <br>
-**NSF** Grant \#1734596, “The Role of Tacit Knowledge in Experimentation,” 2014–17. <br>
-**NSF** Conference Grant \#1656227, “Workshop: Translation and Encoding for the Making and Knowing Project,” 2017–18. <br>
+**NSF** Grant \#1430843, "The Role of Craft Skill in Scientific Practice," 2017–20. <br>
+**NSF** Grant \#1734596, "The Role of Tacit Knowledge in Experimentation," 2014–17. <br>
+**NSF** Conference Grant \#1656227, "Workshop: Translation and Encoding for the Making and Knowing Project," 2017–18. <br>
     _The opinions, findings, and conclusions or recommendations expressed are those of the authors and do not necessarily reflect the views of the National Science Foundation._
 
 ![about-sponsors-NEH](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-sponsors-NEH.png)  <br>
-[**National Endowment for the Humanities**](www.neh.gov), NEH Grant \#RQ-249842-16, “Craft Techniques and Knowledge Systems in a 16th-Century Artist’s Manuscript: An Open-Access Critical Edition and Translation,” 2016-20.  <br>
+[**National Endowment for the Humanities**](https://www.neh.gov/), NEH Grant \#RQ-249842-16, "Craft Techniques and Knowledge Systems in a 16th-Century Artist’s Manuscript: An Open-Access Critical Edition and Translation," 2016-20.  <br>
     _Any views, findings, conclusions, or recommendations expressed in this Edition do not necessarily represent those of the National Endowment for the Humanities._
 
 ![about-sponsors-luce](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-sponsors-luce.png)  <br>
@@ -344,9 +344,9 @@ _Secrets of Craft and Nature in Renaissance France_ would not have been possible
 **Gerda Henkel Foundation**, Grant AZ 40/F/16: Making and Knowing Project Postdoctoral Research Scholars, 2017–20.
 
 **Support from Columbia University Affiliates**
- - Collaboratory Grant, “Transforming Texts: Computational Approaches to Text Analysis and Visualization,” 2017–20.
- - Collaboratory Seed Grant, Columbia University, “What is a Book for 21st Century?” seed funding, 2016–18.
- - Provost’s Hybrid Learning Course Redesign and Delivery, “What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment,” 2016–17.
+ - Collaboratory Grant, "Transforming Texts: Computational Approaches to Text Analysis and Visualization," 2017–20.
+ - Collaboratory Seed Grant, Columbia University, "What is a Book for 21st Century?" seed funding, 2016–18.
+ - Provost’s Hybrid Learning Course Redesign and Delivery, "What is a Book in the 21st Century? Working with Historical Texts in a Digital Environment," 2016–17.
  - ISERP Workshop Grant, Columbia University, 2019-20.
 
 **Maurice I. Parisier Foundation**
@@ -373,15 +373,17 @@ To report a bug or malfunction in _Secrets of Craft and Nature in Renaissance Fr
 <info@makingandknowing.org> with a detailed description or screenshot of
 the error message or section to be corrected.
 
+Alternatively, log any bugs by contributing to the [Project's Github repository](https://github.com/cu-mkp/m-k-manuscript-data) by opening an issue in our [issue tracker](https://github.com/cu-mkp/m-k-manuscript-data/issues).
+
 Thank you\!
 
 <br>
 
-<i class="fab fa-facebook-square"></i> [Facebook ](https://www.facebook.com/MakingKnowing) 
-<i class="fab fa-twitter-square"></i> [Twitter ](https://twitter.com/makingknowing) 
-<i class="fab fa-youtube-square"></i> [YouTube ](https://www.youtube.com/channel/UCViaSZhCLq9zmI6djVL044Q) 
-<i class="fab fa-flickr"></i> [Flickr ](https://www.flickr.com/photos/128418753@N06) 
-<i class="fas fa-envelope-square"></i> [Subscribe to our email listserv](https://makingandknowing.us15.list-manage.com/subscribe?u=c8ba3b95cee90d4afa19cc58f&id=972ef1e19f) 
+<i class="fab fa-facebook-square"></i> [Facebook ](https://www.facebook.com/MakingKnowing)
+<i class="fab fa-twitter-square"></i> [Twitter ](https://twitter.com/makingknowing)
+<i class="fab fa-youtube-square"></i> [YouTube ](https://www.youtube.com/channel/UCViaSZhCLq9zmI6djVL044Q)
+<i class="fab fa-flickr"></i> [Flickr ](https://www.flickr.com/photos/128418753@N06)
+<i class="fas fa-envelope-square"></i> [Subscribe to our email listserv](https://makingandknowing.us15.list-manage.com/subscribe?u=c8ba3b95cee90d4afa19cc58f&id=972ef1e19f)
 
 <br>
 
