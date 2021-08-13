@@ -71,8 +71,8 @@ includes headings, text blocks, marginalia, figures, marks, as well as textual f
 | Curly brackets         | Expansions: providing the expanded version of the text implied by the author-practitioner’s abbreviation marks                                                                                                                                                                                          | ![howtouse-curly](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-curly.png)|
 | Square brackets        | Indicates editorial interventions and corrections by the Making and Knowing Project. For example, deletion of duplicate words or addition of missing words                                                                                                                                              | ![howtouse-square](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-square.png)|
 | Horizontal lines       | Approximate pen marks in the original used to separate text blocks from one another                                                                                                                                                                                                                     | ![howtouse-hr](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-hr.png)|
-| “*Continued…*”         | Indicates text continues on the following page                                                                                                                                                                                                                                                         | ![howtouse-continued1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued1.png)|
-| “*...Continued*”       | Indicates text is continued from the previous page                                                                                                                                                                                                                                                      | ![howtouse-continued2](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued2.png)|
+| "*Continued…*"         | Indicates text continues on the following page                                                                                                                                                                                                                                                         | ![howtouse-continued1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued1.png)|
+| "*...Continued*"       | Indicates text is continued from the previous page                                                                                                                                                                                                                                                      | ![howtouse-continued2](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued2.png)|
 | Essay Icon             | Clicking on the beaker displays corresponding Research Essay (see below)                                                                                                                                                                                                                                 | ![howtouse-beaker](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-beaker.png)|
 | Red asterisks          | Clicking on the asterisk displays Editorial Comments in a popout window                                                                                                                                                                                                                                   | ![howtouse-asterisk](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-asterisk.png)|
 
@@ -84,31 +84,31 @@ For navigation help, click the <i class="fas fa-question-circle"></i> help icon.
   - Toggle Sync View <i class="fas fa-lock"></i>
 
       - Enable/disable automatic display of the same page in both panes
-      
+
 
   -  Toggle Book Mode <i class="fas fa-book"></i>
 
       - Enable/disable use of the dual panes to show facing pages of the manuscript, as though reading a book
 
           - NB: disables ability to access thumbnail view
-          
+
 
   - Toggle XML Mode <i class="fas fa-code"></i>
 
       - Enable/disable view of the xml source code for the page
 
-      - XML tags and their meanings are described in the [Principles of Encoding](/content/resources/principles#principles-of-encoding). 
-      
-      
+      - XML tags and their meanings are described in the [Principles of Encoding](/content/resources/principles#principles-of-encoding).
+
+
   - Go Forward / Back <i class="fas fa-arrow-alt-circle-left"></i> <i class="fas fa-arrow-alt-circle-right"></i>
 
       - Navigate one page forward / backward
-      
+
 
   - Jump to folio <i class="fas fa-hand-point-right"></i>
 
-      - Navigate by entering a page number from 1r to 170v (e.g., “8v” or “106r”)
-      
+      - Navigate by entering a page number from 1r to 170v (e.g., "8v" or "106r")
+
 
 ### Searching
 
@@ -118,12 +118,12 @@ The results are returned in the search pane on the left.
 
   - Click the <i class="fas fa-question-circle"></i> icon on the upper right of the search pane for quick tips on searching.
 
-  - Results can be sorted by relevance or by folio (i.e., listed sequentially). 
+  - Results can be sorted by relevance or by folio (i.e., listed sequentially).
 
-  - Clicking on a result opens the manuscript page that contains the result in the opposite pane. Search within that page using your browser's "find" function, e.g., "ctrl"+"f". 
+  - Clicking on a result opens the manuscript page that contains the result in the opposite pane. Search within that page using your browser's "find" function, e.g., "ctrl"+"f".
 
-  - To return to the dual-pane view, click on “exit search” in the upper left corner.
-  
+  - To return to the dual-pane view, click on "exit search" in the upper left corner.
+
   - To return to the result listing, use the back arrow in your browser, or re-enter the search in the search bar, where the search term is retained.
 
   - The search will return all folios which contain **all** the terms entered into the search bar (i.e., an "AND" search).
@@ -143,7 +143,7 @@ See [Resources](/content/resources) for explanation of tools and companion comme
 
 ### [List of Entries](/entries)
 
-The manuscript consists almost entirely of units of text under titles, which the Project has called “entries.”
+The manuscript consists almost entirely of units of text under titles, which the Project has called "entries."
 
 The entries can be sorted sequentially as they appear in the manuscript or alphabetically.
 
@@ -151,9 +151,9 @@ The entries can be sorted sequentially as they appear in the manuscript or alpha
 
 
 
-Relevant terms in each entry have been encoded with semantic tags. 
+Relevant terms in each entry have been encoded with semantic tags.
 
-To see the full list of tagged terms contained in any given entry, click on the upper right drop-down arrow. 
+To see the full list of tagged terms contained in any given entry, click on the upper right drop-down arrow.
 
 ![howtouse-listentries-select](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-select.png)
 
@@ -168,7 +168,7 @@ To filter the entries by their semantic tags, click on the desired tags to view 
 
 ![howtouse-listentries-terms](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-terms.png)
 
-For a full list of the tags and their usage, see [Principles of Encoding](/content/resources/principles#principles-of-encoding). 
+For a full list of the tags and their usage, see [Principles of Encoding](/content/resources/principles#principles-of-encoding).
 
 Each entry has been assigned up to three of 26 broad categories, displayed on the entry card. See [Entry Categories](/content/resources#entry-categories).
 
@@ -178,7 +178,7 @@ Links are provided to Research Essays which provide commentary on the entries.
 ### [Glossary](/folios/1r/f/1r/glossary)
 
 A Glossary of distinctive terms in the manuscript can be accessed
-by selecting “Glossary” in the drop-down menu of the dual-pane view.
+by selecting "Glossary" in the drop-down menu of the dual-pane view.
 
 Use the alphabetical navigation bar to browse the contents.
 
@@ -197,7 +197,7 @@ and while the glossary includes common spelling variants, the list is not exhaus
 **How to read a Glossary entry**:
 
 Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
-    
+
 - In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets indicates the source of the definition, as listed in the [Bibliography](//content/resources/bibliography). (Some Glossary entries also include language or dialect of origin.)
 
 
@@ -214,7 +214,7 @@ In the dual-pane display of the manuscript, click on the <i class="fas fa-flask"
 
 ![howtouse-folios-essay](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folios-essay.png)
 
-In the dedicated index, the listing of essays can be viewed as small thumbnails or as cards with the essays' abstracts. 
+In the dedicated index, the listing of essays can be viewed as small thumbnails or as cards with the essays' abstracts.
 
 Click on the small and large grids in the upper right corner to switch between thumbnail and card views.
 
@@ -229,9 +229,9 @@ The Research Essays are grouped into categories:
   - **An Introduction**: written by Project and invited scholars, these essays serve as introductory resources and provide overviews of the Edition and the manuscript itself (including its codicology, probable genesis, relationship to other genres of writing, and the identity of its anonymous author-practitioner).
 
   - **Art and Its Making**: materials, making, and meaning of art, and the training of artists.
-  
+
   - **Knowing Nature**: investigation, manipulation, and exploration of the materials and principles of nature in Fr.640.
-  
+
   - **Society and Culture**: historical context of the manuscript, and society and culture in sixteenth-century France.
 
   - **The Making and Knowing Project**: the Making and Knowing Project, including its initiatives, pedagogy, methods, personnel, and collaborators.
@@ -254,7 +254,7 @@ Each Research Essay contains a full bibliography of works cited in the essay.
 
 ### [Field Notes](/content/resources#field-notes-coming-soon)
 
-Field notes recorded by students as they planned, researched, reconstructed, and wrote their laboratory essays. 
+Field notes recorded by students as they planned, researched, reconstructed, and wrote their laboratory essays.
 
 The respective field notes are also linked in each student Research Essay.
 
@@ -269,4 +269,3 @@ The XML files used as the source for the edition along with other metadata is av
 <https://github.com/cu-mkp/m-k-manuscript-data>.
 
 ![howtouse-fieldnotes](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-fieldnotes.jpg)
-

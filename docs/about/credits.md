@@ -15,8 +15,8 @@ The Project, and thus the Edition, have more components than a
 traditional scholarly edition, making recognition and crediting
 more complex than conventional practices in the humanities.
 
-An exemplary model of crediting has been formulated in “Off the Tracks: Laying New
-Lines for Digital Humanities Scholars,” and we strive to adhere to their
+An exemplary model of crediting has been formulated in "Off the Tracks: Laying New
+Lines for Digital Humanities Scholars," and we strive to adhere to their
 guidelines as stated in the [Collaborators’ Bill of Rights](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%e2%80%99-bill-of-rights/).
 
 For more about the creation of the edition, see [About the Edition](/content/about#creation-of-the-edition)
@@ -55,7 +55,7 @@ and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/essays/ann_329_ie_19).
   - Editorial Assistants:
       - Kelsey Troth (2019-20)
       - Ray Abruzzi (2019-21)
-      - Christian-Joseph Macahilig (2020-21) 
+      - Christian-Joseph Macahilig (2020-21)
   - Digital Programming Assistants:
       - Philip Cherian (2016-18)
       - Emre Tetik (2016-2018)
@@ -158,9 +158,9 @@ Jenny Boulboullé (2014-16)
 Joel A. Klein (2014-17)
 
 Tianna Helena Uchacz (2016-20)
- 
+
 Sophie Pitman (2017-18)
- 
+
 Tillmann Taape (2017-20)
 
 ### Expert Makers
@@ -268,5 +268,5 @@ Staff members of the Libraries’ Digital Scholarship Division helped set the pa
   - Jessica Brodsky
   - Michelle Hall
   - Jonah Bossewitch
-  
+
  For additional collaborators, see [Collaborations](https://www.makingandknowing.org/collaborators/) on the Project's website.
