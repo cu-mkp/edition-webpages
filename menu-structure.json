@@ -208,7 +208,7 @@
         "content_id": "resources/principles",
         "page_heading": "Principles of Transcription, Translation, and Encoding",
         "header_graphic_filename": "banner-resources.png",
-        "route": "/content/resources/principles"
+        "route": "/content/resources/principles",
         "sections": [
             {
                 "title": "Transcription",
