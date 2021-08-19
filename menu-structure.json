@@ -212,19 +212,19 @@
         "sections": [
             {
                 "title": "Transcription",
-                "id": "transcription"
+                "id": "principles-of-transcription"
             },
             {
                 "title": "Translation",
-                "id": "translation"
+                "id": "principles-of-translation"
             },
             {
                 "title": "Encoding",
-                "id": "encoding"
+                "id": "principles-of-encoding"
             },
             {
                 "title": "Linguistic Resources",
-                "id": "linguistic-resources"
+                "id": "linguistic-resources-dictionaries-and-technical-encyclopedias"
             }
        ]
 
@@ -235,22 +235,18 @@
         "header_graphic_filename": "banner-resources.png",
         "route": "/content/resources/bibliography",
         "sections": [
-            {
-                "title": "Sources Cited in Ms. Fr. 640 and Editorial Comments",
-                "id": "sources-cited-in-ms-fr-640-and-editorial-comments"
-            },
                 {
                     "title": "Primary Sources",
-                    "id": "primary-sources"
+                    "id": "primary-sources-cited-in-ms-fr-640-and-in-the-editorial-comments"
                 },
                 {
                     "title": "Secondary Sources",
-                    "id": "secondary-sources"
+                    "id": "secondary-sources-cited-in-the-editorial-comments"
                 },
-            {
-               "title": "Sources Cited in the Glossary",
-               "id": "sources-cited-in-the-glossary"
-            }
+                {
+                    "title": "Sources Cited in the Glossary",
+                    "id": "primary-and-secondary-sources-cited-in-the-glossary"
+                }
         ]
 
     },
