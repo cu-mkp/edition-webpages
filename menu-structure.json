@@ -55,7 +55,7 @@
     {
         "label": "About",
         "content_id": "about",
-        "page_heading": "About The Edition",
+        "page_heading": "About the Edition",
         "header_graphic_filename": "banner-about.png",
         "route": "/content/about",
         "sections": [
