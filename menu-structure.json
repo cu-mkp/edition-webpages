@@ -237,7 +237,7 @@
         "sections": [
                 {
                     "title": "Primary Sources",
-                    "id": "primary-sources-cited-in-ms-fr-640-and-in-the-editorial-comments"
+                    "id": "primary-sources"
                 },
                 {
                     "title": "Secondary Sources",
@@ -245,7 +245,7 @@
                 },
                 {
                     "title": "Sources Cited in the Glossary",
-                    "id": "primary-and-secondary-sources-cited-in-the-glossary"
+                    "id": "sources-cited-in-the-glossary"
                 }
         ]
 
