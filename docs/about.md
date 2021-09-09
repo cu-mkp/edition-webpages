@@ -207,7 +207,9 @@ Although very simple server technology is utilized, this did not preclude us fro
 
 <!-- =========== CREDITS =========== -->
 ## People and Credits
-[Click here](/content/about/credits) to see the hundreds of collaborators who contributed to the Edition in different ways, from scholars to students to craft practitioners to scientists.
+Hundreds of collaborators contributed to the Edition in different ways, from scholars to students to craft practitioners to scientists.
+<br>
+[View People and Credits >>](/content/about/credits) 
 
 <!-- =========== PEER REVIEW =========== -->
 ## Peer Review
