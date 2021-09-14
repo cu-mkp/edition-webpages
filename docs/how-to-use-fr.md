@@ -15,12 +15,12 @@ Toutes les versions peuvent être accédées en cliquant sur [Read Fr. 640](/fol
 
 Le manuscrit est présenté côte à côte, ce qui permet de visionner deux versions du manuscrit simultanément.
 
-![how-to-use-dualpane](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane-4x6.png)
+![how-to-use-dualpane](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane.png)
 
 
 Pour choisir une version, cliquez sur la liste déroulante en haut à droite de chaque panneau.
 
-![howtouse-dualdropdown-4x6](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown-4x6.png)
+![howtouse-dualdropdown-4x6](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown.png)
 
 
 Vous trouverez aussi sur cette liste le [glossaire](/folios/1r/f/1r/glossary) qui peut être consulté à tout moment lors de la lecture.
@@ -180,7 +180,7 @@ Dans l'affichage de texte côte à côte, cliquez sur l'icône <i class="fas fa-
 
 L'index des essais peut être affiché sous forme de vignettes ou de fiches plus détaillées avec un résumé.
 
-Cliquez sur la petite ou la grande grille en haut à droite pour changer d'affichage.
+Cliquez sur la petite ou la grande grille dans la barre de navigation de gauche pour changer d'affichage.
 
 ![howtouse-essay-grids](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essay-grids.png)
 
