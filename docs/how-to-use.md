@@ -17,13 +17,13 @@ The manuscript is presented in a dual-pane display, allowing
 side-by-side viewing of any combination of two versions of the
 manuscript.
 
-![how-to-use-dualpane](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane-4x6.png)
+![how-to-use-dualpane](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane.png)
 
 
 To choose a version, click on the drop-down menu in the upper right
 corner of each pane.
 
-![howtouse-dualdropdown-4x6](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown-4x6.png)
+![howtouse-dualdropdown-4x6](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown.png)
 
 
 Quick access to the [Glossary](/folios/1r/f/1r/glossary) is a fourth option to be displayed in
