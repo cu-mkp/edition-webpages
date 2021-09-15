@@ -1,7 +1,6 @@
 ## Reading and Browsing the Manuscript
 
-The Edition consists of four versions of the French manuscript Ms. Fr.
-640:
+The Edition consists of four versions of the French manuscript Ms. Fr. 640:
 
 1. **Facsimile**: Facsimile images of the manuscript pages
 2. **Diplomatic**: diplomatic (verbatim) transcription of the original French text
@@ -13,21 +12,17 @@ All versions can be accessed by navigating to [Read Fr. 640](/folios).
 
 ### Dual-pane Display
 
-The manuscript is presented in a dual-pane display, allowing
-side-by-side viewing of any combination of two versions of the
-manuscript.
+The manuscript is presented in a dual-pane display, allowing side-by-side viewing of any combination of two versions of the manuscript.
 
 ![how-to-use-dualpane](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane.png)
 
 
-To choose a version, click on the drop-down menu in the upper right
-corner of each pane.
+To choose a version, click on the drop-down menu in the upper right corner of each pane.
 
 ![howtouse-dualdropdown-4x6](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown.png)
 
 
-Quick access to the [Glossary](/folios/1r/f/1r/glossary) is a fourth option to be displayed in
-either pane (more about the Glossary below).
+Quick access to the [Glossary](/folios/1r/f/1r/glossary) is a fourth option to be displayed in either pane (more about the Glossary below).
 
 
 To resize the panes, drag the vertical bar dividing the view panes to adjust the width of the panes.
@@ -35,26 +30,21 @@ To resize the panes, drag the vertical bar dividing the view panes to adjust the
 
 ### Facsimile Images
 
-The manuscript facsimile images first appear in a thumbnail grid
-overview which can be browsed with the scroll bar in order to navigate
-to any folio. Once a page is selected, the facsimile will appear in the
-left pane by default.
+The manuscript facsimile images first appear in a thumbnail grid overview which can be browsed with the scroll bar in order to navigate
+to any folio. Once a page is selected, the facsimile will appear in the left pane by default.
 
 ![howtouse-folio-grid](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folio-grid.png)
 
-Within the pane, the facsimile image can be expanded by clicking on the
-\+ and \- symbols at the left side of the folio viewing pane.
+Within the pane, the facsimile image can be resized by clicking on the \+ and \- symbols at the left side of the folio viewing pane.
 
-To return to the thumbnail grid, click on the grid icon <i class="fas fa-th"></i> beneath the
-expand icons on the left side of the viewing pane.
+To return to the thumbnail grid, click on the grid icon <i class="fas fa-th"></i> beneath the resizing icons on the left side of the viewing pane.
 
 ![howtouse-expand-bar](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-expand-bar.png)
 
 
 ### Transcriptions and Translations
 
-The layout of the transcription, normalized transcription, and translation views mirrors the layout of the facsimile page. This
-includes headings, text blocks, marginalia, figures, marks, as well as textual features described below.
+The layout of the transcription, normalized transcription, and translation views mirrors the layout of the facsimile page. This includes headings, text blocks, marginalia, figures, marks, as well as textual features described below.
 
 
 #### Renditions of Textual Features
@@ -83,19 +73,19 @@ For navigation help, click the <i class="fas fa-question-circle"></i> help icon.
 
   - Toggle Sync View <i class="fas fa-lock"></i>
 
-      - Enable/disable automatic display of the same page in both panes
+      - Enable / disable automatic display of the same page in both panes
 
 
   -  Toggle Book Mode <i class="fas fa-book"></i>
 
-      - Enable/disable use of the dual panes to show facing pages of the manuscript, as though reading a book
+      - Enable / disable use of the dual panes to show facing pages of the manuscript, as though reading a book
 
           - NB: disables ability to access thumbnail view
 
 
   - Toggle XML Mode <i class="fas fa-code"></i>
 
-      - Enable/disable view of the xml source code for the page
+      - Enable / disable view of the xml source code for the page
 
       - XML tags and their meanings are described in the [Principles of Encoding](/content/resources/principles#principles-of-encoding).
 
@@ -112,29 +102,33 @@ For navigation help, click the <i class="fas fa-question-circle"></i> help icon.
 
 ### Searching
 
-The search returns results in the two French transcriptions, the English translation, and the Research Essays, which can be narrowed by selecting the desired components.
+The search returns results in the left pane from the two French transcriptions, the English translation, and the Research Essays.
 
-The results are returned in the search pane on the left.
+[howtouse-search-results](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-search-results.png)
 
-  - Click the <i class="fas fa-question-circle"></i> icon on the upper right of the search pane for quick tips on searching.
+Click the <i class="fas fa-question-circle"></i> icon on the upper right of the search pane for quick tips on searching.
 
   - Results can be sorted by relevance or by folio (i.e., listed sequentially).
 
-  - Clicking on a result opens the manuscript page that contains the result in the opposite pane. Search within that page using your browser's "find" function, e.g., "ctrl"+"f".
+  - Results can be narrowed by where the results are found (e.g., the translation or the Research Essays).
 
-  - To return to the dual-pane view, click on "exit search" in the upper left corner.
+[howtouse-search-filter](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-search-filter.png)
 
-  - To return to the result listing, use the back arrow in your browser, or re-enter the search in the search bar, where the search term is retained.
+  - Clicking on a result opens the manuscript page that contains the result in the opposite pane.
 
   - The search will return all folios which contain **all** the terms entered into the search bar (i.e., an "AND" search).
 
   - Enclose search terms in quotation marks to treat terms as a phrase, which will yield only results containing the exact phrase.
+      - NB: phrase-level searching works only in the transcriptions and translation but not in the Research Essays.
 
-  - Wildcard searching can be done by including an asterisk \[\*\] for a term fragment.
+  - Wildcard searching can be done by including an asterisk \[\*\] for a term fragment. The wildcard search allows for variations in early modern spelling, for conjugated verb forms, plurals, or singular of nouns, etc.
       - NB: the asterisk is ignored if quotation marks are used.
 
-  - The wildcard search allows for variations in early modern spelling, for conjugated verb forms, plurals, or singular of nouns, etc.
+To return to the dual-pane view, click on "exit search" in the upper left corner.
 
+[howtouse-search-exit-search](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-search-exit-search.png)
+
+To return to the result listing, use the back arrow in your browser, or re-enter the search in the search bar, where the search term is retained.
 
 ## Resources
 
@@ -143,13 +137,13 @@ See [Resources](/content/resources) for explanation of tools and companion comme
 
 ### [List of Entries](/entries)
 
-The manuscript consists almost entirely of units of text under titles, which the Project has called "entries."
+The manuscript consists almost entirely of units of text under titles, which the Making and Knowing Project has called "entries."
 
 The entries can be sorted sequentially as they appear in the manuscript or alphabetically.
 
 ![howtouse-listentries](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries.png)
 
-
+Each entry has been assigned up to three of 26 broad categories, displayed on the entry card.
 
 Relevant terms in each entry have been encoded with semantic tags.
 
@@ -157,28 +151,24 @@ To see the full list of tagged terms contained in any given entry, click on the 
 
 ![howtouse-listentries-select](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-select.png)
 
-
-
-Choose the version (transcription, normalized transcription, and English translation) to be displayed.
+To choose the version (transcription, normalized transcription, and English translation) to be displayed, use the drop-down within each entry.
 
 ![howtouse-listentries-version](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-version.png)
 
-
-To filter the entries by their semantic tags, click on the desired tags to view only entries that have those tagged terms. This can be further refined by clicking on multiple tag types.
+The List of Entries can be filtered by both entry category and semantic tag in the left pane.
 
 ![howtouse-listentries-terms](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-terms.png)
 
-For a full list of the tags and their usage, see [Principles of Encoding](/content/resources/principles#principles-of-encoding).
+To filter by semantic tag, click on the desired tags to view only entries that have those tagged terms. This can be further refined by clicking on multiple tag types. For a full list of the tags and their usage, see [Principles of Encoding](/content/resources/principles#principles-of-encoding).
 
-Each entry has been assigned up to three of 26 broad categories, displayed on the entry card. See [Entry Categories](/content/resources#entry-categories).
+To filter by category, click on the desired category to view only the entries with that assigned category. This can be further refined by clicking on multiple categories. For further information about the categories, see [Entry Categories](/content/resources#entry-categories).
 
 Links are provided to Research Essays which provide commentary on the entries.
 
 
 ### [Glossary](/folios/1r/f/1r/glossary)
 
-A Glossary of distinctive terms in the manuscript can be accessed
-by selecting "Glossary" in the drop-down menu of the dual-pane view.
+A Glossary of distinctive terms in the manuscript can be accessed by selecting "Glossary" in the drop-down menu of the dual-pane view.
 
 Use the alphabetical navigation bar to browse the contents.
 
@@ -186,9 +176,7 @@ Use the alphabetical navigation bar to browse the contents.
 
 The Glossary has a dedicated filtering search which can be used to navigate by the head-word (the manuscript's original French variant) as well as alternate and modern spellings.
 
-**A note on early modern spelling**: if a searched word returns no hits in the Glossary, try a shorter string
-(e.g., the beginning of the word) or a different spelling. The manuscript's early modern French shows little standardization,
-and while the glossary includes common spelling variants, the list is not exhaustive. Common variations are:
+**A note on early modern spelling**: if a searched word returns no hits in the Glossary, try a shorter string (e.g., the beginning of the word) or a different spelling. The manuscript's early modern French shows little standardization, and while the glossary includes common spelling variants, the list is not exhaustive. Common variations are:
 
   - double vs. single consonant, as in *plate* vs. *platte*
 
@@ -196,27 +184,24 @@ and while the glossary includes common spelling variants, the list is not exhaus
 
 **How to read a Glossary entry**:
 
-Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
+Acoustrer (mod. accoutrer), v.: to prepare \[COT1611\]
 
 - In this entry, the word as it appears in Ms. Fr. 640 is followed by its modern spelling, its part of speech, and its meaning in English. The key in square brackets indicates the source of the definition, as listed in the [Bibliography](//content/resources/bibliography). (Some Glossary entries also include language or dialect of origin.)
 
 
 ### [Research Essays](/essays)
 
-Research Essays clarify the text of the manuscript, provide material,
-technical, and historical context, and describe student reconstructions
-in the Making and Knowing Laboratory.
+Research Essays clarify the text of the manuscript, provide material, technical, and historical context, and describe student reconstructions in the Making and Knowing Laboratory.
 
-The Essays can be accessed in two places: 1) within the manuscript pages
-and 2) in a dedicated index.
+The Essays can be accessed directly in two places: 1) within the manuscript pages and 2) in a dedicated index. They can also be found in the [List of Entries](/entries).
 
 In the dual-pane display of the manuscript, click on the <i class="fas fa-flask"></i> essay icon to the right of the entry heading to access the essay.
 
 ![howtouse-folios-essay](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folios-essay.png)
 
-In the dedicated index, the listing of essays can be viewed as small thumbnails or as cards with the essays' abstracts.
+In the dedicated index, the listing of essays can be viewed as small thumbnails or as cards with the essays' abstracts. Click on "expand" to read longer abstracts.
 
-Click on the small and large grids in the left menu bar to switch between thumbnail and card views.
+Click on the small and large grids in the left menu bar to switch between the thumbnail and card views.
 
 ![howtouse-essay-grids](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essay-grids.png)
 
@@ -240,8 +225,7 @@ To browse the essays by their categories, use the navigation bar on the left.
 
 ![howtouse-essays-themes](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essays-themes.png)
 
-In any essay, click on the folio numbers contained in the text to view that manuscript page (return by clicking the back arrow
-in your browser).
+In any essay, click on the folio numbers contained in the text to view that manuscript page (return by clicking the back arrow in your browser).
 
 In any essay, click on an image to view it at full size in a pop-up lightbox. Close the lightbox by clicking either on the "X" in the upper right-hand corner or outside of the image itself.
 
@@ -265,7 +249,6 @@ The respective field notes are also linked in each student Research Essay.
 
 ## Source Data
 
-The XML files used as the source for the edition along with other metadata is available in the Github repository
-<https://github.com/cu-mkp/m-k-manuscript-data>.
+The XML files used as the source for the edition along with other metadata is available in the Github repository <https://github.com/cu-mkp/m-k-manuscript-data>. More information can be found in [About the Digital Development](https://edition640.makingandknowing.org/#/content/about).
 
 ![howtouse-fieldnotes](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-fieldnotes.jpg)
