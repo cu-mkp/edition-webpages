@@ -97,6 +97,10 @@ Le moteur de recherche donne des résultats dans toutes les versions du texte ai
 
 Les résultats sont fournis sur le panneau de recherche sur la partie gauche de l'écran.
 
+[howtouse-search-results](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-search-results.png)
+
+[howtouse-search-filter](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-search-filter.png)
+
   - Cliquez l'icône <i class="fas fa-question-circle"></i> en haut à droite du panneau de recherche pour des astuces de recherche dans l'édition numérique.
   - Les résultats peuvent être affichés par ordre de pertinence ou de folio.
   - En cliquant sur un des résultats, le panneau adjacent affiche le manuscrit à la page qui contient ce résultat. Pour retrouver le passage précis sur cette même page, utilisez la fonction de recherche de votre navigateur (ex: "ctrl"+"F" sur Windows, "⌘" +"F" sur Mac)
@@ -107,7 +111,6 @@ Les résultats sont fournis sur le panneau de recherche sur la partie gauche de 
   - Une recherche à métacaractère peut être effectuée en ajoutant un astérisque \[\*\] à la partie d'un mot.
       - NB: l'astérisque est ignoré si la recherche comprend des guillemets.
   - Les recherches à métacaractère permettent de rechercher des mots dont la graphie peut varier.
-
 
 ## Ressources
 
