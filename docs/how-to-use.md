@@ -19,7 +19,7 @@ The manuscript is presented in a dual-pane display, allowing side-by-side viewin
 
 To choose a version, click on the drop-down menu in the upper right corner of each pane.
 
-![howtouse-dualdropdown-4x6](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown.png)
+![howtouse-dualdropdown](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown.png)
 
 
 Quick access to the [Glossary](/folios/1r/f/1r/glossary) is a fourth option to be displayed in either pane (more about the Glossary below).
