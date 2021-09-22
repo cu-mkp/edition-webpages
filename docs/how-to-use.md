@@ -33,7 +33,7 @@ To resize the panes, drag the vertical bar dividing the view panes to adjust the
 The manuscript facsimile images first appear in a thumbnail grid overview which can be browsed with the scroll bar in order to navigate
 to any folio. Once a page is selected, the facsimile will appear in the left pane by default.
 
-![howtouse-folio-grid](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folio-grid.png)
+<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folio-grid.png" alt="howtouse-folio-grid" width="750">
 
 Within the pane, the facsimile image can be resized by clicking on the \+ and \- symbols at the left side of the folio viewing pane.
 
