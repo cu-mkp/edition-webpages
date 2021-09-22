@@ -99,14 +99,19 @@ Les résultats sont fournis sur le panneau de recherche sur la partie gauche de 
 
   - Cliquez l'icône <i class="fas fa-question-circle"></i> en haut à droite du panneau de recherche pour des astuces de recherche dans l'édition numérique.
   - Les résultats peuvent être affichés par ordre de pertinence ou de folio.
-  - En cliquant sur un des résultats, le panneau adjacent affiche le manuscrit à la page qui contient ce résultat. Pour retrouver le passage précis sur cette même page, utilisez la fonction de recherche de votre navigateur (ex: "ctrl"+"F" sur Windows, "⌘" +"F" sur Mac)
-  - Pour revenir à l'affichage des textes côte à côte, cliquez sur "exit search" en haut à gauche.
-  - Pour revenir à la liste de résultats, utilisez la flèche arrière de votre navigateur, ou relancez la recherche dans la barre de recherche qui aura mémorisé la dernière recherche.
+  - Les résultats de la recherche peuvent être limités à une ou plusieurs parties de l'édition (ex: la traduction anlgaise ou les essais de recherche)
+[howtouse-search-filter](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-search-filter.png)
+  - En cliquant sur un des résultats, la page du manuscrit contenant ce résultat apparaît sur le panneau opposé.
   - La recherche fournira tous les folios qui contiennent **tous** les termes de la recherche.
   - Une recherche entre guillemets permet de chercher une phrase en particulier.
-  - Une recherche à métacaractère peut être effectuée en ajoutant un astérisque \[\*\] à la partie d'un mot.
+      _ NB: les recherches par phrase fonctionnent pour les différentes versions du texte mais pas pour les essais de recherche. 
+  - Une recherche à métacaractère peut être effectuée en ajoutant un astérisque \[\*\] à la partie d'un mot. La recherche à métacaractère permet d'élargir l'exploration à la racine des mots, intégrant les différentes graphies du mot, ainsi que toutes ses flexions.  
       - NB: l'astérisque est ignoré si la recherche comprend des guillemets.
-  - Les recherches à métacaractère permettent de rechercher des mots dont la graphie peut varier.
+  - Pour revenir à l'affichage de texte côte à côte, cliquez sur "exit search" en haut à gauche.
+
+[howtouse-search-exit-search](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-search-exit-search.png)
+
+Pour revenir aux résultats de la recherche, utilisez la flèche de votre navigateur ou cliquez à nouveau sur l'icône Search, votre dernière recherche sera sauvegardée.
 
 
 ## Ressources
@@ -116,13 +121,13 @@ Lisez l'[aperçu des ressources](/content/resources) pour une présentation des 
 
 ### [Liste des Entrées](/entries)
 
-Le manuscrit est composé presque exclusivement de blocs de texte sous des titres, que nous appelons « entrées ».
+Le manuscrit est composé presque exclusivement de blocs de texte sous des titres, que le projet Making and Knowing a appelé « entrées ».
 
 Ces entrées peuvent être ordonnées séquentiellement, telles qu'elles apparaissent dans le manuscrit ou en ordre alphabétique.
 
 ![howtouse-listentries](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries.png)
 
-
+Chaque entrée se voit assignée sur sa fiche correspondante jusqu'à 3 des 26 grandes catégories du texte.
 
 Les termes importants de chaque entrée ont été balisés par l'équipe éditoriale.
 
@@ -132,18 +137,17 @@ Pour voir la liste complète de termes balisés que chaque entrée comprend, cli
 
 
 
-Choisissez la version (transcription, transcription normalisée, et traduction anglaise) à afficher.
+Pour choisir la version (transcription, transcription normalisée, et traduction anglaise) à afficher, utilisez la liste déroulante dans chaque entrée.
 
 ![howtouse-listentries-version](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-version.png)
 
-
-Cliquez sur une ou plusieurs balises de votre choix pour ne voir que les entrées qui contiennent les balises selectionnées.
+La liste des enteées peut être filtrée sur le panneau de gauche par catégorie, par balise, ou les deux.
 
 ![howtouse-listentries-terms](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-entries.png)
 
-Pour une liste des différentes balises et de leur usage, voir les [principes de codage](/content/resources/principles#principles-of-encoding) en anglais.
+Pour filtrer les balises sémantiques, cliquez sur les balises désirées pour ne voir que entrées concernées par ces notions. Vous pouvez affiner cetter recherche en cliquant sur des balises supplémentaires. Pour une liste complète des balises et de leur usage, voir les [principes de codage](/content/resources/principles#principles-of-encoding) en anglais.
 
-L'équipe éditoriale a assigné aux entrées du manuscrit 26 catégories qui apparaissent au début de chaque fiche. Voir les [catégories des entrées](/content/resources#entry-categories) en anglais.
+Pour filtrer par catégorie, cliquez sur la catégorie désirée pour ne voir que les entrées concernées. Vous pouvez affiner cetter recherche en cliquant sur des catégories supplémentaires. Pour plus d'information sur ces catégories, voir [Entry Categories](/content/resources#entry-categories) en anglais.
 
 Les fiches peuvent aussi comporter des liens revoyant à des essais pertinents.
 
@@ -158,11 +162,11 @@ Utilisez l'index alphabétique pour naviguer les contenus du glossaire.
 
 Le glossaire permet de filtrer les résultats en tapant les premières lettres d'un mot sur la case « Filter by Entry » en haut à gauche. Ce filtrage prend en compte les graphies anciennes et modernes de chaque mot repertorié.
 
-**Nota bene:**  la graphie des mots n'étant pas régulière, il est conseillé de chercher les mots avec le moins de caractères possibles ou, le cas échéant, avec une graphie différente (ex: « plate » au lieu de « platte », « esguille » au lieu d' « aiguille », etc.)
+**Nota bene:**  la graphie des mots n'étant pas régulière dans la version française, il est conseillé de chercher les mots par leur racine, ou le cas échéant avec une graphie différente (ex: « plate » au lieu de « platte », « esguille » au lieu d' « aiguille », etc.)
 
 **Comment lire les entrées du glossaire**:
 
-Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
+Acoustrer (mod. accoutrer), v.: to prepare \[COT1611\]
 
 - Dans cet exemple, le premier mot apparaît dans sa graphie la plus courante dans le manuscrit, il est suivi de sa graphie moderne, puis de sa classe grammaticale, ainsi que de sa traduction en anglais. Le mot-clé entre crochets indique la référence bibliographique, elle peut être consultée dans son intégralité dans la [bibliographie](//content/resources/bibliography) en anglais. (D'autres entrées du glossaire contiennent aussi des informations sur la langue d'origine.)
 
@@ -172,15 +176,15 @@ Acoustrer (mod. accoutrer): v. to prepare \[COT1611\]
 Les essais de recherche replacent le manuscrit dans son contexte matériel, technique et historique, décrivant au passage les reconstructions historiques effectuées en laboratoire par les étudiants et chercheurs du Making and Knowing Project.
 
 Les essais peuvent être accédés de deux manières: 1) depuis le texte
-et 2) depuis l'index.
+et 2) depuis l'index. Ils peuvent aussi être accédés dans la [List of Entries](/entries).
 
 Dans l'affichage de texte côte à côte, cliquez sur l'icône <i class="fas fa-flask"></i> à droite du titre de  l'entrée.
 
 ![howtouse-folios-essay](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folios-essay.png)
 
-L'index des essais peut être affiché sous forme de vignettes ou de fiches plus détaillées avec un résumé.
+L'index des essais peut être affiché sous forme de vignettes ou de fiches plus détaillées avec un résumé. Cliquez sur  "expand" pour lire des résumés plus longs.
 
-Cliquez sur la petite ou la grande grille dans la barre de navigation de gauche pour changer d'affichage.
+Cliquez sur la petite ou la grande grille dans la barre de navigation de gauche pour changer le mode d'affichage.
 
 ![howtouse-essay-grids](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essay-grids.png)
 
@@ -229,6 +233,6 @@ Ces notes sont référencées dans les essais de recherche.
 
 ## Données source
 
-Les fichiers XML à la base de cette édition numérique, ansi que d'autres métadonnées sont disponibles dans le dépot GitHub du projet <https://github.com/cu-mkp/m-k-manuscript-data>.
+Les fichiers XML à la base de cette édition numérique, ansi que d'autres métadonnées sont disponibles dans le dépot GitHub du projet <https://github.com/cu-mkp/m-k-manuscript-data>. Des informations supplémentaires se trouvent sous la rubrique [About the Digital Development](https://edition640.makingandknowing.org/#/content/about).
 
 ![howtouse-fieldnotes](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-fieldnotes.jpg)
