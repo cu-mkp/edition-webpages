@@ -147,11 +147,11 @@ Each entry has been assigned up to three of 26 broad categories, displayed on th
 
 Relevant terms in each entry have been encoded with semantic tags.
 
-To see the full list of tagged terms contained in any given entry, click on the upper right drop-down arrow.
+To see the full list of tagged terms contained in any given entry, click on the upper right drop-down menu arrow.
 
 ![howtouse-listentries-select](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-select.png)
 
-To choose the version (transcription, normalized transcription, and English translation) to be displayed, use the drop-down within each entry.
+To choose the version (transcription, normalized transcription, and English translation) to be displayed, use the drop-down menu within each entry.
 
 ![howtouse-listentries-version](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-version.png)
 
