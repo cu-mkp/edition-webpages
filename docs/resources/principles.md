@@ -319,15 +319,17 @@ maintained in the [Project’s data repository in Github](https://github.com/cu-
 
 ### Edition Tag Set
 
-#### Structural Tags
+#### Structural Tags and Attributes
 
-|  Tag |    Definition   |                        Description and Use                        |
-|------|-----------------|-------------------------------------------------------------------|
-| ab   | anonymous block | a block of text that belongs together semantically, or a unit within a longer entry indicated by the author-practitioner
-| div  | text division   | the span of a single, discrete entry                              |
-| head | heading         | indicates the heading of a "recipe" or entry, classified as a div |
-| id   | identifier      | a unique identifier for the text division                         |
-| lb   | line break      | line break - only used in the French transcriptions               |
+|  Tag       |    Definition   |                        Description and Use                        |
+|------------|-----------------|-------------------------------------------------------------------|
+| ab         | anonymous block | a block of text that belongs together semantically, or a unit within a longer entry indicated by the author-practitioner
+| div        | text division   | the span of a single, discrete entry                              |
+| head       | heading         | indicates the heading of a "recipe" or entry, classified as a div |
+| id         | identifier      | a unique identifier for the text division                         |
+| categories | categories      | assigned by the Project, each entry is categorized into topics (up to 3)             |
+| hand       | handwriting     | for any ab NOT written in the author-practitioner's main hand     |
+| cancelled  | cancelled       | any ab that has been stricken out by the author-practitioner      |
 
 #### Editorial Tags
 
