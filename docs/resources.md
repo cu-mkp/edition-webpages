@@ -124,24 +124,24 @@ One of the key methods for studying the processes and materials described in Ms.
 
 ### Upcoming features of _Secrets of Craft and Nature_
 
-_Secrets of Craft and Nature_ was first launched in February 2020. Throughout the coming year, the Making and Knowing Project is working to prepare additional content as well as to enhance available features. Please stay tuned!
+_Secrets of Craft and Nature_ was first launched in February 2020. Throughout the coming years, the Making and Knowing Project is working to prepare additional content as well as to enhance available features. Please stay tuned!
 
 #### Research Essays
 * Additional essays still under revision.
-* Translation of selected introductory essays into French.
 
 #### Field Notes Repository
 * Browse accounts of reconstructions from the Making and Knowing Lab.
 
 #### Resources
-* Improved bibliography including references cited in the essays and additional links to electronic resources.
 * Additional visualizations and analysis of the manuscript's text and themes, such as an Index of Key Terms that aims to build an ontology from the manuscript's existing tagged terms.
 * Toolkits and resources for analyzing the manuscript as raw data; data that is already available through the [Project's Github](https://github.com/cu-mkp/m-k-manuscript-data).
+* Some projects are already available in the [Project's Sandbox Space](https://cu-mkp.github.io/sandbox/).
 
 #### Research and Teaching Companion
-* Set to be published in 2021, the Research and Teaching Companion will provide a behind-the-scenes look at the making of _Secrets of Craft and Nature_.
+* Set to be published in 2022, the Research and Teaching Companion will provide a behind-the-scenes look at the making of _Secrets of Craft and Nature_.
 * It will make available numerous resources developed by the Project during the creation of _Secrets of Craft and Nature_, and is intended for other researchers, students, instructors, and anyone interested in hands-on engagement with process and digital publication.
 * Resources include lessons plans and syllabi, protocols and worksheets, as well as case studies and outcomes of collaboration.
+* Some resources are already available in the [Project's Sandbox Space](https://cu-mkp.github.io/sandbox/).
 
 <!-- =========== FIELD NOTES =========== -->
 ## Field Notes (coming soon)
@@ -153,5 +153,5 @@ While the Project required students to record every stage of their research, fie
 Additional photographs taken by the students as they carried out their
 research are available in the [Project’s repository on Flickr](https://www.flickr.com/photos/128418753@N06/albums).
 
-For more on field notes as a pedagogical component of the Edition, see Pamela H. Smith [Making the Edition of Ms.
+For more on field notes as a pedagogical component of the Edition, see Pamela H. Smith, [Making the Edition of Ms.
 Fr. 640](/essays/ann_329_ie_19).
