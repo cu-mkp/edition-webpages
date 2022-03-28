@@ -6,6 +6,7 @@ The manuscript consists almost entirely of units of text under titles, which the
 Entries can be filtered by selecting semantic tags that have been used to encode relevant terms in each entry. For further information on these tags, see [Principles of
 Encoding](/content/resources/principles#principles-of-encoding).
 <br>
+<br>
 [View the List of Entries >>](/entries)
 
 <!-- =========== ENTRY CATEGORIES =========== -->
