@@ -361,6 +361,8 @@ _Secrets of Craft and Nature in Renaissance France_ would not have been possible
 
 **Eugene S. Ferguson Award** by the Society for the History of Technology for outstanding and original reference work that supports future scholarship in the history of technology. Awarded to the Project in October 2019.
 
+**The Digital Innovation Award** by the Renaissance Society of America for excellence in digital projects that support the study of the Renaissance (1300–1700). Awarded to the Edition in 2022.
+
 <!-- =========== CONTACT =========== -->
 ## Contact
 
