@@ -25,7 +25,7 @@ and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/essays/ann_329_ie_19).
 ## Project Team and Staff
 
   - Founding Director: Pamela H. Smith
-  - Assistant Director: Naomi Rosenkranz
+  - Associate Director: Naomi Rosenkranz
   - Making and Knowing Project Postdoctoral Scholars:
       - Senior Postdoctoral Scholar (2016-20): Tianna Helena Uchacz
       - Postdoctoral Scholar (2017-20): Tillmann Taape
@@ -36,7 +36,7 @@ and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/essays/ann_329_ie_19).
       - Postdoctoral Scholar (2014-17): Donna Bilak
       - Gerda Henkel Postdoctoral Research Scholar (2019-20): Sarah Muñoz
       - Gerda Henkel Postdoctoral Research Scholar (2017-19): Colin Debuiche
-  - Project Assistant: Caroline Surman
+  - Project and Communications Manager: Caroline Surman
   - Lead Paleographer: Marc Smith
   - Digital Lead: Terry Catapano
   - Digital Designer-Developer: Nick Laiacona and team at [Performant Software Solutions](https://www.performantsoftware.com/)
