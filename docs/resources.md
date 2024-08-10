@@ -120,39 +120,23 @@ One of the key methods for studying the processes and materials described in Ms.
 
 [View Reconstruction Insights >>](/content/resources/reconstruction-insights)
 
-<!-- =========== COMING SOON =========== -->
-## Coming Soon
+<!-- =========== RESEARCH AND TEACHING COMPANION =========== -->
+## Research and Teaching Companion
+The *Making and Knowing Project Research and Teaching Companion* makes available numerous resources developed by the Project during the creation of _Secrets of Craft and Nature_, and is intended for other researchers, students, instructors, and anyone interested in hands-on engagement with materials, process, and digital publication.
+* Resources include lesson plans and syllabi, reflections on hands-on practice, use-cases of Making and Knowing teaching resources, student projects from Making and Knowing courses, and much else.
+* [Visit the Companion](https://teaching640.makingandknowing.org/)
 
-### Upcoming features of _Secrets of Craft and Nature_
-
-_Secrets of Craft and Nature_ was first launched in February 2020. Throughout the coming years, the Making and Knowing Project is working to prepare additional content as well as to enhance available features. Please stay tuned!
-
-#### Research Essays
-* Additional essays still under revision.
-
-#### Field Notes Repository
-* Browse accounts of reconstructions from the Making and Knowing Lab.
-
-#### Resources
-* Additional visualizations and analysis of the manuscript's text and themes, such as an Index of Key Terms that aims to build an ontology from the manuscript's existing tagged terms.
-* Toolkits and resources for analyzing the manuscript as raw data; data that is already available through the [Project's Github](https://github.com/cu-mkp/m-k-manuscript-data).
-* Some projects are already available in the [Project's Sandbox Space](https://cu-mkp.github.io/sandbox/).
-
-#### Research and Teaching Companion
-* Set to be published in 2022, the Research and Teaching Companion will provide a behind-the-scenes look at the making of _Secrets of Craft and Nature_.
-* It will make available numerous resources developed by the Project during the creation of _Secrets of Craft and Nature_, and is intended for other researchers, students, instructors, and anyone interested in hands-on engagement with process and digital publication.
-* Resources include lessons plans and syllabi, protocols and worksheets, as well as case studies and outcomes of collaboration.
-* Some resources are already available in the [Project's Sandbox Space](https://cu-mkp.github.io/sandbox/).
+<!-- =========== SANDBOX =========== -->
+## Sandbox
+The Making and Knowing Project's Sandbox makes available projects that utilize and explore the data underlying *Secrets of Craft and Nature*. The Sandbox presents experimental, provisional, and in-progress work that engages with and analyzes the data, topics, and content of *Secrets of Craft and Nature*, as well as the larger themes explored by the Making and Knowing Project. 
+* The Sandbox contains toolkits and resources for analyzing the manuscript as raw data; data that is already available through the [Project's Github](https://github.com/cu-mkp/m-k-manuscript-data).
+Explore the many digital projects using manuscript data now available in the [Project's Sandbox Space](https://cu-mkp.github.io/sandbox/).
 
 <!-- =========== FIELD NOTES =========== -->
 ## Field Notes (coming soon)
+* Field notes document students' skill-building exercises and reconstruction work for their Research Essays.
 
-Field notes document students' skill-building exercises and reconstruction work for their Research Essays.
-
-While the Project required students to record every stage of their research, field notes differ in detail and completeness.
-
-Additional photographs taken by the students as they carried out their
-research are available in the [Project’s repository on Flickr](https://www.flickr.com/photos/128418753@N06/albums).
+Additional photographs taken by the students as they carried out their research are available in the [Project’s repository on Flickr](https://www.flickr.com/photos/128418753@N06/albums).
 
 For more on field notes as a pedagogical component of the Edition, see Pamela H. Smith, [Making the Edition of Ms.
 Fr. 640](/essays/ann_329_ie_19).
