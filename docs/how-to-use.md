@@ -1,3 +1,7 @@
+## How to Use
+
+Watch a quick [video](https://vimeo.com/998222542) introduction to navigating through _Secrets of Craft and Nature_.
+
 ## Reading and Browsing the Manuscript
 
 The Edition consists of four versions of the French manuscript Ms. Fr. 640:
