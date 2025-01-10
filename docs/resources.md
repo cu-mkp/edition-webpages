@@ -122,9 +122,13 @@ One of the key methods for studying the processes and materials described in Ms.
 
 <!-- =========== RESEARCH AND TEACHING COMPANION =========== -->
 ## Research and Teaching Companion
-The *Making and Knowing Project Research and Teaching Companion* makes available numerous resources developed by the Project during the creation of _Secrets of Craft and Nature_, and is intended for other researchers, students, instructors, and anyone interested in hands-on engagement with materials, process, and digital publication.
+The *Making and Knowing Project Research and Teaching Companion* makes available numerous resources developed by the Project during the creation of _Secrets of Craft and Nature_, and is intended for other researchers, students, instructors, makers, and anyone interested in hands-on engagement with materials, process, and digital publication.
 * Resources include lesson plans and syllabi, reflections on hands-on practice, use-cases of Making and Knowing teaching resources, student projects from Making and Knowing courses, and much else.
 * [Visit the Companion](https://teaching640.makingandknowing.org/)
+
+<!-- =========== EDITIONCRAFTER =========== -->
+## EditionCrafter
+[EditionCrafter](https://editioncrafter.org/) is an easy-to-use tool for scholars, educators, and research institutions to publish digital editions in a low-cost and sustainable manner. It is informed by and built on the same principles of minimal computing and the same feature set (with some enhancements) utilized in _Secrets of Craft and Nature_.
 
 <!-- =========== SANDBOX =========== -->
 ## Sandbox
@@ -133,10 +137,10 @@ The Making and Knowing Project's Sandbox makes available projects that utilize a
 Explore the many digital projects using manuscript data now available in the [Project's Sandbox Space](https://cu-mkp.github.io/sandbox/).
 
 <!-- =========== FIELD NOTES =========== -->
-## Field Notes (coming soon)
-* Field notes document students' skill-building exercises and reconstruction work for their Research Essays.
+## Field Notes
+Field notes document students' skill-building exercises and reconstruction work for their Research Essays. Many of the essays in *Secrets of Craft and Nature* contain links to the beta version of [Making and Knowing Field Notes](https://fieldnotes.makingandknowing.org/).
 
 Additional photographs taken by the students as they carried out their research are available in the [Project’s repository on Flickr](https://www.flickr.com/photos/128418753@N06/albums).
 
 For more on field notes as a pedagogical component of the Edition, see Pamela H. Smith, [Making the Edition of Ms.
-Fr. 640](/essays/ann_329_ie_19).
+Fr. 640](/essays/ann_329_ie_19) and the _Research and Teaching Companion's_ [Introduction to Field Notes](https://teaching640.makingandknowing.org/resources/activity-sheets/introduction-fieldnotes/). 
