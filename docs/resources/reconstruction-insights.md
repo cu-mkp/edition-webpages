@@ -252,6 +252,8 @@ Smith, [Lifecasting in Ms. Fr. 640](/essays/ann_511_ad_20)
 
 Wang/van Buren/Uchacz, ["Perspective is Very Difficult"](/essays/ann_516_ad_20)
 
+Bilak, [Making and Knowing Pedagogy](/essays/ann_305_ie_19)
+
 ## Material Imaginary
 Especially interesting has been the insight provided by reconstruction into the author-practitioner’s system of knowledge about nature and the behavior of natural materials—his "material imaginary"—including qualitative material categories, such as hot, cold, wet, dry, fat, lean, sweet, and sour; material metaphors based on, for example, the materials of vermilion and of sulfur, which provided a means, not so much to signify material meaning (although they also enabled that), but, rather, to enact principles of material process. The author-practitioner’s vocabulary of moldmaking and casting conveys a conception of the material world as animate, such as veins of wax (*filons de cire*) and breathing holes (*souspirails*) to vent the mold (fol. 155r). The interactions between materials often demonstrate a view of materials being friendly or hostile. For example, "Latten is the enemy of gold & the friend of silver" (*Le letton est ennemy de lor & amy de largent*, fol. 121v). His material imaginary also included various areas or activities of emphasis, such as experimenting with the states and phases of materials, or trying to arrest ephemerality in living things through lifecasting, preserving plants and fruits, and taxidermy. In most of the recipes, we see that human utility is the overarching organizing principle in creating (mostly implicit) taxonomies of natural materials.
 
