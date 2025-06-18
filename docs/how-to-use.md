@@ -1,6 +1,7 @@
 ## How to Use
 
-Watch a quick [video](https://vimeo.com/998222542) introduction to navigating through _Secrets of Craft and Nature_.
+Watch a quick video introduction to navigating through _Secrets of Craft and Nature_ and see more detailed information below.
+<iframe src="https://player.vimeo.com/video/998222542" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Reading and Browsing the Manuscript
 
