@@ -43,12 +43,20 @@
                 "id": "reconstruction-insights"
             },
             {
-                "title": "Coming Soon",
-                "id": "coming-soon"
+                "title": "Research and Teaching Companion",
+                "id": "research-and-teaching-companion"
+            },
+            {
+                "title": "EditionCrafter",
+                "id": "editioncrafter"
+            },
+            {
+                "title": "Sandbox",
+                "id": "sandbox"
             },
             {
                 "title": "Field Notes",
-                "id": "field-notes-coming-soon"
+                "id": "field-notes"
             }
         ]
     },
