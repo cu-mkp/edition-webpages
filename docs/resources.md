@@ -138,7 +138,7 @@ Explore the many digital projects using manuscript data now available in the [Pr
 
 <!-- =========== FIELD NOTES =========== -->
 ## Field Notes
-Field notes document students' skill-building exercises and reconstruction work for their Research Essays. Many of the essays in *Secrets of Craft and Nature* contain links to the beta version of [Making and Knowing Field Notes](https://fieldnotes.makingandknowing.org/).
+Field notes document students' skill-building exercises and reconstruction work for their Research Essays. Many of the essays in *Secrets of Craft and Nature* contain links to their [Making and Knowing Field Notes](https://fieldnotes.makingandknowing.org/).
 
 Additional photographs taken by the students as they carried out their research are available in the [Project’s repository on Flickr](https://www.flickr.com/photos/128418753@N06/albums).
 
