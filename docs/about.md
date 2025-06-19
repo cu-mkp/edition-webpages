@@ -26,7 +26,7 @@ For more information:
   - [Principles of Encoding](/content/resources/principles#principles-of-encoding)
   - Soersha Dyon and Heather, [Turning Turtle: The Process of Translating BnF Ms. Fr. 640](/essays/ann_318_ie_19)
   - Celine Camps and Margot Lyautey, [Ma\<r\>king and Knowing: Encoding BnF Ms. Fr. 640](/essays/ann_335_ie_19)
-  - Terry Catapano and Naomi Rosenkranz, [BnF Ms. Fr. 640 as a Digital Text](/essays/ann_310_ie_19)
+  - Naomi Rosenkranz and Terry Catapano, [Digital Development of the Digital Critical Edition of BnF Ms. Fr. 640](/essays/ann_310_ie_19)
   - Clément Godbarge, [The Manuscript Seen from Afar: a Computational Approach to BnF Ms. Fr. 640](/essays/ann_301_ie_19)
 
 * Other [Research Essays](/essays).
@@ -103,7 +103,7 @@ As a digital scholarly publication, _Secrets of Craft and Nature in Renaissance 
 
 The focus on sustainability is guided by the principles of [minimal computing](https://go-dh.github.io/mincomp/about/) which the Project applies through an emphasis on durability and the use of basic technologies and workflows that have a greater likelihood of persisting. The Edition relies upon a common and well-established technology stack: HTML/HTML5 with CSS and JavaScript served statically from a webserver. Until the Edition is archived for long-term preservation, infrastructure and content assets are developed and maintained using Apache HTTP Server, React JavaScript Library, Github, AWS CloudFront and S3, and DigitalOcean virtual servers. Data format and storage decisions are chosen for their ability to be readily transformed to multiple target formats, and content is routinely exported and converted to open standard formats.
 
-The component parts of the Edition are detailed further below. For more information, please also see [About the Edition](#creation-of-the-edition) and the essays by Terry Catapano and Naomi Rosenkranz, [BnF Ms. Fr. 640 as a Digital Text](/essays/ann_310_ie_19) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/essays/ann_329_ie_19).
+The component parts of the Edition are detailed further below. For more information, please also see [About the Edition](#creation-of-the-edition) and the essays by Naomi Rosenkranz and Terry Catapano, [Digital Development of the Digital Critical Edition of BnF Ms. Fr. 640](/essays/ann_310_ie_19) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/essays/ann_329_ie_19).
 
 ### Facsimile Images of BnF Ms. Fr. 640
 The digital facsimile images of Ms. Fr. 640 are provided by the BnF’s digital library, [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b10500001g). They are integrated into the Edition through its IIIF Manifest, which relates the Project's transcription and translation of the manuscript to the corresponding Gallica folio images via the IIIF Presentation API.
@@ -114,7 +114,7 @@ The [texts of Ms. Fr. 640](/folios) are encoded in XML format and available in t
 2. Normalized: lightly normalized French transcription (with punctuation and diacritical marks added)
 3. Translation: English translation
 
-The transcription, translation, and encoding of the manuscript were primarily carried out in a series of paleography and text workshops (2014–2018) that brought together graduate students (already in possession of advanced French) to learn to read middle French script and gain experience in textual encoding. For more detail and a discussion of this process, see Celine Camps and Margot Lyautey, [Ma&#60;r&#62;king and Knowing: Encoding BnF Ms. Fr. 640](/essays/ann_335_ie_19). The XML files were then revised and finalized by Senior Project team members and the Digital Lead. See also Terry Catapano and Naomi Rosenkranz, [BnF Ms. Fr. 640 as a Digital Text](/essays/ann_310_ie_19) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/essays/ann_329_ie_19).
+The transcription, translation, and encoding of the manuscript were primarily carried out in a series of paleography and text workshops (2014–2018) that brought together graduate students (already in possession of advanced French) to learn to read middle French script and gain experience in textual encoding. For more detail and a discussion of this process, see Celine Camps and Margot Lyautey, [Ma&#60;r&#62;king and Knowing: Encoding BnF Ms. Fr. 640](/essays/ann_335_ie_19). The XML files were then revised and finalized by Senior Project team members and the Digital Lead. See also Naomi Rosenkranz and Terry Catapano, [Digital Development of the Digital Critical Edition of BnF Ms. Fr. 640](/essays/ann_310_ie_19) and Pamela H. Smith, [Making the Edition of Ms. Fr. 640](/essays/ann_329_ie_19).
 
 The texts conform to a schema developed iteratively by the Project as the transcriptions and translation were revised and completed. While intended to meet the specific needs of the Project, the custom schema is influenced by and derives much of its tagset from the [Text Encoding Initiative (TEI) Guidelines](https://tei-c.org/guidelines/P5/). The [schema](https://github.com/cu-mkp/m-k-manuscript-data/blob/master/schema/ms-transcription.rng) is maintained in the Project repository. The [Principles of Encoding](/content/resources/principles#principles-of-encoding) provide a full description of the Project's tagset.
 
