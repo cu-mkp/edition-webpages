@@ -61,11 +61,11 @@ These categories form an index created by the Project to ease navigation of the 
 
 ### Visualizing the Manuscript's Contents
 
-![entries-piechart](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/entries-piechart.png)
+![entries-piechart](https://edition-assets.makingandknowing.org/webpages/entries-piechart.png)
 
 ### Overview of the Manuscript's Contents
 
-![entries-table](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/entries-table.png)
+![entries-table](https://edition-assets.makingandknowing.org/webpages/entries-table.png)
 
 <!-- =========== GLOSSARY =========== -->
 ## Glossary

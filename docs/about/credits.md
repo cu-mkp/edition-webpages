@@ -9,7 +9,7 @@ interdisciplinary, and collaborative work—of countless dedicated and
 enthusiastic members, individuals, and networks of the [Making and
 Knowing Project](https://www.makingandknowing.org/).
 
-![about-credits-wgm15](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-credits-wgm15.png)
+![about-credits-wgm15](https://edition-assets.makingandknowing.org/webpages/about-credits-wgm15.png)
 
 The Project, and thus the Edition, have more components than a
 traditional scholarly edition, making recognition and crediting
