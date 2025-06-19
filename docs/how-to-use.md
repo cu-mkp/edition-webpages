@@ -19,11 +19,11 @@ All versions can be accessed by navigating to [Read Fr. 640](/folios).
 
 The manuscript is presented in a dual-pane display, allowing side-by-side viewing of any combination of two versions of the manuscript.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane.png" alt="how-to-use-dualpane" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-dualpane.png" alt="how-to-use-dualpane" width="500">
 
 To choose a version, click on the drop-down menu in the upper right corner of each pane.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown.png" alt="howtouse-dualdropdown" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-dualdropdown.png" alt="howtouse-dualdropdown" width="500">
 
 
 Quick access to the [Glossary](/folios/1r/f/1r/glossary) is a fourth option to be displayed in either pane (more about the Glossary below).
@@ -37,13 +37,13 @@ To resize the panes, drag the vertical bar dividing the view panes to adjust the
 The manuscript facsimile images first appear in a thumbnail grid overview which can be browsed with the scroll bar in order to navigate
 to any folio. Once a page is selected, the facsimile will appear in the left pane by default.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folio-grid.png" alt="howtouse-folio-grid" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-folio-grid.png" alt="howtouse-folio-grid" width="500">
 
 Within the pane, the facsimile image can be resized by clicking on the \+ and \- symbols at the left side of the folio viewing pane.
 
 To return to the thumbnail grid, click on the grid icon <i class="fas fa-th"></i> beneath the resizing icons on the left side of the viewing pane.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-expand-bar.png" alt="howtouse-expand-bar" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-expand-bar.png" alt="howtouse-expand-bar" width="500">
 
 ### Transcriptions and Translations
 
@@ -54,20 +54,20 @@ The layout of the transcription, normalized transcription, and translation views
 
 | **Rendering**          | **Meaning**                                                                                                                                                                                                                                                                                             | **Example** |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| Blue and superscript   | Ms. author additions                                                                                                                                                                                                                                                                                    | ![howtouse-add](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-add.png)|
-| Red and struck-through | Ms. author deletions                                                                                                                                                                                                                                                                                    | ![howtouse-del](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-del.png)|
-| Grey highlight         | Text is under the paper strips used in the rebinding                                                                                                                                                                                                                                                    | ![howtouse-ups](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-ups.png)|
-| Italics                | Untranslated foreign language, i.e., language other than French in the ms., or, in the translation, language other than English                                                                                                                                                                         | ![howtouse-italics](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-italics.png)|
-| Bold (emphasis)        | Italic script in the ms.                                                                                                                                                                                                                                                                                | ![howtouse-bold](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-bold.png)|
-| \[*illegible*\]        | Illegible word that could not be transcribed                                                                                                                                                                                                                                                            | ![howtouse-illegible](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-illegible.png)|
-| \[*gap*\]              | Space left in the original                                                                                                                                                                                                                                                                              | ![howtouse-gap](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-gap.png)|
-| Curly brackets         | Expansions: providing the expanded version of the text implied by the author-practitioner’s abbreviation marks                                                                                                                                                                                          | ![howtouse-curly](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-curly.png)|
-| Square brackets        | Indicates editorial interventions and corrections by the Making and Knowing Project. For example, deletion of duplicate words or addition of missing words                                                                                                                                              | ![howtouse-square](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-square.png)|
-| Horizontal lines       | Approximate pen marks in the original used to separate text blocks from one another                                                                                                                                                                                                                     | ![howtouse-hr](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-hr.png)|
-| "*Continued…*"         | Indicates text continues on the following page                                                                                                                                                                                                                                                         | ![howtouse-continued1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued1.png)|
-| "*...Continued*"       | Indicates text is continued from the previous page                                                                                                                                                                                                                                                      | ![howtouse-continued2](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued2.png)|
-| Essay Icon             | Clicking on the beaker displays corresponding Research Essay (see below)                                                                                                                                                                                                                                 | ![howtouse-beaker](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-beaker.png)|
-| Red asterisks          | Clicking on the asterisk displays Editorial Comments in a popout window                                                                                                                                                                                                                                   | ![howtouse-asterisk](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-asterisk.png)|
+| Blue and superscript   | Ms. author additions                                                                                                                                                                                                                                                                                    | ![howtouse-add](https://edition-assets.makingandknowing.org/webpages/howtouse-add.png)|
+| Red and struck-through | Ms. author deletions                                                                                                                                                                                                                                                                                    | ![howtouse-del](https://edition-assets.makingandknowing.org/webpages/howtouse-del.png)|
+| Grey highlight         | Text is under the paper strips used in the rebinding                                                                                                                                                                                                                                                    | ![howtouse-ups](https://edition-assets.makingandknowing.org/webpages/howtouse-ups.png)|
+| Italics                | Untranslated foreign language, i.e., language other than French in the ms., or, in the translation, language other than English                                                                                                                                                                         | ![howtouse-italics](https://edition-assets.makingandknowing.org/webpages/howtouse-italics.png)|
+| Bold (emphasis)        | Italic script in the ms.                                                                                                                                                                                                                                                                                | ![howtouse-bold](https://edition-assets.makingandknowing.org/webpages/howtouse-bold.png)|
+| \[*illegible*\]        | Illegible word that could not be transcribed                                                                                                                                                                                                                                                            | ![howtouse-illegible](https://edition-assets.makingandknowing.org/webpages/howtouse-illegible.png)|
+| \[*gap*\]              | Space left in the original                                                                                                                                                                                                                                                                              | ![howtouse-gap](https://edition-assets.makingandknowing.org/webpages/howtouse-gap.png)|
+| Curly brackets         | Expansions: providing the expanded version of the text implied by the author-practitioner’s abbreviation marks                                                                                                                                                                                          | ![howtouse-curly](https://edition-assets.makingandknowing.org/webpages/howtouse-curly.png)|
+| Square brackets        | Indicates editorial interventions and corrections by the Making and Knowing Project. For example, deletion of duplicate words or addition of missing words                                                                                                                                              | ![howtouse-square](https://edition-assets.makingandknowing.org/webpages/howtouse-square.png)|
+| Horizontal lines       | Approximate pen marks in the original used to separate text blocks from one another                                                                                                                                                                                                                     | ![howtouse-hr](https://edition-assets.makingandknowing.org/webpages/howtouse-hr.png)|
+| "*Continued…*"         | Indicates text continues on the following page                                                                                                                                                                                                                                                         | ![howtouse-continued1](https://edition-assets.makingandknowing.org/webpages/howtouse-continued1.png)|
+| "*...Continued*"       | Indicates text is continued from the previous page                                                                                                                                                                                                                                                      | ![howtouse-continued2](https://edition-assets.makingandknowing.org/webpages/howtouse-continued2.png)|
+| Essay Icon             | Clicking on the beaker displays corresponding Research Essay (see below)                                                                                                                                                                                                                                 | ![howtouse-beaker](https://edition-assets.makingandknowing.org/webpages/howtouse-beaker.png)|
+| Red asterisks          | Clicking on the asterisk displays Editorial Comments in a popout window                                                                                                                                                                                                                                   | ![howtouse-asterisk](https://edition-assets.makingandknowing.org/webpages/howtouse-asterisk.png)|
 
 
 ### Navigation within the Dual-pane Display
@@ -107,7 +107,7 @@ For navigation help, click the <i class="fas fa-question-circle"></i> help icon.
 
 The search returns results in the left pane from the two French transcriptions, the English translation, and the Research Essays.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-search-results.png" alt="howtouse-search-results" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-search-results.png" alt="howtouse-search-results" width="500">
 
 Click the <i class="fas fa-question-circle"></i> icon on the upper right of the search pane for quick tips on searching.
 
@@ -115,7 +115,7 @@ Click the <i class="fas fa-question-circle"></i> icon on the upper right of the 
 
   - Results can be narrowed by where the results are found (e.g., the translation or the Research Essays).
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-search-filter.png" alt="howtouse-search-filter" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-search-filter.png" alt="howtouse-search-filter" width="500">
 
   - Clicking on a result opens the manuscript page that contains the result in the opposite pane.
 
@@ -129,7 +129,7 @@ Click the <i class="fas fa-question-circle"></i> icon on the upper right of the 
 
 To return to the dual-pane view, click on "exit search" in the upper left corner.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-search-exit-search.png" alt="howtouse-search-exit-search" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-search-exit-search.png" alt="howtouse-search-exit-search" width="500">
 
 To return to the result listing, use the back arrow in your browser, or re-enter the search in the search bar, where the search term is retained.
 
@@ -144,7 +144,7 @@ The manuscript consists almost entirely of units of text under titles, which the
 
 The entries can be sorted sequentially as they appear in the manuscript or alphabetically.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries.png" alt="howtouse-listentries" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-listentries.png" alt="howtouse-listentries" width="500">
 
 Each entry has been assigned up to three of 26 broad categories, displayed on the entry card.
 
@@ -152,15 +152,15 @@ Relevant terms in each entry have been encoded with semantic tags.
 
 To see the full list of tagged terms contained in any given entry, click on the upper right drop-down menu arrow.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-select.png" alt="howtouse-listentries-select" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-listentries-select.png" alt="howtouse-listentries-select" width="500">
 
 To choose the version (transcription, normalized transcription, and English translation) to be displayed, use the drop-down menu within each entry.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-version.png" alt="howtouse-listentries-version" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-listentries-version.png" alt="howtouse-listentries-version" width="500">
 
 The List of Entries can be filtered by both entry category and semantic tag in the left pane.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-terms.png" alt="howtouse-listentries-terms" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-listentries-terms.png" alt="howtouse-listentries-terms" width="500">
 
 To filter by semantic tag, click on the desired tags to view only entries that have those tagged terms. This can be further refined by clicking on multiple tag types. For a full list of the tags and their usage, see [Principles of Encoding](/content/resources/principles#principles-of-encoding).
 
@@ -175,7 +175,7 @@ A Glossary of distinctive terms in the manuscript can be accessed by selecting "
 
 Use the alphabetical navigation bar to browse the contents.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-glossary.png" alt="howtouse-glossary" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-glossary.png" alt="howtouse-glossary" width="500">
 
 The Glossary has a dedicated filtering search which can be used to navigate by the head-word (the manuscript's original French variant) as well as alternate and modern spellings.
 
@@ -200,17 +200,17 @@ The Essays can be accessed directly in two places: 1) within the manuscript page
 
 In the dual-pane display of the manuscript, click on the <i class="fas fa-flask"></i> essay icon to the right of the entry heading to access the essay.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folios-essay.png" alt="howtouse-folios-essay" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-folios-essay.png" alt="howtouse-folios-essay" width="500">
 
 In the dedicated index, the listing of essays can be viewed as small thumbnails or as cards with the essays' abstracts. Click on "expand" to read longer abstracts.
 
 Click on the small and large grids in the left menu bar to switch between the thumbnail and card views.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essay-grids.png" alt="howtouse-essay-grids" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-essay-grids.png" alt="howtouse-essay-grids" width="500">
 
 On the cards in the large grid view, hover over the names for author information.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essay-author.png" alt="howtouse-essay-author" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-essay-author.png" alt="howtouse-essay-author" width="500">
 
 The Research Essays are grouped into categories:
 
@@ -226,7 +226,7 @@ The Research Essays are grouped into categories:
 
 To browse the essays by their categories, use the navigation bar on the left.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essays-themes.png" alt="howtouse-essays-themes" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-essays-themes.png" alt="howtouse-essays-themes" width="500">
 
 In any essay, click on the folio numbers contained in the text to view that manuscript page (return by clicking the back arrow in your browser).
 
@@ -254,4 +254,4 @@ The respective field notes are also linked in each student Research Essay.
 
 The XML files used as the source for the edition along with other metadata is available in the Github repository <https://github.com/cu-mkp/m-k-manuscript-data>. More information can be found in [About the Digital Development](https://edition640.makingandknowing.org/#/content/about).
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-fieldnotes.jpg" alt="howtouse-fieldnotes" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-fieldnotes.jpg" alt="howtouse-fieldnotes" width="500">

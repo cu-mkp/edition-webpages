@@ -79,13 +79,13 @@ The Project explores the intersections between historical craft making and scien
 
 The creation of _Secrets of Craft and Nature in Renaissance France_ has been the Project’s primary endeavor since 2014. This goal has shaped the Project’s methodology of fusing pedagogy with research, using a focused research object (Ms. Fr. 640) to teach historical, hands-on, and digital research methods while generating research outputs.
 
-![about-mk-collab-lab](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-mk-collab-lab.png)
+![about-mk-collab-lab](https://edition-assets.makingandknowing.org/webpages/about-mk-collab-lab.png)
 
 _Secrets of Craft and Nature in Renaissance France_ sheds light not only on what kind of knowledge the manuscript’s anonymous author-practitioner possessed about techniques and materials, but also, more broadly, how his work of making was related to knowing.
 
 Indeed, the overarching theme of the Project and its work on _Secrets of Craft and Nature in Renaissance France_ has been to show the ways in which making is an epistemic activity. In other words, making is itself a form of knowledge and not just an application of knowledge.
 
-![about-mk-collab-books](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-mk-collab-books.png)
+![about-mk-collab-books](https://edition-assets.makingandknowing.org/webpages/about-mk-collab-books.png)
 
 For more about the Project, please explore:
 
@@ -245,7 +245,7 @@ their expertise on the subjects of the essays produced in a given year,
 were assigned a number of essays, and commented formally on the essays
 in the three-day meeting.
 
-![peerreview-group-table](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/peerreview-group-table.png)
+![peerreview-group-table](https://edition-assets.makingandknowing.org/webpages/peerreview-group-table.png)
 
 The Project also wished to build into the collaborative structure the
 opportunity presented by this intriguing primary source for students to
@@ -269,7 +269,7 @@ research on historical questions, it seems necessary for the practices
 and parameters for scholarly peer review to adapt to these emergent
 modes of scholarship.
 
-![peerreview-group-lab](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/peerreview-group-lab.png)
+![peerreview-group-lab](https://edition-assets.makingandknowing.org/webpages/peerreview-group-lab.png)
 
 <!-- =========== HOW TO CITE =========== -->
 ## How to Cite
@@ -319,26 +319,26 @@ Examples:
 
 _Secrets of Craft and Nature in Renaissance France_ would not have been possible without a wide network of supporters. The Making and Knowing Project gratefully acknowledges the support of countless individuals and collaborators from institutions around the world. The Project is especially grateful for the institutional support, grants, and gifts that underwrote the creation of the Edition:
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-sponsors-css.png" alt="about-sponsors-css" style="float:left"> <br>
+<img src="https://edition-assets.makingandknowing.org/webpages/about-sponsors-css.png" alt="about-sponsors-css" style="float:left"> <br>
 **The Center for Science and Society**, Columbia University.
 
-![about-sponsors-CU](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-sponsors-CU.png) <br>
+![about-sponsors-CU](https://edition-assets.makingandknowing.org/webpages/about-sponsors-CU.png) <br>
 **Faculty of Arts and Sciences**, Columbia University.
 
 **Columbia University Libraries**, Digital Scholarship Division.
 
-![about-sponsors-NSF](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-sponsors-NSF.png) <br>
+![about-sponsors-NSF](https://edition-assets.makingandknowing.org/webpages/about-sponsors-NSF.png) <br>
 [**National Science Foundation**](https://www.nsf.gov/) <br>
 **NSF** Grant \#1430843, "The Role of Craft Skill in Scientific Practice," 2017–20. <br>
 **NSF** Grant \#1734596, "The Role of Tacit Knowledge in Experimentation," 2014–17. <br>
 **NSF** Conference Grant \#1656227, "Workshop: Translation and Encoding for the Making and Knowing Project," 2017–18. <br>
     _The opinions, findings, and conclusions or recommendations expressed are those of the authors and do not necessarily reflect the views of the National Science Foundation._
 
-![about-sponsors-NEH](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-sponsors-NEH.png)  <br>
+![about-sponsors-NEH](https://edition-assets.makingandknowing.org/webpages/about-sponsors-NEH.png)  <br>
 [**National Endowment for the Humanities**](https://www.neh.gov/), NEH Grant \#RQ-249842-16, "Craft Techniques and Knowledge Systems in a 16th-Century Artist’s Manuscript: An Open-Access Critical Edition and Translation," 2016-20.  <br>
     _Any views, findings, conclusions, or recommendations expressed in this Edition do not necessarily represent those of the National Endowment for the Humanities._
 
-![about-sponsors-luce](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/about-sponsors-luce.png)  <br>
+![about-sponsors-luce](https://edition-assets.makingandknowing.org/webpages/about-sponsors-luce.png)  <br>
 [**Henry Luce Foundation**](https://www.hluce.org/), Higher Education Grant, 2017–20.
 
 **Science History Institute** (formerly Chemical Heritage Foundation), Making and Knowing Project Postdoctoral Scholars, 2014–17.

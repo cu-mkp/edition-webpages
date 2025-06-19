@@ -15,12 +15,12 @@ Toutes les versions peuvent être accédées en cliquant sur [Read Fr. 640](/fol
 
 Le manuscrit est présenté côte à côte, ce qui permet de visionner deux versions du manuscrit simultanément.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualpane.png" alt="how-to-use-dualpane" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-dualpane.png" alt="how-to-use-dualpane" width="500">
 
 
 Pour choisir une version, cliquez sur la liste déroulante en haut à droite de chaque panneau.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-dualdropdown.png" alt="howtouse-dualdropdown" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-dualdropdown.png" alt="howtouse-dualdropdown" width="500">
 
 
 Vous trouverez aussi sur cette liste le [glossaire](/folios/1r/f/1r/glossary) qui peut être consulté à tout moment lors de la lecture.
@@ -32,14 +32,14 @@ Pour redimensionner les panneaux, glissez la barre verticale qui sépare les deu
 
 Le fac-similé du manuscrit est d'abord affiché sous forme de mosaïque, offrant ainsi un aperçu des toutes les pages (navigable grâce à la barre de défilement). Une fois que la page désirée est sélectionnée, le fac-similé apparaît par défaut sur le panneau de gauche.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folio-grid.png" alt="howtouse-folio-grid" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-folio-grid.png" alt="howtouse-folio-grid" width="500">
 
 La taille de l'image peut être augmentée ou réduite en cliquant sur les boutons
 \+ et \- en haut à gauche du panneau affichant le fac-similé.
 
 Pour revenir aux mosaïques, cliquez sur l'icône <i class="fas fa-th"></i> en dessous des boutons \+ et \- situés à gauche du panneau affichant le fac-similé.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-expand-bar.png" alt="howtouse-expand-bar" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-expand-bar.png" alt="howtouse-expand-bar" width="500">
 
 
 ### Transcriptions et traduction
@@ -51,20 +51,20 @@ La structure des transcriptions (diplomatique et normalisée) reflète celle du 
 
 | Affichage             | Signification                                                | Exemple                                                      |
 | --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Lettre suscrite bleue | Additions de l'auteur sur le Ms.                             | ![howtouse-add](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-add.png) |
-| Biffure rouge         | Suppressions de l'auteur sur le Ms.                          | ![howtouse-del](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-del.png) |
-| Surlignage gris       | Texte placé sous les bandelettes de papier qui ont servi à refaire la reliure | ![howtouse-ups](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-ups.png) |
-| Italique              | Passage écrit dans une langue autre que le français dans le Ms. | ![howtouse-italics](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-italics.png) |
-| Gras                  | En italique dans le Ms.                                      | ![howtouse-bold](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-bold.png) |
-| \[*illegible*\]       | Passage du Ms. illisible.                                    | ![howtouse-illegible](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-illegible.png) |
-| \[*gap*\]             | Espace laissé dans l'original.                               | ![howtouse-gap](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-gap.png) |
-| Accolades             | Abréviations dans le texte du Ms. explicitées.               | ![howtouse-curly](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-curly.png) |
-| Crochets              | Interventions éditoriales effectuées par le Making and Knowing Project. Par exemple, pour la suppression de doublons ou l'ajout de mots manquants. | ![howtouse-square](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-square.png) |
-| Lignes horizontales   | Lignes dans le manuscrit original qui séparent certaines blocs de texte. | ![howtouse-hr](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-hr.png) |
-| "*Continued…*"        | Indique que le texte continue à la page suivante.            | ![howtouse-continued1](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued1.png) |
-| "*...Continued*"      | Indique que le texte est la continuation de la page précédente. | ![howtouse-continued2](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-continued2.png) |
-| Icône d'essai         | Indique l'existence d'un essai portant sur ce passage        | ![howtouse-beaker](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-beaker.png) |
-| Astérisque rouge      | L'astérique rouge indique l'existence d'un commentaire éditorial en anglais. Il suffit de cliquer dessus pour le lire. | ![howtouse-asterisk](https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-asterisk.png) |
+| Lettre suscrite bleue | Additions de l'auteur sur le Ms.                             | ![howtouse-add](https://edition-assets.makingandknowing.org/webpages/howtouse-add.png) |
+| Biffure rouge         | Suppressions de l'auteur sur le Ms.                          | ![howtouse-del](https://edition-assets.makingandknowing.org/webpages/howtouse-del.png) |
+| Surlignage gris       | Texte placé sous les bandelettes de papier qui ont servi à refaire la reliure | ![howtouse-ups](https://edition-assets.makingandknowing.org/webpages/howtouse-ups.png) |
+| Italique              | Passage écrit dans une langue autre que le français dans le Ms. | ![howtouse-italics](https://edition-assets.makingandknowing.org/webpages/howtouse-italics.png) |
+| Gras                  | En italique dans le Ms.                                      | ![howtouse-bold](https://edition-assets.makingandknowing.org/webpages/howtouse-bold.png) |
+| \[*illegible*\]       | Passage du Ms. illisible.                                    | ![howtouse-illegible](https://edition-assets.makingandknowing.org/webpages/howtouse-illegible.png) |
+| \[*gap*\]             | Espace laissé dans l'original.                               | ![howtouse-gap](https://edition-assets.makingandknowing.org/webpages/howtouse-gap.png) |
+| Accolades             | Abréviations dans le texte du Ms. explicitées.               | ![howtouse-curly](https://edition-assets.makingandknowing.org/webpages/howtouse-curly.png) |
+| Crochets              | Interventions éditoriales effectuées par le Making and Knowing Project. Par exemple, pour la suppression de doublons ou l'ajout de mots manquants. | ![howtouse-square](https://edition-assets.makingandknowing.org/webpages/howtouse-square.png) |
+| Lignes horizontales   | Lignes dans le manuscrit original qui séparent certaines blocs de texte. | ![howtouse-hr](https://edition-assets.makingandknowing.org/webpages/howtouse-hr.png) |
+| "*Continued…*"        | Indique que le texte continue à la page suivante.            | ![howtouse-continued1](https://edition-assets.makingandknowing.org/webpages/howtouse-continued1.png) |
+| "*...Continued*"      | Indique que le texte est la continuation de la page précédente. | ![howtouse-continued2](https://edition-assets.makingandknowing.org/webpages/howtouse-continued2.png) |
+| Icône d'essai         | Indique l'existence d'un essai portant sur ce passage        | ![howtouse-beaker](https://edition-assets.makingandknowing.org/webpages/howtouse-beaker.png) |
+| Astérisque rouge      | L'astérique rouge indique l'existence d'un commentaire éditorial en anglais. Il suffit de cliquer dessus pour le lire. | ![howtouse-asterisk](https://edition-assets.makingandknowing.org/webpages/howtouse-asterisk.png) |
 
 
 ### Navigation dans l'affichage de texte côte à côte
@@ -97,13 +97,13 @@ Le moteur de recherche donne des résultats dans toutes les versions du texte ai
 
 Les résultats sont fournis sur le panneau de recherche sur la partie gauche de l'écran.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-search-results.png" alt="howtouse-search-results" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-search-results.png" alt="howtouse-search-results" width="500">
 
   - Cliquez l'icône <i class="fas fa-question-circle"></i> en haut à droite du panneau de recherche pour des astuces de recherche dans l'édition numérique.
   - Les résultats peuvent être affichés par ordre de pertinence ou de folio.
   - Les résultats de la recherche peuvent être limités à une ou plusieurs parties de l'édition (ex: la traduction anlgaise ou les essais de recherche)
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-search-filter.png" alt="howtouse-search-filter" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-search-filter.png" alt="howtouse-search-filter" width="500">
 
   - En cliquant sur un des résultats, la page du manuscrit contenant ce résultat apparaît sur le panneau opposé.
   - La recherche fournira tous les folios qui contiennent **tous** les termes de la recherche.
@@ -113,7 +113,7 @@ Les résultats sont fournis sur le panneau de recherche sur la partie gauche de 
       - NB: l'astérisque est ignoré si la recherche comprend des guillemets.
   - Pour revenir à l'affichage de texte côte à côte, cliquez sur "exit search" en haut à gauche.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-search-exit-search.png" alt="howtouse-search-exit-search" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-search-exit-search.png" alt="howtouse-search-exit-search" width="500">
 
 Pour revenir aux résultats de la recherche, utilisez la flèche de votre navigateur ou cliquez à nouveau sur l'icône Search, votre dernière recherche sera sauvegardée.
 
@@ -128,7 +128,7 @@ Le manuscrit est composé presque exclusivement de blocs de texte sous des titre
 
 Ces entrées peuvent être ordonnées séquentiellement, telles qu'elles apparaissent dans le manuscrit ou en ordre alphabétique.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries.png" alt="howtouse-listentries" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-listentries.png" alt="howtouse-listentries" width="500">
 
 Chaque entrée se voit assignée sur sa fiche correspondante jusqu'à 3 des 26 grandes catégories du texte.
 
@@ -136,15 +136,15 @@ Les termes importants de chaque entrée ont été balisés par l'équipe éditor
 
 Pour voir la liste complète de termes balisés que chaque entrée comprend, cliquez sur la flèche en haut à droite.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-select.png" alt="howtouse-listentries-select" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-listentries-select.png" alt="howtouse-listentries-select" width="500">
 
 Pour choisir la version (transcription, transcription normalisée, et traduction anglaise) à afficher, utilisez la liste déroulante dans chaque entrée.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-version.png" alt="howtouse-listentries-version" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-listentries-version.png" alt="howtouse-listentries-version" width="500">
 
 La liste des enteées peut être filtrée sur le panneau de gauche par catégorie, par balise, ou les deux.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-listentries-terms.png" alt="howtouse-listentries-terms" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-listentries-terms.png" alt="howtouse-listentries-terms" width="500">
 
 Pour filtrer les balises sémantiques, cliquez sur les balises désirées pour ne voir que entrées concernées par ces notions. Vous pouvez affiner cetter recherche en cliquant sur des balises supplémentaires. Pour une liste complète des balises et de leur usage, voir les [principes de codage](/content/resources/principles#principles-of-encoding) en anglais.
 
@@ -159,7 +159,7 @@ Un glossaire est accessible en séléctionnant l'option « Glossary » dans la l
 
 Utilisez l'index alphabétique pour naviguer les contenus du glossaire.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-glossary.png" alt="howtouse-glossary" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-glossary.png" alt="howtouse-glossary" width="500">
 
 Le glossaire permet de filtrer les résultats en tapant les premières lettres d'un mot sur la case « Filter by Entry » en haut à gauche. Ce filtrage prend en compte les graphies anciennes et modernes de chaque mot repertorié.
 
@@ -181,17 +181,17 @@ et 2) depuis l'index. Ils peuvent aussi être accédés dans la [List of Entries
 
 Dans l'affichage de texte côte à côte, cliquez sur l'icône <i class="fas fa-flask"></i> à droite du titre de  l'entrée.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-folios-essay.png" alt="howtouse-folios-essay" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-folios-essay.png" alt="howtouse-folios-essay" width="500">
 
 L'index des essais peut être affiché sous forme de vignettes ou de fiches plus détaillées avec un résumé. Cliquez sur  "expand" pour lire des résumés plus longs.
 
 Cliquez sur la petite ou la grande grille dans la barre de navigation de gauche pour changer le mode d'affichage.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essay-grids.png" alt="howtouse-essay-grids" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-essay-grids.png" alt="howtouse-essay-grids" width="500">
 
 Sur les fiches plus détaillées, vous pouvez obtenir plus d'informations sur l'auteur de l'essai en faisant planer le curseur de votre souris sur son nom.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essay-author.png" alt="howtouse-essay-author" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-essay-author.png" alt="howtouse-essay-author" width="500">
 
 Les essais de recherches sont divisés en plusieurs catégories:
 
@@ -207,7 +207,7 @@ Les essais de recherches sont divisés en plusieurs catégories:
 
 Pour accéder aux essais par catégorie, utilisez la barre de navigation à gauche.
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-essays-themes.png" alt="howtouse-essays-themes" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-essays-themes.png" alt="howtouse-essays-themes" width="500">
 
 Dans chaque essai, cliquez sur les numéros des folios référencés dans le texte pour y accéder directement, retournez à l'essai en cliquant sur la flèche gauche de votre navigateur.
 
@@ -236,4 +236,4 @@ Ces notes sont référencées dans les essais de recherche.
 
 Les fichiers XML à la base de cette édition numérique, ansi que d'autres métadonnées sont disponibles dans le dépot GitHub du projet <https://github.com/cu-mkp/m-k-manuscript-data>. Des informations supplémentaires se trouvent sous la rubrique [About the Digital Development](https://edition640.makingandknowing.org/#/content/about).
 
-<img src="https://raw.githubusercontent.com/cu-mkp/edition-webpages/master/images/howtouse-fieldnotes.jpg" alt="howtouse-fieldnotes" width="500">
+<img src="https://edition-assets.makingandknowing.org/webpages/howtouse-fieldnotes.jpg" alt="howtouse-fieldnotes" width="500">
