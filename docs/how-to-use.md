@@ -196,7 +196,7 @@ Acoustrer (mod. accoutrer), v.: to prepare \[COT1611\]
 
 Research Essays clarify the text of the manuscript, provide material, technical, and historical context, and describe student reconstructions in the Making and Knowing Laboratory.
 
-The Essays can be accessed directly in two places: 1) within the manuscript pages and 2) in a dedicated index. They can also be found in the [List of Entries](/entries).
+The Essays can be accessed directly in two places: 1) within the manuscript pages and 2) in a dedicated index. They can also be found in the [List of Entries](/entries). A search of any term (including author names and Essay titles) in the Search function will return results for the Research Essays.
 
 In the dual-pane display of the manuscript, click on the <i class="fas fa-flask"></i> essay icon to the right of the entry heading to access the essay.
 
