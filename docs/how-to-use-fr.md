@@ -1,3 +1,7 @@
+
+Regardez une brève introduction vidéo pour naviguer dans le manuscrit et consultez des informations plus détaillées ci-dessous.
+<iframe src="https://player.vimeo.com/video/998222542" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ## Lire et feuilleter le manuscrit
 
 L'édition se compose de 4 versions du manuscrit Ms. Fr.
@@ -177,7 +181,7 @@ Acoustrer (mod. accoutrer), v.: to prepare \[COT1611\]
 Les essais de recherche replacent le manuscrit dans son contexte matériel, technique et historique, décrivant au passage les reconstructions historiques effectuées en laboratoire par les étudiants et chercheurs du Making and Knowing Project.
 
 Les essais peuvent être accédés de deux manières: 1) depuis le texte
-et 2) depuis l'index. Ils peuvent aussi être accédés dans la [List of Entries](/entries).
+et 2) depuis l'index. Ils peuvent aussi être accédés dans la [List of Entries](/entries). Une recherche de n'importe quel terme (y compris les noms d'auteurs et les titres d'essais) dans la fonction de recherche renverra des résultats pour les essais de recherche.
 
 Dans l'affichage de texte côte à côte, cliquez sur l'icône <i class="fas fa-flask"></i> à droite du titre de  l'entrée.
 
