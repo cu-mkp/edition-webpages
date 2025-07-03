@@ -12,8 +12,7 @@ The Edition consists of four versions of the French manuscript Ms. Fr. 640:
 3. **Normalized**: lightly normalized French transcription (with punctuation and diacritical marks added)
 4. **Translation**: English translation
 
-All versions can be accessed by navigating to [Read Fr. 640](/folios).
-
+All versions can be accessed by navigating to [Read Fr. 640](/folios). Note: Because the facsimile images of the manuscript pages are being pulled from the BnF’s digital library, Gallica, any outage of Gallica will affect the rendering of the facsimile images (and may affect the rendering of the transcription and translation) in the Edition site.
 
 ### Dual-pane Display
 
