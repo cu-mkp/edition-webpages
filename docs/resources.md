@@ -106,6 +106,13 @@ transcription and translation effort.
 
 [View the Dictionaries and Encyclopedias >>](/content/resources/principles#linguistic-resources-dictionaries-and-technical-encyclopedias)
 
+<!-- =========== LETTERFORMS =========== -->
+## Letterforms in the Manuscript
+
+A compilation of all letterforms found in Ms. Fr. 640 developed during the transcription campaigns.
+
+[View the Letterforms >>](/content/resources/letterforms)
+
 <!-- =========== FIGURES =========== -->
 ## Figures in the Manuscript
 
