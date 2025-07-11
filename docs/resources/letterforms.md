@@ -1,8 +1,6 @@
 ## Letterforms of BnF Ms. Fr. 640
 
-Resource for the transcription of the middle French script of Ms. Fr. 640.
-
-Compiled by Marc Smith, Lead Paleographer, Making and Knowing Project
+Resource compiled by Marc Smith (Lead Paleographer, Making and Knowing Project) for the transcription of the middle French script of Ms. Fr. 640. For more information, see [Principles of Transcription, Translation, and Encoding](/content/resources/principles).
 
 The digital critical edition, *Secrets of Craft and Nature in
 Renaissance France. A Digital Critical Edition and English Translation
