@@ -19,7 +19,7 @@ The transcription of Ms. Fr. 640 was carried out by graduate students
 and Making and Knowing team members in Paleography and Text Workshops
 held by the Making and Knowing Project from 2014 to 2018. It was then
 checked and refined by the Paleography Lead Marc Smith and Senior Team members, Clément Godbarge, Naomi Rosenkranz, Pamela
-Smith, Tillmann Taape, and Tianna Uchacz.
+Smith, Tillmann Taape, and Tianna Uchacz. Workshop participants were aided in transcription by Marc Smith's compilation of a set of all [letterforms](/content/resources/letterforms) in Ms. Fr. 640.
 
 Two versions of the transcriptions are included in the Digital Critical
 Edition: diplomatic (verbatim) transcription in French and the lightly
@@ -38,7 +38,7 @@ Each letter was rendered individually and by a single glyph,
 disregarding any linguistically irrelevant variations in letterforms,
 determined by position within the word, ligatures or cursivity, whether
 conventional in sixteenth-century usage or accidental (see [Ms. Fr. 640’s
-letterforms](https://www.makingandknowing.org/text-workshops/letterforms-fancybox/). This means, for example, that even long **s** (**ſ**) (initial and medial) and short **s** (exclusively
+letterforms](/content/resources/letterforms). This means, for example, that even long **s** (**ſ**) (initial and medial) and short **s** (exclusively
 final), which would have been distinguished in early-modern print, are
 rendered in the modern form as **s**. Thus, "ſans" is transcribed
 "sans."
