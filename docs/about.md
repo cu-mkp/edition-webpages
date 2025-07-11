@@ -22,6 +22,7 @@ For more information:
   - Marc Smith, [Making Ms. Fr. 640](/essays/ann_326_ie_19)
 * On the transcription, translation, and encoding of the manuscript, see:
   - [Principles of Transcription](/content/resources/principles#principles-of-transcription)
+       - [Letterforms in Ms. Fr. 640](/content/resources/letterforms)
   - [Principles of Translation](/content/resources/principles#principles-of-translation)
   - [Principles of Encoding](/content/resources/principles#principles-of-encoding)
   - Soersha Dyon and Heather, [Turning Turtle: The Process of Translating BnF Ms. Fr. 640](/essays/ann_318_ie_19)
