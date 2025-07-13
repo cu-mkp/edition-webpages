@@ -1,4 +1,4 @@
-Ms. Fr. 640 is written in a middle French script, almost completely in one hand with a few exceptions as fully detailed in the essay by Lead Paleographer Marc Smith, [Making Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_326_ie_19). The letterforms found in the manuscript were compiled by Marc Smith to aid in the transcription of the text and are found below. For more information about the transcription process, see [Principles of Transcription, Translation, and Encoding](/content/resources/principles).
+Ms. Fr. 640 is written in a middle French script, almost completely in one hand with a few exceptions, as fully detailed in the essay by Lead Paleographer Marc Smith, [Making Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_326_ie_19). The letterforms found in the manuscript were compiled by Marc Smith to aid in the transcription of the text and are found below. For more information about the transcription process, see [Principles of Transcription, Translation, and Encoding](/content/resources/principles).
 
 <img
 src="https://edition-assets.makingandknowing.org/letterforms-media/image197.png"
