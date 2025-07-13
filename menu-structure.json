@@ -241,6 +241,18 @@
        ]
 
     },
+ {
+        "content_id": "resources/letterforms",
+        "page_heading": "Letterforms in Bnf. Ms. Fr. 640",
+        "header_graphic_filename": "banner-resources.png",
+        "route": "/content/resources/letterforms",
+        "sections": [
+                {
+                    "title": "Letterforms",
+                    "id": "letterforms"
+                },
+        ]
+    },
     {
         "content_id": "resources/bibliography",
         "page_heading": "Bibliography",
@@ -260,7 +272,6 @@
                     "id": "sources-cited-in-the-glossary"
                 }
         ]
-
     },
     {
         "content_id": "resources/figure-index",
