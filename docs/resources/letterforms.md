@@ -1,11 +1,4 @@
-## Letterforms of BnF Ms. Fr. 640
-
-Resource compiled by Marc Smith (Lead Paleographer, Making and Knowing Project) for the transcription of the middle French script of Ms. Fr. 640. For more information, see [Principles of Transcription, Translation, and Encoding](/content/resources/principles).
-
-The digital critical edition, *Secrets of Craft and Nature in
-Renaissance France. A Digital Critical Edition and English Translation
-of BnF Ms. Fr. 640*, is openly accessible at
-[<u>https://edition640.makingandknowing.org</u>](https://edition640.makingandknowing.org).
+Ms. Fr. 640 is written in a middle French script, almost completely in one hand with a few exceptions as fully detailed in the essay by Lead Paleographer Marc Smith, [Making Ms. Fr. 640](https://edition640.makingandknowing.org/#/essays/ann_326_ie_19). The letterforms found in the manuscript were compiled by Marc Smith to aid in the transcription of the text and are found below. For more information about the transcription process, see [Principles of Transcription, Translation, and Encoding](/content/resources/principles).
 
 <img
 src="https://edition-assets.makingandknowing.org/letterforms-media/image197.png"
