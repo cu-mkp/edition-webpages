@@ -248,8 +248,8 @@
         "route": "/content/resources/letterforms",
         "sections": [
                 {
-                    "title": "Letterforms",
-                    "id": "letterforms"
+                    "title": "List of Letterforms",
+                    "id": "list-of-letterforms"
                 },
         ]
     },
