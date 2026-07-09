@@ -1,3 +1,18 @@
+<!-- =========== TEXTS =========== -->
+## Manuscript Texts
+
+**Explore BnF Ms. Fr. 640** in our interactive dual-pane reader, which presents the manuscript facsimile alongside transcription, normalized transcription, and English translation, with integrated annotations and navigation tools.
+<br>
+<br>
+[Read Fr. 640 >>](/folios)
+<br>
+<br>
+**Download texts** of the transcriptions and translation only, available for offline reference or printing:
+<br>
+Full Diplomatic Transcription and Indices<br>
+Full Normalized Transcription and Indices<br>
+Full Translation and Indices<br>
+
 <!-- =========== LIST OF ENTRIES =========== -->
 ## List of Entries
 
