@@ -15,6 +15,10 @@
         "route": "/content/resources",
         "sections": [
             {
+                "title": "Manuscript Texts",
+                "id": "manuscript-texts"
+            },
+            {
                 "title": "List of Entries",
                 "id": "list-of-entries"
             },
