@@ -23,6 +23,9 @@ Encoding](/content/resources/principles#principles-of-encoding).
 <br>
 <br>
 [View the List of Entries >>](/entries)
+<br>
+<br>
+For offline reference or printing, a downloadable static [List of Entries PDF](pdf) is also available.
 
 <!-- =========== ENTRY CATEGORIES =========== -->
 ## Entry Categories
@@ -95,6 +98,9 @@ It includes:
   - language or dialect of origin
 
 [View the Glossary >>](/folios/1r/f/1r/glossary)
+<br>
+<br>
+For offline reference or printing, a downloadable static [Glossary PDF](pdf) is also available.
 
 <!-- =========== BIBLIOGRAPHY =========== -->
 ## Bibliography
