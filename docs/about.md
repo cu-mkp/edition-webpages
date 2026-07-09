@@ -284,8 +284,7 @@ Tianna Helena Uchacz, Tillmann Taape, Clément Godbarge, Sophie Pitman,
 Jenny Boulboullé, Joel Klein, Donna Bilak, Marc Smith, and Terry
 Catapano, eds., *Secrets of Craft and Nature in Renaissance France. A
 Digital Critical Edition and English Translation of BnF Ms. Fr. 640*
-(New York: Making and Knowing Project, 2020),
-[https://edition640.makingandknowing.org](https://edition640.makingandknowing.org/).
+(New York: Making and Knowing Project, 2020), <a href="https://edition640.makingandknowing.org/">https://edition640.makingandknowing.org/</a>.
 
 ### To cite a dual-pane page-view of the Edition:
 The URL of the specific dual-pane view you have chosen is a unique identifier of the two panes being viewed.
@@ -370,7 +369,7 @@ _Secrets of Craft and Nature in Renaissance France_ would not have been possible
 The Making and Knowing Project is a research cluster of the Center for
 Science and Society at Columbia University in the City of New York.
 
-For more information, please visit: <https://www.makingandknowing.org/> and <https://scienceandsociety.columbia.edu/>
+For more information, please visit: <https://www.makingandknowing.org/> and <https://scienceandsociety.columbia.edu/>.
 
 <br>
 
@@ -395,7 +394,5 @@ Thank you\!
 <i class="fab fa-gratipay"></i> [Donate to the Project](https://www.givenow.columbia.edu/?_sa=22641&_sd=388#)
 
 <br>
-
-_Secrets of Craft and Nature in Renaissance France_ is hosted by Columbia University Libraries.
 
 [Privacy Notice](https://cuit.columbia.edu/privacy-notice) |  [Disability Services](https://health.columbia.edu/content/disability-services) | [Non-Discrimination](https://eoaa.columbia.edu/content/non-discrimination-statement-and-policy)
