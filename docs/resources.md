@@ -9,9 +9,9 @@
 <br>
 **Download texts** of the transcriptions and translation only, available for offline reference or printing:
 <br>
-Full Diplomatic Transcription and Indices<br>
-Full Normalized Transcription and Indices<br>
-Full Translation and Indices<br>
+[Full Diplomatic Transcription and Indices](https://edition-assets.makingandknowing.org/edition-resources/all_tc_figures.pdf)<br>
+[Full Normalized Transcription and Indices](https://edition-assets.makingandknowing.org/edition-resources/all_tcn_figures.pdf)<br>
+[Full Translation and Indices](https://edition-assets.makingandknowing.org/edition-resources/all_tl_figures.pdf)<br>
 
 <!-- =========== LIST OF ENTRIES =========== -->
 ## List of Entries
@@ -25,7 +25,7 @@ Encoding](/content/resources/principles#principles-of-encoding).
 [View the List of Entries >>](/entries)
 <br>
 <br>
-For offline reference or printing, a downloadable static [List of Entries PDF](pdf) is also available.
+For offline reference or printing, a downloadable static [List of Entries PDF](https://edition-assets.makingandknowing.org/edition-resources/list-of-entries.pdf)) is also available.
 
 <!-- =========== ENTRY CATEGORIES =========== -->
 ## Entry Categories
@@ -100,7 +100,7 @@ It includes:
 [View the Glossary >>](/folios/1r/f/1r/glossary)
 <br>
 <br>
-For offline reference or printing, a downloadable static [Glossary PDF](pdf) is also available.
+For offline reference or printing, a downloadable static [Glossary PDF](https://edition-assets.makingandknowing.org/edition-resources/glossary.pdf) is also available.
 
 <!-- =========== BIBLIOGRAPHY =========== -->
 ## Bibliography
