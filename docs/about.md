@@ -190,7 +190,7 @@ To facilitate reuse and analysis of the Project's edited and encoded text of Ms.
 
 All [essays](/essays) are edited and maintained in the Project's Google Drive in order to best facilitate the collaborative process. Each essay in the Drive has uniform organization and style to ensure consistency and allow for conversion to HTML and integration into the Edition. The Research and Scholarly Essays are supplemented with additional information (including Project-assigned themes, associated entries, and citation information) in a spreadsheet table and exported in CSV format for integration into the Edition.
 
-For persistent access, each essay has been assigned a Digital Object Identifier (DOI) and will also be archived in Columbia University [Academic Commons](https://academiccommons.columbia.edu/) and downloadable as standalone publications.
+For persistent access, each essay has been assigned a Digital Object Identifier (DOI) and is also archived in Columbia University [Academic Commons](https://academiccommons.columbia.edu/detail/secrets-craft-nature) and downloadable as standalone publications. 
 
 ### Static Site Generation
 
