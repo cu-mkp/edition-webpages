@@ -10,9 +10,9 @@ Note: The Glossary uses short bibliographic keys instead of full citations, such
 
 ### Primary Sources
 
-Agrippa von Nettesheim, Cornelius. _De occulta philosophia_. Cologne: Johann Soter, 1533. [https://doi.org/10.3931/e-rara-4309](https://doi.org/10.3931/e-rara-4309).
+Agrippa von Nettesheim, Cornelius. _De occulta philosophia_. Cologne: Johann Soter, 1533. [https://doi.org/10.3931/e-rara-4309].
 
-Alessandri, Alessandro. _Genialium dierum libri sex, varia ac recondita eruditione referti, accuratius et majore fide quam antehac usquam impressi cum duplici indice_. Paris: Jean de Roigny, 1549. [https://nbn-resolving.de/urn:nbn:de:bvb:12-bsb11232839-8](https://nbn-resolving.de/urn:nbn:de:bvb:12-bsb11232839-8).
+Alessandri, Alessandro. _Genialium dierum libri sex, varia ac recondita eruditione referti, accuratius et majore fide quam antehac usquam impressi cum duplici indice_. Paris: Jean de Roigny, 1549. <a href="https://nbn-resolving.de/urn:nbn:de:bvb:12-bsb11232839-8">https://nbn-resolving.de/urn:nbn:de:bvb:12-bsb11232839-8</a>.
 
 Alexandrinus, Appianus. _Historia Romana_. Venice: Bernhard Maler; Erhard Ratdolt; Peter Löslein, 1477. [http://digital.slub-dresden.de/id1663006873](http://digital.slub-dresden.de/id1663006873).
 
