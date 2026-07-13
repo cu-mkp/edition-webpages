@@ -25,7 +25,7 @@ Encoding](/content/resources/principles#principles-of-encoding).
 [View the List of Entries >>](/entries)
 <br>
 <br>
-For offline reference or printing, a downloadable static [List of Entries PDF](https://edition-assets.makingandknowing.org/edition-resources/list-of-entries.pdf)) is also available.
+For offline reference or printing, a downloadable static [List of Entries PDF](https://edition-assets.makingandknowing.org/edition-resources/list-of-entries.pdf) is also available.
 
 <!-- =========== ENTRY CATEGORIES =========== -->
 ## Entry Categories
